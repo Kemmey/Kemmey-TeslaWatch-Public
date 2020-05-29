@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  TeslaWatch
+
+  Created by Kim Hansen on 27/05/2020.
+  Copyright © 2020 kimhansen.dk. All rights reserved.
+*/
+"Hide Controls" = "Skjul Funktioner";
+"Show Controls" = "Vis Funktioner";
+"Charging scheduled" = "Opladning planlagt";
+"Start at %@" = "Start %@";
+"Depart at %@" = "Afgang %@";
+"Stop charging" = "Stop opladning";
+"Start charging" = "Start opladning";
+"Set limit:" = "Sæt mål:";
+"Charge limit:" = "Lade mål:";
+"Refreshing..." = "Opdaterer...";
+"Please input your Tesla username and password" = "Indtast venligst Tesla brugernavn og kodeord";
+"Username" = "Brugernavn";
+"Password" = "Kodeord";
+"Loading" = "Indlæser";
+"Login" = "Log på";
+"Advanced users may input Tesla API auth token manually" = "Avancerede bruger kan indtaste Tesla API token manuelt";
+"Token" = "Token";
+"Please input username and password or refresh token" = "Indtast venligst brugernavn og kodeord eller refresh token";
+"Token should be exactly 64 chars long" = "Token skal være præcis 64 tegn lang";
+"Error: token did not work as either access token or refresh token!" = "Fejl: token virkede ikke som hverken access token eller refresh token!";
+"Please input username" = "Venligst indtast brugernavn";
+"Please input password" = "Venligst indtast kodeord";
+"Error occurred!" = "Der skete en fejl!";
+"Added %@ kWh" = "Tilføjet %@ kWh";
+"Charging complete" = "Opladning færdig";
+"Loading..." = "Indlæser...";
+"Open frunk" = "Åbn frunk";
+"Really open frunk?" = "Sikker på du vil åbne frunk?";
+"Set temp:" = "Sæt temp:";
+"Close" = "Luk";
+"Open" = "Åbn";
+"close" = "luk";
+"open" = "åbn";
+"%@ trunk" = "%@ baggagerum";
+"Really %@ trunk?" = "Sikker på du vil %@ baggagerum?";
+"%@ charge port" = "%@ lade port";
+"Activate Homelink" = "Aktiver Homelink";
+"Really activate Homelink?" = "Sikker på du vil aktivere Homelink?";
+"Keyless drive" = "Nøglefri kørsel";
+"Really enable keyless drive?" = "Sikker på du vil aktivere nøglefri kørsel?";
+"Honk!" = "Dyt!";
+"Unlock port" = "Lås port op";
+"%@ port" = "%@ port";
+"Homelink" = "Homelink";
+"Disable Sentry" = "Deaktiver Sentry";
+"Enable Sentry" = "Aktiver Sentry";
+"Vent" = "Åbn";
+"%@ windows" = "%@ vinduer";
+"Location of %@" = "Her er %@";
+"Location" = "Vis på kort";
+"Flash!" = "Blink!";
+"Starting" = "Starter";
+"Charging" = "Oplader";
+"Waking" = "Kontakter";
+"Sending" = "Sender";
+"Loading" = "Henter";
+"Online" = "Online";
+"Settings" = "Indstillinger";
+"Background updates" = "Opdateringer i baggrunden";
+"Allow wake in background" = "Tillad at vække bilen fra baggrunden";
+"Set" = "Sæt";
+"Interval" = "Interval";
+"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Nøglefri kørsel kræver dit Tesla konto kodeord. Det bliver gemt krypteret i nøgleringen. Der KRÆVES aktiv netværksforbindelse på både ur og køretøj. Kør aldrig uden reserve nøgle:";
+"Tip Jar" = "Drikkepenge";
+"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla er et hyggeprojekt. Hvis du bruger det hver dag og ser det som en essentiel del af dit Apple Watch, skal du være velkommen til at lægge drikkepenge til udvikleren. Du får ikke noget for dine penge andet end taknemmelighed og tak for at støtte op om den videre udvikling af appen.";
+"%@ of %@" = "%@ på %@";
+"Log out" = "Log ud";
