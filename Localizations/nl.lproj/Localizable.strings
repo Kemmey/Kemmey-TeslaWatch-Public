@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  TeslaWatch
+
+  Created by Kim Hansen on 27/05/2020.
+  Copyright © 2020 kimhansen.dk. All rights reserved.
+  Localized by Don Hellwich - hellwich@hotmail.com
+*/
+"Hide Controls" = "Bediening verbegen";
+"Show Controls" = "Bediening weergeven";
+"Charging scheduled" = "Opladen gepland";
+"Start at %@" = "Starten om %@";
+"Depart at %@" = "Vertrek om %@";
+"Stop charging" = "Opladen stoppen";
+"Start charging" = "Opladen starten";
+"Set limit:" = "Limiet instellen:";
+"Charge limit:" = "Oplaad limiet:";
+"Refreshing..." = "Vernieuwen...";
+"Please input your Tesla username and password" = "Voer uw Tesla gebruikernsaam en wachtwoord in";
+"Username" = "Gebruikersnaam";
+"Password" = "Wachtwoord";
+"Loading" = "Laden";
+"Login" = "Login";
+"Advanced users may input Tesla API auth token manually" = "Gevorderde gebruikers kunnen de Tesla API token handmatig invoeren";
+"Token" = "Token";
+"Please input username and password or refresh token" = "Voer uw gebruikersnaam en wachtwoord of refresh token in";
+"Token should be exactly 64 chars long" = "Token dient exact 64 karakters lang te zijn";
+"Error: token did not work as either access token or refresh token!" = "Fout: token is zowel als access token of refresh token niet geldig!";
+"Please input username" = "Geef uw gebruikersnaam op";
+"Please input password" = "Geef uw wachtwoord op";
+"Error occurred!" = "Fout opgetreden!";
+"Added %@ kWh" = "%@ kWh toegevoegd";
+"Charging complete" = "Opladen voltooid";
+"Loading..." = "Laden...";
+"Open frunk" = "Open voorbak";
+"Really open frunk?" = "Weet u het zeker dat u de voorbak wilt openen?";
+"Set temp:" = "Temperatuur instellen:";
+"Close" = "Sluiten";
+"Open" = "Open";
+"close" = "sluiten";
+"open" = "open";
+"%@ trunk" = "%@ achterbak";
+"Really %@ trunk?" = "Weet u het zeker dat u de achterbak wilt openen?";
+"%@ charge port" = "%@ laadpoort";
+"Activate Homelink" = "Homelink activeren";
+"Really activate Homelink?" = "Weet u het zeker dat u Homelink wilt activeren?";
+"Keyless drive" = "Sleutelloos rijden";
+"Really enable keyless drive?" = "Weet u het zeker dat u sleutelloos rijden wilt inschakelen?";
+"Honk!" = "Claxon!";
+"Unlock port" = "Laadpoort ontgrendelen";
+"%@ port" = "%@ laadpoort";
+"Homelink" = "Homelink";
+"Disable Sentry" = "Bewakingsmodus uitschakelen";
+"Enable Sentry" = "Bewakingsmodus inschakelen";
+"Vent" = "Ventileren";
+"%@ windows" = "%@ ramen";
+"Location of %@" = "Locatie van %@";
+"Location" = "Locatie";
+"Flash!" = "Knipperlicht!";
+"Waking" = "Ontwaken";
+"Sending" = "Bezig met verzenden";
+"Loading" = "Laden";
+"Online" = "Online";
+"Settings" = "Instellingen";
+"Background updates" = "Achtergrond updates";
+"Allow wake in background" = "Ontwaken op achtergrond toestaan";
+"Set" = "Instellen";
+"Interval" = "Interval";
+"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Het wachtwoord van uw Tesla account is vereist voor sleutelloos rijden. Het wachtwoord is versleuteld opgeslagen in de Apple sleutelhanger. Netwerkconnectiviteit op zowel de Apple Watch als het voertuig is vereist. Rijd nooit zonder een fysieke backup sleutel:";
+"Tip Jar" = "Fooienpot";
+"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla is een liefdeswerk. Indien u de app elke dag gebruikt, en het ervaart als een essentieel onderdeel van uw Apple Watch ervaring - voel uw vrij wat fooi achter te laten voor de ontwikkelaar. U krijgt hier geen speciale behandeling voor terug, behalve mijn eeuwige dankbaarheid voor uw bijdrage om deze app te onderhouden.";
+"%@ of %@" = "%@ van %@";
+"Log out" = "Uitloggen";
