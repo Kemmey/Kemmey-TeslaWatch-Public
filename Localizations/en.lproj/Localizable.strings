@@ -70,3 +70,8 @@
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app.";
 "%@ of %@" = "%@ of %@";
 "Log out" = "Log out";
+
+"Background image" = "Background image";
+"Image url" = "Image url";
+"Add vehicle option codes querystring" = "Add vehicle option codes querystring";
+"Example: %@%@" = "Example: %@%@";

@@ -12,8 +12,8 @@
 "Depart at %@" = "Afgang %@";
 "Stop charging" = "Stop opladning";
 "Start charging" = "Start opladning";
-"Set limit:" = "Sæt mål:";
-"Charge limit:" = "Lade mål:";
+"Set limit:" = "Sæt grænse:";
+"Charge limit:" = "Oplad til:";
 "Refreshing..." = "Opdaterer...";
 "Please input your Tesla username and password" = "Indtast venligst Tesla brugernavn og kodeord";
 "Username" = "Brugernavn";
@@ -72,3 +72,8 @@
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla er et hyggeprojekt. Hvis du bruger det hver dag og ser det som en essentiel del af dit Apple Watch, skal du være velkommen til at lægge drikkepenge til udvikleren. Du får ikke noget for dine penge andet end taknemmelighed og tak for at støtte op om den videre udvikling af appen.";
 "%@ of %@" = "%@ på %@";
 "Log out" = "Log ud";
+
+"Background image" = "Baggrundsbillede";
+"Image url" = "Billede url";
+"Add vehicle option codes querystring" = "Tilføj bilens konfiguration til querystring";
+"Example: %@%@" = "Eksempel: %@%@";

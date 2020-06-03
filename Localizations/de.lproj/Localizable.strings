@@ -4,7 +4,7 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2020 kimhansen.dk. All rights reserved.
-  Localized by Daniel Bertuleit daniel.bertuleit@gmail.com
+  Localized by Daniel Bertuleit - daniel.bertuleit@gmail.com
 */
 "Hide Controls" = "Steuerung verstecken";
 "Show Controls" = "Steuerung anzeigen";
@@ -71,3 +71,8 @@
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla ensteht durch Liebe. Wenn Sie das Gefühl haben, dass Sie die App jeden Tag benutzen und Sie als einen wesentlichen Teil Ihrer Apple Watch-Erfahrung betrachten, können Sie dem Entwickler gerne ein Trinkgeld hinterlassen. Sie erhalten im Gegenzug keine Sonderbehandlung - außer meiner ewigen Dankbarkeit für die Unterstützung meiner Ausgaben für die Wartung dieser App.";
 "%@ of %@" = "%@ von %@";
 "Log out" = "Ausloggen";
+
+"Background image" = "Background image";
+"Image url" = "Image url";
+"Add vehicle option codes querystring" = "Add vehicle option codes querystring";
+"Example: %@%@" = "Example: %@%@";
