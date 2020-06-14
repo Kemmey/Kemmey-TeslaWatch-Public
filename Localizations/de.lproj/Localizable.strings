@@ -51,13 +51,8 @@
 "Homelink" = "Homelink";
 "Disable Sentry" = "Sentry deaktivieren";
 "Enable Sentry" = "Sentry aktivieren";
-<<<<<<< Updated upstream
-"Vent" = "Löften";
-"%@ windows" = "%@ Fenster";
-=======
 "Vent" = "Lüften";
 "%@ windows" = "Fenster zum %@ öffnen";
->>>>>>> Stashed changes
 "Location of %@" = "Position von %@";
 "Location" = "Position";
 "Flash!" = "Lichthupe!";
@@ -75,8 +70,6 @@
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla ensteht durch Liebe. Wenn Sie das Gefühl haben, dass Sie die App jeden Tag benutzen und Sie als einen wesentlichen Teil Ihrer Apple Watch-Erfahrung betrachten, können Sie dem Entwickler gerne ein Trinkgeld hinterlassen. Sie erhalten im Gegenzug keine Sonderbehandlung - außer meiner ewigen Dankbarkeit für die Unterstützung meiner Ausgaben für die Wartung dieser App.";
 "%@ of %@" = "%@ von %@";
 "Log out" = "Ausloggen";
-<<<<<<< Updated upstream
-=======
 
 "Background image" = "Hintergrundbild";
 "Image url" = "Bild-URL";
@@ -117,4 +110,3 @@
 "Translators" = "Übersetzer";
 "Beta testers" = "Betatester";
 "Huge thanks to my many active beta testers!" = "Großes Danke an alle meine aktiven Betatester!";
->>>>>>> Stashed changes
