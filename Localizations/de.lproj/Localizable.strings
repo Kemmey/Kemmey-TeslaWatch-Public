@@ -4,7 +4,6 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2020 kimhansen.dk. All rights reserved.
-  Localized by Daniel Bertuleit - daniel.bertuleit@gmail.com
 */
 "Hide Controls" = "Steuerung verstecken";
 "Show Controls" = "Steuerung anzeigen";
@@ -41,7 +40,7 @@
 "open" = "öffnen";
 "%@ trunk" = "%@ Trunk";
 "Really %@ trunk?" = "Wirklich Trunk %@?";
-"%@ charge port" = "%@ Ladeanschluss";
+"%@ charge port" = "Ladeanschluss %@";
 "Activate Homelink" = "Homelink aktivieren";
 "Really activate Homelink?" = "Wirklich Homelink aktivieren?";
 "Keyless drive" = "Schlüsselloses Fahren";
@@ -53,7 +52,7 @@
 "Disable Sentry" = "Sentry deaktivieren";
 "Enable Sentry" = "Sentry aktivieren";
 "Vent" = "Lüften";
-"%@ windows" = "%@ Fenster";
+"%@ windows" = "Fenster zum %@ öffnen";
 "Location of %@" = "Position von %@";
 "Location" = "Position";
 "Flash!" = "Lichthupe!";
@@ -81,14 +80,14 @@
 "Trunk" = "Trunk";
 "All windows" = "Alle Fenster";
 "Driver front window" = "Fahrerfenster";
-"Passenger front window" = "Passagierfenster";
+"Passenger front window" = "Beifahrerfenster";
 "Driver rear window" = "Fahrerheckscheibe";
 "Passenger rear window" = "Beifahrerheckscheibe";
 "All doors" = "Alle Türen";
 "Driver front door" = "Fahrertür";
 "Passenger front door" = "Beifahrertür";
-"Driver rear door" = "Hintertür des Fahrers";
-"Passenger rear door" = "Beifahrer-Hintertür";
+"Driver rear door" = "Hintertür Fahrerseite";
+"Passenger rear door" = "Hintertür Beifahrerseite";
 "Disable defrost" = "Abtauung deaktivieren";
 "Defrost" = "Abtauen";
 "Closing windows" = "Fenster schließen";
@@ -98,16 +97,16 @@
 "h" = "st";
 "m" = "m";
 "s" = "s";
-"hr" = "st";
+"hr" = "h";
 "min" = "min";
-"on" = "auf";
-"Open Watch app for Tesla support website" = "Open Watch app for Tesla support website";
-"For assitance, please see FAQ at:" = "For assitance, please see FAQ at:";
-"Show Credits" = "Show Credits";
-"Hide Credits" = "Hide Credits";
-"Credits" = "Credits";
-"Open source libraries" = "Open source libraries";
-"by" = "by";
-"Translators" = "Translators";
-"Beta testers" = "Beta testers";
-"Huge thanks to my many active beta testers!" = "Huge thanks to my many active beta testers!";
+"on" = "an";
+"Open Watch app for Tesla support website" = "Öffne die Watch app für  die Tesla Hilfe Website";
+"For assitance, please see FAQ at:" = "FAQ für Hilfe:";
+"Show Credits" = "Danksagung anzeigen";
+"Hide Credits" = "Danksagung ausblenden";
+"Credits" = "Danksagung";
+"Open source libraries" = "Open source Bibliotheken";
+"by" = "von";
+"Translators" = "Übersetzer";
+"Beta testers" = "Betatester";
+"Huge thanks to my many active beta testers!" = "Großes Danke an alle meine aktiven Betatester!";
