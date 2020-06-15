@@ -4,7 +4,7 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2020 kimhansen.dk. All rights reserved.
-  Localized by Daniel Bertuleit daniel.bertuleit@gmail.com
+  Localized by Daniel Bertuleit - daniel.bertuleit@gmail.com
 */
 "Hide Controls" = "Steuerung verstecken";
 "Show Controls" = "Steuerung anzeigen";
@@ -41,7 +41,7 @@
 "open" = "öffnen";
 "%@ trunk" = "%@ Trunk";
 "Really %@ trunk?" = "Wirklich Trunk %@?";
-"%@ charge port" = "%@ Ladeanschluss";
+"%@ charge port" = "Ladeanschluss %@";
 "Activate Homelink" = "Homelink aktivieren";
 "Really activate Homelink?" = "Wirklich Homelink aktivieren?";
 "Keyless drive" = "Schlüsselloses Fahren";
@@ -53,7 +53,7 @@
 "Disable Sentry" = "Sentry deaktivieren";
 "Enable Sentry" = "Sentry aktivieren";
 "Vent" = "Lüften";
-"%@ windows" = "%@ Fenster";
+"%@ windows" = "Fenster zum %@ öffnen";
 "Location of %@" = "Position von %@";
 "Location" = "Position";
 "Flash!" = "Lichthupe!";
@@ -71,3 +71,43 @@
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla ensteht durch Liebe. Wenn Sie das Gefühl haben, dass Sie die App jeden Tag benutzen und Sie als einen wesentlichen Teil Ihrer Apple Watch-Erfahrung betrachten, können Sie dem Entwickler gerne ein Trinkgeld hinterlassen. Sie erhalten im Gegenzug keine Sonderbehandlung - außer meiner ewigen Dankbarkeit für die Unterstützung meiner Ausgaben für die Wartung dieser App.";
 "%@ of %@" = "%@ von %@";
 "Log out" = "Ausloggen";
+
+"Background image" = "Hintergrundbild";
+"Image url" = "Bild-URL";
+"Add vehicle option codes querystring" = "Querystring für Fahrzeugoptionscodes hinzufügen";
+"Example: %@%@" = "Beispiel: %@%@";
+"⚠️ Vehicle open" = "⚠️ Fahrzeug offen";
+"Frunk" = "Frunk";
+"Trunk" = "Trunk";
+"All windows" = "Alle Fenster";
+"Driver front window" = "Fahrerfenster";
+"Passenger front window" = "Beifahrerfenster";
+"Driver rear window" = "Fahrerheckscheibe";
+"Passenger rear window" = "Beifahrerheckscheibe";
+"All doors" = "Alle Türen";
+"Driver front door" = "Fahrertür";
+"Passenger front door" = "Beifahrertür";
+"Driver rear door" = "Hintertür Fahrerseite";
+"Passenger rear door" = "Hintertür Beifahrerseite";
+"Disable defrost" = "Abtauung deaktivieren";
+"Defrost" = "Abtauen";
+"Closing windows" = "Fenster schließen";
+"km" = "km";
+"mi" = "mi";
+"d" = "t";
+"h" = "st";
+"m" = "m";
+"s" = "s";
+"hr" = "h";
+"min" = "min";
+"on" = "an";
+"Open Watch app for Tesla support website" = "Öffne die Watch app für  die Tesla Hilfe Website";
+"For assitance, please see FAQ at:" = "FAQ für Hilfe:";
+"Show Credits" = "Danksagung anzeigen";
+"Hide Credits" = "Danksagung ausblenden";
+"Credits" = "Danksagung";
+"Open source libraries" = "Open source Bibliotheken";
+"by" = "von";
+"Translators" = "Übersetzer";
+"Beta testers" = "Betatester";
+"Huge thanks to my many active beta testers!" = "Großes Danke an alle meine aktiven Betatester!";
