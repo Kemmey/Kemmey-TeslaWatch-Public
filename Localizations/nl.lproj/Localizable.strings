@@ -6,7 +6,7 @@
   Copyright © 2020 kimhansen.dk. All rights reserved.
   Localized by Don Hellwich - hellwich@hotmail.com
 */
-"Hide Controls" = "Bediening verbegen";
+"Hide Controls" = "Bediening verbergen";
 "Show Controls" = "Bediening weergeven";
 "Charging scheduled" = "Opladen gepland";
 "Start at %@" = "Starten om %@";
@@ -16,7 +16,7 @@
 "Set limit:" = "Limiet instellen:";
 "Charge limit:" = "Oplaad limiet:";
 "Refreshing..." = "Vernieuwen...";
-"Please input your Tesla username and password" = "Voer uw Tesla gebruikernsaam en wachtwoord in";
+"Please input your Tesla username and password" = "Voer uw Tesla gebruikersnaam en wachtwoord in";
 "Username" = "Gebruikersnaam";
 "Password" = "Wachtwoord";
 "Loading" = "Laden";
@@ -47,13 +47,13 @@
 "Keyless drive" = "Sleutelloos rijden";
 "Really enable keyless drive?" = "Weet u het zeker dat u sleutelloos rijden wilt inschakelen?";
 "Honk!" = "Claxon!";
-"Unlock port" = "Laadpoort ontgrendelen";
+"Unlock port" = "Laadpoort openen";
 "%@ port" = "%@ laadpoort";
 "Homelink" = "Homelink";
 "Disable Sentry" = "Bewakingsmodus uitschakelen";
 "Enable Sentry" = "Bewakingsmodus inschakelen";
 "Vent" = "Ventileren";
-"%@ windows" = "%@ ramen";
+"%@ windows" = "Ramen ventileren";
 "Location of %@" = "Locatie van %@";
 "Location" = "Locatie";
 "Flash!" = "Knipperlicht!";
@@ -70,28 +70,27 @@
 "Tip Jar" = "Fooienpot";
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla is een liefdeswerk. Indien u de app elke dag gebruikt, en het ervaart als een essentieel onderdeel van uw Apple Watch ervaring - voel uw vrij wat fooi achter te laten voor de ontwikkelaar. U krijgt hier geen speciale behandeling voor terug, behalve mijn eeuwige dankbaarheid voor uw bijdrage om deze app te onderhouden.";
 "%@ of %@" = "%@ van %@";
-"Log out" = "Uitloggen";
-
+"Log out" = "Afmelden";
 "Background image" = "Achtergrondafbeelding";
-"Image url" = "Image url";
-"Add vehicle option codes querystring" = "Voeg voertuigoptiecodes toe querystring";
+"Image url" = "Afbeelding url";
+"Add vehicle option codes querystring" = "Voeg voertuigoptiecodes querystring toe";
 "Example: %@%@" = "Voorbeeld: %@%@";
 "⚠️ Vehicle open" = "⚠️ Voertuig open";
 "Frunk" = "Voorbak";
 "Trunk" = "Achterbak";
-"All windows" = "Alle vensters";
-"Driver front window" = "Bestuurdersvenster";
-"Passenger front window" = "Passagiersvenster";
-"Driver rear window" = "Achterruit driver";
-"Passenger rear window" = "Passagier achterruit";
+"All windows" = "Alle ramen";
+"Driver front window" = "Bestuurdersraam voor";
+"Passenger front window" = "Passagiersraam voor";
+"Driver rear window" = "Bestuurdersraam achter";
+"Passenger rear window" = "Passagiersraam achter";
 "All doors" = "Alle deuren";
-"Driver front door" = "Bestuurdersdeur";
-"Passenger front door" = "Passagiersdeur";
-"Driver rear door" = "Bestuurdersachterdeur";
-"Passenger rear door" = "Passagier achterdeur";
+"Driver front door" = "Bestuurdersdeur voor";
+"Passenger front door" = "Passagiersdeur voor";
+"Driver rear door" = "Bestuurdersdeur achter";
+"Passenger rear door" = "Passagiersdeur achter";
 "Disable defrost" = "Ontdooien uitschakelen";
 "Defrost" = "Ontdooien";
-"Closing windows" = "Vensters sluiten";
+"Closing windows" = "Ramen sluiten";
 "km" = "km";
 "mi" = "mi";
 "d" = "d";
@@ -102,12 +101,12 @@
 "min" = "min";
 "on" = "aan";
 "Open Watch app for Tesla support website" = "Open Watch app for Tesla support website";
-"For assitance, please see FAQ at:" = "For assitance, please see FAQ at:";
-"Show Credits" = "Show Credits";
-"Hide Credits" = "Hide Credits";
+"For assitance, please see FAQ at:" = "Zie FAQ voor assistentie:";
+"Show Credits" = "Credits weergeven";
+"Hide Credits" = "Credits verbergen";
 "Credits" = "Credits";
-"Open source libraries" = "Open source libraries";
-"by" = "by";
-"Translators" = "Translators";
+"Open source libraries" = "Open bron bibliotheken";
+"by" = "door";
+"Translators" = "Vertalers";
 "Beta testers" = "Beta testers";
-"Huge thanks to my many active beta testers!" = "Huge thanks to my many active beta testers!";
+"Huge thanks to my many active beta testers!" = "Dank aan mijn vele beta testers!";
