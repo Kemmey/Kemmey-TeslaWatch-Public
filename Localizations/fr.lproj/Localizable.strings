@@ -4,6 +4,7 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2020 kimhansen.dk. All rights reserved.
+  Localized by Louis Charette
 */
 "Hide Controls" = "Masquer contrôles";
 "Show Controls" = "Afficher contrôles";
@@ -99,7 +100,7 @@
 "s" = "s";
 "hr" = "hr";
 "min" = "min";
-"on" = "on";
+"on" = "active";
 "Open Watch app for Tesla support website" = "Ouvrir le site web de Watch app for Tesla";
 "For assitance, please see FAQ at:" = "Pour obtenir de l'aide, veuillez consulter la FAQ à l'adresse:";
 "Show Credits" = "Remerciements";
@@ -110,3 +111,8 @@
 "Translators" = "Traducteurs";
 "Beta testers" = "Testeurs";
 "Huge thanks to my many active beta testers!" = "Un grand merci aux nombreux testeurs!";
+
+"Plug-in reminder" = "Plug-in reminder";
+"Remove" = "Remove";
+"Add current vehicle location" = "Add current vehicle location";
+"Unknown" = "Unknown";
