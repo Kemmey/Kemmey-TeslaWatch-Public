@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 kimhansen.dk. All rights reserved.
+  Copyright © 2020 Kim Hansen. All rights reserved.
   Localized by Don Hellwich - hellwich@hotmail.com
 */
 "Hide Controls" = "Bediening verbergen";
@@ -100,7 +100,7 @@
 "hr" = "uur";
 "min" = "min";
 "on" = "aan";
-"Open Watch app for Tesla support website" = "Open Watch app for Tesla support website";
+"Open Watch for Tesla support website" = "Open Watch for Tesla support website";
 "For assitance, please see FAQ at:" = "Zie FAQ voor assistentie:";
 "Show Credits" = "Credits weergeven";
 "Hide Credits" = "Credits verbergen";
@@ -110,3 +110,9 @@
 "Translators" = "Vertalers";
 "Beta testers" = "Beta testers";
 "Huge thanks to my many active beta testers!" = "Dank aan mijn vele beta testers!";
+
+"Plug-in reminder" = "Verbinding herinnering";
+"Remove" = "Verwijderen";
+"Add current vehicle location" = "Voeg de huidige voertuiglocatie toe";
+"Unknown" = "Onbekend";
+"is not plugged in" = "is niet aangesloten";

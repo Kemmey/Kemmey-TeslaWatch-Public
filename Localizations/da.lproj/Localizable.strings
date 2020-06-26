@@ -112,8 +112,8 @@
 "Translators" = "Oversættere";
 "Beta testers" = "Beta testere";
 "Huge thanks to my many active beta testers!" = "En stor tak til alle mine aktive beta testere!";
-
-"Plug-in reminder" = "Stikket i påmindelser";
-"Remove" = "Slet";
-"Add current vehicle location" = "Tilføj bilens nuværende position";
+"Plug-in reminder" = "Mind om tilslutning";
+"Remove" = "Fjern";
+"Add current vehicle location" = "Tilføj køretøjs nuværende placering";
 "Unknown" = "Ukendt";
+"is not plugged in" = "er ikke sat til";

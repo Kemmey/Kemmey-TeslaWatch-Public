@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 kimhansen.dk. All rights reserved.
+  Copyright © 2020 Kim Hansen. All rights reserved.
   Localized by Dominic Hanselmann - hanselmanndominic@gmail.com
 */
 "Hide Controls" = "Stüürig versteckä";
@@ -72,26 +72,26 @@
 "%@ of %@" = "%@ vo %@";
 "Log out" = "Usloggä";
 
-"Background image" = "Background image";
-"Image url" = "Image url";
-"Add vehicle option codes querystring" = "Add vehicle option codes querystring";
-"Example: %@%@" = "Example: %@%@";
-"⚠️ Vehicle open" = "⚠️ Vehicle open";
+"Background image" = "Hindergrundbild";
+"Image url" = "Bild-URL";
+"Add vehicle option codes querystring" = "Fahrzügoptione Querystring hinzuefüegä";
+"Example: %@%@" = "Biispil: %@%@";
+"⚠️ Vehicle open" = "⚠️ Fahrzüg offä";
 "Frunk" = "Frunk";
-"Trunk" = "Trunk";
-"All windows" = "All windows";
-"Driver front window" = "Driver window";
-"Passenger front window" = "Passenger window";
-"Driver rear window" = "Driver rear window";
-"Passenger rear window" = "Passenger rear window";
-"All doors" = "All doors";
-"Driver front door" = "Driver door";
-"Passenger front door" = "Passenger door";
-"Driver rear door" = "Driver rear door";
-"Passenger rear door" = "Passenger rear door";
-"Disable defrost" = "Disable defrost";
-"Defrost" = "Defrost";
-"Closing windows" = "Closing windows";
+"Trunk" = "Kofferruum";
+"All windows" = "Alli Fenschter";
+"Driver front window" = "Fahrerfenschter";
+"Passenger front window" = "Biifahrerfenschter";
+"Driver rear window" = "Fenschter hinne links";
+"Passenger rear window" = "Fenschter hinne rechts";
+"All doors" = "Alli Türe";
+"Driver front door" = "Fahrertüre";
+"Passenger front door" = "Biifahrertüre";
+"Driver rear door" = "Tür hinne links";
+"Passenger rear door" = "Tür hinne rechts";
+"Disable defrost" = "Abtauä usschalte";
+"Defrost" = "Abtauä";
+"Closing windows" = "Fenschter werden zue gmacht";
 "km" = "km";
 "mi" = "mi";
 "d" = "t";
@@ -101,13 +101,19 @@
 "hr" = "st";
 "min" = "min";
 "on" = "auf";
-"Open Watch app for Tesla support website" = "Open Watch app for Tesla support website";
-"For assitance, please see FAQ at:" = "For assitance, please see FAQ at:";
-"Show Credits" = "Show Credits";
-"Hide Credits" = "Hide Credits";
+"Open Watch for Tesla support website" = "App öffnä für Tesla Support Siite";
+"For assitance, please see FAQ at:" = "Für Hilf lueg ufd FAQ under:";
+"Show Credits" = "Credits aazeigä";
+"Hide Credits" = "Credits usblendä";
 "Credits" = "Credits";
-"Open source libraries" = "Open source libraries";
-"by" = "by";
-"Translators" = "Translators";
-"Beta testers" = "Beta testers";
-"Huge thanks to my many active beta testers!" = "Huge thanks to my many active beta testers!";
+"Open source libraries" = "Open source Bibliothekä";
+"by" = "vo";
+"Translators" = "Übersetzer";
+"Beta testers" = "Beta teschter";
+"Huge thanks to my many active beta testers!" = "Danke vielmol a mini viele Beta teschter!";
+
+"Plug-in reminder" = "Verbindungserinnerung";
+"Remove" = "Entfernen";
+"Add current vehicle location" = "Aktuellen Fahrzeugstandort hinzufügen";
+"Unknown" = "Unbekannt";
+"is not plugged in" = "ist nicht angeschlossen";

@@ -111,7 +111,8 @@
 "Beta testers" = "Beta testare";
 "Huge thanks to my many active beta testers!" = "Mycket tack till alla mina aktiva beta testare!";
 
-"Plug-in reminder" = "Plug-in reminder";
-"Remove" = "Remove";
-"Add current vehicle location" = "Add current vehicle location";
-"Unknown" = "Unknown";
+"Plug-in reminder" = "Anslutningspåminnelse";
+"Remove" = "Ta bort";
+"Add current vehicle location" = "Lägg till aktuell fordonsplats";
+"Unknown" = "Okänd";
+"is not plugged in" = "är inte ansluten";

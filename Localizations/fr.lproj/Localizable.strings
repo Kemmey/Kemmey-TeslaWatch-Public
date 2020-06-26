@@ -112,7 +112,8 @@
 "Beta testers" = "Testeurs";
 "Huge thanks to my many active beta testers!" = "Un grand merci aux nombreux testeurs!";
 
-"Plug-in reminder" = "Plug-in reminder";
-"Remove" = "Remove";
-"Add current vehicle location" = "Add current vehicle location";
-"Unknown" = "Unknown";
+"Plug-in reminder" = "Rappel de connexion";
+"Remove" = "Retirer";
+"Add current vehicle location" = "Ajouter l'emplacement actuel du véhicule";
+"Unknown" = "Inconnue";
+"is not plugged in" = "n'est pas branché";
