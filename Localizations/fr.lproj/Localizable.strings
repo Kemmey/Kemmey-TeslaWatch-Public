@@ -14,7 +14,7 @@
 "Stop charging" = "Arrêtez recharge";
 "Start charging" = "Démarrer recharge";
 "Set limit:" = "Définir limite:";
-"Charge limit:" = "Limite charge:";
+"Charge limit:" = "Limite char.:";
 "Refreshing..." = "Mise à jour...";
 "Please input your Tesla username and password" = "Veuillez saisir votre nom d'utilisateur et votre mot de passe Tesla";
 "Username" = "Nom d'utilisateur";
