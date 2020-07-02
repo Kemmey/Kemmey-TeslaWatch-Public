@@ -7,12 +7,12 @@
   Localized by Georgios Mavrikas - georgios@mavrikas.com
 */
 "Hide Controls" = "Κρύψε χειριστήρια";
-"Show Controls" = "Δείτε χειριστήρια";
+"Show Controls" = "Χειριστήρια";
 "Charging scheduled" = "Η φόρτιση προγραμματίστηκε";
 "Start at %@" = "Ξεκίνημα στις %@";
 "Depart at %@" = "Αναχώρηση στις %@";
-"Stop charging" = "Σταμάτα να φορτίζεις";
-"Start charging" = "Ξεκίνα να φορτίζεις";
+"Stop charging" = "Στοπ φόρτισης";
+"Start charging" = "Φόρτιση";
 "Set limit:" = "Ορισμός ορίου:";
 "Charge limit:" = "Όριο φόρτισης:";
 "Refreshing..." = "Ανανέωση...";
@@ -33,22 +33,22 @@
 "Charging complete" = "Η φόρτιση ολοκληρώθηκε";
 "Loading..." = "Φόρτωση...";
 "Open frunk" = "Άνοιγμα καπώ";
-"Really open frunk?" = "Θέλετε το άνοιγμα καπώ;";
-"Set temp:" = "Θέσε θερμοκρασία:";
+"Really open frunk?" = "Θέλετε να ανοίξετε το καπώ;";
+"Set temp:" = "Θερμοκρασία:";
 "Close" = "Κλείσιμο";
 "Open" = "Άνοιγμα";
 "close" = "κλείσιμο";
 "open" = "άνοιγμα";
 "%@ trunk" = "%@ πορτ-μπαγκάζ";
 "Really %@ trunk?" = "Θέλετε %@ πορτ-μπαγκάζ;";
-"%@ charge port" = "%@ θύρας φόρτισης";
+"%@ charge port" = "%@ φορτιστή";
 "Activate Homelink" = "Ενεργοποίηση Homelink";
 "Really activate Homelink?" = "Θέλετε ενεργοποίηση Homelink;";
 "Keyless drive" = "Οδήγηση χωρίς κλειδί";
 "Really enable keyless drive?" = "Θέλετε ενεργοποίηση οδήγησης χωρίς κλειδί;";
 "Honk!" = "Κόρνα!";
-"Unlock port" = "Ξεκλείδωμα θύρας φόρτισης";
-"%@ port" = "%@ θύρας φόρτισης";
+"Unlock port" = "Ξεκλείδωμα φορτιστή";
+"%@ port" = "%@ φορτιστή";
 "Homelink" = "Homelink";
 "Disable Sentry" = "Απενεργοποίηση Sentry";
 "Enable Sentry" = "Ενεργοποίηση Sentry";
@@ -60,13 +60,13 @@
 "Waking" = "Ξύπνημα";
 "Sending" = "Αποστολή";
 "Loading" = "Φόρτωση";
-"Online" = "Online";
+"Online" = "Συνδεδεμένο";
 "Settings" = "Ρυθμίσεις";
 "Background updates" = "Ενημερώσεις παρασκηνίου";
-"Allow wake in background" = "Επέτρεψε την αφύπνιση στο παρασκήνιο";
+"Allow wake in background" = "Αφύπνιση οχήματος στο παρασκήνιο";
 "Set" = "Θέσε";
 "Interval" = "Διάστημα";
-"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Η οδήγηση χωρίς κλειδί απαιτεί το Tesla password. Αποθηκεύεται κρυπτογραφημένο στο keychain. ΑΠΑΡΑΙΤΗΤΑ πρέπει να είναι online το ρολόι και το όχημα. Ποτέ μην οδηγείτε χωρίς εφεδρικό κλειδί:";
+"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Η οδήγηση χωρίς κλειδί απαιτεί τον κωδικό Tesla. Αποθηκεύεται κρυπτογραφημένο στο keychain. ΑΠΑΡΑΙΤΗΤΑ πρέπει να είναι online το ρολόι και το όχημα. Ποτέ μην οδηγείτε χωρίς εφεδρικό κλειδί:";
 "Tip Jar" = "χαρτζηλίκι";
 "Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Το Watch for Tesla φτιάχτηκε με πολύ μεράκι. Εάν το χρησιμοποιείτε συχνά, θα εκτιμούσαμε εάν δίνατε ένα χαρτζηλίκι στον προγραμματιστή. Δεν θα κερδίσετε κάτι με αυτό, πέρα από την ευγνωμοσύνη μου για τη βοήθειά σας να καλύψω τα έξοδα των ενημερώσεων της εφαρμογής";
 "%@ of %@" = "%@ από %@";
@@ -112,8 +112,8 @@
 "Beta testers" = "Δοκιμαστές beta";
 "Huge thanks to my many active beta testers!" = "Πολλά ευχαριστώ στους πάμπολους δοκιμαστές beta!";
 
-"Plug-in reminder" = "Υπενθύμιση σύνδεσης";
-"Remove" = "Βγάλε";
+"Plug-in reminder" = "Υπενθύμιση φόρτισης";
+"Remove" = "Αφαίρεση";
 "Add current vehicle location" = "Προσθήκη τρέχουσας θέσης οχήματος";
 "Unknown" = "Άγνωστο";
 "is not plugged in" = "Δεν είναι συνδεδεμένο";
