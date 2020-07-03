@@ -7,6 +7,7 @@
             "Arachnid21Grey": "WTAB",
             "AeroTurbine22": "WT22",
             "Super21Gray": "WTSG",
+            "Slipstream19Carbon": "WTDS",
             "default": "WTTB"
         },
         "model3": {
@@ -66,5 +67,13 @@
         "MetallicBlue": "PMMB", 
         "SignatureRed": "PPSR", 
         "default": "PBSB"
+    },
+    "models": {
+        "models": "ms",
+        "models2": "ms",
+        "model3": "m3",
+        "modelx": "mx",
+        "modely": "my",
+        "default": "m3"
     }
 }
