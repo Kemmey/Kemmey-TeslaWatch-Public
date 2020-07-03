@@ -1,6 +1,6 @@
 {
     "wheels": {
-        "models": {
+        "ms": {
             "AeroTurbine20": "WT20",
             "AeroTurbine19": "WTAS",
             "Turbine19": "WTTB",
@@ -10,7 +10,7 @@
             "Slipstream19Carbon": "WTDS",
             "default": "WTTB"
         },
-        "model3": {
+        "m3": {
             "Pinwheel18": "W38B",
             "Sportwheel19": "W39B",
             "Stiletto19": "W39B",
@@ -22,7 +22,7 @@
             "Gemini19Staggered": "W38B",
             "default": "W39B"
         },
-        "modelx": {
+        "mx": {
             "AeroTurbine20": "WT20",
             "AeroTurbine19": "WTAS",
             "Turbine19": "WTTB",
@@ -31,7 +31,7 @@
             "Super21Gray": "WTSG",
             "default": "WT20"
         },
-        "modely": {
+        "my": {
             "18": "WY18B",
             "19": "WY19B",
             "20": "WY20P",
