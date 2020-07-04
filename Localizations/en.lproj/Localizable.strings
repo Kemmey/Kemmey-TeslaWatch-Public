@@ -110,9 +110,12 @@
 "Translators" = "Translators";
 "Beta testers" = "Beta testers";
 "Huge thanks to my many active beta testers!" = "Huge thanks to my many active beta testers!";
-
 "Plug-in reminder" = "Plug-in reminder";
 "Remove" = "Remove";
 "Add current vehicle location" = "Add current vehicle location";
 "Unknown" = "Unknown";
 "is not plugged in" = "is not plugged in";
+
+"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starting";
+"Charging" = "Charging";

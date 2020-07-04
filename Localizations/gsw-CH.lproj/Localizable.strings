@@ -111,9 +111,12 @@
 "Translators" = "Übersetzer";
 "Beta testers" = "Beta teschter";
 "Huge thanks to my many active beta testers!" = "Danke vielmol a mini viele Beta teschter!";
-
 "Plug-in reminder" = "Verbindungserinnerung";
 "Remove" = "Entfernen";
 "Add current vehicle location" = "Aktuellen Fahrzeugstandort hinzufügen";
 "Unknown" = "Unbekannt";
 "is not plugged in" = "ist nicht angeschlossen";
+
+"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starting";
+"Charging" = "Charging";

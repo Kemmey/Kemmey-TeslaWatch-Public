@@ -111,9 +111,12 @@
 "Translators" = "Pøeklad";
 "Beta testers" = "Beta testers";
 "Huge thanks to my many active beta testers!" = "Velké podìkování mým aktivním Beta testerùm!";
-
 "Plug-in reminder" = "Plug-in pøipomínka";
 "Remove" = "Odstranit";
 "Add current vehicle location" = "Pøidat aktuální polohu vozidla";
 "Unknown" = "Neznámý";
 "is not plugged in" = "není pøipojeno";
+
+"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starting";
+"Charging" = "Charging";

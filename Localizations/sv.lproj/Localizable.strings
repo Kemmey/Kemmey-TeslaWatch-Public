@@ -110,9 +110,12 @@
 "Translators" = "Översättarna";
 "Beta testers" = "Beta testare";
 "Huge thanks to my many active beta testers!" = "Mycket tack till alla mina aktiva beta testare!";
-
 "Plug-in reminder" = "Anslutningspåminnelse";
 "Remove" = "Ta bort";
 "Add current vehicle location" = "Lägg till aktuell fordonsplats";
 "Unknown" = "Okänd";
 "is not plugged in" = "är inte ansluten";
+
+"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starting";
+"Charging" = "Charging";

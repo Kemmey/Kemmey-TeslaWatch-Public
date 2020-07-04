@@ -111,9 +111,12 @@
 "Translators" = "Μεταφραστές";
 "Beta testers" = "Δοκιμαστές beta";
 "Huge thanks to my many active beta testers!" = "Πολλά ευχαριστώ στους πάμπολους δοκιμαστές beta!";
-
 "Plug-in reminder" = "Υπενθύμιση φόρτισης";
 "Remove" = "Αφαίρεση";
 "Add current vehicle location" = "Προσθήκη τρέχουσας θέσης οχήματος";
 "Unknown" = "Άγνωστο";
 "is not plugged in" = "Δεν είναι συνδεδεμένο";
+
+"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starting";
+"Charging" = "Charging";

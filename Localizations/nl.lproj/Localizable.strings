@@ -110,9 +110,12 @@
 "Translators" = "Vertalers";
 "Beta testers" = "Beta testers";
 "Huge thanks to my many active beta testers!" = "Dank aan mijn vele beta testers!";
-
 "Plug-in reminder" = "Verbinding herinnering";
 "Remove" = "Verwijderen";
 "Add current vehicle location" = "Voeg de huidige voertuiglocatie toe";
 "Unknown" = "Onbekend";
 "is not plugged in" = "is niet aangesloten";
+
+"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starting";
+"Charging" = "Charging";
