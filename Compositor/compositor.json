@@ -8,6 +8,10 @@
             "AeroTurbine22": "WT22",
             "Super21Gray": "WTSG",
             "Slipstream19Carbon": "WTDS",
+            "Base19": "WTAS",
+            "Aero19": "WTAS",
+            "Turbine19Dark": "WTDS",
+            "Tempest19SonicSilver": "WTDS",
             "default": "WTTB"
         },
         "m3": {
