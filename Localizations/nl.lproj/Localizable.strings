@@ -75,7 +75,7 @@
 "Image url" = "Afbeelding url";
 "Add vehicle option codes querystring" = "Voeg voertuigoptiecodes querystring toe";
 "Example: %@%@" = "Voorbeeld: %@%@";
-"⚠️ Vehicle open" = "⚠️ Voertuig open";
+"Vehicle open" = "Voertuig open";
 "Frunk" = "Voorbak";
 "Trunk" = "Achterbak";
 "All windows" = "Alle ramen";
@@ -99,7 +99,6 @@
 "s" = "s";
 "hr" = "uur";
 "min" = "min";
-"on" = "aan";
 "Open Watch for Tesla support website" = "Open Watch for Tesla support website";
 "For assitance, please see FAQ at:" = "Zie FAQ voor assistentie:";
 "Show Credits" = "Credits weergeven";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry aan";

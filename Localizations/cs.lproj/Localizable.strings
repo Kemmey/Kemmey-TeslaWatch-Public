@@ -75,7 +75,7 @@
 "Image url" = "Obrázek url";
 "Add vehicle option codes querystring" = "Přidejte kód zobrazení vozidla";
 "Example: %@%@" = "Example: %@%@";
-"⚠️ Vehicle open" = "⚠️ Otevřené vozidlo";
+"Vehicle open" = "Otevřené vozidlo";
 "Frunk" = "Přední kufr";
 "Trunk" = "Zadní kufr";
 "All windows" = "Všechna okna";
@@ -99,7 +99,6 @@
 "s" = "s";
 "hr" = "hod";
 "min" = "min";
-"on" = "zap";
 "Open Watch for Tesla support website" = "Otevřete podporu Watch for Tesla na webu";
 "For assistance, please see FAQ at:" = "Pro pomoc se podívejte na otázky:";
 "Show Credits" = "Ukázat Kredity";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry zap";

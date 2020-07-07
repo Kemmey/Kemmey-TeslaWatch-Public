@@ -75,7 +75,7 @@
 "Image url" = "Bild-URL";
 "Add vehicle option codes querystring" = "Fahrzügoptione Querystring hinzuefüegä";
 "Example: %@%@" = "Biispil: %@%@";
-"⚠️ Vehicle open" = "⚠️ Fahrzüg offä";
+"Vehicle open" = "Fahrzüg offä";
 "Frunk" = "Frunk";
 "Trunk" = "Kofferruum";
 "All windows" = "Alli Fenschter";
@@ -99,7 +99,6 @@
 "s" = "s";
 "hr" = "st";
 "min" = "min";
-"on" = "auf";
 "Open Watch for Tesla support website" = "App öffnä für Tesla Support Siite";
 "For assitance, please see FAQ at:" = "Für Hilf lueg ufd FAQ under:";
 "Show Credits" = "Credits aazeigä";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry auf";

@@ -75,7 +75,7 @@
 "Image url" = "Url de l'image";
 "Add vehicle option codes querystring" = "Ajouter une requête de codes d'option du véhicule";
 "Example: %@%@" = "Exemple: %@%@";
-"⚠️ Vehicle open" = "⚠️ Véhicule ouvert";
+"Vehicle open" = "Véhicule ouvert";
 "Frunk" = "Frunk";
 "Trunk" = "Coffre";
 "All windows" = "Toutes les fenêtres";
@@ -99,7 +99,6 @@
 "s" = "s";
 "hr" = "hr";
 "min" = "min";
-"on" = "active";
 "Open Watch app for Tesla support website" = "Ouvrir le site web de Watch app for Tesla";
 "For assitance, please see FAQ at:" = "Pour obtenir de l'aide, veuillez consulter la FAQ à l'adresse:";
 "Show Credits" = "Remerciements";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry on";

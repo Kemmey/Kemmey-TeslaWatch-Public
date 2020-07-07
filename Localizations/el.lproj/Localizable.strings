@@ -75,7 +75,7 @@
 "Image url" = "URL εικόνας";
 "Add vehicle option codes querystring" = "Προσθήκη querystring για έξοπλισμό οχήματος";
 "Example: %@%@" = "Παράδειγμα: %@%@";
-"⚠️ Vehicle open" = "⚠️ Όχημα ανοιχτό";
+"Vehicle open" = "Όχημα ανοιχτό";
 "Frunk" = "Καπώ";
 "Trunk" = "Πορτ-μπαγκάζ";
 "All windows" = "Όλα τα παράθυρα";
@@ -99,7 +99,6 @@
 "s" = "δ";
 "hr" = "ωρ";
 "min" = "λεπ";
-"on" = "ενεργό";
 "Open Watch for Tesla support website" = "Άνοιγμα σελίδας υποστήριξης του Watch for Tesla";
 "For assistance, please see FAQ at:" = "Για βοήθεια δείτε τις συχνές ερωτήσεις:";
 "Show Credits" = "Δείξε ευχαριστήρια";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry ενεργό";

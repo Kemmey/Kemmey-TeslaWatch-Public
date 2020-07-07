@@ -75,7 +75,7 @@
 "Image url" = "Billede url";
 "Add vehicle option codes querystring" = "Tilføj bilens konfiguration til querystring";
 "Example: %@%@" = "Eksempel: %@%@";
-"⚠️ Vehicle open" = "⚠️ Bilen er åben";
+"Vehicle open" = "Bilen er åben";
 "Frunk" = "Frunk";
 "Trunk" = "Baggagerum";
 "All windows" = "Alle vinduer";
@@ -99,7 +99,6 @@
 "s" = "s";
 "hr" = "ti";
 "min" = "min";
-"on" = "aktiv";
 "Open Watch for Tesla support website" = "Åbn Watch for Tesla support websted";
 "For assistance, please see FAQ at:" = "For hjælp, se venligst FAQ:";
 "Show Credits" = "Vis Credits";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry aktiv";

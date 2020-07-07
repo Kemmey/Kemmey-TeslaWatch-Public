@@ -75,7 +75,7 @@
 "Image url" = "画像URL";
 "Add vehicle option codes querystring" = "クエリ文字列を追加する";
 "Example: %@%@" = "例: %@%@";
-"⚠️ Vehicle open" = "⚠️ アンロック";
+"Vehicle open" = "アンロック";
 "Frunk" = "フランク";
 "Trunk" = "トランク";
 "All windows" = "すべてのウインドウ";
@@ -99,7 +99,6 @@
 "s" = "秒";
 "hr" = "時間";
 "min" = "分";
-"on" = "on";
 "Open Watch for Tesla support website" = "公式サポートサイトを開く";
 "For assistance, please see FAQ at:" = "サポートが必要でしたら、FAQをまず御覧下さい:";
 "Show Credits" = "クレジットを表示";
@@ -125,4 +124,5 @@
 "Unlocked" = "Unlocked";
 "Open features reminder" = "Open features reminder";
 "is open" = "is open";
-"◉ Sentry active" = "◉ Sentry active";
+"Sentry active" = "Sentry active";
+"sentry on" = "sentry on";
