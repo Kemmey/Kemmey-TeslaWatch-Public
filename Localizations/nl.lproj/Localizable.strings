@@ -67,9 +67,9 @@
 "Set" = "Instellen";
 "Interval" = "Interval";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Het wachtwoord van uw Tesla account is vereist voor sleutelloos rijden. Het wachtwoord is versleuteld opgeslagen in de Apple sleutelhanger. Netwerkconnectiviteit op zowel de Apple Watch als het voertuig is vereist. Rijd nooit zonder een fysieke backup sleutel:";
-"Tip Jar" = "Fooienpot";
-"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla is een liefdeswerk. Indien u de app elke dag gebruikt, en het ervaart als een essentieel onderdeel van uw Apple Watch ervaring - voel uw vrij wat fooi achter te laten voor de ontwikkelaar. U krijgt hier geen speciale behandeling voor terug, behalve mijn eeuwige dankbaarheid voor uw bijdrage om deze app te onderhouden.";
-"%@ of %@" = "%@ van %@";
+//"Tip Jar" = "Fooienpot";
+//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla is een liefdeswerk. Indien u de app elke dag gebruikt, en het ervaart als een essentieel onderdeel van uw Apple Watch ervaring - voel uw vrij wat fooi achter te laten voor de ontwikkelaar. U krijgt hier geen speciale behandeling voor terug, behalve mijn eeuwige dankbaarheid voor uw bijdrage om deze app te onderhouden.";
+//"%@ of %@" = "%@ van %@";
 "Log out" = "Afmelden";
 "Background image" = "Achtergrondafbeelding";
 "Image url" = "Afbeelding url";
@@ -116,6 +116,13 @@
 "Unknown" = "Onbekend";
 "is not plugged in" = "is niet aangesloten";
 
-"Clean view while driving" = "Clean view while driving";
+//"Clean view while driving" = "Clean view while driving";
 "Starting" = "Starting";
 "Charging" = "Charging";
+"%@ sunroof" = "%@ sunroof";
+"Sunroof" = "Sunroof";
+"Closing sunroof" = "Closing sunroof";
+"Unlocked" = "Unlocked";
+"Open features reminder" = "Open features reminder";
+"is open" = "is open";
+"◉ Sentry active" = "◉ Sentry active";

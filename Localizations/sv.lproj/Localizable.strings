@@ -67,9 +67,9 @@
 "Set" = "Inställa";
 "Interval" = "Intervall";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Nyckellös körning kräver ditt Tesla konto lösenord. Det blir gömt krypterat i nyckelringen. Det KRÄVS aktiv nätverksuppkopling på både klocka och fordon. Köra aldrig utan reservnyckel:";
-"Tip Jar" = "Dricksburken";
-"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla är ett hobbyprojekt. Om du använder det varje dag och ser det som en essentiell del av din Apple Watch, skall du vara välkommen till att ge dricks till utvecklaren. Du får inte något förr dina pengar annat än tacksamhet för ditt bidrag till kostnader för att utveckla denna app";
-"%@ of %@" = "%@ of %@";
+//"Tip Jar" = "Dricksburken";
+//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla är ett hobbyprojekt. Om du använder det varje dag och ser det som en essentiell del av din Apple Watch, skall du vara välkommen till att ge dricks till utvecklaren. Du får inte något förr dina pengar annat än tacksamhet för ditt bidrag till kostnader för att utveckla denna app";
+//"%@ of %@" = "%@ of %@";
 "Log out" = "Logga ut";
 "Background image" = "Bakgrundsbild";
 "Image url" = "Bild url";
@@ -116,6 +116,13 @@
 "Unknown" = "Okänd";
 "is not plugged in" = "är inte ansluten";
 
-"Clean view while driving" = "Clean view while driving";
+//"Clean view while driving" = "Clean view while driving";
 "Starting" = "Starting";
 "Charging" = "Charging";
+"%@ sunroof" = "%@ sunroof";
+"Sunroof" = "Sunroof";
+"Closing sunroof" = "Closing sunroof";
+"Unlocked" = "Unlocked";
+"Open features reminder" = "Open features reminder";
+"is open" = "is open";
+"◉ Sentry active" = "◉ Sentry active";

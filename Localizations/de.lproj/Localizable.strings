@@ -67,11 +67,10 @@
 "Set" = "Setzen";
 "Interval" = "Interval";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Schlüsselloses Fahren erfordert Ihr Tesla Account Passwort. Es wird verschlüsselt im iOS Schlüsselbund gespeichert. BENÖTIGT ZWINGEND eine aktive Internetverbindung an der Watch UND dem Fahrzeug! Fahren Sie niemals ohne einen Ersatzschlüssel:";
-"Tip Jar" = "Trinkgeldglas";
-"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla ensteht durch Liebe. Wenn Sie das Gefühl haben, dass Sie die App jeden Tag benutzen und Sie als einen wesentlichen Teil Ihrer Apple Watch-Erfahrung betrachten, können Sie dem Entwickler gerne ein Trinkgeld hinterlassen. Sie erhalten im Gegenzug keine Sonderbehandlung - außer meiner ewigen Dankbarkeit für die Unterstützung meiner Ausgaben für die Wartung dieser App.";
-"%@ of %@" = "%@ von %@";
+//"Tip Jar" = "Trinkgeldglas";
+//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla ensteht durch Liebe. Wenn Sie das Gefühl haben, dass Sie die App jeden Tag benutzen und Sie als einen wesentlichen Teil Ihrer Apple Watch-Erfahrung betrachten, können Sie dem Entwickler gerne ein Trinkgeld hinterlassen. Sie erhalten im Gegenzug keine Sonderbehandlung - außer meiner ewigen Dankbarkeit für die Unterstützung meiner Ausgaben für die Wartung dieser App.";
+//"%@ of %@" = "%@ von %@";
 "Log out" = "Ausloggen";
-
 "Background image" = "Hintergrundbild";
 "Image url" = "Bild-URL";
 "Add vehicle option codes querystring" = "Querystring für Fahrzeugoptionscodes hinzufügen";
@@ -117,6 +116,13 @@
 "Unknown" = "Unbekannt";
 "is not plugged in" = "ist nicht angeschlossen";
 
-"Clean view while driving" = "Clean view while driving";
+//"Clean view while driving" = "Clean view while driving";
 "Starting" = "Starting";
 "Charging" = "Charging";
+"%@ sunroof" = "%@ sunroof";
+"Sunroof" = "Sunroof";
+"Closing sunroof" = "Closing sunroof";
+"Unlocked" = "Unlocked";
+"Open features reminder" = "Open features reminder";
+"is open" = "is open";
+"◉ Sentry active" = "◉ Sentry active";

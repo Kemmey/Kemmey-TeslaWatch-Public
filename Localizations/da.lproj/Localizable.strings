@@ -4,6 +4,7 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2020 Kim Hansen. All rights reserved.
+  Localized by Kim Hansen
 */
 "Hide Controls" = "Skjul Funktioner";
 "Show Controls" = "Vis Funktioner";
@@ -56,8 +57,6 @@
 "Location of %@" = "Her er %@";
 "Location" = "Vis på kort";
 "Flash!" = "Blink!";
-"Starting" = "Starter";
-"Charging" = "Oplader";
 "Waking" = "Kontakter";
 "Sending" = "Sender";
 "Loading" = "Henter";
@@ -68,11 +67,10 @@
 "Set" = "Sæt";
 "Interval" = "Interval";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Nøglefri kørsel kræver dit Tesla konto kodeord. Det bliver gemt krypteret i nøgleringen. Der KRÆVES aktiv netværksforbindelse på både ur og køretøj. Kør aldrig uden reserve nøgle:";
-"Tip Jar" = "Drikkepenge";
-"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla er et hyggeprojekt. Hvis du bruger det hver dag og ser det som en essentiel del af dit Apple Watch, skal du være velkommen til at lægge drikkepenge til udvikleren. Du får ikke noget for dine penge andet end taknemmelighed og tak for at støtte op om den videre udvikling af appen.";
-"%@ of %@" = "%@ på %@";
+//"Tip Jar" = "Drikkepenge";
+//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla er et hyggeprojekt. Hvis du bruger det hver dag og ser det som en essentiel del af dit Apple Watch, skal du være velkommen til at lægge drikkepenge til udvikleren. Du får ikke noget for dine penge andet end taknemmelighed og tak for at støtte op om den videre udvikling af appen.";
+//"%@ of %@" = "%@ på %@";
 "Log out" = "Log ud";
-
 "Background image" = "Baggrundsbillede";
 "Image url" = "Billede url";
 "Add vehicle option codes querystring" = "Tilføj bilens konfiguration til querystring";
@@ -118,6 +116,13 @@
 "Unknown" = "Ukendt";
 "is not plugged in" = "er ikke sat til";
 
-"Clean view while driving" = "Clean view while driving";
-"Starting" = "Starting";
-"Charging" = "Charging";
+//"Clean view while driving" = "Clean view while driving";
+"Starting" = "Starter";
+"Charging" = "Oplader";
+"%@ sunroof" = "%@ sunroof";
+"Sunroof" = "Sunroof";
+"Closing sunroof" = "Closing sunroof";
+"Unlocked" = "Unlocked";
+"Open features reminder" = "Open features reminder";
+"is open" = "is open";
+"◉ Sentry active" = "◉ Sentry active";
