@@ -127,5 +127,11 @@
 "Sentry active" = "Sentry zapnuto";
 "sentry on" = "sentry zap";
 "Seat heaters" = "Vyhřívání sedadel";
-"No vehicle data" = "No vehicle data";
-"Choose vehicle" = "Choose vehicle";
+"No vehicle data" = "Žádné údaje o vozidle";
+"Choose vehicle" = "Vybrat vozidlo";
+"Allow wake" = "Probudit od";
+"Until" = "Do";
+"Wake" = "Probudit";
+"Always" = "Vždy";
+"Hour" = "Hour";
+"Minute" = "Minuty";

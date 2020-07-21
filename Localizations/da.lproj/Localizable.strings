@@ -129,3 +129,9 @@
 "Seat heaters" = "Seat heaters";
 "No vehicle data" = "No vehicle data";
 "Choose vehicle" = "Choose vehicle";
+"Allow wake" = "Allow wake";
+"Until" = "Until";
+"Wake" = "Wake";
+"Always" = "Always";
+"Hour" = "Hour";
+"Minute" = "Minute";
