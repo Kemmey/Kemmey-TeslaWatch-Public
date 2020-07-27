@@ -12,7 +12,8 @@
         "changes": [
             { "build": 90, "change": "Can now properly tap notification to open app" },
             { "build": 90, "change": "Initial streaming support - when car is in N, R or D the app will try to enable streaming (indicated by an asterisk next to the gear selector). This is quite buggy atm - but please report your findings! Purpose is to allow driving view to update while driving with actual speed. When stabilized, I'll add heading and potentially more streaming variables" },
-            { "build": 91, "change": "Added charge time label to small battery state" }
+            { "build": 91, "change": "Added charge time label to small battery state" },
+            { "build": 94, "change": "Supah dupah!" }
         ]
     }
 ]
