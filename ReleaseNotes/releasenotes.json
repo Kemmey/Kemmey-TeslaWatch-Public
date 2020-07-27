@@ -15,7 +15,8 @@
             { "build": 91, "change": "Added charge time label to small battery state" },
             { "build": 94, "change": "Supah dupah!" },
             { "build": 95, "change": "Supah dupah! Troopar" },
-            { "build": 99, "change": "Supah dupah! Troopar!!!s" }
+            { "build": 99, "change": "Supah dupah! Troopar!!!s" },
+            { "build": 101, "change": "Supah dupah! Troopar!!!sasdf" }
         ]
     }
 ]
