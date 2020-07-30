@@ -45,6 +45,7 @@
     {
         "version": "1.0.6",
         "changes": [
+            { "build": 219, "change": "Updated Czech localizations" },
             { "build": 218, "change": "Now showing release notes since last build on first run" },
             { "build": 200, "change": "Show Dog mode or Camp mode when active" },
             { "build": 200, "change": "Can now dismiss open features reminder for the rest of the day (if you leave the windows open on purpose, for instance)" },
