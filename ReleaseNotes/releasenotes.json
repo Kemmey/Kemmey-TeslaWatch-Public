@@ -45,6 +45,9 @@
     {
         "version": "1.0.6",
         "changes": [
+            { "build": 220, "change": "Removed logout after re-install in preparation for new features" },
+            { "build": 220, "change": "Adjusted vehicle name size in vehicle chooser" },
+            { "build": 220, "change": "Data age timer now running on background thread" },
             { "build": 219, "change": "Updated Czech localizations" },
             { "build": 218, "change": "Now showing release notes since last build on first run" },
             { "build": 200, "change": "Show Dog mode or Camp mode when active" },
