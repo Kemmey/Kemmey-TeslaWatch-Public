@@ -34,6 +34,7 @@
             "Arachnid21Grey": "WTAB",
             "AeroTurbine22": "WT22",
             "Super21Gray": "WTSG",
+"Slipstream20Dark": "WTSC",
             "default": "WT20"
         },
         "my": {
@@ -68,7 +69,7 @@
         "Pearl": "PPSW", 
         "SolidWhite": "PBCW", 
         "White": "PBCW", 
-        "SignatureBlue": "PMMB", 
+        "SignatureBlue": "PPSB", 
         "MetallicBlue": "PMMB", 
         "SignatureRed": "PPSR", 
         "default": "PBSB"
