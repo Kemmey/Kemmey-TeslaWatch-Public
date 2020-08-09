@@ -44,7 +44,12 @@
     },
     {
         "version": "1.0.6",
-        "changes": [
+        "changes": [      
+            { "build": 225, "change": "Fixed choppy release notes scrolling" },
+            { "build": 224, "change": "Add compass label in driving view" },
+            { "build": 223, "change": "Possibly fix login loop on invalid token that is not expired" },
+            { "build": 222, "change": "Hide window controls for Model S vechicles" },
+            { "build": 221, "change": "Background update every 15 minutes while driving and every 5 minutes while supercharging" },
             { "build": 220, "change": "Removed logout after re-install in preparation for new features" },
             { "build": 220, "change": "Adjusted vehicle name size in vehicle chooser" },
             { "build": 220, "change": "Data age timer now running on background thread" },
