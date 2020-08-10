@@ -45,6 +45,7 @@
     {
         "version": "1.0.6",
         "changes": [      
+            { "build": 229, "change": "Show big friggin' dismiss release notes button on watchOS 7 beta" },
             { "build": 228, "change": "Updated French and Czech localizations" },
             { "build": 225, "change": "Fixed choppy release notes scrolling" },
             { "build": 224, "change": "Add compass label in driving view" },
