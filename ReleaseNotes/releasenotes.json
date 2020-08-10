@@ -45,6 +45,7 @@
     {
         "version": "1.0.6",
         "changes": [      
+            { "build": 228, "change": "Updated French and Czech localizations" },
             { "build": 225, "change": "Fixed choppy release notes scrolling" },
             { "build": 224, "change": "Add compass label in driving view" },
             { "build": 223, "change": "Possibly fix login loop on invalid token that is not expired" },
