@@ -45,6 +45,7 @@
     {
         "version": "1.0.6",
         "changes": [      
+            { "build": 229, "change": "Release notes might scroll again? Or might not - could just be really really slow on older hardware" },
             { "build": 229, "change": "Show big friggin' dismiss release notes button on watchOS 7 beta" },
             { "build": 228, "change": "Updated French and Czech localizations" },
             { "build": 225, "change": "Fixed choppy release notes scrolling" },
