@@ -45,6 +45,8 @@
     {
         "version": "1.0.6",
         "changes": [      
+            { "build": 231, "change": "Fix don't remind me again today button styling" },
+            { "build": 231, "change": "Updated norwegian localizations" },
             { "build": 230, "change": "Updated circular graphic complication to show range or soc plus one state icon - open features, charging, sentry, sleeping or range/soc unit in that order whichever comes first" },
             { "build": 229, "change": "Release notes might scroll again? Or might not - could just be really really slow on older hardware" },
             { "build": 229, "change": "Show big friggin' dismiss release notes button on watchOS 7 beta" },
