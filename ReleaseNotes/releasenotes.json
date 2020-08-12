@@ -112,5 +112,11 @@
             { "build": 200, "change": "Added debug output to Settings screen" },
             { "build": 200, "change": "Added preliminary support for push notifications when command completes in the background" }
        ]
+    },
+    {
+        "version": "9.9.9",
+        "changes": [                  
+            { "build": 999999, "change": "Seeing this is an error!" }
+        ]        
     }
 ]
