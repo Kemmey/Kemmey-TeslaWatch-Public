@@ -44,7 +44,9 @@
     },
     {
         "version": "1.0.6",
-        "changes": [                  
+        "changes": [                              
+            { "build": 233, "change": "Only show release notes up to and including current version and build" },
+            { "build": 233, "change": "Updated norwegian localizations" },
             { "build": 232, "change": "Show charge limit badge when charging" },
             { "build": 231, "change": "Fix don't remind me again today button styling" },
             { "build": 231, "change": "Updated norwegian localizations" },
