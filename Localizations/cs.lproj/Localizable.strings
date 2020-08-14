@@ -67,9 +67,6 @@
 "Set" = "Nastavit";
 "Interval" = "Interval";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Keyless drive vyžaduje heslo k účtu Tesla. Je šifrovaně uloženo v klíčence. Je NUTNÉ připojení­ k internetu, jak v hodinkách , tak ve vozidle. Nikdy nejezděte bez záložní­ho klíče:";
-//"Tip Jar" = "Tip Jar";
-//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla dělám z lásky.  Pokud máte pocit, že aplikaci používáte každý den a považujete ji za nezbytnou součást vašeho zážitku s Apple Watch - neváhejte a nechte vývojáři tip. Na oplátku nedostanete žádné zvláštní zvýhodnění­ - kromě mé vděčnosti za pomoc při podpoře mých výdajů na této aplikaci.";
-//"%@ of %@" = "%@ z %@";
 "Log out" = "Odhlásit";
 "Background image" = "Obrázek na pozadí­";
 "Image url" = "Obrázek url";
@@ -115,7 +112,6 @@
 "Unknown" = "Neznámý";
 "is not plugged in" = "není připojeno";
 
-//"Clean view while driving" = "Čistý výhled za jízdy";
 "Starting" = "Začátek";
 "Charging" = "Nabíjení";
 "%@ sunroof" = "%@ střešní okno";
@@ -135,7 +131,6 @@
 "Always" = "Vždy";
 "Hour" = "Hod";
 "Minute" = "Minuty";
-
 "Success" = "Potvrzeno";
 "Failed" = "Chyba";
 "Started charging" = "Zahájeno nabíjení";

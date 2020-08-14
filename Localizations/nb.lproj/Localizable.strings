@@ -67,11 +67,8 @@
 "Set" = "Still inn";
 "Interval" = "Intervall";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Nøkkelfri kjøring krever ditt Tesla konto passord. Det blir skjult kryptert i nøkkelringen. Det KREVES aktiv nettverksforbindelse på både klokke og kjøretøy. Kjør aldri uten reserve nøkkel:";
-//"Tip Jar" = "Bidrag";
-//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla er et hobbyprosjekt. Hvis du bruker det hver dag, og ser det som en essensiell del av din Apple Watch, skal du være velkommen til å legge til et bidrag utvikleren. Du får ikke noe for dine penger annet enn takknemlighet og takk for å støtte opp om den videre utvikling av appen.";
-//"%@ of %@" = "%@ på %@";
 "Log out" = "Logg ut";
-"Background image" = "Bakgrunnsbilde";
+"Background image" = "Bakgrunns-bilde";
 "Image url" = "Bilde url";
 "Add vehicle option codes querystring" = "Legg til bilens konfigurasjon i querystring";
 "Example: %@%@" = "Eksempel: %@%@";
@@ -109,13 +106,12 @@
 "Translators" = "Oversettere";
 "Beta testers" = "Beta testere";
 "Huge thanks to my many active beta testers!" = "En stor takk til alle mine aktive beta testere!";
-"Plug-in reminder" = "Tilkoblingspåminnelse";
+"Plug-in reminder" = "Tilkoblings-påminnelse";
 "Remove" = "Fjern";
-"Add current vehicle location" = "Legg til gjeldende kjøretøyplassering";
+"Add current vehicle location" = "Legg til gjeldende kjøretøy-plassering";
 "Unknown" = "Ukjent";
 "is not plugged in" = "er ikke tilkoblet";
 
-//"Clean view while driving" = "Clean view while driving";
 "Starting" = "Starter";
 "Charging" = "Lader";
 "%@ sunroof" = "%@ soltak";
@@ -135,7 +131,6 @@
 "Always" = "Always";
 "Hour" = "Time";
 "Minute" = "Minutt";
-
 "Success" = "Utført";
 "Failed" = "Feilet";
 "Started charging" = "Startet lading";

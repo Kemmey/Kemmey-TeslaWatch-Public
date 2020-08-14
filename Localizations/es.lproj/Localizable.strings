@@ -67,9 +67,6 @@
 "Set" = "Configurar";
 "Interval" = "Intervalo";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Arranque sin llave requiere la contraseña de la cuenta de Tesla. Esta almacenada encriptada en keychain. Conectividad de red en los dos, el reloj y el vehículo es REQUERIDA. Nunca conduzca sin una llave de respaldo:";
-//"Tip Jar" //"Frasco de Propina" = "Frasco de Propina";
-//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." //"Watch for Tesla es un fruto de amor. Si sientes que utilizas la aplicación todos los días y la consideras una parte esencial de tu experiencia con el Apple Watch - no dudes en dejar propinas para el desarrollador(a). No recibirás ningún tratamiento especial - excepto mi eterna gratitud por ayudarme con los gastos para mantener la aplicación." = "Watch for Tesla es un fruto de amor. Si sientes que utilizas la aplicación todos los días y la consideras una parte esencial de tu experiencia con el Apple Watch - no dudes en dejar propinas para el desarrollador(a). No recibirás ningún tratamiento especial - excepto mi eterna gratitud por ayudarme con los gastos para mantener la aplicación.";
-//"%@ of %@" //"%@ of %@" = "%@ of %@";
 "Log out" = "Cerrar sesión";
 "Background image" = "Imagen de fondo";
 "Image url" = "Url de la imagen";
@@ -115,7 +112,6 @@
 "Unknown" = "Desconocido";
 "is not plugged in" = "no está conectado";
 
-//"Clean view while driving" //"Limpiar vista al conducir" = "Limpiar vista al conducir";
 "Starting" = "Comenzando";
 "Charging" = "Cargando";
 "%@ sunroof" = "%@ sunroof";
@@ -135,7 +131,6 @@
 "Always" = "Siempre";
 "Hour" = "Hora";
 "Minute" = "Minuto";
-
 "Success" = "Éxito";
 "Failed" = "Fallo";
 "Started charging" = "Carga Comenzada";

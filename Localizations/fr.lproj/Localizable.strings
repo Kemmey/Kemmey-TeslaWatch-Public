@@ -67,9 +67,6 @@
 "Set" = "Définir";
 "Interval" = "Intervalle";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "La conduite sans clé nécessite le mot de passe de votre compte Tesla. Il est stocké de façon crypté dans le trousseau. Connectivité réseau de la montre et le véhicule REQUIS. Ne conduisez jamais sans clé de rechange:";
-//"Tip Jar" = "Pourboire";
-//"Watch for Tesla is a labor of love. If you feel like you use the app every day and consider it an essential part of your Apple Watch experience - feel free to leave a tip to the developer. You will not get any special treatment in return - except my eternal gratitude for helping support my expenses in maintaining this app." = "Watch for Tesla est le travail d'un passioné. Si vous utilisez l'application tous les jours et que vous la considérez comme une partie essentielle de votre expérience Apple Watch, n'hésitez pas à laisser un pourboire au développeur. Vous ne recevrez aucun traitement spécial en retour - sauf une gratitude éternelle pour avoir aidé à supporter les dépenses dans le maintien de cette application.";
-//"%@ of %@" = "%@ de %@";
 "Log out" = "Déconnexion";
 "Background image" = "Image de fond";
 "Image url" = "Url de l'image";
@@ -115,7 +112,6 @@
 "Unknown" = "Inconnue";
 "is not plugged in" = "n'est pas branché";
 
-//"Clean view while driving" = "Clean view while driving";
 "Starting" = "Début";
 "Charging" = "Chargement";
 "%@ sunroof" = "%@ toit ouvrant";
@@ -135,7 +131,6 @@
 "Always" = "Toujours";
 "Hour" = "Heure";
 "Minute" = "Minute";
-
 "Success" = "Succès";
 "Failed" = "Erreur";
 "Started charging" = "Chargement commencé";

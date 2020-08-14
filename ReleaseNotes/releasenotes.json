@@ -44,7 +44,8 @@
     },
     {
         "version": "1.0.6",
-        "changes": [                                          
+        "changes": [                      
+            { "build": 234, "change": "Indicate if defroster is active when setting seat heaters" },
             { "build": 234, "change": "Show release notes on upgrade but not on fresh installs" },
             { "build": 233, "change": "Only show release notes up to and including current version and build" },
             { "build": 233, "change": "Updated norwegian localizations" },
