@@ -45,7 +45,6 @@
     {
         "version": "1.0.6",
         "changes": [                      
-            { "build": 242, "change": "Added background events log - find it in the settings, show debug listing at the bottom. Please report any irregularities." },
             { "build": 235, "change": "*New features*" },
             { "build": 235, "change": "Streaming support - when car is in N, R or D the app will try to enable streaming allowing for quick-updating driving state panel. Tap this panel to enter full-screen for a no-distractions view while driving." },
             { "build": 235, "change": "Added seat heaters control" },
@@ -82,6 +81,12 @@
             { "build": 235, "change": "Removed support for custom background images" },
             { "build": 235, "change": "Support standard and nominal range as configured in vehicle (model s and x)" }
        ]
+    },
+    {
+        "version": "1.0.7",
+        "changes": [                      
+            { "build": 244, "change": "Initial 1.0.7 build." }
+        ]
     },
     {
         "version": "9.9.9",
