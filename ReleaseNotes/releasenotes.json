@@ -85,7 +85,7 @@
     {
         "version": "1.0.7",
         "changes": [                      
-            { "build": 252, "change": "Added rudimentary Siri support. Get lock status. Set lock statys. Get battery status. Signal visual and audio. It's there, you figure out how to make it actually do something!" },
+            { "build": 252, "change": "Added rudimentary Siri support. Get lock status. Set lock status. Get battery status. Signal visual and audio. It's there, you figure out how to make it actually do something!" },
             { "build": 252, "change": "Added Portuguese localization support." },
             { "build": 252, "change": "Added Russion localization support." }
         ]
