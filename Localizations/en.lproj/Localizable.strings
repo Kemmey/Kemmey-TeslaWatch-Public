@@ -44,8 +44,8 @@
 "%@ charge port" = "%@ charge port";
 "Activate Homelink" = "Activate Homelink";
 "Really activate Homelink?" = "Really activate Homelink?";
-"Keyless drive" = "Keyless drive";
-"Really enable keyless drive?" = "Really enable keyless drive?";
+"Keyless drive" = "Remote start";
+"Really enable keyless drive?" = "Really enable remote start?";
 "Honk!" = "Honk!";
 "Unlock port" = "Unlock port";
 "%@ port" = "%@ port";
@@ -66,7 +66,7 @@
 "Allow wake in background" = "Allow wake in background";
 "Set" = "Set";
 "Interval" = "Interval";
-"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:";
+"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Remote start requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:";
 "Log out" = "Log out";
 "Background image" = "Background image";
 "Image url" = "Image url";
@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Add current vehicle location";
 "Unknown" = "Unknown";
 "is not plugged in" = "is not plugged in";
-
 "Starting" = "Starting";
 "Charging" = "Charging";
 "%@ sunroof" = "%@ sunroof";
@@ -156,7 +155,7 @@
 "Venting windows" = "Venting windows";
 "Closing sunroof" = "Closing sunroof";
 "Venting sunroof" = "Venting sunroof";
-"Enabling keyless drive" = "Enabling keyless drive";
+"Enabling keyless drive" = "Enabling remote start";
 "Setting seat heater" = "Setting seat heater";
 "Don't remind me again today" = "Don't remind me again today";
 "Dog mode" = "Dog mode";
@@ -169,3 +168,5 @@
 "SW" = "SW";
 "W" = "W";
 "NW" = "NW";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";

@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Aktuellen Fahrzeugstandort hinzufügen";
 "Unknown" = "Unbekannt";
 "is not plugged in" = "ist nicht angeschlossen";
-
 "Starting" = "Starting";
 "Charging" = "Charging";
 "%@ sunroof" = "%@ sunroof";
@@ -156,7 +155,7 @@
 "Venting windows" = "Venting windows";
 "Closing sunroof" = "Closing sunroof";
 "Venting sunroof" = "Venting sunroof";
-"Enabling keyless drive" = "Enabling keyless drive";
+"Enabling keyless drive" = "Enabling remote start";
 "Setting seat heater" = "Setting seat heater";
 "Don't remind me again today" = "Don't remind me again today";
 "Dog mode" = "Dog mode";
@@ -169,3 +168,5 @@
 "SW" = "SW";
 "W" = "W";
 "NW" = "NW";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";

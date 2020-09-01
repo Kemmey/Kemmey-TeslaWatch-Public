@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Legg til gjeldende kjøretøy-plassering";
 "Unknown" = "Ukjent";
 "is not plugged in" = "er ikke tilkoblet";
-
 "Starting" = "Starter";
 "Charging" = "Lader";
 "%@ sunroof" = "%@ soltak";
@@ -169,3 +168,5 @@
 "SW" = "SV";
 "W" = "V";
 "NW" = "NV";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";

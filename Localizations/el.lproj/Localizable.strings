@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Προσθήκη τρέχουσας θέσης οχήματος";
 "Unknown" = "Άγνωστο";
 "is not plugged in" = "Δεν είναι συνδεδεμένο";
-
 "Starting" = "Ξεκίνημα";
 "Charging" = "Φορτίζει";
 "%@ sunroof" = "%@ ηλιοροφή";
@@ -169,3 +168,5 @@
 "SW" = "ΝΔ";
 "W" = "Δ";
 "NW" = "ΒΔ";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";

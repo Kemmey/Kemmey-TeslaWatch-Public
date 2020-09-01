@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Add current vehicle location";
 "Unknown" = "Unknown";
 "is not plugged in" = "is not plugged in";
-
 "Starting" = "Starting";
 "Charging" = "Charging";
 "%@ sunroof" = "%@ sunroof";
@@ -169,3 +168,5 @@
 "SW" = "SW";
 "W" = "W";
 "NW" = "NW";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";

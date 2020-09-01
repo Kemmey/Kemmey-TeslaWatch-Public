@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Tilføj køretøjs nuværende placering";
 "Unknown" = "Ukendt";
 "is not plugged in" = "er ikke sat til";
-
 "Starting" = "Starter";
 "Charging" = "Oplader";
 "%@ sunroof" = "%@ soltag";
@@ -156,9 +155,9 @@
 "Venting sunroof" = "Åbner soltag";
 "Enabling keyless drive" = "Aktiverer nøglefri kørsel";
 "Setting seat heater" = "Sætter sædevarme";
-"Don't remind me again today" = "Don't remind me again today";
-"Dog mode" = "Dog mode";
-"Camp mode" = "Camp mode";
+"Don't remind me again today" = "Påmind mig ikke igen i dag";
+"Dog mode" = "Kæledyr";
+"Camp mode" = "Camping";
 "N" = "N";
 "NE" = "NØ";
 "E" = "Ø";
@@ -167,3 +166,5 @@
 "SW" = "SV";
 "W" = "V";
 "NW" = "NV";
+
+"Auto-enable remote start on unlock" = "Aktiver automatisk nøglefri kørsel ved oplåsning";

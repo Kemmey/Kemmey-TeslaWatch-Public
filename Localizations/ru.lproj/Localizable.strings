@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Добавить текущую локацию авто";
 "Unknown" = "Unknown";
 "is not plugged in" = "не подключен к";
-
 "Starting" = "Starting";
 "Charging" = "Зарядка";
 "%@ sunroof" = "%@ люк";
@@ -169,3 +168,5 @@
 "SW" = "ЮЗ";
 "W" = "З";
 "NW" = "СЗ";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";

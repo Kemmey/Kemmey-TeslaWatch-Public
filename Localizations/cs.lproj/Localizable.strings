@@ -44,8 +44,8 @@
 "%@ charge port" = "%@ nabíjecí­ port";
 "Activate Homelink" = "Aktivovat Homelink";
 "Really activate Homelink?" = "Opravdu aktivovat Homelink?";
-"Keyless drive" = "Keyless drive";
-"Really enable keyless drive?" = "Opravdu zapnout keyless drive?";
+"Keyless drive" = "Remote start";
+"Really enable keyless drive?" = "Opravdu zapnout remote start?";
 "Honk!" = "Klakson!";
 "Unlock port" = "Odemknout port";
 "%@ port" = "%@ port";
@@ -66,7 +66,7 @@
 "Allow wake in background" = "Povolit probuzení­ na pozadí­";
 "Set" = "Nastavit";
 "Interval" = "Interval";
-"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Keyless drive vyžaduje heslo k účtu Tesla. Je šifrovaně uloženo v klíčence. Je NUTNÉ připojení­ k internetu, jak v hodinkách , tak ve vozidle. Nikdy nejezděte bez záložní­ho klíče:";
+"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Remote start vyžaduje heslo k účtu Tesla. Je šifrovaně uloženo v klíčence. Je NUTNÉ připojení­ k internetu, jak v hodinkách , tak ve vozidle. Nikdy nejezděte bez záložní­ho klíče:";
 "Log out" = "Odhlásit";
 "Background image" = "Obrázek na pozadí­";
 "Image url" = "Obrázek url";
@@ -111,7 +111,6 @@
 "Add current vehicle location" = "Přidat aktuální­ polohu vozidla";
 "Unknown" = "Neznámý";
 "is not plugged in" = "není připojeno";
-
 "Starting" = "Začátek";
 "Charging" = "Nabíjení";
 "%@ sunroof" = "%@ střešní okno";
@@ -156,7 +155,7 @@
 "Venting windows" = "Ventilace oken";
 "Closing sunroof" = "Zavřené strešní okno";
 "Venting sunroof" = "Ventilace střešního okna";
-"Enabling keyless drive" = "Povoleno keyless drive";
+"Enabling keyless drive" = "Povoleno remote start";
 "Setting seat heater" = "Nastaven ohřev sedadla";
 "Don't remind me again today" = "Dnes již nepřípomínat";
 "Dog mode" = "Psí mod";
@@ -169,3 +168,5 @@
 "SW" = "JZ";
 "W" = "Z";
 "NW" = "SZ";
+
+"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";
