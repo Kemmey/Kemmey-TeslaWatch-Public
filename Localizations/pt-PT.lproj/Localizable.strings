@@ -170,3 +170,9 @@
 "NW" = "NW";
 
 "Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";
+"Climate" = "Climate";
+"Lock" = "Lock";
+"Unlock" = "Unlock";
+"Reset" = "Reset";
+"Two main control rows" = "Two main control rows";
+"Drag controls to reorder" = "Drag controls to reorder";

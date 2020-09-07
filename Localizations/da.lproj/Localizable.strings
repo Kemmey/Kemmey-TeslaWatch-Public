@@ -168,3 +168,9 @@
 "NW" = "NV";
 
 "Auto-enable remote start on unlock" = "Aktiver automatisk nøglefri kørsel ved oplåsning";
+"Climate" = "Klima";
+"Lock" = "Lås";
+"Unlock" = "Lås op";
+"Reset" = "Nulstil";
+"Two main control rows" = "Vis to kontrol-rækker";
+"Drag controls to reorder" = "Træk i kontroller for at sortere";
