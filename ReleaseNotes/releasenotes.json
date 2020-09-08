@@ -91,7 +91,9 @@
             { "build": 253, "change": "Added auto-enable remote start on unlock option in settings" },
             { "build": 257, "change": "Only send plugin reminders when vehicle is in Park" },
             { "build": 257, "change": "Added ability to show two rows of main control buttons" },
-            { "build": 257, "change": "Added ability to manually sort control buttons and choose which controls show as main control buttons" }
+            { "build": 257, "change": "Added ability to manually sort control buttons and choose which controls show as main control buttons" },
+            { "build": 261, "change": "Adjusted layout of control ordering" },
+            { "build": 261, "change": "Fixed Seat heaters when used as main control" }
         ]
     },
     {
