@@ -177,3 +177,6 @@
 "Two main control rows" = "Two main control rows";
 "Drag controls to reorder" = "Drag controls to reorder";
 "Controls order" = "Controls order";
+"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Items that are greyed out will be hidden. This can cause actual control placement to shift.";
+"First row" = "First row";
+"Second row" = "Second row";
