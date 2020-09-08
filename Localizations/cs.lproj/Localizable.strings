@@ -170,10 +170,10 @@
 "NW" = "SZ";
 
 "Auto-enable remote start on unlock" = "Auto-povolení remote start při odemknutí";
-"Climate" = "Climate";
-"Lock" = "Lock";
-"Unlock" = "Unlock";
+"Climate" = "Klima";
+"Lock" = "Zámek";
+"Unlock" = "Odemknutí";
 "Reset" = "Reset";
-"Two main control rows" = "Two main control rows";
-"Drag controls to reorder" = "Drag controls to reorder";
-"Controls order" = "Controls order";
+"Two main control rows" = "Dva ovládací řádky";
+"Drag controls to reorder" = "Přetažením můžete změnit pořadí";
+"Controls order" = "Pořadí ovládání";
