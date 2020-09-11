@@ -177,6 +177,6 @@
 "Two main control rows" = "Dva ovládací řádky";
 "Drag controls to reorder" = "Přetažením můžete změnit pořadí";
 "Controls order" = "Pořadí ovládání";
-"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Items that are greyed out will be hidden. This can cause actual control placement to shift.";
-"First row" = "First row";
-"Second row" = "Second row";
+"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Položky, které jsou zašedlé, budou skryty. To může způsobit posun skutečného umístění ovládacího prvku.";
+"First row" = "První řádek";
+"Second row" = "Druhý řádek";
