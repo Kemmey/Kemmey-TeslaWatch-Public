@@ -95,7 +95,8 @@
             { "build": 261, "change": "Adjusted layout of control ordering" },
             { "build": 261, "change": "Fixed Seat heaters when used as main control" },
             { "build": 264, "change": "Updated localizations" },
-            { "build": 265, "change": "Added Compass feature from Dude! Where's my Tesla? app" }
+            { "build": 265, "change": "Added Compass feature from Dude! Where's my Tesla? app" },
+            { "build": 265, "change": "First round of watchOS 7 compatibility updates" }
         ]
     },
     {
