@@ -97,7 +97,8 @@
             { "build": 264, "change": "Updated localizations" },
             { "build": 265, "change": "Added Compass feature from Dude! Where's my Tesla? app" },
             { "build": 279, "change": "Even more watchOS 7 compatibility updates" },
-            { "build": 279, "change": "PLEASE NOTE: Controls on watchOS 7 have now moved to second tab. Swipe left and right to access and dismiss." }
+            { "build": 279, "change": "PLEASE NOTE: Controls on watchOS 7 have now moved to second tab. Swipe left and right to access and dismiss." },
+            { "build": 280, "change": "Updated login screen error messages to help debugging login issues" }
         ]
     },
     {
