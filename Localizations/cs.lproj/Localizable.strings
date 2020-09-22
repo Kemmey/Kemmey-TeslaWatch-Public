@@ -180,3 +180,8 @@
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Položky, které jsou zašedlé, budou skryty. To může způsobit posun skutečného umístění ovládacího prvku.";
 "First row" = "První řádek";
 "Second row" = "Druhý řádek";
+"Controls" = "Ovládání";
+"Compass" = "Compass";
+
+"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
+"Show inactive controls" = "Show inactive controls";

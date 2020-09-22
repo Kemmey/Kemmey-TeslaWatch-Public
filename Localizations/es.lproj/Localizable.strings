@@ -180,3 +180,8 @@
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Items that are greyed out will be hidden. This can cause actual control placement to shift.";
 "First row" = "First row";
 "Second row" = "Second row";
+"Controls" = "Controls";
+"Compass" = "Compass";
+
+"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
+"Show inactive controls" = "Show inactive controls";

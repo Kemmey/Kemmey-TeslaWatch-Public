@@ -128,6 +128,8 @@
 "Until" = "Indtil";
 "Wake" = "Opvågn";
 "Always" = "Altid";
+"Hour" = "Timer";
+"Minute" = "Minutter";
 "Success" = "Succes";
 "Failed" = "Fejlede";
 "Started charging" = "Startede opladning";
@@ -176,5 +178,10 @@
 "Drag controls to reorder" = "Træk i kontroller for at sortere";
 "Controls order" = "Sorter kontroller";
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Grå knapper bliver skjult. Dette kan få betydning for endelig placering og kan variere under brug.";
-"First row" = "First row";
-"Second row" = "Second row";
+"First row" = "Række et";
+"Second row" = "Række to";
+"Controls" = "Funktioner";
+"Compass" = "Kompas";
+
+"Enable climate to activate seat heaters" = "Tænd klima for at aktivere sædevarme";
+"Show inactive controls" = "Show inactive controls";

@@ -180,3 +180,8 @@
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Functies die grijs zijn worden verborgen. Hierdoor kunnen actieve knoppen verplaatsen.";
 "First row" = "Eerste rij";
 "Second row" = "Tweede rij";
+"Controls" = "Controls";
+"Compass" = "Compass";
+
+"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
+"Show inactive controls" = "Show inactive controls";
