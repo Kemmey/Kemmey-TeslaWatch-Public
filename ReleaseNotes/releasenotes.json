@@ -99,7 +99,7 @@
             { "build": 279, "change": "Even more watchOS 7 compatibility updates" },
             { "build": 279, "change": "PLEASE NOTE: Controls on watchOS 7 have now moved to second tab. Swipe left and right to access and dismiss." },
             { "build": 280, "change": "Updated login screen error messages to help debugging login issues" },
-            { "build": 286, "change": "Tentatively added basic Summon support. This feature is unlikely to ship to the AppStore due to legal reasons. But do test it out. Disclaimer: I CANNOT BE HELD RESPONSIBLE FOR ANY DAMAGE, METERIAL OR OTHERWISE, YOU MAY INFLICT ON YOURSELF, YOUR CAR OR OTHERS DUE TO THIS FEATURE." }
+            { "build": 288, "change": "Tentatively added basic Summon support. This feature is unlikely to ship to the AppStore due to legal reasons. But do test it out. Disclaimer: I CANNOT BE HELD RESPONSIBLE FOR ANY DAMAGE, METERIAL OR OTHERWISE, YOU MAY INFLICT ON YOURSELF, YOUR CAR OR OTHERS DUE TO THIS FEATURE." }
         ]
     },
     {
