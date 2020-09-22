@@ -85,26 +85,24 @@
     {
         "version": "1.0.7",
         "changes": [                      
-            { "build": 252, "change": "Added rudimentary Siri support. Get lock status. Set lock status. Get battery status. Signal visual and audio. It's there, you figure out how to make it actually do something!" },
-            { "build": 252, "change": "Added Portuguese localization support." },
-            { "build": 252, "change": "Added Russian localization support." },
-            { "build": 253, "change": "Added auto-enable remote start on unlock option in settings" },
-            { "build": 257, "change": "Only send plugin reminders when vehicle is in Park" },
-            { "build": 257, "change": "Added ability to show two rows of main control buttons" },
-            { "build": 257, "change": "Added ability to manually sort control buttons and choose which controls show as main control buttons" },
-            { "build": 261, "change": "Adjusted layout of control ordering" },
-            { "build": 261, "change": "Fixed Seat heaters when used as main control" },
-            { "build": 264, "change": "Updated localizations" },
-            { "build": 265, "change": "Added Compass feature from Dude! Where's my Tesla? app" },
-            { "build": 279, "change": "Even more watchOS 7 compatibility updates" },
-            { "build": 279, "change": "PLEASE NOTE: Controls on watchOS 7 have now moved to second tab. Swipe left and right to access and dismiss." },
-            { "build": 280, "change": "Updated login screen error messages to help debugging login issues" },
-            { "build": 288, "change": "Tentatively added basic Summon support. This feature is unlikely to ship to the AppStore due to legal reasons. But do test it out. Disclaimer: I CANNOT BE HELD RESPONSIBLE FOR ANY DAMAGE, METERIAL OR OTHERWISE, YOU MAY INFLICT ON YOURSELF, YOUR CAR OR OTHERS DUE TO THIS FEATURE." },
-            { "build": 289, "change": "Added toggle to show inactive controls to preserve sort ordering" },
-            { "build": 289, "change": "Updated seat heaters icons" },
-            { "build": 289, "change": "Fixed showing correct number of controls in 3 and 6 main actions mode" },
-            { "build": 289, "change": "Don't send open features notifications while driving" },
-            { "build": 289, "change": "Message about having to enable climate before activating seat heaters" }
+            { "build": 290, "change": "*New features*" },
+            { "build": 290, "change": "PLEASE NOTE: Controls on watchOS 7 have now moved to separate tab. Swipe left and right to access and dismiss." },
+            { "build": 290, "change": "Added rudimentary Siri support. Get lock status. Set lock status. Get battery status. Signal visual and audio." },
+            { "build": 290, "change": "Added Compass feature from Dude! Where's my Tesla? app - will indicate direction and distance to parked vehicle" },
+
+            { "build": 290, "change": "*Enhancements*" },
+            { "build": 290, "change": "Added auto-enable remote start on unlock option in settings" },
+            { "build": 290, "change": "Added ability to show two rows of main control buttons" },
+            { "build": 290, "change": "Added ability to manually sort control buttons and choose which controls show as main control buttons" },
+            { "build": 290, "change": "Added Portuguese localization support." },
+            { "build": 290, "change": "Added Russian localization support." },
+            { "build": 290, "change": "Updated login screen error messages to help debugging login issues" },
+            { "build": 290, "change": "Added toggle to show inactive controls to preserve sort ordering" },
+            { "build": 290, "change": "Message about having to enable climate before activating seat heaters" },
+
+            { "build": 290, "change": "*Bugfixes*" },
+            { "build": 290, "change": "Only send plugin reminders and open features reminders when vehicle is in Park" },
+            { "build": 290, "change": "Several minor watchOS 7 compatibility fixes" }
         ]
     },
     {
