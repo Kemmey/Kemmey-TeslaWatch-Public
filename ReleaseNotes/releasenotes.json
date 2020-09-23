@@ -106,6 +106,12 @@
         ]
     },
     {
+        "version": "1.0.8",
+        "changes": [                      
+            { "build": 291, "change": "Initial 1.0.8 build" }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error!" }
