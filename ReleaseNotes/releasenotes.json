@@ -110,7 +110,7 @@
         "changes": [                      
             { "build": 291, "change": "Initial 1.0.8 build" },
             { "build": 292, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
-            { "build": 292, "change": "Fixed large graphic rectangular complication showing a hanging dash" }
+            { "build": 292, "change": "Show percent battery when range unit is set to distance for large rectangular complication" }
         ]
     },
     {
