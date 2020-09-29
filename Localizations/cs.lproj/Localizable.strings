@@ -181,7 +181,7 @@
 "First row" = "První řádek";
 "Second row" = "Druhý řádek";
 "Controls" = "Ovládání";
-"Compass" = "Compass";
+"Compass" = "Kompas";
 
-"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
-"Show inactive controls" = "Show inactive controls";
+"Enable climate to activate seat heaters" = "Zapnout topení při zapnutém vyhřívání sedadel";
+"Show inactive controls" = "Zobrazit meaktivní ovladače";
