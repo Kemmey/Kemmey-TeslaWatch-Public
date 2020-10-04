@@ -114,7 +114,8 @@
             { "build": 295, "change": "Initial support for watchOS 7 complications - check out the graphic large rectangular one! Requires series 4+" },
             { "build": 299, "change": "First of many watchOS 7 action complications added - toggle lock state" },
             { "build": 300, "change": "Added watchOS 7 action complications for open frunk and toggle climate" },
-            { "build": 301, "change": "Fixed Siri lock / unlock actions were flipped" }
+            { "build": 301, "change": "Fixed Siri lock / unlock actions were flipped" },
+            { "build": 304, "change": "Updated action complication icons and updated localizations." }
         ]
     },
     {
