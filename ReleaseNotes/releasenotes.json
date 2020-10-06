@@ -118,7 +118,8 @@
             { "build": 304, "change": "Updated action complication icons and updated localizations." },
             { "build": 305, "change": "Added localizations to complication categories" },
             { "build": 305, "change": "Added confirmation to open frunk complication action" },
-            { "build": 306, "change": "Added open trunk and toggle sentry mode complication actions" }
+            { "build": 306, "change": "Added open trunk and toggle sentry mode complication actions" },
+            { "build": 307, "change": "Show loading message when loading release notes" }
         ]
     },
     {
