@@ -120,7 +120,10 @@
             { "build": 305, "change": "Added confirmation to open frunk complication action" },
             { "build": 306, "change": "Added open trunk and toggle sentry mode complication actions" },
             { "build": 307, "change": "Show loading message when loading release notes" },
-            { "build": 308, "change": "Clear plugin reminder and open features reminder notifications when these states are no longer registered" }
+            { "build": 308, "change": "Clear plugin reminder and open features reminder notifications when these states are no longer registered" },
+            { "build": 312, "change": "Fixed Siri opening the chargeport on unlock and not activating remote start when set to auto activate" },
+            { "build": 312, "change": "Vehicle chooser now caching data - should open up much faster now" },
+            { "build": 312, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" }
         ]
     },
     {
