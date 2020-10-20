@@ -185,3 +185,4 @@
 
 "Enable climate to activate seat heaters" = "Zapnout topení při zapnutém vyhřívání sedadel";
 "Show inactive controls" = "Zobrazit meaktivní ovladače";
+"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";

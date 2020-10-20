@@ -184,4 +184,5 @@
 "Compass" = "Kompas";
 
 "Enable climate to activate seat heaters" = "Tænd klima for at aktivere sædevarme";
-"Show inactive controls" = "Show inactive controls";
+"Show inactive controls" = "Vis inaktive funktioner";
+"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";

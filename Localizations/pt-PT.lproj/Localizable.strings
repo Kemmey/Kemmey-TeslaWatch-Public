@@ -185,3 +185,4 @@
 
 "Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
 "Show inactive controls" = "Show inactive controls";
+"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";
