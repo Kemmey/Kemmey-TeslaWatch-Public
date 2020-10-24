@@ -123,7 +123,9 @@
             { "build": 308, "change": "Clear plugin reminder and open features reminder notifications when these states are no longer registered" },
             { "build": 312, "change": "Fixed Siri opening the chargeport on unlock and not activating remote start when set to auto activate" },
             { "build": 312, "change": "Vehicle chooser now caching data - should open up much faster now" },
-            { "build": 312, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" }
+            { "build": 312, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" },
+            { "build": 317, "change": "Added Korean localizations, thanks to 김동영" },
+            { "build": 317, "change": "Added Italian localisations, thanks to Rocco S." }
         ]
     },
     {
