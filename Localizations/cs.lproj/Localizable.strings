@@ -187,3 +187,4 @@
 "Show inactive controls" = "Zobrazit meaktivní ovladače";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";
 "Optionally allow use of your location to show current distance to vehicle" = "Optionally allow use of your location to show current distance to vehicle";
+"Est." = "Est."; //short for Estimated
