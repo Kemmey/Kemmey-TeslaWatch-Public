@@ -126,7 +126,10 @@
             { "build": 312, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" },
             { "build": 317, "change": "Added Korean localizations, thanks to 김동영" },
             { "build": 317, "change": "Added Italian localizations, thanks to Rocco S." },
-            { "build": 318, "change": "Added estimated range optional label - show by tapping range label when in small battery mode" }
+            { "build": 318, "change": "Added estimated range optional label - show by tapping range label when in small battery mode" },
+            { "build": 331, "change": "Added an iOS counterpart app. This is VERY much a work in progress, and was not meant to be released at this time. But given current circumstances I had to get a build out." },
+            { "build": 331, "change": "With this build you will be asked to DELETE the watch app and re-install. This is because of the added iOS counterpart app." },
+            { "build": 331, "change": "Added some debug code to help figure out an ongoing issue where people are getting logged out unintentionally" }
         ]
     },
     {
