@@ -132,7 +132,10 @@
             { "build": 331, "change": "Added some debug code to help figure out an ongoing issue where people are getting logged out unintentionally" },
             { "build": 335, "change": "Deeper authentication event logging" },
             { "build": 339, "change": "Added Tesla Multifactor Authentication support. This REQUIRES the iOS companion app to be installed and login has to happen in the iOS app, and then token can be transferred to watch." },
-            { "build": 339, "change": "Updated icons" }
+            { "build": 339, "change": "Updated icons" },
+            { "build": 340, "change": "Updated complication icons" },
+            { "build": 340, "change": "Independent background image size between iOS and watchOs" },
+            { "build": 340, "change": "New app icon" }
         ]
     },
     {
