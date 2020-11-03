@@ -131,7 +131,8 @@
             { "build": 331, "change": "With this build you will be asked to DELETE the watch app and re-install. This is because of the added iOS counterpart app." },
             { "build": 331, "change": "Added some debug code to help figure out an ongoing issue where people are getting logged out unintentionally" },
             { "build": 335, "change": "Deeper authentication event logging" },
-            { "build": 339, "change": "Added Tesla Multifactor Authentication support. This REQUIRES the iOS companion app to be installed and login has to happen in the iOS app, and then token can be transferred to watch." }
+            { "build": 339, "change": "Added Tesla Multifactor Authentication support. This REQUIRES the iOS companion app to be installed and login has to happen in the iOS app, and then token can be transferred to watch." },
+            { "build": 339, "change": "Updated icons" }
         ]
     },
     {
