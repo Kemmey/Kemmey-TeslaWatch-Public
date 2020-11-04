@@ -135,7 +135,8 @@
             { "build": 339, "change": "Updated icons" },
             { "build": 340, "change": "Updated complication icons" },
             { "build": 340, "change": "Independent background image size between iOS and watchOs" },
-            { "build": 340, "change": "New app icon" }
+            { "build": 340, "change": "New app icon" },
+            { "build": 341, "change": "Added four new complication actions: Remote start, Homelink, Defrost and Unlock charge port" }
         ]
     },
     {
