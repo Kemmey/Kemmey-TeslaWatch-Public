@@ -138,7 +138,8 @@
             { "build": 340, "change": "New app icon" },
             { "build": 341, "change": "Added four new complication actions: Remote start, Homelink, Defrost and Unlock charge port" },
             { "build": 342, "change": "Updated graphic complication corner image assets" },
-            { "build": 343, "change": "Still optimizing MFA token flow - now refreshing token one minute before expiry to prevent in-flight expirations" }
+            { "build": 343, "change": "Still optimizing MFA token flow - now refreshing token one minute before expiry to prevent in-flight expirations" },
+            { "build": 344, "change": "Fixed controls re-ordering on iOS. Adjusted UI a bit on iOS - still a lot of work remaining." }
         ]
     },
     {
