@@ -137,7 +137,8 @@
             { "build": 340, "change": "Independent background image size between iOS and watchOs" },
             { "build": 340, "change": "New app icon" },
             { "build": 341, "change": "Added four new complication actions: Remote start, Homelink, Defrost and Unlock charge port" },
-            { "build": 342, "change": "Updated graphic complication corner image assets" }
+            { "build": 342, "change": "Updated graphic complication corner image assets" },
+            { "build": 342, "change": "Still optimizing MFA token flow - now refreshing token one minute before expiry to prevent in-flight expirations" }
         ]
     },
     {
