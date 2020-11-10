@@ -108,38 +108,38 @@
     {
         "version": "1.0.8",
         "changes": [                      
-            { "build": 291, "change": "Initial 1.0.8 build" },
-            { "build": 292, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." },
-            { "build": 294, "change": "Show percent battery when range unit is set to distance for large rectangular complication" },
-            { "build": 295, "change": "Initial support for watchOS 7 complications - check out the graphic large rectangular one! Requires series 4+" },
-            { "build": 299, "change": "First of many watchOS 7 action complications added - toggle lock state" },
-            { "build": 300, "change": "Added watchOS 7 action complications for open frunk and toggle climate" },
-            { "build": 301, "change": "Fixed Siri lock / unlock actions were flipped" },
-            { "build": 304, "change": "Updated action complication icons and updated localizations." },
-            { "build": 305, "change": "Added localizations to complication categories" },
-            { "build": 305, "change": "Added confirmation to open frunk complication action" },
-            { "build": 306, "change": "Added open trunk and toggle sentry mode complication actions" },
-            { "build": 307, "change": "Show loading message when loading release notes" },
-            { "build": 308, "change": "Clear plugin reminder and open features reminder notifications when these states are no longer registered" },
-            { "build": 312, "change": "Fixed Siri opening the chargeport on unlock and not activating remote start when set to auto activate" },
-            { "build": 312, "change": "Vehicle chooser now caching data - should open up much faster now" },
-            { "build": 312, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" },
-            { "build": 317, "change": "Added Korean localizations, thanks to 김동영" },
-            { "build": 317, "change": "Added Italian localizations, thanks to Rocco S." },
-            { "build": 318, "change": "Added estimated range optional label - show by tapping range label when in small battery mode" },
-            { "build": 331, "change": "Added an iOS counterpart app. This is VERY much a work in progress, and was not meant to be released at this time. But given current circumstances I had to get a build out." },
-            { "build": 331, "change": "With this build you will be asked to DELETE the watch app and re-install. This is because of the added iOS counterpart app." },
-            { "build": 331, "change": "Added some debug code to help figure out an ongoing issue where people are getting logged out unintentionally" },
-            { "build": 335, "change": "Deeper authentication event logging" },
-            { "build": 339, "change": "Added Tesla Multifactor Authentication support. This REQUIRES the iOS companion app to be installed and login has to happen in the iOS app, and then token can be transferred to watch." },
-            { "build": 339, "change": "Updated icons" },
-            { "build": 340, "change": "Updated complication icons" },
-            { "build": 340, "change": "Independent background image size between iOS and watchOs" },
-            { "build": 340, "change": "New app icon" },
-            { "build": 341, "change": "Added four new complication actions: Remote start, Homelink, Defrost and Unlock charge port" },
-            { "build": 342, "change": "Updated graphic complication corner image assets" },
-            { "build": 343, "change": "Still optimizing MFA token flow - now refreshing token one minute before expiry to prevent in-flight expirations" },
-            { "build": 344, "change": "Fixed controls re-ordering on iOS. Adjusted UI a bit on iOS - still a lot of work remaining." }
+            { "build": 345, "change": "*New features*" },
+            { "build": 345, "change": "Added an iOS counterpart app. Please install this to your phone and login with the new Multi Factor Authorization flow. Logging in with MFA should also solve the sporadic logout issue some people were experiencing" },
+            { "build": 345, "change": "Added watchOS 7 action complications. Following actions can now be added directly to watch face: Unlock, open frunk, toggle climate, open trunk, toggle sentry, remote start, activate Homelink, start defrost and unlock charge port" },
+            { "build": 345, "change": "Added Korean localizations, thanks to 김동영" },
+            { "build": 345, "change": "Added Italian localizations, thanks to Rocco S." },
+            { "build": 345, "change": "Added estimated range optional label - show by tapping range label when in small battery mode" },
+
+            { "build": 345, "change": "*Enhancements*" },
+            { "build": 345, "change": "Show percent battery when range unit is set to distance for large rectangular complication" },
+            { "build": 345, "change": "Show loading message when loading release notes" },
+            { "build": 345, "change": "Clear plugin reminder and open features reminder notifications when these states are no longer registered" },
+            { "build": 345, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" },
+            { "build": 345, "change": "Updated icononography" },
+            { "build": 345, "change": "Updated graphic complication corner image assets" },
+            { "build": 345, "change": "Vehicle chooser now caching data - should open up much faster now" },
+ 
+            { "build": 345, "change": "*Bugfixes*" },
+            { "build": 345, "change": "Fixed Siri lock / unlock actions did the opposite as requested" },
+            { "build": 345, "change": "Fixed Siri opening the chargeport on unlock and not activating remote start when set to auto activate" }
+        ]
+    },
+    {
+        "version": "1.0.9",
+        "changes": [                      
+            { "build": 346, "change": "Minor metadata changes" }
+        ]
+    },
+    {
+        "version": "1.1.0",
+        "changes": [                      
+            { "build": 350, "change": "Initial 1.1.0 build" },
+            { "build": 350, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
     {
