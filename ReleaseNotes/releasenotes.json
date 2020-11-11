@@ -138,7 +138,9 @@
     {
         "version": "1.1.0",
         "changes": [                      
-            { "build": 350, "change": "Initial 1.1.0 build" },
+            { "build": 348, "change": "Initial 1.1.0 build" },
+            { "build": 348, "change": "UI adjustedments to the iOS companion app" },
+            { "build": 349, "change": "Adjusted the background color" },
             { "build": 350, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
