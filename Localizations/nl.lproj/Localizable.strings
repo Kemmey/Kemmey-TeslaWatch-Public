@@ -121,7 +121,7 @@
 "is open" = "is open";
 "Sentry active" = "Sentry actief";
 "sentry on" = "sentry aan";
-"Seat heaters" = "Seat heaters";
+"Seat heaters" = "Stoelverwarming";
 "No vehicle data" = "Geen autogegevens";
 "Choose vehicle" = "Kies auto";
 "Allow wake" = "Ontwaken toestaan";
@@ -181,9 +181,9 @@
 "First row" = "Eerste rij";
 "Second row" = "Tweede rij";
 "Controls" = "Controls";
-"Compass" = "Compass";
+"Compass" = "Kompas";
 
-"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
+"Enable climate to activate seat heaters" = "Enable climate to activate stoelverwarming";
 "Show inactive controls" = "Show inactive controls";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";
 "Optionally allow use of your location to show current distance to vehicle" = "Optionally allow use of your location to show current distance to vehicle";
@@ -193,4 +193,11 @@
 "State" = "Energiepercentage";
 "Icon" = "Icoon";
 "Open trunk" = "Achterbak openen";
-"Unlock charge port" = "Unlock charge port";
+"Unlock charge port" = "Ontgrendel laadpoort";
+"Login with token" = "Login met token";
+"Login with Tesla" = "Login met Tesla";
+"Rate this app" = "Rate this app";
+"Always confirm complication actions" = "Always confirm complication actions";
+"Activate climate" = "Activate climate";
+"Deactivate climate" = "Deactivate climate";
+"Please confirm" = "Please confirm";"
