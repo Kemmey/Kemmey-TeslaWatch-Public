@@ -139,9 +139,10 @@
         "version": "1.1.0",
         "changes": [                      
             { "build": 348, "change": "Initial 1.1.0 build" },
-            { "build": 348, "change": "UI adjustedments to the iOS companion app" },
-            { "build": 349, "change": "Adjusted the background color" },
-            { "build": 350, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
+            { "build": 353, "change": "UI adjustedments - colors, backgrounds, gradients, padding, sizing of things" },
+            { "build": 353, "change": "Added button in settings on iOS to rate the app on the App Store" },
+            { "build": 353, "change": "Added setting to disable confirmation of complication actions. Non-reversible actions always require confirmation." },
+            { "build": 999, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
     {
