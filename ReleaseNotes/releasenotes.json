@@ -144,6 +144,7 @@
             { "build": 353, "change": "Added setting to disable confirmation of complication actions. Non-reversible actions always require confirmation." },
             { "build": 354, "change": "Size of controls on controls page are now reduced on iOS" },
             { "build": 355, "change": "Fixed second row controls being equal size" },
+            { "build": 356, "change": "Re-instated controls ordering and remote start for iOS app" },
             { "build": 999, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
