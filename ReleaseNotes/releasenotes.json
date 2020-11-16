@@ -148,6 +148,8 @@
             { "build": 358, "change": "No longer show empty group when unplugged" },
             { "build": 358, "change": "Fixed padding around settings button" },
             { "build": 358, "change": "Removed tab-view on iOS. Access controls by button below main controls" },
+            { "build": 359, "change": "Always use dark mode colors on iOS" },
+            { "build": 359, "change": "Adjusted some background colors and refactored some UI code" },
             { "build": 999, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
