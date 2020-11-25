@@ -165,6 +165,8 @@
             { "build": 380, "change": "Updates to the streaming implementation. Should be a bit more reliable now, but still not completely stable. Force quit app to resume streaming if not working." },
             { "build": 380, "change": "Appearance picker now instantly applies - but also returns to front page. Caveat: Status bar will always follow system theme." },
             { "build": 381, "change": "Fixed broken widgets - background image was too memory intensive." },
+            { "build": 382, "change": "Fixed watch app renderer" },
+            { "build": 382, "change": "Fixed iPad vehicle background resolution" },
             { "build": 999, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
