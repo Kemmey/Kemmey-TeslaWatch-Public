@@ -200,4 +200,9 @@
 "Always confirm complication actions" = "Vždy potvrdit akci komplikace";
 "Activate climate" = "Activace klimatizace";
 "Deactivate climate" = "Deactivace klimatizace";
-"Please confirm" = "Prosím potvrďte";"
+"Please confirm" = "Prosím potvrďte";
+"Always confirm widget actions" = "Always confirm widget actions";
+"Offline" = "Offline";
+"No network connection" = "No network connection";
+"Please confirm Widget action" = "Please confirm Widget action";
+"Confirm" = "Confirm";

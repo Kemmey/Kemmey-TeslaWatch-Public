@@ -200,4 +200,9 @@
 "Always confirm complication actions" = "Conferma sempre le azioni di complicazione";
 "Activate climate" = "Attiva clima";
 "Deactivate climate" = "Disattiva clima";
-"Please confirm" = "Per favore conferma";"
+"Please confirm" = "Per favore conferma";
+"Always confirm widget actions" = "Always confirm widget actions";
+"Offline" = "Offline";
+"No network connection" = "No network connection";
+"Please confirm Widget action" = "Please confirm Widget action";
+"Confirm" = "Confirm";
