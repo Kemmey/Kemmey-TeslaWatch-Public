@@ -167,6 +167,8 @@
             { "build": 381, "change": "Fixed broken widgets - background image was too memory intensive." },
             { "build": 382, "change": "Fixed watch app renderer" },
             { "build": 382, "change": "Fixed iPad vehicle background resolution" },
+            { "build": 384, "change": "Fixed widgets not loading - iPad background is back to low resolution for now" },
+            { "build": 385, "change": "Fixed proper labels when triggering widget actions and using same labels when reordering controls" },
             { "build": 999, "change": "Now showing Summon control again during beta. Not tested working except my own car, so don't get your hopes up." }
         ]
     },
