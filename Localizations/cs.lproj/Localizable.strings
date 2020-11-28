@@ -184,7 +184,7 @@
 "Compass" = "Kompas";
 
 "Enable climate to activate seat heaters" = "Zapnout topení při zapnutém vyhřívání sedadel";
-"Show inactive controls" = "Zobrazit meaktivní ovladače";
+"Show inactive controls" = "Zobrazit neaktivní ovladače";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Nelze ověřit. Ujistěte se, že účet není uzamčen - ověřte se přihlášením ke svému účtu na tesla.com";
 "Optionally allow use of your location to show current distance to vehicle" = "Volitelně povolte použití vaší polohy k zobrazení aktuální vzdálenosti k autu";
 "Est." = "Reál"; //short for Estimated
@@ -201,8 +201,8 @@
 "Activate climate" = "Activace klimatizace";
 "Deactivate climate" = "Deactivace klimatizace";
 "Please confirm" = "Prosím potvrďte";
-"Always confirm widget actions" = "Always confirm widget actions";
+"Always confirm widget actions" = "Vždy potvrdit akci widgetu";
 "Offline" = "Offline";
-"No network connection" = "No network connection";
-"Please confirm Widget action" = "Please confirm Widget action";
-"Confirm" = "Confirm";
+"No network connection" = "Žádné připojení k síti";
+"Please confirm Widget action" = "Prosím potvrďte akci Widgetu";
+"Confirm" = "Potvrzeno";
