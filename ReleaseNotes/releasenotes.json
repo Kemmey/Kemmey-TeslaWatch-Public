@@ -162,7 +162,9 @@
     {
         "version": "1.1.1",
         "changes": [                      
-            { "build": 389, "change": "Initial 1.1.1 build" }
+            { "build": 390, "change": "*Bugfixes*" },
+            { "build": 390, "change": "Fixed crash when tapping controls on watchOS 6 and iOS 13" },
+            { "build": 390, "change": "Fixed Open trunk and Open frunk labels accidentally being swapped" }
         ]
     },
     {
