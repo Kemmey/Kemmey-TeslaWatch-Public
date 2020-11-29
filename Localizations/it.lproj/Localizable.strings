@@ -57,7 +57,7 @@
 "Location of %@" = "Posizione di %@";
 "Location" = "Posizione";
 "Flash!" = "Flash!";
-"Waking" = "Sveglia";
+"Waking" = "Risveglio";
 "Sending" = "Invia";
 "Loading" = "Caricamento";
 "Online" = "Online";
@@ -69,7 +69,7 @@
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "L'avvio remoto ha bisogno del tuo TESLA Account. Viene salvato criptato nel keychain. La connettività nel Watch e veicolo è NECESSARIA. NON guidare mai senza chiave di backup:";
 "Log out" = "Log out";
 "Background image" = "Immagine di sfondo";
-"Image url" = "Image url";
+"Image url" = "Indirizzo immagine";
 "Add vehicle option codes querystring" = "Aggiungi stringa di query codici opzione veicolo";
 "Example: %@%@" = "Esempio: %@%@";
 "Vehicle open" = "Veicolo aperto";
@@ -90,11 +90,11 @@
 "Closing windows" = "Chiudi finestrini";
 "km" = "km";
 "mi" = "mi";
-"d" = "d";
-"h" = "h";
+"d" = "g";
+"h" = "o";
 "m" = "m";
 "s" = "s";
-"hr" = "hr";
+"hr" = "ore";
 "min" = "min";
 "Open Watch for Tesla support website" = "Apri il sito Web di supporto di Watch for Tesla";
 "For assistance, please see FAQ at:" = "Per assistenza, vedere le domande frequenti:";
@@ -143,8 +143,8 @@
 "Set charge limit" = "Imposta limite ricarica";
 "Starting HVAC" = "Starting HVAC";
 "Stopping HVAC" = "Stopping HVAC";
-"Started defroster" = "Defroster avviato";
-"Stopped defroster" = "Defroster fermato";
+"Started defroster" = "Sbrinatore avviato";
+"Stopped defroster" = "Sbrinatore interrotto";
 "Honking" = "Suono!";
 "Flashing the lights" = "Lampeggia luci";
 "Set temps" = "Imposta temperatura";
@@ -153,8 +153,8 @@
 "Activating Homelink" = "Attivazione Homelink";
 "Closing windows" = "Chiusura finestrini";
 "Venting windows" = "Ventilazione finestrini";
-"Closing sunroof" = "Chiusura sunroof";
-"Venting sunroof" = "Ventilazione sunroof";
+"Closing sunroof" = "Chiudi tettuccio";
+"Venting sunroof" = "Apri tettuccio";
 "Enabling keyless drive" = "Abilitazione avvio remoto";
 "Setting seat heater" = "Impostazioni riscaldamento sedili";
 "Don't remind me again today" = "Non ricordarmelo piu oggi";
