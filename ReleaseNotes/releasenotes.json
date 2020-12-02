@@ -168,6 +168,18 @@
         ]
     },
     {
+        "version": "1.1.2",
+        "changes": [                      
+            { "build": 396, "change": "*Bugfixes*" },
+            { "build": 396, "change": "Updated token handling - now using v2 / v3 hybrid - should reduce network requests by 50%" },
+            { "build": 396, "change": "Updated italian translations" },
+            { "build": 396, "change": "Set max size for controls - should behave better on iPad now" },
+            { "build": 396, "change": "Updated italian translations" },
+            { "build": 396, "change": "Added chinese translations" },
+            { "build": 396, "change": "Added Updated ago label to widgets" }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error!" }
