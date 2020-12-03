@@ -176,7 +176,10 @@
             { "build": 396, "change": "Set max size for controls - should behave better on iPad now" },
             { "build": 396, "change": "Updated italian translations" },
             { "build": 396, "change": "Added chinese translations" },
-            { "build": 396, "change": "Added Updated ago label to widgets" }
+            { "build": 396, "change": "Added Updated ago label to widgets" },
+            { "build": 397, "change": "Switch to showing usable battery level - should account for minor discrepancy between official app and this app, as well as cold weather" },
+            { "build": 397, "change": "Refactored drivekey password handling. Again. Might prevent continous loss of the password. Then again, might not." },
+            { "build": 397, "change": "Added max height on battery header - makes iPad a bit more bearable. " }
         ]
     },
     {
