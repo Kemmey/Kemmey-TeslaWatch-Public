@@ -4,7 +4,7 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2020 Kim Hansen. All rights reserved.
-  Localized by Kim Hansen
+  Localized by Jackie Lau - jackie.lau@me.com
 */
 "Hide Controls" = "隐藏控制";
 "Show Controls" = "显示控制";
@@ -204,5 +204,9 @@
 "Always confirm widget actions" = "始终确认小组件的动作";
 "Offline" = "离线";
 "No network connection" = "没有车辆连接到网络";
-"Please confirm Widget action" = "请确认小组件的动作";
-"Confirm" = "确认";
+"Updated " = "Updated ";
+" ago" = " ago";
+"Appearance" = "Appearance";
+"Light" = "Light";
+"Dark" = "Dark";
+"Auto" = "Auto";
