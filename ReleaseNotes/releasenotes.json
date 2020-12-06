@@ -170,17 +170,16 @@
     {
         "version": "1.1.2",
         "changes": [                      
-            { "build": 396, "change": "*Bugfixes*" },
-            { "build": 396, "change": "Updated token handling - now using v2 / v3 hybrid - should reduce network requests by 50%" },
-            { "build": 396, "change": "Updated italian translations" },
-            { "build": 396, "change": "Set max size for controls - should behave better on iPad now" },
-            { "build": 396, "change": "Updated italian translations" },
-            { "build": 396, "change": "Added chinese translations" },
-            { "build": 396, "change": "Added Updated ago label to widgets" },
-            { "build": 397, "change": "Switch to showing usable battery level - should account for minor discrepancy between official app and this app, as well as cold weather" },
-            { "build": 397, "change": "Refactored drivekey password handling. Again. Might prevent continous loss of the password. Then again, might not." },
-            { "build": 397, "change": "Added max height on battery header - makes iPad a bit more bearable." },
-            { "build": 405, "change": "Adjusted data displayed in medium and large status widgets" }
+            { "build": 408, "change": "*Enhancements*" },
+            { "build": 408, "change": "Adjusted data displayed in medium and large status widgets" },
+            { "build": 408, "change": "Added chinese localization thanks to Jackie Lau" },
+
+            { "build": 408, "change": "*Bugfixes*" },
+            { "build": 408, "change": "Updated token handling - now using v2 / v3 hybrid - should reduce network requests by 50%" },
+            { "build": 408, "change": "Set max size for controls - should behave better on iPad now" },
+            { "build": 408, "change": "Switch to showing usable battery level - should account for minor discrepancy between official app and this app, as well as cold weather" },
+            { "build": 408, "change": "Fixed bug where remote start password would sporadically be cleared" },
+            { "build": 408, "change": "Added max height on battery header - should behave better on iPad now" }
         ]
     },
     {
