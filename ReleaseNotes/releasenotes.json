@@ -170,15 +170,15 @@
     {
         "version": "1.1.2",
         "changes": [                      
-            { "build": 410, "change": "*Enhancements*" },
-            { "build": 410, "change": "Adjusted data displayed in medium and large status widgets" },
-            { "build": 410, "change": "Added Chinese localization thanks to Jackie Lau" },
-            { "build": 410, "change": "*Bugfixes*" },
-            { "build": 410, "change": "Updated token handling - now using v2 / v3 hybrid - should reduce network requests by 50%" },
-            { "build": 410, "change": "Set max size for controls - should behave better on iPad now" },
-            { "build": 410, "change": "Switch to showing usable battery level - should account for minor discrepancy between official app and this app, as well as cold weather" },
-            { "build": 410, "change": "Fixed bug where remote start password would sporadically be cleared" },
-            { "build": 410, "change": "Added max height on battery header - should behave better on iPad now" }
+            { "build": 411, "change": "*Enhancements*" },
+            { "build": 411, "change": "Adjusted data displayed in medium and large status widgets" },
+            { "build": 411, "change": "Added Chinese localization thanks to Jackie Lau" },
+            { "build": 411, "change": "*Bugfixes*" },
+            { "build": 411, "change": "Updated token handling - now using v2 / v3 hybrid - should reduce network requests by 50%" },
+            { "build": 411, "change": "Set max size for controls - should behave better on iPad now" },
+            { "build": 411, "change": "Switch to showing usable battery level - should account for minor discrepancy between official app and this app, as well as cold weather" },
+            { "build": 411, "change": "Fixed bug where remote start password would sporadically be cleared" },
+            { "build": 411, "change": "Added max height on battery header - should behave better on iPad now" }
         ]
     },
     {
