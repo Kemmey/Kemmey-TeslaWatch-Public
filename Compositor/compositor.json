@@ -1,0 +1,85 @@
+{
+    "wheels": {
+        "ms": {
+            "AeroTurbine20": "WT20",
+            "AeroTurbine19": "WTAS",
+            "Turbine19": "WTTB",
+            "Arachnid21Grey": "WTAB",
+            "AeroTurbine22": "WT22",
+            "Super21Gray": "WTSG",
+            "Slipstream19Carbon": "WTDS",
+            "Base19": "WTAS",
+            "Aero19": "WTAS",
+            "Turbine19Dark": "WTDS",
+            "Tempest19SonicSilver": "WTDS",
+            "default": "WTTB"
+        },
+        "m3": {
+            "Pinwheel18": "W38B",
+            "Pinwheel18CapKit": "W38B",
+            "Sportwheel19": "W39B",
+            "Stiletto19": "W39B",
+            "Stiletto20DarkSquare": "W32D",
+            "Performancewheel20": "W32P",
+            "Stiletto20": "W32P",
+            "Stiletto20DarkStaggered": "W32D",
+            "Gemini19Square": "W38B",
+            "Gemini19Staggered": "W38B",
+            "default": "W39B"
+        },
+        "mx": {
+            "AeroTurbine20": "WT20",
+            "AeroTurbine19": "WTAS",
+            "Turbine19": "WTTB",
+            "Arachnid21Grey": "WTAB",
+            "AeroTurbine22": "WT22",
+            "Super21Gray": "WTSG",
+"Slipstream20Dark": "WTSC",
+            "default": "WT20"
+        },
+        "my": {
+            "18": "WY18B",
+            "19": "WY19B",
+            "20": "WY20P",
+            "21": "WY21P",
+            "default": "WY19B"
+        }
+    },
+    "colors": {
+        "ObsidianBlack": "PMBL",
+        "SolidBlack": "PMBL", 
+        "MetallicBlack": "PMBL", 
+        "DeepBlueMetallic": "PPSB", 
+        "DeepBlue": "PPSB", 
+        "RedMulticoat": "PPMR", 
+        "Red": "PPMR", 
+        "MidnightSilverMetallic": "PMNG", 
+        "MidnightSilver": "PMNG", 
+        "SteelGrey": "PMNG", 
+        "SilverMetallic": "PMNG", 
+        "MetallicBrown": "PMAB", 
+        "Brown": "PMAB", 
+        "Silver": "PMSS", 
+        "TitaniumCopper": "PPTI", 
+        "DolphinGrey": "PMTG", 
+        "Green": "PMSG", 
+        "MetallicGreen": "PMSG", 
+        "PearlWhiteMulticoat": "PPSW", 
+        "PearlWhite": "PPSW", 
+        "Pearl": "PPSW", 
+        "SolidWhite": "PBCW", 
+        "White": "PBCW", 
+        "SignatureBlue": "PPSB", 
+        "MetallicBlue": "PMMB", 
+        "SignatureRed": "PPSR", 
+        "default": "PBSB"
+    },
+    "models": {
+        "models": "ms",
+        "models2": "ms",
+        "model3": "m3",
+        "modelx": "mx",
+        "modely": "my",
+        "default": "m3"
+    }
+}

@@ -1,0 +1,190 @@
+[
+    {
+        "version": "1.0.4",
+        "changes": [
+            { "build": 87, "change": "Fixed settings menu not being accessible on Series 3 and below" },
+
+            { "build": 87, "change": "Removed Tip Jar in-app purchases" },
+            { "build": 87, "change": "Some complications now indicate if sentry mode is active" },
+            { "build": 87, "change": "Updated UI in vehicle chooser" },
+            { "build": 87, "change": "Added estimated time of completion when charging - tap the time remaining label to toggle" },
+            { "build": 87, "change": "Added section to show if any vehicle features are open" },
+            { "build": 87, "change": "Added indicator to some complications if any vehicle features are open" },
+            { "build": 87, "change": "Added defrost toggle control" },
+            { "build": 87, "change": "Show Unlock Port in force touch context menu. This will stop charging if charging and unlock the charge port, if a cable is connected. This will be available even if the car is already unlocked. Should make it easy to always be able to disconnect charge cable, no matter what state the car is in. Just force touch, tap unlock port and port should unlock and allow cable to be disconnected." },
+            { "build": 87, "change": "Added background image support." },
+            { "build": 87, "change": "Close windows when tapping open features alert panel" },
+            { "build": 87, "change": "Tap big battery to switch to small battery and range panel instead" },
+            { "build": 87, "change": "Show if sentry is active in new small battery panel" },
+            { "build": 87, "change": "Link to FAQ in login screen and settings screen" },
+            { "build": 87, "change": "Added Handover of FAQ url - when on the login or settings page nearby devices will allow opening the FAQ url from Handoff" },
+            { "build": 87, "change": "Removed app logo stencil and added actual Settings button instead. Not too many people got the Tesla logo easter-egg reference" },
+            { "build": 87, "change": "Added a credits section to the about screen" },
+            { "build": 87, "change": "Will only update in background if complication is active" }
+        ]
+    },
+    {
+        "version": "1.0.5",
+        "changes": [
+            { "build": 87, "change": "Fixed settings menu not being accessible on Series 3 and below" },
+            { "build": 87, "change": "New feature - plug-in reminder. Toggle on in settings and add vehicles current location for each location you wish to get notified if vehicle is not plugged in, when at given location. " },
+            { "build": 87, "change": "Added Twitter account to login and about screens for easier access to support" },
+            { "build": 87, "change": "Made the settings button a proper normal button" },
+            { "build": 87, "change": "Added Twitter handle for app to login and about screens" },
+            { "build": 87, "change": "Updated some classic complications to show charge state, sentry and open features warning" },
+            { "build": 87, "change": "Validate background image url - should prevent crash on bad url" },
+            { "build": 87, "change": "Will no longer schedule background updates if vehicle is below 20%" },
+            { "build": 87, "change": "Some complication gauges and the battery icons will now show yellow or red colors if battery is below 20% or 10%" },
+            { "build": 87, "change": "In vehicle chooser, model, model year and AWD is now decoded from VIN. No decode of Ludicrous/Performance or other special models yet!" },
+            { "build": 87, "change": "Updated localizations" },
+            { "build": 87, "change": "Added proper charging view when Supercharging. Tesla unfortunately hides actual amperage and voltage, so actual power and “range per hour” is shown instead - as in the car." },
+            { "build": 87, "change": "Added French localization" },
+            { "build": 87, "change": "Will now show SC when supercharger is connected, instead of wrongly showing 1x16 A." }
+        ]
+    },
+    {
+        "version": "1.0.6",
+        "changes": [                      
+            { "build": 235, "change": "*New features*" },
+            { "build": 235, "change": "Streaming support - when car is in N, R or D the app will try to enable streaming allowing for quick-updating driving state panel. Tap this panel to enter full-screen for a no-distractions view while driving." },
+            { "build": 235, "change": "Added seat heaters control" },
+            { "build": 235, "change": "Added allow wake between feature - only allow car to be woken up in certain hours - for instance to allow it to deep sleep during the night" },
+            { "build": 235, "change": "Added option to enable local notification if any vehicle features are open - this will only be triggered from background updates, so if those are off or vehicle cannot be woken up, these will not trigger" },
+            { "build": 235, "change": "Dismiss open features reminder for the rest of the day (if you leave the windows open on purpose, for instance)" },
+            { "build": 235, "change": "Added Sunroof control to vehicles with support for that" },
+            { "build": 235, "change": "Added push notifications when command completes in the background" },
+            { "build": 235, "change": "*Enhancements*" },
+            { "build": 235, "change": "Updated circular graphic complication to show range or soc plus one state icon - open features, charging, sentry, sleeping or range/soc unit in that order whichever comes first" },
+            { "build": 235, "change": "Background update every 15 minutes while driving and every 5 minutes while supercharging" },
+            { "build": 235, "change": "Now showing release notes since last build on first run" },
+            { "build": 235, "change": "In detailed header mode, show Dog mode or Camp mode when active" },
+            { "build": 235, "change": "Added charge time and charge limit when in detailed header mode and charging" },
+            { "build": 235, "change": "Added black background to big battery to make range label more readable at lower charge states" },
+            { "build": 235, "change": "Added software update availability, download and install status to vehicle chooser" },
+            { "build": 235, "change": "Added lock-state to open features warning - tap warning panel to quickly close and lock" },
+            { "build": 235, "change": "Added Sunroof to open features checks and warnings - can close with tap on warning" },
+            { "build": 235, "change": "Added sleeping indicator to some complications" },
+            { "build": 235, "change": "Some complications will now show range if sentry is not active and SoC is set to percent in vehicle" },
+            { "build": 235, "change": "Added debug output to Settings screen" },
+            { "build": 235, "change": "*Bugfixes*" },
+            { "build": 235, "change": "Hide window controls for Model S vehicles" },
+            { "build": 235, "change": "Removed logout after re-install in preparation for new features" },
+            { "build": 235, "change": "Adjusted vehicle name size in vehicle chooser" },
+            { "build": 235, "change": "Added initial view when no data is present" },
+            { "build": 235, "change": "Now showing vehicle model when no custom name is set" },
+            { "build": 235, "change": "Only show keyless drive settings and button if enabled in vehicle" },
+            { "build": 235, "change": "When charging is only scheduled to start and not departure, only start will be shown" },
+            { "build": 235, "change": "Fixed background updates waking up when not allowed" },
+            { "build": 235, "change": "Adjusted layouts to be more scaleable to varying string lengths" },
+            { "build": 235, "change": "Fix for location button not visible" },
+            { "build": 235, "change": "Only show charger-phases if known" },
+            { "build": 235, "change": "Removed support for custom background images" },
+            { "build": 235, "change": "Support standard and nominal range as configured in vehicle (model s and x)" }
+       ]
+    },
+    {
+        "version": "1.0.7",
+        "changes": [                      
+            { "build": 290, "change": "*New features*" },
+            { "build": 290, "change": "PLEASE NOTE: Controls on watchOS 7 have now moved to separate tab. Swipe left and right to access and dismiss." },
+            { "build": 290, "change": "Added rudimentary Siri support. Get lock status. Set lock status. Get battery status. Signal visual and audio." },
+            { "build": 290, "change": "Added Compass feature from Dude! Where's my Tesla? app - will indicate direction and distance to parked vehicle" },
+
+            { "build": 290, "change": "*Enhancements*" },
+            { "build": 290, "change": "Added auto-enable remote start on unlock option in settings" },
+            { "build": 290, "change": "Added ability to show two rows of main control buttons" },
+            { "build": 290, "change": "Added ability to manually sort control buttons and choose which controls show as main control buttons" },
+            { "build": 290, "change": "Added Portuguese localization support." },
+            { "build": 290, "change": "Added Russian localization support." },
+            { "build": 290, "change": "Updated login screen error messages to help debugging login issues" },
+            { "build": 290, "change": "Added toggle to show inactive controls to preserve sort ordering" },
+            { "build": 290, "change": "Message about having to enable climate before activating seat heaters" },
+
+            { "build": 290, "change": "*Bugfixes*" },
+            { "build": 290, "change": "Only send plugin reminders and open features reminders when vehicle is in Park" },
+            { "build": 290, "change": "Several minor watchOS 7 compatibility fixes" }
+        ]
+    },
+    {
+        "version": "1.0.8",
+        "changes": [                      
+            { "build": 345, "change": "*New features*" },
+            { "build": 345, "change": "Added an iOS counterpart app. Please install this to your phone and login with the new Multi Factor Authorization flow. Logging in with MFA should also solve the sporadic logout issue some people were experiencing" },
+            { "build": 345, "change": "Added watchOS 7 action complications. Following actions can now be added directly to watch face: Unlock, open frunk, toggle climate, open trunk, toggle sentry, remote start, activate Homelink, start defrost and unlock charge port" },
+            { "build": 345, "change": "Added Korean localizations, thanks to 김동영" },
+            { "build": 345, "change": "Added Italian localizations, thanks to Rocco S." },
+            { "build": 345, "change": "Added estimated range optional label - show by tapping range label when in small battery mode" },
+
+            { "build": 345, "change": "*Enhancements*" },
+            { "build": 345, "change": "Show percent battery when range unit is set to distance for large rectangular complication" },
+            { "build": 345, "change": "Show loading message when loading release notes" },
+            { "build": 345, "change": "Clear plugin reminder and open features reminder notifications when these states are no longer registered" },
+            { "build": 345, "change": "Added message to login screen, warning about possible account lockout if unable to authenticate" },
+            { "build": 345, "change": "Updated icononography" },
+            { "build": 345, "change": "Updated graphic complication corner image assets" },
+            { "build": 345, "change": "Vehicle chooser now caching data - should open up much faster now" },
+ 
+            { "build": 345, "change": "*Bugfixes*" },
+            { "build": 345, "change": "Fixed Siri lock / unlock actions did the opposite as requested" },
+            { "build": 345, "change": "Fixed Siri opening the chargeport on unlock and not activating remote start when set to auto activate" }
+        ]
+    },
+    {
+        "version": "1.0.9",
+        "changes": [                      
+            { "build": 346, "change": "Minor metadata changes" }
+        ]
+    },
+    {
+        "version": "1.1.0",
+        "changes": [                      
+            { "build": 387, "change": "*New features*" },
+            { "build": 387, "change": "Widgets! On iOS and iPadOS 14 you can now add status and controls widgets." },
+            { "build": 387, "change": "Added iPad support" },
+            { "build": 387, "change": "Added setting to disable confirmation of complication or widget actions. Non-reversible actions always require confirmation." },
+            { "build": 387, "change": "Added background widget update support for iOS" },
+            { "build": 387, "change": "iOS, iPadOS and Widgets can now toggle between light mode, dark mode and auto theme" },
+            
+            { "build": 387, "change": "*Enhancements*" },
+            { "build": 387, "change": "UI adjustedments - colors, backgrounds, gradients, padding, sizing of things" },
+            { "build": 387, "change": "Size of controls on controls page are now reduced on iOS" },
+            { "build": 387, "change": "Re-instated controls ordering and remote start for iOS app" },
+            { "build": 387, "change": "Removed tab-view on iOS. Access controls by button below main controls" },
+            { "build": 387, "change": "Re-introduced allow wake between to iOS" },
+            { "build": 387, "change": "Fixed proper labels when triggering widget actions and using same labels when reordering controls" },
+
+            { "build": 387, "change": "*Bugfixes*" },
+            { "build": 387, "change": "Improved token handling - more retries, less fatal logouts" },
+            { "build": 387, "change": "Added network connectivity detection - app will show if not properly connected to Tesla servers" },
+            { "build": 387, "change": "Fixed driving mode view on iOS" }
+        ]
+    },
+    {
+        "version": "1.1.1",
+        "changes": [                      
+            { "build": 390, "change": "*Bugfixes*" },
+            { "build": 390, "change": "Fixed crash when tapping controls on watchOS 6 and iOS 13" },
+            { "build": 390, "change": "Fixed Open trunk and Open frunk labels accidentally being swapped" }
+        ]
+    },
+    {
+        "version": "1.1.2",
+        "changes": [                      
+            { "build": 411, "change": "*Enhancements*" },
+            { "build": 411, "change": "Adjusted data displayed in medium and large status widgets" },
+            { "build": 411, "change": "Added Chinese localization thanks to Jackie Lau" },
+            { "build": 411, "change": "*Bugfixes*" },
+            { "build": 411, "change": "Updated token handling - now using v2 / v3 hybrid - should reduce network requests by 50%" },
+            { "build": 411, "change": "Set max size for controls - should behave better on iPad now" },
+            { "build": 411, "change": "Switch to showing usable battery level - should account for minor discrepancy between official app and this app, as well as cold weather" },
+            { "build": 411, "change": "Fixed bug where remote start password would sporadically be cleared" },
+            { "build": 411, "change": "Added max height on battery header - should behave better on iPad now" }
+        ]
+    },
+    {
+        "version": "9.9.9",
+        "changes": [                  
+            { "build": 999999, "change": "Seeing this is an error!" }
+        ]        
+    }
+]
