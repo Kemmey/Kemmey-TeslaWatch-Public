@@ -210,3 +210,16 @@
 "Light" = "Lyst";
 "Dark" = "Mørkt";
 "Auto" = "Auto";
+
+"Hide debug" = "Hide debug";
+"Show debug" = "Show debug";
+"Changelog" = "Changelog";
+"Debug" = "Debug";
+"Vehicle" = "Vehicle";
+"Power" = "Power";
+"Drive state" = "Drive state";
+"Range" = "Range";
+"App debug" = "App debug";
+"Background events" = "Background events";
+"Authentication events" = "Authentication events";
+"Clear cache" = "Clear cache";
