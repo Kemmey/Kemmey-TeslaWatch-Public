@@ -194,7 +194,10 @@
     {
         "version": "1.1.4",
         "changes": [                      
-            { "build": 417, "change": "Initial 1.1.4 build" }
+            { "build": 417, "change": "Initial 1.1.4 build" },
+            { "build": 421, "change": "Updated Chinese localizations" },
+            { "build": 421, "change": "When data is older than one hour, interface is now dimmed out." },
+            { "build": 424, "change": "Updated Swiss German localizations" }
         ]
     },
     {
