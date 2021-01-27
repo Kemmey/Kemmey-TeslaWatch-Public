@@ -211,15 +211,15 @@
 "Dark" = "Tmavá";
 "Auto" = "Auto";
 
-"Hide debug" = "Hide debug";
-"Show debug" = "Show debug";
-"Changelog" = "Changelog";
-"Debug" = "Debug";
-"Vehicle" = "Vehicle";
-"Power" = "Power";
-"Drive state" = "Drive state";
-"Range" = "Range";
-"App debug" = "App debug";
-"Background events" = "Background events";
-"Authentication events" = "Authentication events";
-"Clear cache" = "Clear cache";
+"Hide debug" = "Skrýt opravy";
+"Show debug" = "Zobrazit opravy";
+"Changelog" = "Seznam změn";
+"Debug" = "Opravy";
+"Vehicle" = "Auto";
+"Power" = "Napájení";
+"Drive state" = "Stav jednotky";
+"Range" = "Dojezd";
+"App debug" = "App opravy";
+"Background events" = "Události na pozadí";
+"Authentication events" = "Ověřování";
+"Clear cache" = "Vymazání cache";
