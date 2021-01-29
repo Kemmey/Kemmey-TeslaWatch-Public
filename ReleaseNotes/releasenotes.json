@@ -199,7 +199,9 @@
             { "build": 421, "change": "When data is older than one hour, interface is now dimmed out." },
             { "build": 424, "change": "Updated Swiss German localizations" },
             { "build": 425, "change": "Added snowflake icon when battery is cold and below capacity" },
-            { "build": 426, "change": "Added support for activating heated steering wheel along with heated seats" }
+            { "build": 426, "change": "Added support for activating heated steering wheel along with heated seats" },
+            { "build": 427, "change": "Updated Czech localizations" },
+            { "build": 427, "change": "PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method." }
         ]
     },
     {
