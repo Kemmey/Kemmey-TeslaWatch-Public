@@ -204,7 +204,8 @@
             { "build": 427, "change": "PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method." },
             { "build": 429, "change": "Improved token handling when refreshing expired tokens" },
             { "build": 429, "change": "Improved logging when posts fail" },
-            { "build": 430, "change": "iOS widgets will now be dimmed when vehicle data is older than one hour, like main app." }
+            { "build": 430, "change": "iOS widgets will now be dimmed when vehicle data is older than one hour, like main app." },
+            { "build": 431, "change": "Will now try to force refresh token whenever an access denied response is encountered" }
         ]
     },
     {
