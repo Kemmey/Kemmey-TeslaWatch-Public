@@ -194,20 +194,21 @@
     {
         "version": "1.1.4",
         "changes": [                      
-            { "build": 434, "change": "*New features*" },
-            { "build": 434, "change": "IMPORTANT PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method. If you had previously logged in directly on the watch itself, please find the Watch for Tesla app in the App Store on your phone and install it, and use that to login. Your login will then be transferred to the watch. This is NOT a separate purchase - it is the same app and same purchase as on the watch. I'm really sorry for the inconvenience. Thanks." },
-            { "build": 434, "change": "Added support for activating heated steering wheel along with heated seats." },
-            { "build": 434, "change": "*Enhancements*" },
-            { "build": 434, "change": "Updated Chinese localizations." },
-            { "build": 434, "change": "Updated Swiss German localizations." },
-            { "build": 434, "change": "Updated Czech localizations." },
-            { "build": 434, "change": "When data is older than one hour, interface and widgets are now dimmed." },
-            { "build": 434, "change": "Added snowflake icon when battery is cold and below capacity." },
-            { "build": 434, "change": "Added ability for user to manually email debug logs to developer. Nothing will EVER be sent automatically!" },
-            { "build": 434, "change": "*Bugfixes*" },
-            { "build": 434, "change": "Improved token handling when refreshing expired tokens." },
-            { "build": 434, "change": "Improved logging when requests fail." },
-            { "build": 434, "change": "Will now try to force refresh token whenever an access denied response is encountered." }
+            { "build": 437, "change": "*New features*" },
+            { "build": 437, "change": "IMPORTANT PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method. If you had previously logged in directly on the watch itself, please find the Watch for Tesla app in the App Store on your phone and install it, and use that to login. Your login will then be transferred to the watch. This is NOT a separate purchase - it is the same app and same purchase as on the watch. I'm really sorry for the inconvenience. Thanks." },
+            { "build": 437, "change": "Added support for activating heated steering wheel along with heated seats." },
+            { "build": 437, "change": "*Enhancements*" },
+            { "build": 437, "change": "Updated Chinese localizations." },
+            { "build": 437, "change": "Updated Swiss German localizations." },
+            { "build": 437, "change": "Updated Czech localizations." },
+            { "build": 437, "change": "When data is older than one hour, interface and widgets are now dimmed." },
+            { "build": 437, "change": "Added snowflake icon when battery is cold and below capacity." },
+            { "build": 437, "change": "Added ability for user to manually email debug logs to developer. Nothing will EVER be sent automatically!" },
+            { "build": 437, "change": "*Bugfixes*" },
+            { "build": 437, "change": "Improved token handling when refreshing expired tokens." },
+            { "build": 437, "change": "Improved logging when requests fail." },
+            { "build": 437, "change": "Will now try to force refresh token whenever an access denied response is encountered." },
+            { "build": 437, "change": "Login from China now using local login form." }
         ]
     },
     {
