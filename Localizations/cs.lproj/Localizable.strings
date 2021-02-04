@@ -190,7 +190,7 @@
 "Est." = "Reál"; //short for Estimated
 "If you have the iOS companion app installed, you can transfer your login to the watch" = "Pokud máte nainstalovanou doprovodnou aplikaci pro iOS, můžete své přihlašovací údaje přenést do hodinek";
 "Transfer login" = "Přenos přihlášení";
-"State" = "Stát";
+"State" = "Pozastaveno";
 "Icon" = "Ikona";
 "Open trunk" = "Otevřít kufr";
 "Unlock charge port" = "Odemknout nabíjecí port";
@@ -207,19 +207,19 @@
 "Updated " = "aktualizováno ";
 " ago" = " před";
 "Appearance" = "Vzhled";
-"Light" = "Světlá";
-"Dark" = "Tmavá";
+"Light" = "Světlý";
+"Dark" = "Tmavý";
 "Auto" = "Auto";
 
-"Hide debug" = "Skrýt opravy";
-"Show debug" = "Zobrazit opravy";
+"Hide debug" = "Skrýt data";
+"Show debug" = "Zobrazit data";
 "Changelog" = "Seznam změn";
-"Debug" = "Opravy";
+"Debug" = "Data";
 "Vehicle" = "Auto";
 "Power" = "Napájení";
 "Drive state" = "Stav jednotky";
 "Range" = "Dojezd";
-"App debug" = "App opravy";
+"App debug" = "App data";
 "Background events" = "Události na pozadí";
 "Authentication events" = "Ověřování";
 "Clear cache" = "Vymazání cache";
