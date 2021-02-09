@@ -194,21 +194,22 @@
     {
         "version": "1.1.4",
         "changes": [                      
-            { "build": 438, "change": "*New features*" },
-            { "build": 438, "change": "IMPORTANT PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method. If you had previously logged in directly on the watch itself, please find the Watch for Tesla app in the App Store on your phone and install it, and use that to login. Your login will then be transferred to the watch. This is NOT a separate purchase - it is the same app and same purchase as on the watch. I'm really sorry for the inconvenience. Thanks." },
-            { "build": 438, "change": "Added support for activating heated steering wheel along with heated seats." },
-            { "build": 438, "change": "*Enhancements*" },
-            { "build": 438, "change": "Updated Chinese localizations." },
-            { "build": 438, "change": "Updated Swiss German localizations." },
-            { "build": 438, "change": "Updated Czech localizations." },
-            { "build": 438, "change": "When data is older than one hour, interface and widgets are now dimmed." },
-            { "build": 438, "change": "Added snowflake icon when battery is cold and below capacity." },
-            { "build": 438, "change": "Added ability for user to manually email debug logs to developer. Nothing will EVER be sent automatically!" },
-            { "build": 438, "change": "*Bugfixes*" },
-            { "build": 438, "change": "Improved token handling when refreshing expired tokens." },
-            { "build": 438, "change": "Improved logging when requests fail." },
-            { "build": 438, "change": "Will now try to force refresh token whenever an access denied response is encountered." },
-            { "build": 438, "change": "Login from China now using local login form." }
+            { "build": 441, "change": "*New features*" },
+            { "build": 441, "change": "IMPORTANT PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method. If you had previously logged in directly on the watch itself, please find the Watch for Tesla app in the App Store on your phone and install it, and use that to login. Your login will then be transferred to the watch. This is NOT a separate purchase - it is the same app and same purchase as on the watch. I'm really sorry for the inconvenience. Thanks." },
+            { "build": 441, "change": "Added support for activating heated steering wheel along with heated seats." },
+            { "build": 441, "change": "*Enhancements*" },
+            { "build": 441, "change": "Updated Chinese localizations." },
+            { "build": 441, "change": "Updated Swiss German localizations." },
+            { "build": 441, "change": "Updated Czech localizations." },
+            { "build": 441, "change": "When data is older than one hour, interface and widgets are now dimmed." },
+            { "build": 441, "change": "Added snowflake icon when battery is cold and below capacity." },
+            { "build": 441, "change": "Added ability for user to manually email debug logs to developer. Nothing will EVER be sent automatically!" },
+            { "build": 441, "change": "Updated the login form UI." },
+            { "build": 441, "change": "*Bugfixes*" },
+            { "build": 441, "change": "Improved token handling when refreshing expired tokens." },
+            { "build": 441, "change": "Improved logging when requests fail." },
+            { "build": 441, "change": "Will now try to force refresh token whenever an access denied response is encountered." },
+            { "build": 441, "change": "Login from China now using local login form." }
         ]
     },
     {
