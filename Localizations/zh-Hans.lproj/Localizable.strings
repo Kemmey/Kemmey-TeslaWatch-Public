@@ -6,9 +6,9 @@
   Copyright © 2020 Kim Hansen. All rights reserved.
   Localized by Jackie Lau - jackie.lau@me.com
 */
-"Hide Controls" = "隐藏控制";
-"Show Controls" = "显示控制";
-"Charging scheduled" = "充电计划";
+"Hide Controls" = "隐藏控制项";
+"Show Controls" = "显示控制项";
+"Charging scheduled" = "充电规划";
 "Start at %@" = "从%@开始";
 "Depart at %@" = "在%@出发";
 "Stop charging" = "停止充电";
@@ -53,21 +53,21 @@
 "Disable Sentry" = "禁用哨兵模式";
 "Enable Sentry" = "启用哨兵模式";
 "Vent" = "通风";
-"%@ windows" = "%@车窗";
+"%@ windows" = "开窗%@";
 "Location of %@" = "%@的位置";
 "Location" = "位置";
 "Flash!" = "闪灯";
 "Waking" = "唤醒";
 "Sending" = "发送中";
 "Loading" = "加载中";
-"Online" = "在线";
+"Online" = "已在线";
 "Settings" = "设定";
 "Background updates" = "后台更新";
 "Allow wake in background" = "允许后台唤醒";
 "Set" = "设定";
 "Interval" = "间隔";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "无钥匙启动需要您的特斯拉帐号密码，它以加密方式存储在钥匙串中，手表和车辆均需要网络连接，没有备份密钥切勿开车：";
-"Log out" = "登出";
+"Log out" = "退出登录";
 "Background image" = "背景图片";
 "Image url" = "图片网址";
 "Add vehicle option codes querystring" = "添加车辆选项请求代码";
@@ -119,7 +119,7 @@
 "Unlocked" = "已解锁";
 "Open features reminder" = "开启功能提醒";
 "is open" = "已打开";
-"Sentry active" = "哨兵模式激活";
+"Sentry active" = "激活哨兵模式";
 "sentry on" = "哨兵模式运行中";
 "Seat heaters" = "座椅加热";
 "No vehicle data" = "没有车辆数据";
@@ -141,8 +141,8 @@
 "Opened frunk" = "前备箱已打开";
 "Opened trunk" = "后备箱已打开";
 "Set charge limit" = "设置充电限额";
-"Starting HVAC" = "开始暖风空调";
-"Stopping HVAC" = "停止暖风空调";
+"Starting HVAC" = "启动空调";
+"Stopping HVAC" = "关闭空调";
 "Started defroster" = "开始除霜";
 "Stopped defroster" = "停止除霜";
 "Honking" = "鸣笛";
@@ -211,15 +211,21 @@
 "Dark" = "深色";
 "Auto" = "自动";
 
-"Hide debug" = "Hide debug";
-"Show debug" = "Show debug";
-"Changelog" = "Changelog";
-"Debug" = "Debug";
-"Vehicle" = "Vehicle";
-"Power" = "Power";
-"Drive state" = "Drive state";
-"Range" = "Range";
-"App debug" = "App debug";
-"Background events" = "Background events";
-"Authentication events" = "Authentication events";
-"Clear cache" = "Clear cache";
+"Hide debug" = "隐藏调试信息";
+"Show debug" = "显示调试信息";
+"Changelog" = "版本更新日志";
+"Debug" = "调试";
+"Vehicle" = "车辆信息";
+"Power" = "电量";
+"Drive state" = "行驶状态";
+"Range" = "续航里程";
+"App debug" = "应用程序调试";
+"Background events" = "后台事件";
+"Authentication events" = "身份验证事件";
+"Clear cache" = "清空缓存";
+
+"Setting steering wheel heater" = "Setting steering wheel heater";
+"Turn on steering wheel heater" = "Turn on steering wheel heater";
+"Turn off steering wheel heater" = "Turn off steering wheel heater";
+"Close frunk" = "Close frunk";
+"Really close frunk?" = "Really close frunk?";

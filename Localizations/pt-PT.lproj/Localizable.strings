@@ -223,3 +223,9 @@
 "Background events" = "Background events";
 "Authentication events" = "Authentication events";
 "Clear cache" = "Clear cache";
+
+"Setting steering wheel heater" = "Setting steering wheel heater";
+"Turn on steering wheel heater" = "Turn on steering wheel heater";
+"Turn off steering wheel heater" = "Turn off steering wheel heater";
+"Close frunk" = "Close frunk";
+"Really close frunk?" = "Really close frunk?";
