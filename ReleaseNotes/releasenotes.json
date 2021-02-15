@@ -217,6 +217,15 @@
         ]
     },
     {
+        "version": "1.1.5",
+        "changes": [                      
+            { "build": 452, "change": "*New features*" },
+            { "build": 452, "change": "Preliminary Shortcuts action donation support" },
+            { "build": 452, "change": "*Enhancements*" },
+            { "build": 452, "change": "*Bugfixes*" }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error!" }
