@@ -222,7 +222,8 @@
             { "build": 452, "change": "*New features*" },
             { "build": 452, "change": "Preliminary Shortcuts action donation support" },
             { "build": 452, "change": "*Enhancements*" },
-            { "build": 452, "change": "*Bugfixes*" }
+            { "build": 452, "change": "*Bugfixes*" },
+            { "build": 453, "change": "Fixed open and close trunk and frunk Shortcuts actions - will now always perform open or close - not toggle state" }
         ]
     },
     {
