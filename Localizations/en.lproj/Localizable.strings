@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Kim Hansen
 */
 "Hide Controls" = "Hide Controls";
@@ -229,3 +229,9 @@
 "Turn off steering wheel heater" = "Turn off steering wheel heater";
 "Close frunk" = "Close frunk";
 "Really close frunk?" = "Really close frunk?";
+
+"Want your Shortcut featured here? Get in contact!" = "Want your Shortcut featured here? Get in contact!";
+"Loading shortcuts" = "Loading shortcuts";
+"No shortcuts" = "No shortcuts";
+"Shortcuts" = "Shortcuts";
+"About to buy a new Tesla? Use my referral code!" = "About to buy a new Tesla? Use my referral code!";
