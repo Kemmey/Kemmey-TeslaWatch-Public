@@ -220,14 +220,11 @@
         "version": "1.1.5",
         "changes": [                      
             { "build": 452, "change": "*New features*" },
-            { "build": 452, "change": "Preliminary Shortcuts action donation support" },
+            { "build": 452, "change": "Initial batch of Siri Shortcuts actions added: Close Charge Port, Close Frunk,  Close Trunk,  Disable Sentry,  Enable Sentry,  Lock,  Open Charge Port,  Open Frunk,  Open Trunk,  Start Charging,  Start Climate,  Start Defrost,  Stop Charging,  Stop Climate,  Stop Defrost,  Unlock" },
             { "build": 455, "change": "Added new Shortcuts section under Settings - get in contact if you want your Shortcuts featured here!" },
             { "build": 452, "change": "*Enhancements*" },
-            { "build": 452, "change": "*Bugfixes*" },
             { "build": 454, "change": "Added referral link to Settings screen - sorry about the shameless plug, but it will help support the app!" },
-            { "build": 454, "change": "Adjusted stale data dimming window down from one hour to 15 minutes" },
-            { "build": 454, "change": "Fixed open/close trunk/frunk shortcuts actions - for real this time" },
-            { "build": 455, "change": "Fixed close trunk/frunk shortcuts actions when trunk not fully open" }
+            { "build": 454, "change": "Adjusted stale data dimming window down from one hour to 15 minutes" }
         ]
     },
     {
