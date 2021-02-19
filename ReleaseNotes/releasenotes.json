@@ -219,12 +219,12 @@
     {
         "version": "1.1.5",
         "changes": [                      
-            { "build": 452, "change": "*New features*" },
-            { "build": 452, "change": "Initial batch of Siri Shortcuts actions added: Close Charge Port, Close Frunk,  Close Trunk,  Disable Sentry,  Enable Sentry,  Lock,  Open Charge Port,  Open Frunk,  Open Trunk,  Start Charging,  Start Climate,  Start Defrost,  Stop Charging,  Stop Climate,  Stop Defrost,  Unlock" },
-            { "build": 455, "change": "Added new Shortcuts section under Settings - get in contact if you want your Shortcuts featured here!" },
-            { "build": 452, "change": "*Enhancements*" },
-            { "build": 454, "change": "Added referral link to Settings screen - sorry about the shameless plug, but it will help support the app!" },
-            { "build": 454, "change": "Adjusted stale data dimming window down from one hour to 15 minutes" }
+            { "build": 457, "change": "*New features*" },
+            { "build": 457, "change": "Initial batch of Siri Shortcuts actions added: Close Charge Port, Close Frunk,  Close Trunk,  Disable Sentry,  Enable Sentry,  Lock,  Open Charge Port,  Open Frunk,  Open Trunk,  Start Charging,  Start Climate,  Start Defrost,  Stop Charging,  Stop Climate,  Stop Defrost,  Unlock" },
+            { "build": 457, "change": "Added new Shortcuts section under Settings - get in contact if you want your Shortcuts featured here!" },
+            { "build": 457, "change": "*Enhancements*" },
+            { "build": 457, "change": "Added referral link to Settings screen - sorry about the shameless plug, but it will help support the app!" },
+            { "build": 457, "change": "Adjusted stale data dimming window down from one hour to 15 minutes" }
         ]
     },
     {
