@@ -233,6 +233,7 @@
             { "build": 459, "change": "*New features*" },
             { "build": 459, "change": "Start/stop charging control added" },
             { "build": 459, "change": "Start/stop charging complication added" },
+            { "build": 460, "change": "Set charge limit Siri Shortcuts action added" },
             { "build": 459, "change": "*Enhancements*" },
             { "build": 459, "change": "*Bugfixes*" }
         ]
