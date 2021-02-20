@@ -228,6 +228,16 @@
         ]
     },
     {
+        "version": "1.1.6",
+        "changes": [                      
+            { "build": 459, "change": "*New features*" },
+            { "build": 459, "change": "Start/stop charging control added" },
+            { "build": 459, "change": "Start/stop charging complication added" },
+            { "build": 459, "change": "*Enhancements*" },
+            { "build": 459, "change": "*Bugfixes*" }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error!" }
