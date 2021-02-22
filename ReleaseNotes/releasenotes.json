@@ -237,7 +237,8 @@
             { "build": 461, "change": "Added Vent and Close windows, Trigger Homelink and Get Vehicle State Siri Shortcuts actions" },
             { "build": 462, "change": "Made start/stop charging control visibility dependent on charger connected or not" },
             { "build": 459, "change": "*Enhancements*" },
-            { "build": 459, "change": "*Bugfixes*" }
+            { "build": 455, "change": "*Bugfixes*" },
+            { "build": 465, "change": "Improved background execution. Actions should now properly complete or fail in background, and not run when app is activated after being dormant for multiple hours." }
         ]
     },
     {
