@@ -238,7 +238,9 @@
             { "build": 462, "change": "Made start/stop charging control visibility dependent on charger connected or not" },
             { "build": 459, "change": "*Enhancements*" },
             { "build": 455, "change": "*Bugfixes*" },
-            { "build": 465, "change": "Improved background execution. Actions should now properly complete or fail in background, and not run when app is activated after being dormant for multiple hours." }
+            { "build": 465, "change": "Improved background execution. Actions should now properly complete or fail in background, and not run when app is activated after being dormant for multiple hours." },
+            { "build": 477, "change": "Added active vehicle chooser to settings when multiple vehicles exists on account." },
+            { "build": 477, "change": "Added Add to Siri buttons in revamped Shortcuts section." }
         ]
     },
     {
