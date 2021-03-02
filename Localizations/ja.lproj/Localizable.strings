@@ -264,12 +264,9 @@
 "Close Frunk" = "Close Frunk";
 "Get Vehicle State" = "Get Vehicle State";
 "Vehicle Name" = "Vehicle Name";
-"${vehicleState}" = "${vehicleState}";
 "Range Estimated KM" = "Range Estimated KM";
-"Close Frunk" = "Close Frunk";
 "Open Features" = "Open Features";
 "What level?" = "What level?";
-"Close Frunk" = "Close Frunk";
 "Outside Temp F" = "Outside Temp F";
 "Level" = "Level";
 "Sentry Active" = "Sentry Active";
@@ -277,13 +274,9 @@
 "Climate Active" = "Climate Active";
 "Range Rated KM" = "Range Rated KM";
 "Charge to ${level}%" = "Charge to ${level}%";
-"Vehicle State" = "Vehicle State";
-"Get Vehicle State" = "Get Vehicle State";
 "Charge Limit" = "Charge Limit";
-"Get Vehicle State" = "Get Vehicle State";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName} can’t be negative.";
 "Is Charging" = "Is Charging";
 "Inside Temp C" = "Inside Temp C";
-"Charge to ${level}%" = "Charge to ${level}%";
 "Range Rated M" = "Range Rated M";
