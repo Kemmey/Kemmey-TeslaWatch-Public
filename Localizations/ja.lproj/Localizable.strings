@@ -247,10 +247,12 @@
 "Stop Charging" = "Stop Charging";
 "Stop Climate" = "Stop Climate";
 "Stop Defrost" = "Stop Defrost";
-"Trigger Homelink" = "Trigger Homelink";
+"Trigger Homelink" = "Signal Homelink";
 "Vent Windows" = "Vent Windows";
 "Controls page" = "Controls page";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Please install the app on your iPhone and perform login there, then transfer login to Watch";
 
+//Siri
 "Result" = "Result";
 "${displayName} can’t be lower than ${minimumValue}." = "${displayName} can’t be lower than ${minimumValue}.";
 "State Of Charge" = "State Of Charge";
@@ -280,3 +282,4 @@
 "Is Charging" = "Is Charging";
 "Inside Temp C" = "Inside Temp C";
 "Range Rated M" = "Range Rated M";
+"Signal Homelink" = "Signal Homelink";
