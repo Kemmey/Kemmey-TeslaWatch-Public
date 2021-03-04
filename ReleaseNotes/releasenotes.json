@@ -243,8 +243,8 @@
             { "build": 477, "change": "Added Add to Siri buttons in revamped Shortcuts section." },
             { "build": 480, "change": "Fixed Add to Siri buttons in Shortcuts section on iOS." },
             { "build": 480, "change": "A lot of housekeeping, making Siri Shortcuts actions easier to localize." },
-            { "build": 491, "change": "Fixed Add to Siri button not being visible when in Dark Mode." },
-            { "build": 491, "change": "Updated localizations." }
+            { "build": 496, "change": "Fixed Add to Siri button not being visible when in Dark Mode." },
+            { "build": 496, "change": "Updated localizations." }
         ]
     },
     {
