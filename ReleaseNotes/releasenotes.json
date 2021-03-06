@@ -247,7 +247,10 @@
             { "build": 496, "change": "Updated localizations." },
             { "build": 499, "change": "Added Wake siri action." },
             { "build": 499, "change": "Updated localizations." },
-            { "build": 499, "change": "Added Start/Stop charge as a possible widget control." }
+            { "build": 499, "change": "Added Start/Stop charge as a possible widget control." },
+            { "build": 504, "change": "Fixed localizations for mapping label." },
+            { "build": 504, "change": "Properly clear UI after logging out." },
+            { "build": 504, "change": "Added Unlock Charge Port Siri Shortcut action." }
         ]
     },
     {
