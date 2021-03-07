@@ -250,7 +250,8 @@
             { "build": 499, "change": "Added Start/Stop charge as a possible widget control." },
             { "build": 504, "change": "Fixed localizations for mapping label." },
             { "build": 504, "change": "Properly clear UI after logging out." },
-            { "build": 504, "change": "Added Unlock Charge Port Siri Shortcut action." }
+            { "build": 504, "change": "Added Unlock Charge Port Siri Shortcut action." },
+            { "build": 506, "change": "Fix for unsupported vehicle during wake." }
         ]
     },
     {
