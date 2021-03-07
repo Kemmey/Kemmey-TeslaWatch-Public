@@ -251,7 +251,8 @@
             { "build": 504, "change": "Fixed localizations for mapping label." },
             { "build": 504, "change": "Properly clear UI after logging out." },
             { "build": 504, "change": "Added Unlock Charge Port Siri Shortcut action." },
-            { "build": 506, "change": "Fix for unsupported vehicle during wake." }
+            { "build": 506, "change": "Fix for unsupported vehicle during wake." },
+            { "build": 508, "change": "Completely rewrote the code redemption part of the login flow. Please, please, try to log out and log back in to test that the login flow works properly! And make sure to report back any errors! Your help with this is GREATLY appreciated!" }
         ]
     },
     {
