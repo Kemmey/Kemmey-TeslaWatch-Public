@@ -224,33 +224,33 @@
 "Authentication events" = "Ověřování";
 "Clear cache" = "Vymazání cache";
 
-"Setting steering wheel heater" = "Setting steering wheel heater";
-"Turn on steering wheel heater" = "Turn on steering wheel heater";
-"Turn off steering wheel heater" = "Turn off steering wheel heater";
-"Close frunk" = "Close frunk";
-"Really close frunk?" = "Really close frunk?";
+"Setting steering wheel heater" = "Nastavení vyhřívání volantu";
+"Turn on steering wheel heater" = "Zapnout vyhřívání volantu";
+"Turn off steering wheel heater" = "Vypnout vyhřívání volantu";
+"Close frunk" = "Zavřít kufr";
+"Really close frunk?" = "Opravdu zavřít kufr?";
 
-"Shortcuts" = "Shortcuts";
-"About to buy a new Tesla? Use my referral code!" = "About to buy a new Tesla? Use my referral code!";
-"Active vehicle" = "Active vehicle";
+"Shortcuts" = "Zkratky";
+"About to buy a new Tesla? Use my referral code!" = "Chystáte se koupit novou Teslu? Použijte můj referál kód!";
+"Active vehicle" = "Zvolené vozidlo";
 
-"Close Charge Port" = "Close Charge Port";
-"Close Trunk" = "Close Trunk";
-"Close Windows" = "Close Windows";
-"Open Charge Port" = "Open Charge Port";
-"Open Trunk" = "Open Trunk";
-"Open Frunk" = "Open Frunk";
-"Set Charge Limit" = "Set Charge Limit";
-"Start Charging" = "Start Charging";
-"Start Climate" = "Start Climate";
-"Start Defrost" = "Start Defrost";
-"Stop Charging" = "Stop Charging";
-"Stop Climate" = "Stop Climate";
-"Stop Defrost" = "Stop Defrost";
+"Close Charge Port" = "Zavřít nabíjecí port";
+"Close Trunk" = "Zavřít kufr";
+"Close Windows" = "Zavřít okna";
+"Open Charge Port" = "Otevřít nabíjecí port";
+"Open Trunk" = "Otevřít kufr";
+"Open Frunk" = "Otevřít přední kufr";
+"Set Charge Limit" = "Nastavit nabíjecí limit";
+"Start Charging" = "Spustit nabíjení";
+"Start Climate" = "Spustit klima";
+"Start Defrost" = "Spustit odmrazování";
+"Stop Charging" = "Zastavit nabíjení";
+"Stop Climate" = "Zastavit klimu";
+"Stop Defrost" = "Zastavit odmrazování";
 "Trigger Homelink" = "Signal Homelink";
-"Vent Windows" = "Vent Windows";
-"Controls page" = "Controls page";
-"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Please install the app on your iPhone and perform login there, then transfer login to Watch";
+"Vent Windows" = "Ventilace okna";
+"Controls page" = "Stránka ovládání";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Nainstalujte si prosím aplikaci na svůj iPhone a proveďte přihlášení, poté se přihlaste na Watch";
 
 //Siri
 "Result" = "Result";
