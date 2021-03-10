@@ -268,14 +268,14 @@
 "Vehicle Name" = "Jméno vozidla";
 "Range Estimated KM" = "Odhad dojezdu KM";
 "Open Features" = "Otevřené funkce";
-"What level?" = "Jaká úroveň?";
+"What limit?" = "Jaká úroveň?";
 "Outside Temp F" = "Venkovní teplota F";
-"Level" = "Level";
+"Limit" = "Limit";
 "Sentry Active" = "Sentry Aktivní";
 "Outside Temp C" = "Venkovní teplota C";
 "Climate Active" = "Klima aktivní";
 "Range Rated KM" = "Dojezd KM";
-"Charge to ${level}%" = "Nabít do ${level}%";
+"Charge to ${limit}%" = "Nabít do ${limit}%";
 "Charge Limit" = "Limit nabíjení";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} nemůže být vyšší než ${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName} nemůže být negativní.";

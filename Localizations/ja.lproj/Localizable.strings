@@ -268,14 +268,14 @@
 "Vehicle Name" = "車輌の名前";
 "Range Estimated KM" = "推定距離 KM";
 "Open Features" = "Open Features";
-"What level?" = "レベルは?";
+"What limit?" = "レベルは?";
 "Outside Temp F" = "室外温度 F";
-"Level" = "レベル";
+"Limit" = "レベル";
 "Sentry Active" = "セントリーモードをON";
 "Outside Temp C" = "室外気温 C";
 "Climate Active" = "エアコンをON";
 "Range Rated KM" = "定格距離 KM";
-"Charge to ${level}%" = "${level}% に変更";
+"Charge to ${limit}%" = "${level}% に変更";
 "Charge Limit" = "充電リミット";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} は ${maximumValue} 以上にはできません";
 "${displayName} can’t be negative." = "${displayName} はマイナスにはできません.";

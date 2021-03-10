@@ -268,14 +268,14 @@
 "Vehicle Name" = "Vehicle Name";
 "Range Estimated KM" = "Range Estimated KM";
 "Open Features" = "Open Features";
-"What level?" = "What level?";
+"What limit?" = "What limit?";
 "Outside Temp F" = "Outside Temp F";
-"Level" = "Level";
+"Limit" = "Limit";
 "Sentry Active" = "Sentry Active";
 "Outside Temp C" = "Outside Temp C";
 "Climate Active" = "Climate Active";
 "Range Rated KM" = "Range Rated KM";
-"Charge to ${level}%" = "Charge to ${level}%";
+"Charge to ${limit}%" = "Charge to ${limit}%";
 "Charge Limit" = "Charge Limit";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName} can’t be negative.";

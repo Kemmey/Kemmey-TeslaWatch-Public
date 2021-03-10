@@ -232,7 +232,7 @@
 
 "Shortcuts" = "Shortcuts";
 "About to buy a new Tesla? Use my referral code!" = "About to buy a new Tesla? Use my referral code!";
-"Active vehicle" = "Aktiv bil";
+"Active vehicle" = "Active vehicle";
 
 "Close Charge Port" = "Close Charge Port";
 "Close Trunk" = "Close Trunk";
@@ -268,14 +268,14 @@
 "Vehicle Name" = "Vehicle Name";
 "Range Estimated KM" = "Range Estimated KM";
 "Open Features" = "Open Features";
-"What level?" = "What limit?";
+"What limit?" = "What limit?";
 "Outside Temp F" = "Outside Temp F";
-"Level" = "Limit";
+"Limit" = "Limit";
 "Sentry Active" = "Sentry Active";
 "Outside Temp C" = "Outside Temp C";
 "Climate Active" = "Climate Active";
 "Range Rated KM" = "Range Rated KM";
-"Charge to ${level}%" = "Charge to ${level}%";
+"Charge to ${limit}%" = "Charge to ${limit}%";
 "Charge Limit" = "Charge Limit";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName} can’t be negative.";
