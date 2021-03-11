@@ -255,7 +255,8 @@
             { "build": 508, "change": "Completely rewrote the code redemption part of the login flow. Please, please, try to log out and log back in to test that the login flow works properly! And make sure to report back any errors! Your help with this is GREATLY appreciated!" },
             { "build": 510, "change": "Open, Close and Unlock chargeport now all check for current state before executing, thus preventing errors if run multiple times. Do note that Open Charge Port no longer UNLOCKS charge port if already open - use specifically Unlock Charge Port for that scenario." },
             { "build": 516, "change": "Updated localizations" },
-            { "build": 516, "change": "Fixed vehicle chooser in settings, for those with multiple vehicles." }
+            { "build": 516, "change": "Fixed vehicle chooser in settings, for those with multiple vehicles." },
+            { "build": 518, "change": "Possibly fix Unsupported Vehicle when waking." }
         ]
     },
     {
