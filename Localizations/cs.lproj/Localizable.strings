@@ -262,8 +262,8 @@
 "Vehicle State" = "Stav vozidla";
 "Range Estimated M" = "Odhad dojezdu M";
 "false" = "Chyba";
-"Is Locked" = "Zamknuto";
-"Close Frunk" = "Zavřený kufr";
+"Is Locked" = "Zamknout";
+"Close Frunk" = "Zavřít kufr";
 "Get Vehicle State" = "Získat jméno vozidla";
 "Vehicle Name" = "Jméno vozidla";
 "Range Estimated KM" = "Odhad dojezdu KM";
@@ -273,7 +273,7 @@
 "Limit" = "Limit";
 "Sentry Active" = "Sentry Aktivní";
 "Outside Temp C" = "Venkovní teplota C";
-"Climate Active" = "Klima aktivní";
+"Climate Active" = "Klimatizovat";
 "Range Rated KM" = "Dojezd KM";
 "Charge to ${limit}%" = "Nabít do ${limit}%";
 "Charge Limit" = "Limit nabíjení";
