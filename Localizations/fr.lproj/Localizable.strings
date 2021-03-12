@@ -268,14 +268,14 @@
 "Vehicle Name" = "Nom du véhicule";
 "Range Estimated KM" = "Autonomie estimée KM";
 "Open Features" = "Ouvrir fonctions";
-"What level?" = "Quelle limite?";
+"What limit?" = "Quelle limite?";
 "Outside Temp F" = "Temp. extérieure F";
-"Level" = "Limite";
+"Limit" = "Limite";
 "Sentry Active" = "Mode sentinelle actif";
 "Outside Temp C" = "Temp. extérieure C";
 "Climate Active" = "Climatisation active";
 "Range Rated KM" = "Autonomie KM";
-"Charge to ${level}%" = "Recharger jusqu'à ${level}%";
+"Charge to ${limit}%" = "Recharger jusqu'à ${limit}%";
 "Charge Limit" = "Limite de recharge";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} ne peut pas être supérieure à ${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName} ne peut pas être négatif.";

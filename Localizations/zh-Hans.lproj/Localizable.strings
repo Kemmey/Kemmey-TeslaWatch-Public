@@ -268,14 +268,14 @@
 "Vehicle Name" = "车辆名称";
 "Range Estimated KM" = "续航预估(公里)";
 "Open Features" = "开放功能";
-"What level?" = "什么级别?";
+"What limit?" = "什么级别?";
 "Outside Temp F" = "车外温度(华氏)";
-"Level" = "级别";
+"Limit" = "级别";
 "Sentry Active" = "激活哨兵模式";
 "Outside Temp C" = "车外温度(摄氏)";
 "Climate Active" = "开启空调";
 "Range Rated KM" = "满电续航(公里)";
-"Charge to ${level}%" = "充电到${level}%";
+"Charge to ${limit}%" = "充电到${limit}%";
 "Charge Limit" = "充电限制";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName}不能高于${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName}不能为负数";

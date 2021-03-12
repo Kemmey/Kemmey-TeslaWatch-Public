@@ -268,14 +268,14 @@
 "Vehicle Name" = "Bilens Navn";
 "Range Estimated KM" = "Estimeret Rækkevidde KM";
 "Open Features" = "Åbne Dele";
-"What level?" = "Hvilken grænse?";
+"What limit?" = "Hvilken grænse?";
 "Outside Temp F" = "Udetemperatur F";
-"Level" = "Limit";
+"Limit" = "Grænse";
 "Sentry Active" = "Sentry Aktiv";
 "Outside Temp C" = "Udetemperatur C";
 "Climate Active" = "Klima Aktiv";
 "Range Rated KM" = "Normeret Rækkevidde KM";
-"Charge to ${level}%" = "Oplad til ${level}%";
+"Charge to ${limit}%" = "Oplad til ${limit}%";
 "Charge Limit" = "Charge Limit";
 "${displayName} can’t be higher than ${maximumValue}." = "${displayName} må ikke være større end ${maximumValue}.";
 "${displayName} can’t be negative." = "${displayName} må ikke være negativ.";

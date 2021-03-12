@@ -40,6 +40,7 @@
         "my": {
             "18": "WY18B",
             "19": "WY19B",
+            "Apollo19": "WY19B",
             "20": "WY20P",
             "21": "WY21P",
             "default": "WY19B"
@@ -47,7 +48,7 @@
     },
     "colors": {
         "ObsidianBlack": "PMBL",
-        "SolidBlack": "PMBL", 
+        "SolidBlack": "PBSB", 
         "MetallicBlack": "PMBL", 
         "DeepBlueMetallic": "PPSB", 
         "DeepBlue": "PPSB", 
