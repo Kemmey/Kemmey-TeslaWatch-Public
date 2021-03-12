@@ -256,7 +256,8 @@
             { "build": 510, "change": "Open, Close and Unlock chargeport now all check for current state before executing, thus preventing errors if run multiple times. Do note that Open Charge Port no longer UNLOCKS charge port if already open - use specifically Unlock Charge Port for that scenario." },
             { "build": 516, "change": "Updated localizations" },
             { "build": 516, "change": "Fixed vehicle chooser in settings, for those with multiple vehicles." },
-            { "build": 518, "change": "Possibly fix Unsupported Vehicle when waking." }
+            { "build": 518, "change": "Possibly fix Unsupported Vehicle when waking." },
+            { "build": 520, "change": "Updated localizations." }
         ]
     },
     {
