@@ -257,7 +257,8 @@
             { "build": 516, "change": "Updated localizations" },
             { "build": 516, "change": "Fixed vehicle chooser in settings, for those with multiple vehicles." },
             { "build": 518, "change": "Possibly fix Unsupported Vehicle when waking." },
-            { "build": 520, "change": "Updated localizations." }
+            { "build": 520, "change": "Updated localizations." },
+            { "build": 522, "change": "Updated localizations." }
         ]
     },
     {
