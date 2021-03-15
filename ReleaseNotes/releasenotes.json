@@ -230,16 +230,16 @@
     {
         "version": "1.1.6",
         "changes": [
-            { "build": 524, "change": "*New features*" },
-            { "build": 524, "change": "Added Start/stop charging complication." },
-            { "build": 524, "change": "Added Set charge limit, Vent and Close windows, Trigger Homelink, Unlock Charge Port, Wake and Get Vehicle State Siri Shortcuts actions." },
-            { "build": 524, "change": "Added Add to Siri buttons in revamped Shortcuts section." },
-            { "build": 524, "change": "*Enhancements*" },
-            { "build": 524, "change": "Added Start/stop charging control." },
-            { "build": 524, "change": "Added active vehicle chooser to settings when multiple vehicles exists on account." },
-            { "build": 524, "change": "*Bugfixes*" },
-            { "build": 524, "change": "Improved background execution. Actions should now properly complete or fail in background, and not run when app is activated after being dormant for multiple hours." },
-            { "build": 524, "change": "Open, Close and Unlock chargeport now all check for current state before executing, thus preventing errors if run multiple times. Do note that Open Charge Port no longer UNLOCKS charge port if already open - use specifically Unlock Charge Port for that scenario." }
+            { "build": 528, "change": "*New features*" },
+            { "build": 528, "change": "Added Start/stop charging complication." },
+            { "build": 528, "change": "Added Set charge limit, Vent and Close windows, Trigger Homelink, Unlock Charge Port, Wake and Get Vehicle State Siri Shortcuts actions." },
+            { "build": 528, "change": "Added Add to Siri buttons in revamped Shortcuts section." },
+            { "build": 528, "change": "*Enhancements*" },
+            { "build": 528, "change": "Added Start/stop charging control." },
+            { "build": 528, "change": "Added active vehicle chooser to settings when multiple vehicles exists on account." },
+            { "build": 528, "change": "*Bugfixes*" },
+            { "build": 528, "change": "Improved background execution. Actions should now properly complete or fail in background, and not run when app is activated after being dormant for multiple hours." },
+            { "build": 528, "change": "Open, Close and Unlock chargeport now all check for current state before executing, thus preventing errors if run multiple times. Do note that Open Charge Port no longer UNLOCKS charge port if already open - use specifically Unlock Charge Port for that scenario." }
         ]
     },
     {
