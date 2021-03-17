@@ -247,7 +247,9 @@
     {
         "version": "1.1.7",
         "changes": [
-            { "build": 538, "change": "Initial 1.1.7 build." }
+            { "build": 540, "change": "*New features*" },
+            { "build": 540, "change": "Added Summon for this Beta period - still not aiming to ship to the store at any time, but please report back if working or not. Remember this is a BETA and this software is UNRELIABLE. I take ZERO responsibility for the proper function of Summon or anything that might happen to you or your vehicle!." }
+            
         ]
     },
     {
