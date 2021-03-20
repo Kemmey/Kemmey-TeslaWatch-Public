@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Tomonori Haba - hava@mtc.biglobe.ne.jp / @havahava
 */
 "Hide Controls" = "コントロールを非表示";
@@ -169,44 +169,117 @@
 "W" = "西";
 "NW" = "北西";
 
-"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";
-"Climate" = "Climate";
-"Lock" = "Lock";
-"Unlock" = "Unlock";
-"Reset" = "Reset";
-"Two main control rows" = "Two main control rows";
-"Drag controls to reorder" = "Drag controls to reorder";
-"Controls order" = "Controls order";
-"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Items that are greyed out will be hidden. This can cause actual control placement to shift.";
-"First row" = "First row";
-"Second row" = "Second row";
-"Controls" = "Controls";
-"Compass" = "Compass";
+"Auto-enable remote start on unlock" = "ロック解除時にリモートスタートを自動的にONにする";
+"Climate" = "エアコン";
+"Lock" = "ロック";
+"Unlock" = "ロック解除";
+"Reset" = "リセット";
+"Two main control rows" = "コントロールアイコンを２行にする";
+"Drag controls to reorder" = "順序を変えるには項目をドラッグしてください";
+"Controls order" = "コントロールアイコンの順序";
+"グレイ色の項目は非表示になります。これにより実際のアイコン配置が変化することがあります。" = "グレイ色の項目は非表示になります。これにより実際のアイコン配置が変化することがあります。";
+"First row" = "１行目";
+"Second row" = "２行目";
+"Controls" = "コントロール";
+"Compass" = "コンパス";
 
-"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
-"Show inactive controls" = "Show inactive controls";
-"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";
-"Optionally allow use of your location to show current distance to vehicle" = "Optionally allow use of your location to show current distance to vehicle";
-"Est." = "Est."; //short for Estimated
-"If you have the iOS companion app installed, you can transfer your login to the watch" = "If you have the iOS companion app installed, you can transfer your login to the watch";
-"Transfer login" = "Transfer login";
-"State" = "State";
-"Icon" = "Icon";
-"Open trunk" = "Open trunk";
-"Unlock charge port" = "Unlock charge port";
-"Login with token" = "Login with token";
-"Login with Tesla" = "Login with Tesla";
-"Rate this app" = "Rate this app";
-"Always confirm complication actions" = "Always confirm complication actions";
-"Activate climate" = "Activate climate";
-"Deactivate climate" = "Deactivate climate";
-"Please confirm" = "Please confirm";
-"Always confirm widget actions" = "Always confirm widget actions";
-"Offline" = "Offline";
-"No network connection" = "No network connection";
-"Updated " = "Updated ";
-" ago" = " ago";
-"Appearance" = "Appearance";
-"Light" = "Light";
-"Dark" = "Dark";
-"Auto" = "Auto";
+"Enable climate to activate seat heaters" = "気温によるシートヒーター制御をONにする";
+"Show inactive controls" = "アクティブではないコントロールを表示する";
+"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "認証がうまくいかない場合は、アカウントがロックアウトされていないか確認してください。tesla.com にログインしてご確認ください。";
+"Optionally allow use of your location to show current distance to vehicle" = "車輌までの距離を表示するために現在地の利用を許可する(オプション)";
+"Est." = "推定"; //short for Estimated
+"If you have the iOS companion app installed, you can transfer your login to the watch" = "iOSコンパニオンアプリがインストールされていれば、ログイン情報をウォッチに移行できます。";
+"Transfer login" = "ログイン情報を移行する";
+"State" = "状態";
+"Icon" = "アイコン";
+"Open trunk" = "トランクを開ける";
+"Unlock charge port" = "充電ポートを開ける";
+"Login with token" = "トークンでログインする";
+"Login with Tesla" = "Teslaアカウントでログインする";
+"Rate this app" = "アプリをレビューする";
+"Always confirm complication actions" = "コンプリケーションによるアクションを常に確認する";
+"Activate climate" = "エアコンをONにする";
+"Deactivate climate" = "エアコンをOFFにする";
+"Please confirm" = "確認してください";
+"Always confirm widget actions" = "ウィジェットによるアクションを常に確認する";
+"Offline" = "オフライン";
+"No network connection" = "ネットワーク接続がありません";
+"Updated " = "アップデートされました ";
+" ago" = " 前";
+"Appearance" = "外観";
+"Light" = "明るい";
+"Dark" = "ダーク";
+"Auto" = "自動";
+
+"Hide debug" = "デバッグを非表示";
+"Show debug" = "デバッグを表示";
+"Changelog" = "改訂履歴";
+"Debug" = "デバッグ";
+"Vehicle" = "車輌";
+"Power" = "電源";
+"Drive state" = "ドライブ状態";
+"Range" = "距離";
+"App debug" = "Appデバッグ";
+"Background events" = "バックグラウンド処理";
+"Authentication events" = "認証処理";
+"Clear cache" = "キャッシュをクリア";
+
+"Setting steering wheel heater" = "ハンドルヒーターの設定";
+"Turn on steering wheel heater" = "ハンドルヒーターをONにする";
+"Turn off steering wheel heater" = "ハンドルヒーターをOFFにする";
+"Close frunk" = "フランクを閉じる";
+"Really close frunk?" = "本当にフランクを閉じますか？";
+
+"Shortcuts" = "ショートカット";
+"About to buy a new Tesla? Use my referral code!" = "テスラの新車を購入される場合は、ぜひ私のリファラルコードをご利用ください！";
+"Active vehicle" = "アクティブな車輌";
+
+"Close Charge Port" = "充電ポートを閉じる";
+"Close Trunk" = "トランクを閉める";
+"Close Windows" = "窓を閉める";
+"Open Charge Port" = "充電ポートを開ける";
+"Open Trunk" = "トランクを開ける";
+"Open Frunk" = "フランクを開ける";
+"Set Charge Limit" = "充電リミットをセットする";
+"Start Charging" = "充電を開始する";
+"Start Climate" = "エアコンをONにする";
+"Start Defrost" = "デフロスターをONにする";
+"Stop Charging" = "充電を終了する";
+"Stop Climate" = "エアコンをOFFにする";
+"Stop Defrost" = "デフロスターをOFFにする";
+"Trigger Homelink" = "Homelink信号";
+"Vent Windows" = "窓を開ける";
+"Controls page" = "コントロールページ";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "iPhoneにアプリをインストールしアプリ上でログインしてください。ログイン情報がウォッチに移行されます。";
+
+//Siri
+"Result" = "結果";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} は ${minimumValue} 以下にはできません";
+"State Of Charge" = "充電状態";
+"Vehicle Image Url" = "車輌画像のURL";
+"Inside Temp F" = "室内温度 F";
+"true" = "○";
+"Vehicle State" = "車輌状態";
+"Range Estimated M" = "推定距離 M";
+"false" = "×";
+"Is Locked" = "ロックされている";
+"Close Frunk" = "フランクを閉じる";
+"Get Vehicle State" = "車両状態を取得する";
+"Vehicle Name" = "車輌の名前";
+"Range Estimated KM" = "推定距離 KM";
+"Open Features" = "Open Features";
+"What limit?" = "レベルは?";
+"Outside Temp F" = "室外温度 F";
+"Limit" = "レベル";
+"Sentry Active" = "セントリーモードをON";
+"Outside Temp C" = "室外気温 C";
+"Climate Active" = "エアコンをON";
+"Range Rated KM" = "定格距離 KM";
+"Charge to ${limit}%" = "${level}% に変更";
+"Charge Limit" = "充電リミット";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} は ${maximumValue} 以上にはできません";
+"${displayName} can’t be negative." = "${displayName} はマイナスにはできません.";
+"Is Charging" = "充電中";
+"Inside Temp C" = "室内温度 C";
+"Range Rated M" = "定格距離 M";
+"Signal Homelink" = "Homelink信号";

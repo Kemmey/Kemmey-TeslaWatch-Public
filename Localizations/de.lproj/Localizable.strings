@@ -1,9 +1,9 @@
-/* 
+/*
   Localizable.strings
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Daniel Bertuleit - daniel.bertuleit@gmail.com
 */
 "Hide Controls" = "Steuerung verstecken";
@@ -29,7 +29,7 @@
 "Please input username" = "Bitte Benutzername eingeben";
 "Please input password" = "Bitte Passwort eingeben";
 "Error occurred!" = "Fehler aufgetreten!";
-"Added %@ kWh" = "%@ kWh hinzugefügt";
+"Added %@ kWh" = "%@ kWh geladen";
 "Charging complete" = "Aufladen abgeschlossen";
 "Loading..." = "Lade...";
 "Open frunk" = "Frunk öffnen";
@@ -43,11 +43,11 @@
 "Really %@ trunk?" = "Wirklich Trunk %@?";
 "%@ charge port" = "Ladeanschluss %@";
 "Activate Homelink" = "Homelink aktivieren";
-"Really activate Homelink?" = "Wirklich Homelink aktivieren?";
+"Really activate Homelink?" = "Homelink wirklich aktivieren?";
 "Keyless drive" = "Schlüsselloses Fahren";
-"Really enable keyless drive?" = "Wirklich schlüsselloses Fahren aktivieren?";
-"Honk!" = "Hupe!";
-"Unlock port" = "Ladeanschluss entsperren";
+"Really enable keyless drive?" = "Schlüsselloses Fahren wirklich aktivieren?";
+"Honk!" = "Hupen!";
+"Unlock port" = "Ladeanschluss entriegeln";
 "%@ port" = "%@ Ladeanschluss";
 "Homelink" = "Homelink";
 "Disable Sentry" = "Sentry deaktivieren";
@@ -65,7 +65,7 @@
 "Background updates" = "Hintergrundaktualisierung";
 "Allow wake in background" = "Erlaube Aufwecken im Hintergrund";
 "Set" = "Setzen";
-"Interval" = "Interval";
+"Interval" = "Intervall";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Schlüsselloses Fahren erfordert Ihr Tesla Account Passwort. Es wird verschlüsselt im iOS Schlüsselbund gespeichert. BENÖTIGT ZWINGEND eine aktive Internetverbindung an der Watch UND dem Fahrzeug! Fahren Sie niemals ohne einen Ersatzschlüssel:";
 "Log out" = "Ausloggen";
 "Background image" = "Hintergrundbild";
@@ -78,13 +78,13 @@
 "All windows" = "Alle Fenster";
 "Driver front window" = "Fahrerfenster";
 "Passenger front window" = "Beifahrerfenster";
-"Driver rear window" = "Fahrerheckscheibe";
-"Passenger rear window" = "Beifahrerheckscheibe";
+"Driver rear window" = "Fenster hinten Fahrerseite";
+"Passenger rear window" = "Fenster hinten Beifahrerseite";
 "All doors" = "Alle Türen";
 "Driver front door" = "Fahrertür";
 "Passenger front door" = "Beifahrertür";
-"Driver rear door" = "Hintertür Fahrerseite";
-"Passenger rear door" = "Hintertür Beifahrerseite";
+"Driver rear door" = "Hintere Türe Fahrerseite";
+"Passenger rear door" = "Hintere Türe Beifahrerseite";
 "Disable defrost" = "Abtauen deaktivieren";
 "Defrost" = "Abtauen";
 "Closing windows" = "Fenster schließen";
@@ -132,11 +132,11 @@
 "Minute" = "Minute";
 "Success" = "Erfolgreich";
 "Failed" = "Fehlgeschlagen";
-"Started charging" = "Aufladen gestarted";
+"Started charging" = "Aufladen gestartet";
 "Stopped charging" = "Aufladen gestoppt";
 "Open charge port door" = "Ladeklappe öffnen";
 "Close charge port door" = "Ladeklappe schließen";
-"Unlock vehicle" = "Fahrzeug entsperren";
+"Unlock vehicle" = "Fahrzeug entriegeln";
 "Lock vehicle" = "Fahrzeug verschließen";
 "Opened frunk" = "Frunk geöffnet";
 "Opened trunk" = "Trunk geöffnet";
@@ -145,7 +145,7 @@
 "Stopping HVAC" = "Klimaanlage wird gestoppt";
 "Started defroster" = "Abtauen gestartet";
 "Stopped defroster" = "Abtauen gestoppt";
-"Honking" = "Hupe";
+"Honking" = "Hupt";
 "Flashing the lights" = "Lichthupe";
 "Set temps" = "Temperaturen einstellen";
 "Enabled Sentry mode" = "Sentry Mode aktivieren";
@@ -169,44 +169,117 @@
 "W" = "W";
 "NW" = "NW";
 
-"Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";
-"Climate" = "Climate";
-"Lock" = "Lock";
-"Unlock" = "Unlock";
+"Auto-enable remote start on unlock" = "Fernstart beim aufschließen automatisch aktivieren";
+"Climate" = "Klima";
+"Lock" = "Verschließen";
+"Unlock" = "Aufschließen";
 "Reset" = "Reset";
-"Two main control rows" = "Two main control rows";
-"Drag controls to reorder" = "Drag controls to reorder";
-"Controls order" = "Controls order";
-"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Items that are greyed out will be hidden. This can cause actual control placement to shift.";
-"First row" = "First row";
-"Second row" = "Second row";
-"Controls" = "Controls";
-"Compass" = "Compass";
+"Two main control rows" = "Zwei Reihen Schaltflächen";
+"Drag controls to reorder" = "Ziehen um neu anzuordnen";
+"Controls order" = "Button-Reihenfolge";
+"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Ausgegraute Schaltflächen werden versteckt. Dies kann die Anzeige der Schaltflächen verschieben.";
+"First row" = "Erste Reihe";
+"Second row" = "Zweite Reihe";
+"Controls" = "Schaltflächen";
+"Compass" = "Kompass";
 
-"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
-"Show inactive controls" = "Show inactive controls";
-"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";
-"Optionally allow use of your location to show current distance to vehicle" = "Optionally allow use of your location to show current distance to vehicle";
-"Est." = "Est."; //short for Estimated
-"If you have the iOS companion app installed, you can transfer your login to the watch" = "If you have the iOS companion app installed, you can transfer your login to the watch";
-"Transfer login" = "Transfer login";
-"State" = "State";
+"Enable climate to activate seat heaters" = "Zum Einschalten der Sitzheizung muss die Klimaanlage aktiv sein";
+"Show inactive controls" = "Inaktive Schaltflächen anzeigen";
+"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Authentifizierung fehlgeschlagen. Stelle sicher dass dein Account nicht gesperrt ist indem du dich bei tesla.com einloggst.";
+"Optionally allow use of your location to show current distance to vehicle" = "Optionale Nutzung des Standortes erlauben um die Distanz zum Fahrzeug anzuzeigen";
+"Est." = "Ca."; //short for Estimated
+"If you have the iOS companion app installed, you can transfer your login to the watch" = "Wenn du die iOS Begleitapp installiert hast, kannst du das Login auf deine Uhr übertragen";
+"Transfer login" = "Login übertragen";
+"State" = "Status";
 "Icon" = "Icon";
-"Open trunk" = "Open trunk";
-"Unlock charge port" = "Unlock charge port";
+"Open trunk" = "Trunk öffnen";
+"Unlock charge port" = "Ladeanschluss entriegeln";
 "Login with token" = "Login mit token";
 "Login with Tesla" = "Login mit Tesla";
-"Rate this app" = "Rate this app";
-"Always confirm complication actions" = "Always confirm complication actions";
-"Activate climate" = "Activate climate";
-"Deactivate climate" = "Deactivate climate";
-"Please confirm" = "Please confirm";
-"Always confirm widget actions" = "Always confirm widget actions";
+"Rate this app" = "App bewerten";
+"Always confirm complication actions" = "Aktionen aus Komplikationen immer bestätigen";
+"Activate climate" = "Klimaanlage aktivieren";
+"Deactivate climate" = "Klimaanlage deaktivieren";
+"Please confirm" = "Bitte bestätigen";
+"Always confirm widget actions" = "Aktionen aus Widgets immer bestätigen";
 "Offline" = "Offline";
-"No network connection" = "No network connection";
-"Updated " = "Updated ";
-" ago" = " ago";
-"Appearance" = "Appearance";
+"No network connection" = "Keine Netzwerkverbindung";
+"Updated " = "Vor ";
+" ago" = " aktualisiert";
+"Appearance" = "Erscheinungsbild";
 "Light" = "Light";
 "Dark" = "Dark";
 "Auto" = "Auto";
+
+"Hide debug" = "Debug ausblenden";
+"Show debug" = "Debug einblenden";
+"Changelog" = "Changelog";
+"Debug" = "Debug";
+"Vehicle" = "Fahrzeug";
+"Power" = "Energie";
+"Drive state" = "Fahrstatus";
+"Range" = "Reichweite";
+"App debug" = "App debug";
+"Background events" = "Hintergrundevents";
+"Authentication events" = "Authentifizierungsevents";
+"Clear cache" = "Cache leeren";
+
+"Setting steering wheel heater" = "Lenkradheizung einstellen";
+"Turn on steering wheel heater" = "Lenkradheizung einschalten";
+"Turn off steering wheel heater" = "Lenkradheizung ausschalten";
+"Close frunk" = "Frunk schließen";
+"Really close frunk?" = "Frunk wirklich schließen?";
+
+"Shortcuts" = "Kurzbefehle";
+"About to buy a new Tesla? Use my referral code!" = "Kaufst du einen neuen Tesla? Benutze meinen Referral-Code!";
+"Active vehicle" = "Active vehicle";
+
+"Close Charge Port" = "Close Charge Port";
+"Close Trunk" = "Close Trunk";
+"Close Windows" = "Close Windows";
+"Open Charge Port" = "Open Charge Port";
+"Open Trunk" = "Open Trunk";
+"Open Frunk" = "Open Frunk";
+"Set Charge Limit" = "Set Charge Limit";
+"Start Charging" = "Start Charging";
+"Start Climate" = "Start Climate";
+"Start Defrost" = "Start Defrost";
+"Stop Charging" = "Stop Charging";
+"Stop Climate" = "Stop Climate";
+"Stop Defrost" = "Stop Defrost";
+"Trigger Homelink" = "Signal Homelink";
+"Vent Windows" = "Vent Windows";
+"Controls page" = "Controls page";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Please install the app on your iPhone and perform login there, then transfer login to Watch";
+
+//Siri
+"Result" = "Result";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} can’t be lower than ${minimumValue}.";
+"State Of Charge" = "State Of Charge";
+"Vehicle Image Url" = "Vehicle Image Url";
+"Inside Temp F" = "Inside Temp F";
+"true" = "true";
+"Vehicle State" = "Vehicle State";
+"Range Estimated M" = "Range Estimated M";
+"false" = "false";
+"Is Locked" = "Is Locked";
+"Close Frunk" = "Close Frunk";
+"Get Vehicle State" = "Get Vehicle State";
+"Vehicle Name" = "Vehicle Name";
+"Range Estimated KM" = "Range Estimated KM";
+"Open Features" = "Open Features";
+"What limit?" = "What limit?";
+"Outside Temp F" = "Outside Temp F";
+"Limit" = "Limit";
+"Sentry Active" = "Sentry Active";
+"Outside Temp C" = "Outside Temp C";
+"Climate Active" = "Climate Active";
+"Range Rated KM" = "Range Rated KM";
+"Charge to ${limit}%" = "Charge to ${limit}%";
+"Charge Limit" = "Charge Limit";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
+"${displayName} can’t be negative." = "${displayName} can’t be negative.";
+"Is Charging" = "Is Charging";
+"Inside Temp C" = "Inside Temp C";
+"Range Rated M" = "Range Rated M";
+"Signal Homelink" = "Signal Homelink";

@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by xMrVizzy
 */
 "Hide Controls" = "Скрыть управ.";
@@ -210,3 +210,76 @@
 "Light" = "Light";
 "Dark" = "Dark";
 "Auto" = "Auto";
+
+"Hide debug" = "Hide debug";
+"Show debug" = "Show debug";
+"Changelog" = "Changelog";
+"Debug" = "Debug";
+"Vehicle" = "Vehicle";
+"Power" = "Power";
+"Drive state" = "Drive state";
+"Range" = "Range";
+"App debug" = "App debug";
+"Background events" = "Background events";
+"Authentication events" = "Authentication events";
+"Clear cache" = "Clear cache";
+
+"Setting steering wheel heater" = "Setting steering wheel heater";
+"Turn on steering wheel heater" = "Turn on steering wheel heater";
+"Turn off steering wheel heater" = "Turn off steering wheel heater";
+"Close frunk" = "Close frunk";
+"Really close frunk?" = "Really close frunk?";
+
+"Shortcuts" = "Shortcuts";
+"About to buy a new Tesla? Use my referral code!" = "About to buy a new Tesla? Use my referral code!";
+"Active vehicle" = "Active vehicle";
+
+"Close Charge Port" = "Close Charge Port";
+"Close Trunk" = "Close Trunk";
+"Close Windows" = "Close Windows";
+"Open Charge Port" = "Open Charge Port";
+"Open Trunk" = "Open Trunk";
+"Open Frunk" = "Open Frunk";
+"Set Charge Limit" = "Set Charge Limit";
+"Start Charging" = "Start Charging";
+"Start Climate" = "Start Climate";
+"Start Defrost" = "Start Defrost";
+"Stop Charging" = "Stop Charging";
+"Stop Climate" = "Stop Climate";
+"Stop Defrost" = "Stop Defrost";
+"Trigger Homelink" = "Signal Homelink";
+"Vent Windows" = "Vent Windows";
+"Controls page" = "Controls page";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Please install the app on your iPhone and perform login there, then transfer login to Watch";
+
+//Siri
+"Result" = "Result";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} can’t be lower than ${minimumValue}.";
+"State Of Charge" = "State Of Charge";
+"Vehicle Image Url" = "Vehicle Image Url";
+"Inside Temp F" = "Inside Temp F";
+"true" = "true";
+"Vehicle State" = "Vehicle State";
+"Range Estimated M" = "Range Estimated M";
+"false" = "false";
+"Is Locked" = "Is Locked";
+"Close Frunk" = "Close Frunk";
+"Get Vehicle State" = "Get Vehicle State";
+"Vehicle Name" = "Vehicle Name";
+"Range Estimated KM" = "Range Estimated KM";
+"Open Features" = "Open Features";
+"What limit?" = "What limit?";
+"Outside Temp F" = "Outside Temp F";
+"Limit" = "Limit";
+"Sentry Active" = "Sentry Active";
+"Outside Temp C" = "Outside Temp C";
+"Climate Active" = "Climate Active";
+"Range Rated KM" = "Range Rated KM";
+"Charge to ${limit}%" = "Charge to ${limit}%";
+"Charge Limit" = "Charge Limit";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
+"${displayName} can’t be negative." = "${displayName} can’t be negative.";
+"Is Charging" = "Is Charging";
+"Inside Temp C" = "Inside Temp C";
+"Range Rated M" = "Range Rated M";
+"Signal Homelink" = "Signal Homelink";

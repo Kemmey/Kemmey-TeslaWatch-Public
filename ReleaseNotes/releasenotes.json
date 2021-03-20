@@ -182,6 +182,82 @@
         ]
     },
     {
+        "version": "1.1.3",
+        "changes": [                      
+            { "build": 415, "change": "*Enhancements*" },
+            { "build": 415, "change": "Updated Czech localizations" },
+            { "build": 415, "change": "Updated Dutch localizations" },
+            { "build": 415, "change": "*Bugfixes*" },
+            { "build": 415, "change": "Improved login handling - should help converting login from watch-only" }
+        ]
+    },
+    {
+        "version": "1.1.4",
+        "changes": [                      
+            { "build": 450, "change": "*New features*" },
+            { "build": 450, "change": "IMPORTANT PLEASE NOTE: Removed username / password login from watchOS app as Tesla has now deprecated legacy login. The iOS companion app is now REQUIRED for login using the modern web based method. If you had previously logged in directly on the watch itself, please find the Watch for Tesla app in the App Store on your phone and install it, and use that to login. Your login will then be transferred to the watch. This is NOT a separate purchase - it is the same app and same purchase as on the watch. I'm really sorry for the inconvenience. Thanks." },
+            { "build": 450, "change": "Added support for activating heated steering wheel along with heated seats." },
+            { "build": 450, "change": "*Enhancements*" },
+            { "build": 450, "change": "Updated Chinese localizations." },
+            { "build": 450, "change": "Updated Swiss German localizations." },
+            { "build": 450, "change": "Updated Czech localizations." },
+            { "build": 450, "change": "When data is older than one hour, interface and widgets are now dimmed." },
+            { "build": 450, "change": "Added snowflake icon when battery is cold and below capacity." },
+            { "build": 450, "change": "Added ability for user to manually email debug logs to developer. Nothing will EVER be sent automatically!" },
+            { "build": 450, "change": "Updated the login form UI." },
+            { "build": 450, "change": "Now shows close frunk when open - only useful for those with power frunks." },
+            { "build": 450, "change": "*Bugfixes*" },
+            { "build": 450, "change": "Fix for plugin and open features reminder not triggering if watch complication not in use." },
+            { "build": 450, "change": "Fixes an issue where views presented in navigation would self-dismiss." },
+            { "build": 450, "change": "Improved token handling when refreshing expired tokens." },
+            { "build": 450, "change": "Improved logging when requests fail." },
+            { "build": 450, "change": "Will now try to force refresh token whenever an access denied response is encountered." },
+            { "build": 450, "change": "Fixed complication actions - unlock now performs all unlock actions." },
+            { "build": 450, "change": "Login from China now using local login form." }
+        ]
+    },
+    {
+        "version": "1.1.5",
+        "changes": [                      
+            { "build": 457, "change": "*New features*" },
+            { "build": 457, "change": "Initial batch of Siri Shortcuts actions added: Close Charge Port, Close Frunk,  Close Trunk,  Disable Sentry,  Enable Sentry,  Lock,  Open Charge Port,  Open Frunk,  Open Trunk,  Start Charging,  Start Climate,  Start Defrost,  Stop Charging,  Stop Climate,  Stop Defrost,  Unlock." },
+            { "build": 457, "change": "Added new Shortcuts section under Settings - get in contact if you want your Shortcuts featured here!" },
+            { "build": 457, "change": "*Enhancements*" },
+            { "build": 457, "change": "Added referral link to Settings screen - sorry about the shameless plug, but it will help support the app!" },
+            { "build": 457, "change": "Adjusted stale data dimming window down from one hour to 15 minutes." }
+        ]
+    },
+    {
+        "version": "1.1.6",
+        "changes": [
+            { "build": 532, "change": "*New features*" },
+            { "build": 532, "change": "Added Start/stop charging complication." },
+            { "build": 532, "change": "Added Set charge limit, Vent and Close windows, Trigger Homelink, Unlock Charge Port, Wake and Get Vehicle State Siri Shortcuts actions." },
+            { "build": 532, "change": "Added Add to Siri buttons in revamped Shortcuts section." },
+            { "build": 532, "change": "*Enhancements*" },
+            { "build": 532, "change": "Added Start/stop charging control." },
+            { "build": 532, "change": "Added active vehicle chooser to settings when multiple vehicles exists on account." },
+            { "build": 532, "change": "*Bugfixes*" },
+            { "build": 532, "change": "Improved background execution. Actions should now properly complete or fail in background, and not run when app is activated after being dormant for multiple hours." },
+            { "build": 532, "change": "Open, Close and Unlock chargeport now all check for current state before executing, thus preventing errors if run multiple times. Do note that Open Charge Port no longer UNLOCKS charge port if already open - use specifically Unlock Charge Port for that scenario." },
+            { "build": 532, "change": "Fixed being able to set v3 refresh token as manual token." },
+            { "build": 532, "change": "Fixed a scheduling issue that could cause multiple polling threads to run simultaneously." }
+        ]
+    },
+    {
+        "version": "1.1.7",
+        "changes": [
+            { "build": 540, "change": "*New features*" },
+            { "build": 540, "change": "Added Summon for this Beta period - still not aiming to ship to the store at any time, but please report back if working or not. Remember this is a BETA and this software is UNRELIABLE. I take ZERO responsibility for the proper function of Summon or anything that might happen to you or your vehicle!." },
+            { "build": 548, "change": "*Enhancements*" },
+            { "build": 548, "change": "Added accessibility labels to main control buttons." },
+            { "build": 540, "change": "*Bugfixes*" },
+            { "build": 540, "change": "Siri action Wake now has a timeout of only 9 seconds, as 3rd party shortcuts actions can only execute for 10 seconds on iOS 14. To ensure reliability of shortcuts, put the Wake action in a loop for at least 4 times before any other actions." },
+            { "build": 546, "change": "Updated localizations." }
+            
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error!" }

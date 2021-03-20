@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Pravoslav Krabec - ava@mybox.cz
 */
 "Hide Controls" = "Skrýt ovládání";
@@ -190,7 +190,7 @@
 "Est." = "Reál"; //short for Estimated
 "If you have the iOS companion app installed, you can transfer your login to the watch" = "Pokud máte nainstalovanou doprovodnou aplikaci pro iOS, můžete své přihlašovací údaje přenést do hodinek";
 "Transfer login" = "Přenos přihlášení";
-"State" = "Stát";
+"State" = "Pozastaveno";
 "Icon" = "Ikona";
 "Open trunk" = "Otevřít kufr";
 "Unlock charge port" = "Odemknout nabíjecí port";
@@ -207,6 +207,79 @@
 "Updated " = "aktualizováno ";
 " ago" = " před";
 "Appearance" = "Vzhled";
-"Light" = "Světlá";
-"Dark" = "Tmavá";
+"Light" = "Světlý";
+"Dark" = "Tmavý";
 "Auto" = "Auto";
+
+"Hide debug" = "Skrýt data";
+"Show debug" = "Zobrazit data";
+"Changelog" = "Seznam změn";
+"Debug" = "Data";
+"Vehicle" = "Auto";
+"Power" = "Napájení";
+"Drive state" = "Stav jednotky";
+"Range" = "Dojezd";
+"App debug" = "App data";
+"Background events" = "Události na pozadí";
+"Authentication events" = "Ověřování";
+"Clear cache" = "Vymazání cache";
+
+"Setting steering wheel heater" = "Nastavení vyhřívání volantu";
+"Turn on steering wheel heater" = "Zapnout vyhřívání volantu";
+"Turn off steering wheel heater" = "Vypnout vyhřívání volantu";
+"Close frunk" = "Zavřít kufr";
+"Really close frunk?" = "Opravdu zavřít kufr?";
+
+"Shortcuts" = "Zkratky";
+"About to buy a new Tesla? Use my referral code!" = "Chystáte se koupit novou Teslu? Použijte můj referál kód!";
+"Active vehicle" = "Zvolené vozidlo";
+
+"Close Charge Port" = "Zavřít nabíjecí port";
+"Close Trunk" = "Zavřít kufr";
+"Close Windows" = "Zavřít okna";
+"Open Charge Port" = "Otevřít nabíjecí port";
+"Open Trunk" = "Otevřít kufr";
+"Open Frunk" = "Otevřít přední kufr";
+"Set Charge Limit" = "Nastavit nabíjecí limit";
+"Start Charging" = "Spustit nabíjení";
+"Start Climate" = "Spustit klima";
+"Start Defrost" = "Spustit odmrazování";
+"Stop Charging" = "Zastavit nabíjení";
+"Stop Climate" = "Zastavit klimu";
+"Stop Defrost" = "Zastavit odmrazování";
+"Trigger Homelink" = "Signal Homelink";
+"Vent Windows" = "Ventilace okna";
+"Controls page" = "Stránka ovládání";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Nainstalujte si prosím aplikaci na svůj iPhone a proveďte přihlášení, poté se přihlaste na Watch";
+
+//Siri
+"Result" = "Výsledek";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} nemůže být nižší než ${minimumValue}.";
+"State Of Charge" = "Stav nabíjení";
+"Vehicle Image Url" = "Obrázek vozidla Url";
+"Inside Temp F" = "Vnitřní teplota F";
+"true" = "Skutečná";
+"Vehicle State" = "Stav vozidla";
+"Range Estimated M" = "Odhad dojezdu M";
+"false" = "Chyba";
+"Is Locked" = "Zamknout";
+"Close Frunk" = "Zavřít kufr";
+"Get Vehicle State" = "Získat jméno vozidla";
+"Vehicle Name" = "Jméno vozidla";
+"Range Estimated KM" = "Odhad dojezdu KM";
+"Open Features" = "Otevřené funkce";
+"What limit?" = "Jaká úroveň?";
+"Outside Temp F" = "Venkovní teplota F";
+"Limit" = "Limit";
+"Sentry Active" = "Sentry Aktivní";
+"Outside Temp C" = "Venkovní teplota C";
+"Climate Active" = "Klimatizovat";
+"Range Rated KM" = "Dojezd KM";
+"Charge to ${limit}%" = "Nabít do ${limit}%";
+"Charge Limit" = "Limit nabíjení";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} nemůže být vyšší než ${maximumValue}.";
+"${displayName} can’t be negative." = "${displayName} nemůže být negativní.";
+"Is Charging" = "Nabíjení";
+"Inside Temp C" = "Vnitřní teplota C";
+"Range Rated M" = "Dojezd M";
+"Signal Homelink" = "Signal Homelink";

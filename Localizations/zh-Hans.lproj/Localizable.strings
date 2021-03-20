@@ -3,12 +3,12 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Jackie Lau - jackie.lau@me.com
 */
-"Hide Controls" = "隐藏控制";
-"Show Controls" = "显示控制";
-"Charging scheduled" = "充电计划";
+"Hide Controls" = "隐藏控制项";
+"Show Controls" = "显示控制项";
+"Charging scheduled" = "充电规划";
 "Start at %@" = "从%@开始";
 "Depart at %@" = "在%@出发";
 "Stop charging" = "停止充电";
@@ -46,29 +46,29 @@
 "Really activate Homelink?" = "确定要激活Homelink?";
 "Keyless drive" = "无钥匙启动";
 "Really enable keyless drive?" = "确定启用无钥匙启动?";
-"Honk!" = "鸣笛!";
+"Honk!" = "鸣笛";
 "Unlock port" = "解锁端口";
 "%@ port" = "%@端口";
 "Homelink" = "Homelink";
 "Disable Sentry" = "禁用哨兵模式";
 "Enable Sentry" = "启用哨兵模式";
 "Vent" = "通风";
-"%@ windows" = "%@车窗";
+"%@ windows" = "开窗%@";
 "Location of %@" = "%@的位置";
 "Location" = "位置";
-"Flash!" = "闪灯!";
+"Flash!" = "闪灯";
 "Waking" = "唤醒";
 "Sending" = "发送中";
 "Loading" = "加载中";
-"Online" = "在线";
+"Online" = "已在线";
 "Settings" = "设定";
 "Background updates" = "后台更新";
 "Allow wake in background" = "允许后台唤醒";
 "Set" = "设定";
 "Interval" = "间隔";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "无钥匙启动需要您的特斯拉帐号密码，它以加密方式存储在钥匙串中，手表和车辆均需要网络连接，没有备份密钥切勿开车：";
-"Log out" = "登出";
-"Background image" = "背景图";
+"Log out" = "退出登录";
+"Background image" = "背景图片";
 "Image url" = "图片网址";
 "Add vehicle option codes querystring" = "添加车辆选项请求代码";
 "Example: %@%@" = "代码示例: %@%@";
@@ -85,14 +85,14 @@
 "Passenger front door" = "副驾车门";
 "Driver rear door" = "主驾后车门";
 "Passenger rear door" = "副驾后车门";
-"Disable defrost" = "禁用除霜";
+"Disable defrost" = "停用除霜";
 "Defrost" = "除霜";
 "Closing windows" = "关闭窗户";
 "km" = "公里";
 "mi" = "英里";
 "d" = "天";
-"h" = "点";
-"m" = "分";
+"h" = "小时";
+"m" = "分钟";
 "s" = "秒";
 "hr" = "小时";
 "min" = "分钟";
@@ -119,9 +119,9 @@
 "Unlocked" = "已解锁";
 "Open features reminder" = "开启功能提醒";
 "is open" = "已打开";
-"Sentry active" = "哨兵模式激活";
+"Sentry active" = "激活哨兵模式";
 "sentry on" = "哨兵模式运行中";
-"Seat heaters" = "座椅加热器";
+"Seat heaters" = "座椅加热";
 "No vehicle data" = "没有车辆数据";
 "Choose vehicle" = "选择车辆";
 "Allow wake" = "允许唤醒";
@@ -141,8 +141,8 @@
 "Opened frunk" = "前备箱已打开";
 "Opened trunk" = "后备箱已打开";
 "Set charge limit" = "设置充电限额";
-"Starting HVAC" = "开始暖风空调";
-"Stopping HVAC" = "停止暖风空调";
+"Starting HVAC" = "启动空调";
+"Stopping HVAC" = "关闭空调";
 "Started defroster" = "开始除霜";
 "Stopped defroster" = "停止除霜";
 "Honking" = "鸣笛";
@@ -152,9 +152,9 @@
 "Disabled Sentry mode" = "停用哨兵模式";
 "Activating Homelink" = "激活Homelink";
 "Closing windows" = "关闭车窗";
-"Venting windows" = "车窗通风";
+"Venting windows" = "打开车窗通风";
 "Closing sunroof" = "关闭天窗";
-"Venting sunroof" = "天窗通风";
+"Venting sunroof" = "打开天窗通风";
 "Enabling keyless drive" = "启用无钥匙启动";
 "Setting seat heater" = "设置座椅加热";
 "Don't remind me again today" = "今天不再提醒我";
@@ -204,9 +204,82 @@
 "Always confirm widget actions" = "始终确认小组件的动作";
 "Offline" = "离线";
 "No network connection" = "没有车辆连接到网络";
-"Updated " = "Updated ";
-" ago" = " ago";
-"Appearance" = "Appearance";
-"Light" = "Light";
-"Dark" = "Dark";
-"Auto" = "Auto";
+"Updated " = "更新 ";
+" ago" = " 前";
+"Appearance" = "外观";
+"Light" = "浅色";
+"Dark" = "深色";
+"Auto" = "自动";
+
+"Hide debug" = "隐藏调试信息";
+"Show debug" = "显示调试信息";
+"Changelog" = "版本更新日志";
+"Debug" = "调试";
+"Vehicle" = "车辆信息";
+"Power" = "电量";
+"Drive state" = "行驶状态";
+"Range" = "续航里程";
+"App debug" = "应用程序调试";
+"Background events" = "后台事件";
+"Authentication events" = "身份验证事件";
+"Clear cache" = "清空缓存";
+
+"Setting steering wheel heater" = "设置方向盘加热";
+"Turn on steering wheel heater" = "打开方向盘加热";
+"Turn off steering wheel heater" = "关闭方向盘加热";
+"Close frunk" = "关闭前备箱";
+"Really close frunk?" = "确定要关闭前备箱吗?";
+
+"Shortcuts" = "快捷指令";
+"About to buy a new Tesla? Use my referral code!" = "要买新的特斯拉？使用我的推荐码！";
+"Active vehicle" = "在用车辆";
+
+"Close Charge Port" = "关闭充电接口";
+"Close Trunk" = "关闭后备箱";
+"Close Windows" = "关闭车窗";
+"Open Charge Port" = "打开充电接口";
+"Open Trunk" = "打开后备箱";
+"Open Frunk" = "打开前备箱";
+"Set Charge Limit" = "设置充电限制";
+"Start Charging" = "开始充电";
+"Start Climate" = "打开空调";
+"Start Defrost" = "打开除霜";
+"Stop Charging" = "停止充电";
+"Stop Climate" = "关闭空调";
+"Stop Defrost" = "关闭除霜";
+"Trigger Homelink" = "Homelink信号";
+"Vent Windows" = "开窗通风";
+"Controls page" = "控件页";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "请在您的iPhone上安装本应用并登录，然后将登录转移到Watch";
+
+//Siri
+"Result" = "结果";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName}不能低于${minimumValue}.";
+"State Of Charge" = "充电状态";
+"Vehicle Image Url" = "车辆图片地址";
+"Inside Temp F" = "车内温度(华氏)";
+"true" = "真";
+"Vehicle State" = "车辆信息";
+"Range Estimated M" = "续航预估（英里）";
+"false" = "失败";
+"Is Locked" = "已锁定";
+"Close Frunk" = "关闭前备箱";
+"Get Vehicle State" = "获取车辆信息";
+"Vehicle Name" = "车辆名称";
+"Range Estimated KM" = "续航预估(公里)";
+"Open Features" = "开放功能";
+"What limit?" = "什么级别?";
+"Outside Temp F" = "车外温度(华氏)";
+"Limit" = "级别";
+"Sentry Active" = "激活哨兵模式";
+"Outside Temp C" = "车外温度(摄氏)";
+"Climate Active" = "开启空调";
+"Range Rated KM" = "满电续航(公里)";
+"Charge to ${limit}%" = "充电到${limit}%";
+"Charge Limit" = "充电限制";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName}不能高于${maximumValue}.";
+"${displayName} can’t be negative." = "${displayName}不能为负数";
+"Is Charging" = "正在充电";
+"Inside Temp C" = "车内温度(摄氏)";
+"Range Rated M" = "满电续航（英里）";
+"Signal Homelink" = "Homelink信号";

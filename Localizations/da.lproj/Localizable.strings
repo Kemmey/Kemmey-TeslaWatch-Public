@@ -3,7 +3,7 @@
   TeslaWatch
 
   Created by Kim Hansen on 27/05/2020.
-  Copyright © 2020 Kim Hansen. All rights reserved.
+  Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Kim Hansen
 */
 "Hide Controls" = "Skjul Funktioner";
@@ -201,12 +201,85 @@
 "Activate climate" = "Aktiver klima";
 "Deactivate climate" = "Deaktiver klima";
 "Please confirm" = "Bekræft venligst";
-"Always confirm widget actions" = "Always confirm widget actions";
+"Always confirm widget actions" = "Bekræft altid Widget handlinger";
 "Offline" = "Offline";
-"No network connection" = "No network connection";
+"No network connection" = "Ingen netværksforbindelse";
 "Updated " = "Opdateret for ";
 " ago" = " siden";
 "Appearance" = "Udseende";
 "Light" = "Lyst";
 "Dark" = "Mørkt";
 "Auto" = "Auto";
+
+"Hide debug" = "Skjul debug";
+"Show debug" = "Vis debug";
+"Changelog" = "Ændringer";
+"Debug" = "Debug";
+"Vehicle" = "Køretøj";
+"Power" = "Strøm";
+"Drive state" = "Kørsels tilstand";
+"Range" = "Rækkevidde";
+"App debug" = "App debug";
+"Background events" = "Baggrundshændelser";
+"Authentication events" = "Login hændelser";
+"Clear cache" = "Nulstil cache";
+
+"Setting steering wheel heater" = "Indstil varme i rattet";
+"Turn on steering wheel heater" = "Tænd varme i rattet";
+"Turn off steering wheel heater" = "Sluk varme i rattet";
+"Close frunk" = "Luk frunk";
+"Really close frunk?" = "Sikker på du vil lukke frunk?";
+
+"Shortcuts" = "Genveje";
+"About to buy a new Tesla? Use my referral code!" = "Ved at købe en ny Tesla? Brug min henvisningskode!";
+"Active vehicle" = "Aktiv bil";
+
+"Close Charge Port" = "Luk Ladeport";
+"Close Trunk" = "Luk Baggagerum";
+"Close Windows" = "Luk Vinduer";
+"Open Charge Port" = "Åbn Ladeport";
+"Open Trunk" = "Åbn Baggagerum";
+"Open Frunk" = "Åbn Frunk";
+"Set Charge Limit" = "Sæt Opladningsgrænse";
+"Start Charging" = "Start Opladning";
+"Start Climate" = "Start Klima";
+"Start Defrost" = "Start Defrost";
+"Stop Charging" = "Stop Opladning";
+"Stop Climate" = "Stop Klima";
+"Stop Defrost" = "Stop Defrost";
+"Trigger Homelink" = "Signaler Homelink";
+"Vent Windows" = "Åbn Vinduer";
+"Controls page" = "Kontroller";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Installer venligst appen på iPhone og foretag login der. Overfør dernæst login til uret.";
+
+//Siri
+"Result" = "Resultat";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} må ikke være mindre end ${minimumValue}.";
+"State Of Charge" = "Batteri";
+"Vehicle Image Url" = "Url til billede af bil";
+"Inside Temp F" = "Indetemperatur F";
+"true" = "true";
+"Vehicle State" = "Tilstand";
+"Range Estimated M" = "Estimeret Rækkevidde M";
+"false" = "false";
+"Is Locked" = "Låst";
+"Close Frunk" = "Luk Frunk";
+"Get Vehicle State" = "Hent Tilstand";
+"Vehicle Name" = "Bilens Navn";
+"Range Estimated KM" = "Estimeret Rækkevidde KM";
+"Open Features" = "Åbne Dele";
+"What limit?" = "Hvilken grænse?";
+"Outside Temp F" = "Udetemperatur F";
+"Limit" = "Grænse";
+"Sentry Active" = "Sentry Aktiv";
+"Outside Temp C" = "Udetemperatur C";
+"Climate Active" = "Klima Aktiv";
+"Range Rated KM" = "Normeret Rækkevidde KM";
+"Charge to ${limit}%" = "Oplad til ${limit}%";
+"Charge Limit" = "Charge Limit";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} må ikke være større end ${maximumValue}.";
+"${displayName} can’t be negative." = "${displayName} må ikke være negativ.";
+"Is Charging" = "Oplader";
+"Inside Temp C" = "Indetemperatur C";
+"Range Rated M" = "Normeret Rækkevidde M";
+"Signal Homelink" = "Signaler Homelink";

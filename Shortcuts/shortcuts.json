@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Schedule defrost",
+        "description": "Start defrost action - ideally set this as a personal automation at your desired schedule",
+        "icon": "thermometer.snowflake",
+        "url": "https://www.icloud.com/shortcuts/02b2356ae4004b1998c6697d0a213f5c"
+    },
+    {
+        "name": "Start climate",
+        "description": "Activate climate - use this action to start the climate with Siri",
+        "icon": "thermometer.sun",
+        "url": "https://www.icloud.com/shortcuts/47ea06c524b4413a8897a24d3234551c"
+    },
+    {
+        "name": "Start Charging",
+        "description": "If plugged in, tell the vehicle to start charging now",
+        "icon": "bolt.fill",
+        "url": "https://www.icloud.com/shortcuts/ae1b806f219940bdbbd0dd77dc44b9f7"
+    },
+    {
+        "name": "Stop Charging",
+        "description": "If vehicle is charging, tell it to stop",
+        "icon": "bolt.slash.fill",
+        "url": "https://www.icloud.com/shortcuts/f1c4046514f54271a49767a779adc98d"
+    },
+    {
+        "name": "Open Frunk",
+        "description": "Tell vehicle to open the front trunk",
+        "icon": "arrow.turn.left.up",
+        "url": "https://www.icloud.com/shortcuts/f2665c290faf49518df1e7682088a44c"
+    },
+    {
+        "name": "Open Trunk",
+        "description": "Tell vehicle to open the trunk",
+        "icon": "arrow.turn.right.up",
+        "url": "https://www.icloud.com/shortcuts/bc20fb801d304a1889355a2a553801b4"
+    },
+    {
+        "name": "Close Trunk",
+        "description": "For vehicles with power trunk, close the trunk",
+        "icon": "arrow.turn.right.down",
+        "url": "https://www.icloud.com/shortcuts/b8e23299075a4c0e945a5739ce7f1749"
+    }
+]
