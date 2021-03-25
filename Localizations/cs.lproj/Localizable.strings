@@ -227,7 +227,7 @@
 "Setting steering wheel heater" = "Nastavení vyhřívání volantu";
 "Turn on steering wheel heater" = "Zapnout vyhřívání volantu";
 "Turn off steering wheel heater" = "Vypnout vyhřívání volantu";
-"Close frunk" = "Zavřít kufr";
+"Close frunk" = "Zavřít přední kufr";
 "Really close frunk?" = "Opravdu zavřít kufr?";
 
 "Shortcuts" = "Zkratky";
@@ -245,7 +245,7 @@
 "Start Climate" = "Spustit klima";
 "Start Defrost" = "Spustit odmrazování";
 "Stop Charging" = "Zastavit nabíjení";
-"Stop Climate" = "Zastavit klimu";
+"Stop Climate" = "Zastavit klima";
 "Stop Defrost" = "Zastavit odmrazování";
 "Trigger Homelink" = "Signal Homelink";
 "Vent Windows" = "Ventilace okna";
@@ -263,7 +263,7 @@
 "Range Estimated M" = "Odhad dojezdu M";
 "false" = "Chyba";
 "Is Locked" = "Zamknout";
-"Close Frunk" = "Zavřít kufr";
+"Close Frunk" = "Zavřít přední kufr";
 "Get Vehicle State" = "Získat jméno vozidla";
 "Vehicle Name" = "Jméno vozidla";
 "Range Estimated KM" = "Odhad dojezdu KM";
