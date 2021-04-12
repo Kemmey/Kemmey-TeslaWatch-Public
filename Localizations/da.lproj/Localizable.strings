@@ -283,7 +283,8 @@
 "Inside Temp C" = "Indetemperatur C";
 "Range Rated M" = "Normeret Rækkevidde M";
 "Signal Homelink" = "Signaler Homelink";
-
-//Summon
-"plugged_in" = "Unplug to Summon";
-"high_grade" = "Too steep to Summon";
+"Sharing to vehicle" = "Deler til bilen";
+"Send Navigation Destination" = "Send destination til bilen";
+"Destination" = "Destination";
+"Where do you want to go?" = "Hvor vil du hen?";
+"Set navigation destination to ${destination}" = "Send ${destination} til bilen";

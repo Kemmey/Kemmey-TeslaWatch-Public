@@ -283,3 +283,8 @@
 "Inside Temp C" = "Innetemperatur C";
 "Range Rated M" = "Vurdert rekkevidde M";
 "Signal Homelink" = "Send Homelink";
+"Sharing to vehicle" = "Sharing to vehicle";
+"Send Navigation Destination" = "Send Navigation Destination";
+"Destination" = "Destination";
+"Where do you want to go?" = "Where do you want to go?";
+"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";

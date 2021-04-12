@@ -283,3 +283,8 @@
 "Inside Temp C" = "Inside Temp C";
 "Range Rated M" = "Range Rated M";
 "Signal Homelink" = "Signal Homelink";
+"Sharing to vehicle" = "Sharing to vehicle";
+"Send Navigation Destination" = "Send Navigation Destination";
+"Destination" = "Destination";
+"Where do you want to go?" = "Where do you want to go?";
+"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";

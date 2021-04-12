@@ -283,3 +283,8 @@
 "Inside Temp C" = "车内温度(摄氏)";
 "Range Rated M" = "满电续航（英里）";
 "Signal Homelink" = "Homelink信号";
+"Sharing to vehicle" = "Sharing to vehicle";
+"Send Navigation Destination" = "Send Navigation Destination";
+"Destination" = "Destination";
+"Where do you want to go?" = "Where do you want to go?";
+"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
