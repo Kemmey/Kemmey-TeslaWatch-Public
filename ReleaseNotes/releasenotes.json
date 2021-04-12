@@ -254,8 +254,8 @@
             { "build": 540, "change": "*Bugfixes*" },
             { "build": 540, "change": "Siri action Wake now has a timeout of only 9 seconds, as 3rd party shortcuts actions can only execute for 10 seconds on iOS 14. To ensure reliability of shortcuts, put the Wake action in a loop for at least 4 times before any other actions." },
             { "build": 546, "change": "Updated localizations." },
-            { "build": 550, "change": "Updated localizations." }
-            
+            { "build": 556, "change": "Button views housekeeping - a few actions that were only labels on iOS, are now rendered as buttons." },
+            { "build": 556, "change": "Added Send Navigation Destination Shortcuts action." }
         ]
     },
     {
