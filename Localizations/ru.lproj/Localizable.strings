@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   TeslaWatch
 
@@ -8,8 +8,8 @@
 */
 "Hide Controls" = "Скрыть управ.";
 "Show Controls" = "Показать управ.";
-"Charging scheduled" = "Charging scheduled";
-"Start at %@" = "Start at %@";
+"Charging scheduled" = "Зарядка по расписанию";
+"Start at %@" = "Начать в %@";
 "Depart at %@" = "Depart at %@";
 "Stop charging" = "Прекратить зарядку";
 "Start charging" = "Начать зарядку";
@@ -32,9 +32,9 @@
 "Added %@ kWh" = "Добавлено %@ кВт⋅ч";
 "Charging complete" = "Зарядка завершена";
 "Loading..." = "Загрузка...";
-"Open frunk" = "Открыть франк";
+"Open frunk" = "Открыть передний багажник";
 "Really open frunk?" = "Точно открыть?";
-"Set temp:" = "Set temp:";
+"Set temp:" = "Задать темп:";
 "Close" = "Закрыть";
 "Open" = "Открыть";
 "close" = "закрыть";
@@ -42,12 +42,12 @@
 "%@ trunk" = "%@ багажник";
 "Really %@ trunk?" = "Точно %@?";
 "%@ charge port" = "%@ порт зарядки";
-"Activate Homelink" = "Activate Homelink";
-"Really activate Homelink?" = "Really activate Homelink?";
+"Activate Homelink" = "Активировать Homelink";
+"Really activate Homelink?" = "Действительно активировать Homelink?";
 "Keyless drive" = "Бесключевой доступ";
 "Really enable keyless drive?" = "Точно включить?";
 "Honk!" = "Сигнал!";
-"Unlock port" = "Unlock port";
+"Unlock port" = "Разблокировать порт";
 "%@ port" = "%@ порт";
 "Homelink" = "Homelink";
 "Disable Sentry" = "Выкл. часового";
@@ -56,7 +56,7 @@
 "%@ windows" = "%@ окна";
 "Location of %@" = "Локация %@";
 "Location" = "Локация";
-"Flash!" = "Flash!";
+"Flash!" = "Моргнуть фарами!";
 "Waking" = "Пробуждение";
 "Sending" = "Отправка";
 "Loading" = "Загрузка";
@@ -73,7 +73,7 @@
 "Add vehicle option codes querystring" = "Add vehicle option codes querystring";
 "Example: %@%@" = "Пример: %@%@";
 "Vehicle open" = "Авто открыт";
-"Frunk" = "Франк";
+"Frunk" = "Передний багажник";
 "Trunk" = "Багажник";
 "All windows" = "Все окна";
 "Driver front window" = "Окно водителя";
@@ -109,7 +109,7 @@
 "Plug-in reminder" = "Plug-in reminder";
 "Remove" = "Удалить";
 "Add current vehicle location" = "Добавить текущую локацию авто";
-"Unknown" = "Unknown";
+"Unknown" = "Неизвестно";
 "is not plugged in" = "не подключен к";
 "Starting" = "Starting";
 "Charging" = "Зарядка";
@@ -124,29 +124,29 @@
 "Seat heaters" = "Подогрев сидений";
 "No vehicle data" = "Нет данных авто";
 "Choose vehicle" = "Выберите авто";
-"Allow wake" = "Allow wake";
+"Allow wake" = "Подтвердить пробуждение";
 "Until" = "До";
 "Wake" = "Пробуждать";
 "Always" = "Всегда";
-"Hour" = "Hour";
-"Minute" = "Minute";
-"Success" = "Success";
-"Failed" = "Failed";
-"Started charging" = "Началась зарядка";
-"Stopped charging" = "Прервана зарядка";
+"Hour" = "Час";
+"Minute" = "Минута";
+"Success" = "Успешно";
+"Failed" = "Сбой";
+"Started charging" = "Начать зарядку";
+"Stopped charging" = "Остановить зарядку";
 "Open charge port door" = "Open charge port door";
 "Close charge port door" = "Close charge port door";
 "Unlock vehicle" = "Открыть авто";
 "Lock vehicle" = "Закрыть авто";
-"Opened frunk" = "Открыт франк";
-"Opened trunk" = "Открыт багажник";
+"Opened frunk" = "Открыть передний багажник";
+"Opened trunk" = "Открыть багажник";
 "Set charge limit" = "Задать предел зарядки";
 "Starting HVAC" = "Запуск ОВиК";
 "Stopping HVAC" = "Остановка ОВиК";
-"Started defroster" = "Started defroster";
-"Stopped defroster" = "Stopped defroster";
+"Started defroster" = "Начать разморозку";
+"Stopped defroster" = "Остановить разморозку";
 "Honking" = "Сигналит";
-"Flashing the lights" = "Flashing the lights";
+"Flashing the lights" = "Моргнуть фарами";
 "Set temps" = "Set temps";
 "Enabled Sentry mode" = "Включен режим часового";
 "Disabled Sentry mode" = "Выключен режим часового";
@@ -170,20 +170,20 @@
 "NW" = "СЗ";
 
 "Auto-enable remote start on unlock" = "Auto-enable remote start on unlock";
-"Climate" = "Climate";
-"Lock" = "Lock";
-"Unlock" = "Unlock";
-"Reset" = "Reset";
+"Climate" = "Климат";
+"Lock" = "Закрыть";
+"Unlock" = "Открыть";
+"Reset" = "Сбросить";
 "Two main control rows" = "Two main control rows";
 "Drag controls to reorder" = "Drag controls to reorder";
 "Controls order" = "Controls order";
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Items that are greyed out will be hidden. This can cause actual control placement to shift.";
-"First row" = "First row";
-"Second row" = "Second row";
-"Controls" = "Controls";
-"Compass" = "Compass";
+"First row" = "Первый ряд";
+"Second row" = "Второй ряд";
+"Controls" = "Управление";
+"Compass" = "Компас";
 
-"Enable climate to activate seat heaters" = "Enable climate to activate seat heaters";
+"Enable climate to activate seat heaters" = "Включить климат и подогрев сидений";
 "Show inactive controls" = "Show inactive controls";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com";
 "Optionally allow use of your location to show current distance to vehicle" = "Optionally allow use of your location to show current distance to vehicle";
@@ -191,65 +191,65 @@
 "If you have the iOS companion app installed, you can transfer your login to the watch" = "If you have the iOS companion app installed, you can transfer your login to the watch";
 "Transfer login" = "Transfer login";
 "State" = "State";
-"Icon" = "Icon";
-"Open trunk" = "Open trunk";
-"Unlock charge port" = "Unlock charge port";
+"Icon" = "Иконка";
+"Open trunk" = "Открыть передний багажник";
+"Unlock charge port" = "Разблокировать зарядный порт";
 "Login with token" = "Login with token";
 "Login with Tesla" = "Login with Tesla";
 "Rate this app" = "Rate this app";
 "Always confirm complication actions" = "Always confirm complication actions";
-"Activate climate" = "Activate climate";
-"Deactivate climate" = "Deactivate climate";
-"Please confirm" = "Please confirm";
+"Activate climate" = "Включить климат";
+"Deactivate climate" = "Выключить климат";
+"Please confirm" = "Пожалуйста подтвердите";
 "Always confirm widget actions" = "Always confirm widget actions";
-"Offline" = "Offline";
-"No network connection" = "No network connection";
-"Updated " = "Updated ";
+"Offline" = "Вне сети";
+"No network connection" = "Нет сетевого подключения";
+"Updated " = "Обновлено";
 " ago" = " ago";
 "Appearance" = "Appearance";
-"Light" = "Light";
-"Dark" = "Dark";
-"Auto" = "Auto";
+"Light" = "Светлый";
+"Dark" = "Темный";
+"Auto" = "Авто";
 
-"Hide debug" = "Hide debug";
-"Show debug" = "Show debug";
+"Hide debug" = "Скрыть отладку";
+"Show debug" = "Показать отладку";
 "Changelog" = "Changelog";
-"Debug" = "Debug";
-"Vehicle" = "Vehicle";
-"Power" = "Power";
+"Debug" = "Отладка";
+"Vehicle" = "Автомобиль";
+"Power" = "Мощность";
 "Drive state" = "Drive state";
-"Range" = "Range";
-"App debug" = "App debug";
-"Background events" = "Background events";
+"Range" = "Запас хода";
+"App debug" = "Отладка приложения";
+"Background events" = "Фоновые события";
 "Authentication events" = "Authentication events";
-"Clear cache" = "Clear cache";
+"Clear cache" = "Очистить кеш";
 
 "Setting steering wheel heater" = "Setting steering wheel heater";
 "Turn on steering wheel heater" = "Turn on steering wheel heater";
 "Turn off steering wheel heater" = "Turn off steering wheel heater";
 "Close frunk" = "Close frunk";
-"Really close frunk?" = "Really close frunk?";
+"Really close frunk?" = "Действительно закрыть багажник?";
 
 "Shortcuts" = "Shortcuts";
 "About to buy a new Tesla? Use my referral code!" = "About to buy a new Tesla? Use my referral code!";
-"Active vehicle" = "Active vehicle";
+"Active vehicle" = "Активный автомобиль";
 
-"Close Charge Port" = "Close Charge Port";
-"Close Trunk" = "Close Trunk";
-"Close Windows" = "Close Windows";
-"Open Charge Port" = "Open Charge Port";
-"Open Trunk" = "Open Trunk";
-"Open Frunk" = "Open Frunk";
-"Set Charge Limit" = "Set Charge Limit";
-"Start Charging" = "Start Charging";
-"Start Climate" = "Start Climate";
-"Start Defrost" = "Start Defrost";
-"Stop Charging" = "Stop Charging";
-"Stop Climate" = "Stop Climate";
-"Stop Defrost" = "Stop Defrost";
+"Close Charge Port" = "Закрыть Порт Зарядки";
+"Close Trunk" = "Закрыть Багажник";
+"Close Windows" = "Закрыть Окна";
+"Open Charge Port" = "Открыть Порт Зарядки";
+"Open Trunk" = "Открыть багажник";
+"Open Frunk" = "Открыть передний багажник";
+"Set Charge Limit" = "Установить предел зарядки";
+"Start Charging" = "Начать Зарядку";
+"Start Climate" = "Включить Климат";
+"Start Defrost" = "Начать разморозку";
+"Stop Charging" = "Остановить Зарядку";
+"Stop Climate" = "Выключить Климат";
+"Stop Defrost" = "Остановить Разморозку";
 "Trigger Homelink" = "Signal Homelink";
-"Vent Windows" = "Vent Windows";
-"Controls page" = "Controls page";
+"Vent Windows" = "Приоткрыть Окна для проветривания";
+"Controls page" = "Страница управления";
 "Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Please install the app on your iPhone and perform login there, then transfer login to Watch";
 
 //Siri

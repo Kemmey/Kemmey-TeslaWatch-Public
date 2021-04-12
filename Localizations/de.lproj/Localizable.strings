@@ -4,7 +4,7 @@
 
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2021 Kim Hansen. All rights reserved.
-  Localized by Daniel Bertuleit - daniel.bertuleit@gmail.com
+  Localized by Dominic Hanselmann and Daniel Bertuleit
 */
 "Hide Controls" = "Steuerung verstecken";
 "Show Controls" = "Steuerung anzeigen";
@@ -194,7 +194,7 @@
 "Icon" = "Icon";
 "Open trunk" = "Trunk öffnen";
 "Unlock charge port" = "Ladeanschluss entriegeln";
-"Login with token" = "Login mit token";
+"Login with token" = "Login mit Token";
 "Login with Tesla" = "Login mit Tesla";
 "Rate this app" = "App bewerten";
 "Always confirm complication actions" = "Aktionen aus Komplikationen immer bestätigen";
@@ -207,8 +207,8 @@
 "Updated " = "Vor ";
 " ago" = " aktualisiert";
 "Appearance" = "Erscheinungsbild";
-"Light" = "Light";
-"Dark" = "Dark";
+"Light" = "Hell";
+"Dark" = "Dunkel";
 "Auto" = "Auto";
 
 "Hide debug" = "Debug ausblenden";
@@ -232,54 +232,54 @@
 
 "Shortcuts" = "Kurzbefehle";
 "About to buy a new Tesla? Use my referral code!" = "Kaufst du einen neuen Tesla? Benutze meinen Referral-Code!";
-"Active vehicle" = "Active vehicle";
+"Active vehicle" = "Aktives Fahrzeug";
 
-"Close Charge Port" = "Close Charge Port";
-"Close Trunk" = "Close Trunk";
-"Close Windows" = "Close Windows";
-"Open Charge Port" = "Open Charge Port";
-"Open Trunk" = "Open Trunk";
-"Open Frunk" = "Open Frunk";
-"Set Charge Limit" = "Set Charge Limit";
-"Start Charging" = "Start Charging";
-"Start Climate" = "Start Climate";
-"Start Defrost" = "Start Defrost";
-"Stop Charging" = "Stop Charging";
-"Stop Climate" = "Stop Climate";
-"Stop Defrost" = "Stop Defrost";
-"Trigger Homelink" = "Signal Homelink";
-"Vent Windows" = "Vent Windows";
-"Controls page" = "Controls page";
-"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Please install the app on your iPhone and perform login there, then transfer login to Watch";
+"Close Charge Port" = "Ladeanschluss schließen ";
+"Close Trunk" = "Kofferraum schließen";
+"Close Windows" = "Fenster schließen";
+"Open Charge Port" = "Ladeanschluss öffnen";
+"Open Trunk" = "Kofferraum öffnen";
+"Open Frunk" = "Frunk öffnen";
+"Set Charge Limit" = "Ladelimit setzen";
+"Start Charging" = "Aufladen starten";
+"Start Climate" = "Klimaanlage einschalten";
+"Start Defrost" = "Auftauen aktivieren";
+"Stop Charging" = "Aufladen stoppen";
+"Stop Climate" = "Klimaanlage abschalten";
+"Stop Defrost" = "Auftauen stoppen";
+"Trigger Homelink" = "Homelink aktivieren";
+"Vent Windows" = "Fenster wenig öffnen";
+"Controls page" = "Bedienelemente-Seite";
+"Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Bitte installiere die App auf deinem iPhone und logge dich dort ein. Dann übertrage das Login zur Uhr.";
 
 //Siri
-"Result" = "Result";
-"${displayName} can’t be lower than ${minimumValue}." = "${displayName} can’t be lower than ${minimumValue}.";
-"State Of Charge" = "State Of Charge";
-"Vehicle Image Url" = "Vehicle Image Url";
-"Inside Temp F" = "Inside Temp F";
-"true" = "true";
-"Vehicle State" = "Vehicle State";
-"Range Estimated M" = "Range Estimated M";
-"false" = "false";
-"Is Locked" = "Is Locked";
-"Close Frunk" = "Close Frunk";
-"Get Vehicle State" = "Get Vehicle State";
-"Vehicle Name" = "Vehicle Name";
-"Range Estimated KM" = "Range Estimated KM";
-"Open Features" = "Open Features";
-"What limit?" = "What limit?";
-"Outside Temp F" = "Outside Temp F";
+"Result" = "Resultat";
+"${displayName} can’t be lower than ${minimumValue}." = "${displayName} kann nicht tiefer als ${minimumValue} sein.";
+"State Of Charge" = "Ladezustand";
+"Vehicle Image Url" = "Fahrzeugbild-Url";
+"Inside Temp F" = "Innentemperatur F";
+"true" = "richtig";
+"Vehicle State" = "Fahrzeugstatus";
+"Range Estimated M" = "geschätzte Reichweite M";
+"false" = "falsch";
+"Is Locked" = "ist abgeschlossen";
+"Close Frunk" = "Frunk schließen";
+"Get Vehicle State" = "Fahrzeugstatus abrufen";
+"Vehicle Name" = "Fahrzeugname";
+"Range Estimated KM" = "geschätzte Reichweite KM";
+"Open Features" = "Funktionen öffnen";
+"What limit?" = "Welches Limit?";
+"Outside Temp F" = "Außentemperatur F";
 "Limit" = "Limit";
-"Sentry Active" = "Sentry Active";
-"Outside Temp C" = "Outside Temp C";
-"Climate Active" = "Climate Active";
-"Range Rated KM" = "Range Rated KM";
-"Charge to ${limit}%" = "Charge to ${limit}%";
-"Charge Limit" = "Charge Limit";
-"${displayName} can’t be higher than ${maximumValue}." = "${displayName} can’t be higher than ${maximumValue}.";
-"${displayName} can’t be negative." = "${displayName} can’t be negative.";
-"Is Charging" = "Is Charging";
-"Inside Temp C" = "Inside Temp C";
-"Range Rated M" = "Range Rated M";
-"Signal Homelink" = "Signal Homelink";
+"Sentry Active" = "Wächter aktiv";
+"Outside Temp C" = "Außentemperatur C";
+"Climate Active" = "Klimaanlage aktiv";
+"Range Rated KM" = "Reichweite KM";
+"Charge to ${limit}%" = "Aufladen bis ${limit}%";
+"Charge Limit" = "Ladelimit";
+"${displayName} can’t be higher than ${maximumValue}." = "${displayName} kann nicht höher als ${maximumValue} sein.";
+"${displayName} can’t be negative." = "${displayName} darf nicht negativ sein.";
+"Is Charging" = "Lädt";
+"Inside Temp C" = "Innentemperatur C";
+"Range Rated M" = "Reichweite M";
+"Signal Homelink" = "Homelink aktivieren";
