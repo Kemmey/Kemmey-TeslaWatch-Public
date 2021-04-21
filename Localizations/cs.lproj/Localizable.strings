@@ -283,8 +283,8 @@
 "Inside Temp C" = "Vnitřní teplota C";
 "Range Rated M" = "Dojezd M";
 "Signal Homelink" = "Signal Homelink";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
-"Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Sharing to vehicle" = "Sdílení s vozidlem";
+"Send Navigation Destination" = "Odeslat cíl navigace";
+"Destination" = "Cíl";
+"Where do you want to go?" = "Kam chcete navigovat?";
+"Set navigation destination to ${destination}" = "Nastavit cíl navigace ${destinace}";
