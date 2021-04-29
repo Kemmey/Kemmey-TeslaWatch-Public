@@ -127,7 +127,7 @@
 "Allow wake" = "Aufwecken erlauben";
 "Until" = "Bis";
 "Wake" = "Wecken";
-"Always" = "Imnmer";
+"Always" = "Immer";
 "Hour" = "Stunde";
 "Minute" = "Minute";
 "Success" = "Erfolgreich";
@@ -288,3 +288,6 @@
 "Destination" = "Destination";
 "Where do you want to go?" = "Where do you want to go?";
 "Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+
+"Vent sunroof" = "Lüften Schiebedach";
+"Close sunroof" = "Schließen Schiebedach";

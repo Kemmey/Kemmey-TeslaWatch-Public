@@ -288,3 +288,6 @@
 "Destination" = "Destination";
 "Where do you want to go?" = "Hvor vil du hen?";
 "Set navigation destination to ${destination}" = "Send ${destination} til bilen";
+
+"Vent sunroof" = "Åbn soltag";
+"Close sunroof" = "Luk soltag";

@@ -288,3 +288,6 @@
 "Destination" = "Destination";
 "Where do you want to go?" = "Where do you want to go?";
 "Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+
+"Vent sunroof" = "通风天窗";
+"Close sunroof" = "关闭天窗";

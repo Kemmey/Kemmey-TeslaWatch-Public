@@ -288,3 +288,6 @@
 "Destination" = "Cíl";
 "Where do you want to go?" = "Kam chcete navigovat?";
 "Set navigation destination to ${destination}" = "Nastavit cíl navigace ${destinace}";
+
+"Vent sunroof" = "Ventilace střešní okno";
+"Close sunroof" = "Zavřít střešní okno";

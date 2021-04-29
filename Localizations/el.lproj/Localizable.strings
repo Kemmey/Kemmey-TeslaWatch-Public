@@ -288,3 +288,6 @@
 "Destination" = "Destination";
 "Where do you want to go?" = "Where do you want to go?";
 "Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+
+"Vent sunroof" = "Εξαερισμός ηλιοροφή";
+"Close sunroof" = "Κλείσιμο ηλιοροφή";
