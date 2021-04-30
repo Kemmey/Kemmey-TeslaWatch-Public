@@ -169,7 +169,7 @@
 "W" = "W";
 "NW" = "NW";
 
-"Auto-enable remote start on unlock" = "Fernstart beim aufschließen automatisch aktivieren";
+"Auto-enable remote start on unlock" = "Fernstart beim Aufschließen automatisch aktivieren";
 "Climate" = "Klima";
 "Lock" = "Verschließen";
 "Unlock" = "Aufschließen";
@@ -289,5 +289,5 @@
 "Where do you want to go?" = "Where do you want to go?";
 "Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
 
-"Vent sunroof" = "Lüften Schiebedach";
-"Close sunroof" = "Schließen Schiebedach";
+"Vent sunroof" = "Kippe Schiebedach";
+"Close sunroof" = "Schließe Schiebedach";
