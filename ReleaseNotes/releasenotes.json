@@ -259,7 +259,8 @@
             { "build": 558, "change": "No longer throw fatalError when retries reaches max - should fix some crashes at launch." },
             { "build": 560, "change": "Added split view on iPads and plus/max iPhones in landscape." },
             { "build": 564, "change": "Added new Siri Shortcuts: Remote Start, Honk, Flash, Vent Sunroof, Close Sunroof, Enable Steering Wheel Heater, Disable Steering Wheel Heater" },
-            { "build": 564, "change": "Fixed Siri Shortcuts not being correctly sorted" }
+            { "build": 564, "change": "Fixed Siri Shortcuts not being correctly sorted" },
+            { "build": 570, "change": "Added inside and outside temp complications" }
         ]
     },
     {

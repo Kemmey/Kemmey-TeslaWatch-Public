@@ -291,3 +291,9 @@
 
 "Vent sunroof" = "Åbn soltag";
 "Close sunroof" = "Luk soltag";
+
+"Inside temp" = "Indetemperatur";
+"Outside temp" = "Udetemperatur";
+"is" = "er";
+"charged giving a range of" = "opladet, med en rækkevidde på";
+"and is currently charging" = "og lader";
