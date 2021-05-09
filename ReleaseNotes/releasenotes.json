@@ -261,8 +261,8 @@
             { "build": 564, "change": "Added new Siri Shortcuts: Remote Start, Honk, Flash, Vent Sunroof, Close Sunroof, Enable Steering Wheel Heater, Disable Steering Wheel Heater" },
             { "build": 564, "change": "Fixed Siri Shortcuts not being correctly sorted" },
             { "build": 570, "change": "Added inside and outside temp complications" },
-            { "build": 582, "change": "Experimental alternate state complication for graphic rectangular" }
-            
+            { "build": 582, "change": "Experimental alternate state complication for graphic rectangular" },
+            { "build": 592, "change": "Some graphic complications now show alternate background if feature is active" }
         ]
     },
     {
