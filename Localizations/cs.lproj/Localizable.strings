@@ -292,10 +292,10 @@
 "Vent sunroof" = "Ventilace střešní okno";
 "Close sunroof" = "Zavřít střešní okno";
 
-"Inside temp" = "Inside temp";
-"Outside temp" = "Outside temp";
-"is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"Inside temp" = "Vnitřní teplota";
+"Outside temp" = "Venkovní teplota";
+"is" = "je";
+"charged giving a range of" = "učtovaný rozsah dojezdu";
+"and is currently charging" = "a právě se nabíjí";
+"Inside" = "Vnitřní";
+"Outside" = "Venkovní";
