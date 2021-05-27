@@ -297,5 +297,10 @@
 "is" = "er";
 "charged giving a range of" = "opladet, med en rækkevidde på";
 "and is currently charging" = "og lader";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"Inside" = "Inde";
+"Outside" = "Ude";
+
+"State - alternate" = "Status - alternativ";
+"Region" = "Region";
+"Global" = "Global";
+"China" = "Kina";

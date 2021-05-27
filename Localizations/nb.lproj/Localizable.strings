@@ -282,20 +282,25 @@
 "Is Charging" = "Lader";
 "Inside Temp C" = "Innetemperatur C";
 "Range Rated M" = "Vurdert rekkevidde M";
-"Signal Homelink" = "Send Homelink";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
-"Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Signal Homelink" = "Sender Homelink";
+"Sharing to vehicle" = "Sender til bilen";
+"Send Navigation Destination" = "Send destinasjon";
+"Destination" = "Destinasjon";
+"Where do you want to go?" = "Hvor skal du kjøre?";
+"Set navigation destination to ${destination}" = "Sett destinasjonen til ${destination}";
 
 "Vent sunroof" = "Ventiler soltak";
 "Close sunroof" = "Lukk soltak";
 
-"Inside temp" = "Inside temp";
-"Outside temp" = "Outside temp";
-"is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"Inside temp" = "Innetemperatur";
+"Outside temp" = "Utetemperatur";
+"is" = "er";
+"charged giving a range of" = "ladingen gir denne rekkevidden";
+"and is currently charging" = "og lading pågår";
+"Inside" = "Inne";
+"Outside" = "Ute";
+
+"State - alternate" = "State - alternate";
+"Region" = "Region";
+"Global" = "Global";
+"China" = "China";
