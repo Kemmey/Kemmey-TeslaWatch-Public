@@ -204,8 +204,8 @@
 "Always confirm widget actions" = "Conferma sempre le azioni del widget";
 "Offline" = "Offline";
 "No network connection" = "Nessuna connessione di rete";
-"Updated " = "Updated ";
-" ago" = " ago";
+"Updated " = "Aggiornato ";
+" ago" = " fà";
 "Appearance" = "Aspetto";
 "Light" = "Chiaro";
 "Dark" = "Scuro";
