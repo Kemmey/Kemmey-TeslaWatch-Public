@@ -262,7 +262,9 @@
             { "build": 564, "change": "Fixed Siri Shortcuts not being correctly sorted" },
             { "build": 570, "change": "Added inside and outside temp complications" },
             { "build": 582, "change": "Experimental alternate state complication for graphic rectangular" },
-            { "build": 592, "change": "Some graphic complications now show alternate background if feature is active" }
+            { "build": 592, "change": "Some graphic complications now show alternate background if feature is active" },
+            { "build": 604, "change": "Updated localizations" },
+            { "build": 604, "change": "Potentially fixed issue with large rectangular complication showing red app icon instead" }
         ]
     },
     {
