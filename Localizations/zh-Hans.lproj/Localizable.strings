@@ -292,15 +292,15 @@
 "Vent sunroof" = "通风天窗";
 "Close sunroof" = "关闭天窗";
 
-"Inside temp" = "Inside temp";
-"Outside temp" = "Outside temp";
+"Inside temp" = "车内温度";
+"Outside temp" = "车外温度";
 "is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"charged giving a range of" = "充电范围为";
+"and is currently charging" = "，当前正充电";
+"Inside" = "车内";
+"Outside" = "车外";
 
-"State - alternate" = "State - alternate";
-"Region" = "Region";
-"Global" = "Global";
-"China" = "China";
+"State - alternate" = "状态 - 交替";
+"Region" = "地区";
+"Global" = "全球";
+"China" = "中国";
