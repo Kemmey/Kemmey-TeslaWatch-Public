@@ -283,24 +283,24 @@
 "Inside Temp C" = "Temp. intérieure C";
 "Range Rated M" = "Autonomie M";
 "Signal Homelink" = "Déclencher Homelink";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
+"Sharing to vehicle" = "Partage au vehicle";
+"Send Navigation Destination" = "Envoyer la destination de navigation";
 "Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Where do you want to go?" = "Où voulez-vous aller?";
+"Set navigation destination to ${destination}" = "Définir la destination de navigation vers ${destination}";
 
 "Vent sunroof" = "Ventiller toit ouvrant";
 "Close sunroof" = "Fermer toit ouvrant";
 
-"Inside temp" = "Inside temp";
-"Outside temp" = "Outside temp";
-"is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"Inside temp" = "Temp. intérieure";
+"Outside temp" = "Temp. extérieure";
+"is" = "est";
+"charged giving a range of" = "recharge donnant une autonomie de";
+"and is currently charging" = "et est présentement en charge";
+"Inside" = "Intérieure";
+"Outside" = "Extérieure";
 
 "State - alternate" = "State - alternate";
-"Region" = "Region";
+"Region" = "Région";
 "Global" = "Global";
-"China" = "China";
+"China" = "Chine";
