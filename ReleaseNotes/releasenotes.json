@@ -264,7 +264,10 @@
             { "build": 582, "change": "Experimental alternate state complication for graphic rectangular" },
             { "build": 592, "change": "Some graphic complications now show alternate background if feature is active" },
             { "build": 604, "change": "Updated localizations" },
-            { "build": 604, "change": "Potentially fixed issue with large rectangular complication showing red app icon instead" }
+            { "build": 604, "change": "Potentially fixed issue with large rectangular complication showing red app icon instead" },
+            { "build": 612, "change": "Updated localizations" },
+            { "build": 612, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
+            { "build": 612, "change": "Improved image caching." }
         ]
     },
     {
