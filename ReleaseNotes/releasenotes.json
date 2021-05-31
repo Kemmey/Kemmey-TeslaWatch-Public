@@ -266,8 +266,8 @@
             { "build": 604, "change": "Updated localizations" },
             { "build": 604, "change": "Potentially fixed issue with large rectangular complication showing red app icon instead" },
             { "build": 612, "change": "Improved image caching." },
-            { "build": 614, "change": "Updated localizations" },
-            { "build": 614, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 615, "change": "Updated localizations" },
+            { "build": 615, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
