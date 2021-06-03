@@ -266,10 +266,10 @@
             { "build": 604, "change": "Updated localizations" },
             { "build": 604, "change": "Potentially fixed issue with large rectangular complication showing red app icon instead" },
             { "build": 612, "change": "Improved image caching." },
-            { "build": 615, "change": "Updated localizations" },
-            { "build": 615, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
             { "build": 615, "change": "Added open features and plugin reminders to iOS version, along with improved background refresh support for iOS" },
-            { "build": 616, "change": "On iOS, widgets will now request location access. This is in order to support plugin reminders and open features reminders." }
+            { "build": 616, "change": "On iOS, widgets will now request location access. This is in order to support plugin reminders and open features reminders." },
+            { "build": 619, "change": "Updated localizations" },
+            { "build": 619, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
