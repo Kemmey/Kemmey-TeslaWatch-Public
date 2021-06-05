@@ -268,11 +268,12 @@
             { "build": 612, "change": "Improved image caching." },
             { "build": 615, "change": "Added open features and plugin reminders to iOS version, along with improved background refresh support for iOS" },
             { "build": 616, "change": "On iOS, widgets will now request location access. This is in order to support plugin reminders and open features reminders." },
-            { "build": 619, "change": "Updated localizations" },
-            { "build": 619, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
             { "build": 625, "change": "Added configurable max wait time to wake Siri Shortcut command" },
             { "build": 625, "change": "Improved VIN decoder - should now be able to identify most dual motor, tri motor, performance and plaid models." },
-            { "build": 626, "change": "Service mode now treated like no network connection" }
+            { "build": 626, "change": "Service mode now treated like no network connection" },
+            { "build": 626, "change": "Fixed driving state view in full screen landscape" },
+            { "build": 627, "change": "Updated localizations" },
+            { "build": 627, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
