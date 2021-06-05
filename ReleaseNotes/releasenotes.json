@@ -271,7 +271,8 @@
             { "build": 619, "change": "Updated localizations" },
             { "build": 619, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
             { "build": 625, "change": "Added configurable max wait time to wake Siri Shortcut command" },
-            { "build": 625, "change": "Improved VIN decoder - should now be able to identify most dual motor, tri motor, performance and plaid models." }
+            { "build": 625, "change": "Improved VIN decoder - should now be able to identify most dual motor, tri motor, performance and plaid models." },
+            { "build": 626, "change": "Service mode now treated like no network connection" }
         ]
     },
     {
