@@ -35,9 +35,9 @@
 "Open frunk" = "Frunk öffnen";
 "Really open frunk?" = "Frunk wirklich öffnen?";
 "Set temp:" = "Temperatur einstellen:";
-"Close" = "Schließen";
+"Close" = "Schliessen";
 "Open" = "Öffnen";
-"close" = "schließen";
+"close" = "schliessen";
 "open" = "öffnen";
 "%@ trunk" = "%@ Trunk";
 "Really %@ trunk?" = "Wirklich Trunk %@?";
@@ -74,7 +74,7 @@
 "Example: %@%@" = "Beispiel: %@%@";
 "Vehicle open" = "Fahrzeug offen";
 "Frunk" = "Frunk";
-"Trunk" = "Trunk";
+"Trunk" = "Kofferraum";
 "All windows" = "Alle Fenster";
 "Driver front window" = "Fahrerfenster";
 "Passenger front window" = "Beifahrerfenster";
@@ -87,7 +87,7 @@
 "Passenger rear door" = "Hintere Türe Beifahrerseite";
 "Disable defrost" = "Abtauen deaktivieren";
 "Defrost" = "Abtauen";
-"Closing windows" = "Fenster schließen";
+"Closing windows" = "Fenster schliessen";
 "km" = "km";
 "mi" = "mi";
 "d" = "t";
@@ -105,7 +105,7 @@
 "by" = "von";
 "Translators" = "Übersetzer";
 "Beta testers" = "Betatester";
-"Huge thanks to my many active beta testers!" = "Großes Danke an alle meine aktiven Betatester!";
+"Huge thanks to my many active beta testers!" = "Grosses Danke an alle meine aktiven Betatester!";
 "Plug-in reminder" = "Auflade-Erinnerung";
 "Remove" = "Entfernen";
 "Add current vehicle location" = "Aktuellen Fahrzeugstandort hinzufügen";
@@ -135,9 +135,9 @@
 "Started charging" = "Aufladen gestartet";
 "Stopped charging" = "Aufladen gestoppt";
 "Open charge port door" = "Ladeklappe öffnen";
-"Close charge port door" = "Ladeklappe schließen";
+"Close charge port door" = "Ladeklappe schliessen";
 "Unlock vehicle" = "Fahrzeug entriegeln";
-"Lock vehicle" = "Fahrzeug verschließen";
+"Lock vehicle" = "Fahrzeug verschliessen";
 "Opened frunk" = "Frunk geöffnet";
 "Opened trunk" = "Trunk geöffnet";
 "Set charge limit" = "Ladelimit einstellen";
@@ -145,21 +145,21 @@
 "Stopping HVAC" = "Klimaanlage wird gestoppt";
 "Started defroster" = "Abtauen gestartet";
 "Stopped defroster" = "Abtauen gestoppt";
-"Honking" = "Hupt";
+"Honking" = "Hupen";
 "Flashing the lights" = "Lichthupe";
 "Set temps" = "Temperaturen einstellen";
 "Enabled Sentry mode" = "Sentry Mode aktivieren";
 "Disabled Sentry mode" = "Sentry Mode deaktivieren";
 "Activating Homelink" = "Homelink aktivieren";
-"Closing windows" = "Fenster schließen";
+"Closing windows" = "Fenster schliessen";
 "Venting windows" = "Fenster einen Spalt öffnen";
-"Closing sunroof" = "Schiebedach schließen";
+"Closing sunroof" = "Schiebedach schliessen";
 "Venting sunroof" = "Schiebedach einen Spalt öffnen";
 "Enabling keyless drive" = "Schlüsselloses Fahren aktivieren";
 "Setting seat heater" = "Sitzheizung einstellen";
 "Don't remind me again today" = "Heute nicht mehr erinnern";
-"Dog mode" = "Dog Mode";
-"Camp mode" = "Camp Mode";
+"Dog mode" = "Hundemodus";
+"Camp mode" = "Campingmodus";
 "N" = "N";
 "NE" = "NO";
 "E" = "O";
@@ -169,10 +169,10 @@
 "W" = "W";
 "NW" = "NW";
 
-"Auto-enable remote start on unlock" = "Fernstart beim Aufschließen automatisch aktivieren";
+"Auto-enable remote start on unlock" = "Fernstart beim Aufschliessen automatisch aktivieren";
 "Climate" = "Klima";
-"Lock" = "Verschließen";
-"Unlock" = "Aufschließen";
+"Lock" = "Abschliessen";
+"Unlock" = "Aufschliessen";
 "Reset" = "Reset";
 "Two main control rows" = "Zwei Reihen Schaltflächen";
 "Drag controls to reorder" = "Ziehen um neu anzuordnen";
@@ -227,16 +227,16 @@
 "Setting steering wheel heater" = "Lenkradheizung einstellen";
 "Turn on steering wheel heater" = "Lenkradheizung einschalten";
 "Turn off steering wheel heater" = "Lenkradheizung ausschalten";
-"Close frunk" = "Frunk schließen";
-"Really close frunk?" = "Frunk wirklich schließen?";
+"Close frunk" = "Frunk schliessen";
+"Really close frunk?" = "Frunk wirklich schliessen?";
 
 "Shortcuts" = "Kurzbefehle";
 "About to buy a new Tesla? Use my referral code!" = "Kaufst du einen neuen Tesla? Benutze meinen Referral-Code!";
 "Active vehicle" = "Aktives Fahrzeug";
 
-"Close Charge Port" = "Ladeanschluss schließen ";
-"Close Trunk" = "Kofferraum schließen";
-"Close Windows" = "Fenster schließen";
+"Close Charge Port" = "Ladeanschluss schliessen ";
+"Close Trunk" = "Kofferraum schliessen";
+"Close Windows" = "Fenster schliessen";
 "Open Charge Port" = "Ladeanschluss öffnen";
 "Open Trunk" = "Kofferraum öffnen";
 "Open Frunk" = "Frunk öffnen";
@@ -263,16 +263,16 @@
 "Range Estimated M" = "geschätzte Reichweite M";
 "false" = "falsch";
 "Is Locked" = "ist abgeschlossen";
-"Close Frunk" = "Frunk schließen";
+"Close Frunk" = "Frunk schliessen";
 "Get Vehicle State" = "Fahrzeugstatus abrufen";
 "Vehicle Name" = "Fahrzeugname";
 "Range Estimated KM" = "geschätzte Reichweite KM";
 "Open Features" = "Funktionen öffnen";
 "What limit?" = "Welches Limit?";
-"Outside Temp F" = "Außentemperatur F";
+"Outside Temp F" = "Aussentemperatur F";
 "Limit" = "Limit";
 "Sentry Active" = "Wächter aktiv";
-"Outside Temp C" = "Außentemperatur C";
+"Outside Temp C" = "Aussentemperatur C";
 "Climate Active" = "Klimaanlage aktiv";
 "Range Rated KM" = "Reichweite KM";
 "Charge to ${limit}%" = "Aufladen bis ${limit}%";
@@ -283,24 +283,28 @@
 "Inside Temp C" = "Innentemperatur C";
 "Range Rated M" = "Reichweite M";
 "Signal Homelink" = "Homelink aktivieren";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
-"Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Sharing to vehicle" = "Zum Fahrzeug senden";
+"Send Navigation Destination" = "Navigationsziel senden";
+"Destination" = "Ziel";
+"Where do you want to go?" = "Wohin möchtest du gehen?";
+"Set navigation destination to ${destination}" = "Ziel als ${destination} setzen";
 
 "Vent sunroof" = "Kippe Schiebedach";
-"Close sunroof" = "Schließe Schiebedach";
+"Close sunroof" = "Schliesse Schiebedach";
 
-"Inside temp" = "Inside temp";
-"Outside temp" = "Outside temp";
+"Inside temp" = "Innentemperatur";
+"Outside temp" = "Aussentemperatur";
 "is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"charged giving a range of" = "geladen mit einer Reichweite von";
+"and is currently charging" = "und lädt aktuell";
+"Inside" = "Innen";
+"Outside" = "Aussen";
 
-"State - alternate" = "State - alternate";
+"State - alternate" = "Status - alternierend";
 "Region" = "Region";
 "Global" = "Global";
 "China" = "China";
+
+"Locking" = "Locking";
+"Seconds To Wait" = "Seconds To Wait";
+"Vehicle in service mode" = "Vehicle in service mode";

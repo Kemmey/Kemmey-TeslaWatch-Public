@@ -304,3 +304,7 @@
 "Region" = "Region";
 "Global" = "Global";
 "China" = "Kina";
+
+"Locking" = "Låser";
+"Seconds To Wait" = "Vent antal sekunder";
+"Vehicle in service mode" = "Service tilstand aktiveret";

@@ -304,3 +304,7 @@
 "Region" = "Région";
 "Global" = "Global";
 "China" = "Chine";
+
+"Locking" = "Locking";
+"Seconds To Wait" = "Seconds To Wait";
+"Vehicle in service mode" = "Vehicle in service mode";
