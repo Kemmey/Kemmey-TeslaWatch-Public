@@ -224,7 +224,7 @@
 "Authentication events" = "Authenticatie gebeurtenissen";
 "Clear cache" = "Cache wissen";
 
-"Setting steering wheel heater" = "Setting steering wheel heater";
+"Setting steering wheel heater" = "Stuurverwarming wordt ingesteld";
 "Turn on steering wheel heater" = "Stuurverwarming inschakelen";
 "Turn off steering wheel heater" = "Stuurverwarming uitschakelen";
 "Close frunk" = "Frunk sluiten";
@@ -283,11 +283,11 @@
 "Inside Temp C" = "Interieur temp C";
 "Range Rated M" = "Afstand Rated M";
 "Signal Homelink" = "Signal Homelink";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
-"Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Sharing to vehicle" = "Delen naar voertuig";
+"Send Navigation Destination" = "Deel navigatiebestemming";
+"Destination" = "Bestemming";
+"Where do you want to go?" = "Waar wil je naar toe?";
+"Set navigation destination to ${destination}" = "Stel navigatiebestemming in op ${destination}";
 
 "Vent sunroof" = "Ventileren dakraam";
 "Close sunroof" = "Sluiten dakraam";
@@ -295,12 +295,12 @@
 "Inside temp" = "Inside temp";
 "Outside temp" = "Outside temp";
 "is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"charged giving a range of" = "Geladen geeft een actieradius van";
+"and is currently charging" = "en is momenteel aan het laden";
+"Inside" = "Binnen";
+"Outside" = "Buiten";
 
-"State - alternate" = "State - alternate";
-"Region" = "Region";
-"Global" = "Global";
+"State - alternate" = "Status - afwisselend";
+"Region" = "Regio";
+"Global" = "Wereldwijd";
 "China" = "China";
