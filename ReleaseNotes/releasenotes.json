@@ -273,7 +273,9 @@
             { "build": 626, "change": "Service mode now treated like no network connection" },
             { "build": 626, "change": "Fixed driving state view in full screen landscape" },
             { "build": 627, "change": "Updated localizations" },
-            { "build": 627, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 627, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
+            { "build": 629, "change": "Driving state view in full screen landscape now hides navigation bar" },
+            { "build": 629, "change": "Driving state view in full screen now dims when data is older than 1 second, indicating streaming is not receiving data" }
         ]
     },
     {
