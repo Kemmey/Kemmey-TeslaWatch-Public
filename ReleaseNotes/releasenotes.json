@@ -275,7 +275,8 @@
             { "build": 627, "change": "Updated localizations" },
             { "build": 627, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
             { "build": 629, "change": "Driving state view in full screen landscape now hides navigation bar" },
-            { "build": 629, "change": "Driving state view in full screen now dims when data is older than 1 second, indicating streaming is not receiving data" }
+            { "build": 629, "change": "Driving state view in full screen now dims when data is older than 1 second, indicating streaming is not receiving data" },
+            { "build": 631, "change": "When using the Wake Siri Shortcuts action, default wait time is now 5 seconds. This is all the processing time the operating system allows the app to spend. String multiple Wake commands together to actually wait for the car to wake." }
         ]
     },
     {
