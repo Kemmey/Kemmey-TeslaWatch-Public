@@ -283,8 +283,8 @@
             { "build": 678, "change": "When iOS updates in background or when vehicle commands are executed on iOS, watchOS will try to update complications to reflect that state. Obvious use case - unlock vehicle with app on phone, and watch face should quickly reflect unlocked state on cmoplications." },
             { "build": 678, "change": "Phone and Watch will now more reliably share vehicle data. So if one device gets new data, if possible, that data will be quickly reflected on the other device." },
             { "build": 678, "change": "Vehicles in service mode will now be treated as online. Please send feedback if this introduces crashes!" },
-            { "build": 685, "change": "Removed transfer login button - this process should be entirely automatic." },
-            { "build": 685, "change": "Fixed a bug where a login on iPhone with only an accesstoken could not be transferred to the watch" }
+            { "build": 691, "change": "Removed transfer login button - this process should be entirely automatic." },
+            { "build": 691, "change": "Fixed a bug where a login on iPhone with only an accesstoken could not be transferred to the watch" }
         ]
     },
     {
