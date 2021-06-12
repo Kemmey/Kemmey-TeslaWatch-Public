@@ -49,7 +49,7 @@
 "Honk!" = "ホーン!";
 "Unlock port" = "充電ポートを開ける";
 "%@ port" = "%@ 充電ポート";
-"Homelink" = "Homelink";
+"Homelink" = "Homelink"; //No Machine Translation
 "Disable Sentry" = "セントリーを無効化";
 "Enable Sentry" = "セントリーを有効化";
 "Vent" = "チルト";
@@ -88,8 +88,8 @@
 "Disable defrost" = "デフロスターをOFF";
 "Defrost" = "デフロスターをON";
 "Closing windows" = "ウインドウを閉める";
-"km" = "km";
-"mi" = "mi";
+"km" = "km"; //No Machine Translation
+"mi" = "mi"; //No Machine Translation
 "d" = "日";
 "h" = "時";
 "m" = "分";
@@ -102,7 +102,7 @@
 "Hide Credits" = "クレジットを隠す";
 "Credits" = "クレジット";
 "Open source libraries" = "オープンソースライブラリ";
-"by" = "by";
+"by" = "by"; //No Machine Translation
 "Translators" = "翻訳担当";
 "Beta testers" = "ベータテスト担当";
 "Huge thanks to my many active beta testers!" = "たくさんのベータテスターの皆様に心から感謝しています!";
@@ -177,7 +177,7 @@
 "Two main control rows" = "コントロールアイコンを２行にする";
 "Drag controls to reorder" = "順序を変えるには項目をドラッグしてください";
 "Controls order" = "コントロールアイコンの順序";
-"グレイ色の項目は非表示になります。これにより実際のアイコン配置が変化することがあります。" = "グレイ色の項目は非表示になります。これにより実際のアイコン配置が変化することがあります。";
+"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "グレイ色の項目は非表示になります。これにより実際のアイコン配置が変化することがあります。";
 "First row" = "１行目";
 "Second row" = "２行目";
 "Controls" = "コントロール";
@@ -267,7 +267,7 @@
 "Get Vehicle State" = "車両状態を取得する";
 "Vehicle Name" = "車輌の名前";
 "Range Estimated KM" = "推定距離 KM";
-"Open Features" = "Open Features";
+"Open Features" = "機能を開く"; //Machine translated
 "What limit?" = "レベルは?";
 "Outside Temp F" = "室外温度 F";
 "Limit" = "レベル";
@@ -283,28 +283,28 @@
 "Inside Temp C" = "室内温度 C";
 "Range Rated M" = "定格距離 M";
 "Signal Homelink" = "Homelink信号";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
-"Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Sharing to vehicle" = "車両への共有"; //Machine translated
+"Send Navigation Destination" = "ナビの目的地を送信"; //Machine translated
+"Destination" = "先"; //Machine translated
+"Where do you want to go?" = "どこへ行きたい？"; //Machine translated
+"Set navigation destination to ${destination}" = "ナビの目的地を ${destination} に設定"; //Machine translated
 
 "Vent sunroof" = "チルト サンルーフ";
 "Close sunroof" = "閉じる サンルーフ";
 
-"Inside temp" = "Inside temp";
-"Outside temp" = "Outside temp";
-"is" = "is";
-"charged giving a range of" = "charged giving a range of";
-"and is currently charging" = "and is currently charging";
-"Inside" = "Inside";
-"Outside" = "Outside";
+"Inside temp" = "内部温度"; //Machine translated
+"Outside temp" = "外気温"; //Machine translated
+"is" = "は"; //Machine translated
+"charged giving a range of" = "の範囲を与える請求"; //Machine translated
+"and is currently charging" = "そして現在充電中"; //Machine translated
+"Inside" = "内部"; //Machine translated
+"Outside" = "外側"; //Machine translated
 
-"State - alternate" = "State - alternate";
-"Region" = "Region";
-"Global" = "Global";
-"China" = "China";
+"State - alternate" = "状態 - 代替"; //Machine translated
+"Region" = "領域"; //Machine translated
+"Global" = "グローバル"; //Machine translated
+"China" = "中国"; //Machine translated
 
-"Locking" = "Locking";
-"Seconds To Wait" = "Seconds To Wait";
-"Vehicle in service mode" = "Vehicle in service mode";
+"Locking" = "ロック中"; //Machine translated
+"Seconds To Wait" = "待機秒数"; //Machine translated
+"Vehicle in service mode" = "サービスモードの車両"; //Machine translated

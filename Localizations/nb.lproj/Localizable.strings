@@ -22,7 +22,7 @@
 "Loading" = "Laster inn";
 "Login" = "Logg inn";
 "Advanced users may input Tesla API auth token manually" = "Avansert brukere kan taste inn Tesla API token manuelt";
-"Token" = "Token";
+"Token" = "Token"; //No Machine Translation
 "Please input username and password or refresh token" = "Tast inn brukernavn og passord, eller oppdater token";
 "Token should be exactly 64 chars long" = "Token skal være på nøyaktig 64 tegn";
 "Error: token did not work as either access token or refresh token!" = "Feil: token virket ikke som hverken access token eller refresh token!";
@@ -39,7 +39,7 @@
 "Open" = "Åpne";
 "close" = "lukk";
 "open" = "åpne";
-"%@ trunk" = "%@ trunk";
+"%@ trunk" = "%@ trunk"; //No Machine Translation
 "Really %@ trunk?" = "Sikker på du vil %@ trunk?";
 "%@ charge port" = "%@ ladeport";
 "Activate Homelink" = "Aktiver Homelink";
@@ -48,8 +48,8 @@
 "Really enable keyless drive?" = "Sikker på du vil aktivere nøkkelfri kjøring?";
 "Honk!" = "Horn!";
 "Unlock port" = "Lås opp port";
-"%@ port" = "%@ port";
-"Homelink" = "Homelink";
+"%@ port" = "%@ port"; //No Machine Translation
+"Homelink" = "Homelink"; //No Machine Translation
 "Disable Sentry" = "Deaktiver Sentry";
 "Enable Sentry" = "Aktiver Sentry";
 "Vent" = "Ventiler";
@@ -60,7 +60,7 @@
 "Waking" = "Våkner";
 "Sending" = "Sender";
 "Loading" = "Henter";
-"Online" = "Online";
+"Online" = "Online"; //No Machine Translation
 "Settings" = "Innstillinger";
 "Background updates" = "Oppdaterer i bakgrunnen";
 "Allow wake in background" = "Tillate å vekke bilen fra bakgrunnen";
@@ -73,8 +73,8 @@
 "Add vehicle option codes querystring" = "Legg til bilens konfigurasjon i spørrestreng";
 "Example: %@%@" = "Eksempel: %@%@";
 "Vehicle open" = "Bilen er åpen";
-"Frunk" = "Frunk";
-"Trunk" = "Trunk";
+"Frunk" = "Frunk"; //No Machine Translation
+"Trunk" = "Trunk"; //No Machine Translation
 "All windows" = "Alle vinduer";
 "Driver front window" = "Vindu førerside";
 "Passenger front window" = "Vindu passasjerside";
@@ -88,19 +88,19 @@
 "Disable defrost" = "Stopp avising";
 "Defrost" = "Avising";
 "Closing windows" = "Lukker vinduer";
-"km" = "km";
-"mi" = "mi";
-"d" = "d";
+"km" = "km"; //No Machine Translation
+"mi" = "mi"; //No Machine Translation
+"d" = "d"; //No Machine Translation
 "h" = "t";
-"m" = "m";
-"s" = "s";
+"m" = "m"; //No Machine Translation
+"s" = "s"; //No Machine Translation
 "hr" = "ti";
-"min" = "min";
+"min" = "min"; //No Machine Translation
 "Open Watch for Tesla support website" = "Åpne Watch for Tesla supportnettsted";
 "For assistance, please see FAQ at:" = "For hjelp, se FAQ på:";
-"Show Credits" = "Show Credits";
-"Hide Credits" = "Hide Credits";
-"Credits" = "Credits";
+"Show Credits" = "Show Credits"; //No Machine Translation
+"Hide Credits" = "Hide Credits"; //No Machine Translation
+"Credits" = "Credits"; //No Machine Translation
 "Open source libraries" = "Åpne kilde biblioteker";
 "by" = "av";
 "Translators" = "Oversettere";
@@ -160,11 +160,11 @@
 "Don't remind me again today" = "Ikke påminn meg igjen i dag";
 "Dog mode" = "Hundemodus";
 "Camp mode" = "Campingmodus";
-"N" = "N";
+"N" = "N"; //No Machine Translation
 "NE" = "NØ";
 "E" = "Ø";
 "SE" = "SØ";
-"S" = "S";
+"S" = "S"; //No Machine Translation
 "SW" = "SV";
 "W" = "V";
 "NW" = "NV";
@@ -187,7 +187,7 @@
 "Show inactive controls" = "Vis ikke-aktiverte kontrollere";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Kan ikke autorisere. Sjekk at din konto ikke er blitt låst. Verifiser på tesla.com";
 "Optionally allow use of your location to show current distance to vehicle" = "Velg om du vil tillate å bruke din plassering for å vise den aktuelle avstanden til bilen";
-"Est." = "Est."; //short for Estimated
+"Est." = "Est."; //No Machine Translation
 "If you have the iOS companion app installed, you can transfer your login to the watch" = "Hvis du har iOs-appen installert, kan du overføre dine logginn-funksjoner til klokken";
 "Transfer login" = "Overfør logginn";
 "State" = "Status";
@@ -209,17 +209,17 @@
 "Appearance" = "Utseende";
 "Light" = "Lys";
 "Dark" = "Mørk";
-"Auto" = "Auto";
+"Auto" = "Auto"; //No Machine Translation
 
 "Hide debug" = "Skjul debug";
 "Show debug" = "Vis debug";
 "Changelog" = "Endringslogg";
-"Debug" = "Debug";
+"Debug" = "Debug"; //No Machine Translation
 "Vehicle" = "Kjøretøy";
 "Power" = "Strøm";
 "Drive state" = "Kjørestatus";
 "Range" = "Rekkevidde";
-"App debug" = "App debug";
+"App debug" = "App debug"; //No Machine Translation
 "Background events" = "Bakgrunnshendelser";
 "Authentication events" = "Loginn hendelser";
 "Clear cache" = "Nullstill cache";
@@ -255,7 +255,7 @@
 //Siri
 "Result" = "Resultat";
 "${displayName} can’t be lower than ${minimumValue}." = "${displayName} kan ikke være lavere enn ${minimumValue}.";
-"State Of Charge" = "State Of Charge";
+"State Of Charge" = "State Of Charge"; //No Machine Translation
 "Vehicle Image Url" = "Bilde av bilen Url";
 "Inside Temp F" = "Innetemperatur F";
 "true" = "sann";
@@ -301,10 +301,10 @@
 "Outside" = "Ute";
 
 "State - alternate" = "State - alternativ";
-"Region" = "Region";
-"Global" = "Global";
+"Region" = "Region"; //No Machine Translation
+"Global" = "Global"; //No Machine Translation
 "China" = "Kina";
 
-"Locking" = "Locking";
-"Seconds To Wait" = "Seconds To Wait";
-"Vehicle in service mode" = "Vehicle in service mode";
+"Locking" = "Låser"; //Machine translated
+"Seconds To Wait" = "Sekunder å vente"; //Machine translated
+"Vehicle in service mode" = "Kjøretøy i servicemodus"; //Machine translated

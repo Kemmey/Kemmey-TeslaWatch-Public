@@ -22,7 +22,7 @@
 "Loading" = "Chargement";
 "Login" = "S'identifier";
 "Advanced users may input Tesla API auth token manually" = "Les utilisateurs avancés peuvent entrer manuellement le token d'authentification Tesla API";
-"Token" = "Token";
+"Token" = "Token"; //No Machine Translation
 "Please input username and password or refresh token" = "Veuillez saisir le nom d'utilisateur et le mot de passe ou actualiser le token";
 "Token should be exactly 64 chars long" = "Le token devrait être exactement 64 caractères";
 "Error: token did not work as either access token or refresh token!" = "Erreur: le token n'a pas fonctionné comme token d'accès ou token d'actualisation!";
@@ -49,14 +49,14 @@
 "Honk!" = "Klaxon!";
 "Unlock port" = "Déverr. port recharge";
 "%@ port" = "%@ le port";
-"Homelink" = "Homelink";
+"Homelink" = "Homelink"; //No Machine Translation
 "Disable Sentry" = "Désactiver Sentinelle";
 "Enable Sentry" = "Activer Sentinelle";
 "Vent" = "Ventiller";
 "%@ windows" = "%@ fenêtres";
 "Location of %@" = "Position de %@";
 "Location" = "Position";
-"Flash!" = "Flash!";
+"Flash!" = "Flash!"; //No Machine Translation
 "Waking" = "Réveille";
 "Sending" = "Envoi";
 "Loading" = "Chargement";
@@ -73,7 +73,7 @@
 "Add vehicle option codes querystring" = "Ajouter une requête de codes d'option du véhicule";
 "Example: %@%@" = "Exemple: %@%@";
 "Vehicle open" = "Véhicule ouvert";
-"Frunk" = "Frunk";
+"Frunk" = "Frunk"; //No Machine Translation
 "Trunk" = "Coffre";
 "All windows" = "Toutes les fenêtres";
 "Driver front window" = "Fenêtre conducteur";
@@ -88,14 +88,14 @@
 "Disable defrost" = "Désactiver le dégivreur";
 "Defrost" = "Dégivreur";
 "Closing windows" = "Fermer les fenêtres";
-"km" = "km";
-"mi" = "mi";
+"km" = "km"; //No Machine Translation
+"mi" = "mi"; //No Machine Translation
 "d" = "j";
-"h" = "h";
-"m" = "m";
-"s" = "s";
-"hr" = "hr";
-"min" = "min";
+"h" = "h"; //No Machine Translation
+"m" = "m"; //No Machine Translation
+"s" = "s"; //No Machine Translation
+"hr" = "hr"; //No Machine Translation
+"min" = "min"; //No Machine Translation
 "Open Watch app for Tesla support website" = "Ouvrir le site web de Watch app for Tesla";
 "For assitance, please see FAQ at:" = "Pour obtenir de l'aide, veuillez consulter la FAQ à l'adresse:";
 "Show Credits" = "Remerciements";
@@ -129,7 +129,7 @@
 "Wake" = "Sortie de veille";
 "Always" = "Toujours";
 "Hour" = "Heure";
-"Minute" = "Minute";
+"Minute" = "Minute"; //No Machine Translation
 "Success" = "Succès";
 "Failed" = "Erreur";
 "Started charging" = "Chargement débuté";
@@ -160,14 +160,14 @@
 "Don't remind me again today" = "Ne pas me rappeller aujourd'hui";
 "Dog mode" = "Mode chien";
 "Camp mode" = "Mode camps";
-"N" = "N";
-"NE" = "NE";
-"E" = "E";
-"SE" = "SE";
-"S" = "S";
-"SW" = "SW";
-"W" = "W";
-"NW" = "NW";
+"N" = "N"; //No Machine Translation
+"NE" = "NE"; //No Machine Translation
+"E" = "E"; //No Machine Translation
+"SE" = "SE"; //No Machine Translation
+"S" = "S"; //No Machine Translation
+"SW" = "SW"; //No Machine Translation
+"W" = "W"; //No Machine Translation
+"NW" = "NW"; //No Machine Translation
 
 "Auto-enable remote start on unlock" = "Activation automatique du démarrage à distance lors du déverrouillage";
 "Climate" = "Climatisation";
@@ -187,7 +187,7 @@
 "Show inactive controls" = "Afficher les commandes inactives";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Impossible d'authentifier. Veuillez vous assurer que le compte n'est pas verrouillé - vérifiez en vous connectant à votre compte sur tesla.com";
 "Optionally allow use of your location to show current distance to vehicle" = "Autorisez l'utilisation falcutative de votre emplacement pour afficher la distance actuelle par rapport au véhicule";
-"Est." = "Est."; //short for Estimated
+"Est." = "Est."; //No Machine Translation //short for Estimated
 "If you have the iOS companion app installed, you can transfer your login to the watch" = "Si l'application compagnon iOS est installée, vous pouvez transférer votre connexion à la montre";
 "Transfer login" = "Transférer la connexion";
 "State" = "État";
@@ -204,12 +204,12 @@
 "Always confirm widget actions" = "Confirmer toujours les actions des widgets";
 "Offline" = "Hors ligne";
 "No network connection" = "Aucune connexion au réseau";
-"Updated " = "Mis à jour ";
-" ago" = " ago"; // N.B.: No equivalent in french (would be "Il y a..." instead of "...ago")
+"Updated " = "Mis à jour il y a ";
+" ago" = ""; //No Machine Translation
 "Appearance" = "Apparence";
 "Light" = "Clair";
 "Dark" = "Sombre";
-"Auto" = "Auto";
+"Auto" = "Auto"; //No Machine Translation
 
 "Hide debug" = "Masquer débogage";
 "Show debug" = "Afficher débogage";
@@ -285,7 +285,7 @@
 "Signal Homelink" = "Déclencher Homelink";
 "Sharing to vehicle" = "Partage au vehicle";
 "Send Navigation Destination" = "Envoyer la destination de navigation";
-"Destination" = "Destination";
+"Destination" = "Destination"; //No Machine Translation
 "Where do you want to go?" = "Où voulez-vous aller?";
 "Set navigation destination to ${destination}" = "Définir la destination de navigation vers ${destination}";
 
@@ -300,11 +300,11 @@
 "Inside" = "Intérieure";
 "Outside" = "Extérieure";
 
-"State - alternate" = "State - alternate";
+"State - alternate" = "État - suppléant"; //Machine translated
 "Region" = "Région";
-"Global" = "Global";
+"Global" = "Global"; //No Machine Translation
 "China" = "Chine";
 
-"Locking" = "Locking";
-"Seconds To Wait" = "Seconds To Wait";
-"Vehicle in service mode" = "Vehicle in service mode";
+"Locking" = "Verrouillage"; //Machine translated
+"Seconds To Wait" = "Secondes à attendre"; //Machine translated
+"Vehicle in service mode" = "Véhicule en mode service"; //Machine translated

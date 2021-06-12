@@ -49,7 +49,7 @@
 "Honk!" = "鸣笛";
 "Unlock port" = "解锁端口";
 "%@ port" = "%@端口";
-"Homelink" = "Homelink";
+"Homelink" = "Homelink"; //No Machine Translation
 "Disable Sentry" = "禁用哨兵模式";
 "Enable Sentry" = "启用哨兵模式";
 "Vent" = "通风";
@@ -283,18 +283,18 @@
 "Inside Temp C" = "车内温度(摄氏)";
 "Range Rated M" = "满电续航（英里）";
 "Signal Homelink" = "Homelink信号";
-"Sharing to vehicle" = "Sharing to vehicle";
-"Send Navigation Destination" = "Send Navigation Destination";
-"Destination" = "Destination";
-"Where do you want to go?" = "Where do you want to go?";
-"Set navigation destination to ${destination}" = "Set navigation destination to ${destination}";
+"Sharing to vehicle" = "分享到车辆"; //Machine translated
+"Send Navigation Destination" = "发送导航目的地"; //Machine translated
+"Destination" = "目的地"; //Machine translated
+"Where do you want to go?" = "你想去哪里？"; //Machine translated
+"Set navigation destination to ${destination}" = "将导航目的地设置为 ${destination}"; //Machine translated
 
 "Vent sunroof" = "通风天窗";
 "Close sunroof" = "关闭天窗";
 
 "Inside temp" = "车内温度";
 "Outside temp" = "车外温度";
-"is" = "is";
+"is" = "是"; //Machine translated
 "charged giving a range of" = "充电范围为";
 "and is currently charging" = "，当前正充电";
 "Inside" = "车内";
@@ -305,6 +305,6 @@
 "Global" = "全球";
 "China" = "中国";
 
-"Locking" = "Locking";
-"Seconds To Wait" = "Seconds To Wait";
-"Vehicle in service mode" = "Vehicle in service mode";
+"Locking" = "锁定"; //Machine translated
+"Seconds To Wait" = "等待的秒数"; //Machine translated
+"Vehicle in service mode" = "车辆处于服务模式"; //Machine translated
