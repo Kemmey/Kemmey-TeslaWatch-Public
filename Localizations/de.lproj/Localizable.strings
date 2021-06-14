@@ -5,6 +5,12 @@
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Dominic Hanselmann and Daniel Bertuleit
+ 
+  A note to translators - add a comment "//No Machine Translation" for entries that should use the key as translation value.
+  This will prevent machine translation from adding an automatic translation.
+  Ex.
+  "Token" = "Token"; //No Machine Translation
+
 */
 "Hide Controls" = "Steuerung verstecken";
 "Show Controls" = "Steuerung anzeigen";
