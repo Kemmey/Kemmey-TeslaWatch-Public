@@ -345,3 +345,9 @@
 "Slightly opens the sunroof" = "Öppnar takluckan något"; //Machine translated
 "Turns on the steering wheel heater" = "Slår på rattvärmaren"; //Machine translated
 "Turns off the steering wheel heater" = "Stänger av rattvärmaren"; //Machine translated
+"Closes the sunroof" = "Stänger takluckan"; //Machine translated
+
+"Set Temperature" = "Ställ in temperatur"; //Machine translated
+"Set to ${temperature}" = "Ställ in till ${temperature}"; //Machine translated
+"Temperature" = "Temperatur"; //Machine translated
+"Sets climate control temperature" = "Ställer in klimatregleringstemperaturen"; //Machine translated

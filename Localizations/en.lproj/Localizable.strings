@@ -345,3 +345,9 @@
 "Slightly opens the sunroof" = "Slightly opens the sunroof";
 "Turns on the steering wheel heater" = "Turns on the steering wheel heater";
 "Turns off the steering wheel heater" = "Turns off the steering wheel heater";
+"Closes the sunroof" = "Closes the sunroof";
+
+"Set Temperature" = "Set Temperature";
+"Set to ${temperature}" = "Set to ${temperature}";
+"Temperature" = "Temperature";
+"Sets climate control temperature" = "Sets climate control temperature";

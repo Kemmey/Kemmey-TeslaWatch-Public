@@ -345,3 +345,9 @@
 "Slightly opens the sunroof" = "Приоткрывается люк"; //Machine translated
 "Turns on the steering wheel heater" = "Включает подогрев руля"; //Machine translated
 "Turns off the steering wheel heater" = "Выключает обогреватель руля"; //Machine translated
+"Closes the sunroof" = "Закрывает люк"; //Machine translated
+
+"Set Temperature" = "Установить температуру"; //Machine translated
+"Set to ${temperature}" = "Установить на ${temperature}"; //Machine translated
+"Temperature" = "Температура"; //Machine translated
+"Sets climate control temperature" = "Устанавливает температуру климат-контроля"; //Machine translated

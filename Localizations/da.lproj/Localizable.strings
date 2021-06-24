@@ -345,3 +345,9 @@
 "Slightly opens the sunroof" = "Åbner soltaget let"; //Machine translated
 "Turns on the steering wheel heater" = "Tænder ratvarmeren"; //Machine translated
 "Turns off the steering wheel heater" = "Slukker for ratvarmeren"; //Machine translated
+"Closes the sunroof" = "Lukker soltaget"; //Machine translated
+
+"Set Temperature" = "Indstil temperatur"; //Machine translated
+"Set to ${temperature}" = "Indstil til ${temperature}"; //Machine translated
+"Temperature" = "Temperatur"; //Machine translated
+"Sets climate control temperature" = "Indstiller temperatur til klimakontrol"; //Machine translated

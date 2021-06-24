@@ -345,3 +345,9 @@
 "Slightly opens the sunroof" = "轻轻打开天窗"; //Machine translated
 "Turns on the steering wheel heater" = "打开方向盘加热器"; //Machine translated
 "Turns off the steering wheel heater" = "关闭方向盘加热器"; //Machine translated
+"Closes the sunroof" = "关闭天窗"; //Machine translated
+
+"Set Temperature" = "设定温度"; //Machine translated
+"Set to ${temperature}" = "设置为 ${temperature}"; //Machine translated
+"Temperature" = "温度"; //Machine translated
+"Sets climate control temperature" = "设置气候控制温度"; //Machine translated

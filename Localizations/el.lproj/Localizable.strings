@@ -259,7 +259,6 @@
 "Please install the app on your iPhone and perform login there, then transfer login to Watch" = "Παρακαλώ εγκαταστήστε την εφαρμογή iPhone, κάντε είσοδο εκεί και μεταφέρετε τις πληροφορίες εισόδου στο ρολόι";
 
 //Siri
-// Siri does not support Greek (yet?), leaving in English
 "Result" = "Αποτέλεσμα"; //Machine translated
 "${displayName} can’t be lower than ${minimumValue}." = "Το ${displayName} δεν μπορεί να είναι χαμηλότερο από ${minimumValue}."; //Machine translated
 "State Of Charge" = "Κατάσταση χρέωσης"; //Machine translated
@@ -346,3 +345,9 @@
 "Slightly opens the sunroof" = "Ανοίγει ελαφρώς την ηλιοροφή"; //Machine translated
 "Turns on the steering wheel heater" = "Ενεργοποιεί το θερμαντικό τιμόνι"; //Machine translated
 "Turns off the steering wheel heater" = "Απενεργοποιεί το θερμαντήρα τιμονιού"; //Machine translated
+"Closes the sunroof" = "Κλείνει την ηλιοροφή"; //Machine translated
+
+"Set Temperature" = "Ορισμός θερμοκρασίας"; //Machine translated
+"Set to ${temperature}" = "Ορισμός σε ${temperature}"; //Machine translated
+"Temperature" = "Θερμοκρασία"; //Machine translated
+"Sets climate control temperature" = "Ορίζει τη θερμοκρασία ελέγχου του κλίματος"; //Machine translated

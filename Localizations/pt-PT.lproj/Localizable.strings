@@ -345,3 +345,9 @@
 "Slightly opens the sunroof" = "Abre ligeiramente o teto solar"; //Machine translated
 "Turns on the steering wheel heater" = "Liga o aquecedor do volante"; //Machine translated
 "Turns off the steering wheel heater" = "Desliga o aquecedor do volante"; //Machine translated
+"Closes the sunroof" = "Fecha o teto solar"; //Machine translated
+
+"Set Temperature" = "Configure a temperatura"; //Machine translated
+"Set to ${temperature}" = "Definido para ${temperature}"; //Machine translated
+"Temperature" = "Temperatura"; //Machine translated
+"Sets climate control temperature" = "Define a temperatura de controle do clima"; //Machine translated
