@@ -70,7 +70,7 @@
 "Settings" = "설정";
 "Background updates" = "백그라운드 업데이트";
 "Allow wake in background" = "백그라운드 깨우기 허용";
-"Set" = "세트"; //Machine translated
+"Set" = "설정";
 "Interval" = "간격"; //Machine translated
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "키 없이 운전하려면 Tesla 계정 비밀번호가 필요합니다. 이는 암호화된 키체인에 저장됩니다. 워치 및 차량의 네트워크 연결이 필요합니다. 보조 키 없이 운전하지 마세요:";
 "Log out" = "로그아웃";
@@ -78,7 +78,7 @@
 "Image url" = "이미지 url";
 "Add vehicle option codes querystring" = "차량 옵션 코드 쿼리 문자열 추가"; //Machine translated
 "Example: %@%@" = "예: %@%@"; //Machine translated
-"Vehicle open" = "차량 열기";
+"Vehicle open" = "차량 열림";
 "Frunk" = "프렁크";
 "Trunk" = "트렁크";
 "All windows" = "모든 창문";
@@ -108,7 +108,7 @@
 "Hide Credits" = "크레딧 숨기기";
 "Credits" = "크레딧";
 "Open source libraries" = "오픈 소스 라이브러리"; //Machine translated
-"by" = "으로"; //Machine translated
+"by" = "by"; //No Machine Translation
 "Translators" = "번역가"; //Machine translated
 "Beta testers" = "베타 테스터";
 "Huge thanks to my many active beta testers!" = "많은 베타 테스터들에게 감사를!";
@@ -176,13 +176,13 @@
 "NW" = "북서";
 
 "Auto-enable remote start on unlock" = "잠금 해제시 원격 시작 자동 활성화"; //Machine translated
-"Climate" = "기온";
+"Climate" = "공조장치";
 "Lock" = "잠금";
 "Unlock" = "열림";
 "Reset" = "리셋";
-"Two main control rows" = "두 개의 주요 제어 행"; //Machine translated
-"Drag controls to reorder" = "컨트롤을 드래그하여 재정렬"; //Machine translated
-"Controls order" = "제어 순서"; //Machine translated
+"Two main control rows" = "주요 컨트롤 두 줄 표시";
+"Drag controls to reorder" = "드래그하여 컨트롤 재정렬";
+"Controls order" = "컨트롤 순서";
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "회색으로 표시된 항목은 숨겨집니다. 이로 인해 실제 컨트롤 배치가 이동할 수 있습니다."; //Machine translated
 "First row" = "첫번째 줄"; //Machine translated
 "Second row" = "두번째 줄"; //Machine translated
@@ -193,7 +193,7 @@
 "Show inactive controls" = "비활성 컨트롤 표시"; //Machine translated
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "인증 할 수 없습니다. 계정이 잠겨 있지 않은지 확인하십시오-tesla.com에서 계정에 로그인하여 확인하십시오."; //Machine translated
 "Optionally allow use of your location to show current distance to vehicle" = "선택적으로 현재 위치를 사용하여 차량까지의 거리를 표시 할 수 있습니다."; //Machine translated
-"Est." = "동부 표준시."; //Machine translated
+"Est." = "예상 주행가능거리";
 "If you have the iOS companion app installed, you can transfer your login to the watch" = "iOS 컴패니언 앱이 설치되어있는 경우 로그인을 시계로 전송할 수 있습니다."; //Machine translated
 "Transfer login" = "로그인 전송"; //Machine translated
 "State" = "상태"; //Machine translated
@@ -222,9 +222,9 @@
 "Changelog" = "변경 로그"; //Machine translated
 "Debug" = "디버그"; //Machine translated
 "Vehicle" = "차량"; //Machine translated
-"Power" = "출력";
-"Drive state" = "드라이브 상태"; //Machine translated
-"Range" = "범위"; //Machine translated
+"Power" = "전력";
+"Drive state" = "주행 상태";
+"Range" = "주행 가능 거리";
 "App debug" = "앱 디버그"; //Machine translated
 "Background events" = "백그라운드 이벤트"; //Machine translated
 "Authentication events" = "인증 이벤트"; //Machine translated
@@ -237,7 +237,7 @@
 "Really close frunk?" = "정말 프렁크를 닫을까요?";
 
 "Shortcuts" = "단축키"; //Machine translated
-"About to buy a new Tesla? Use my referral code!" = "새로운 Tesla를 구매할 예정입니까? 내 추천 코드를 사용하십시오!"; //Machine translated
+"About to buy a new Tesla? Use my referral code!" = "새로운 Tesla를 구매하실 때, 제 추천 코드를 사용해주세요.";
 "Active vehicle" = "활성 차량"; //Machine translated
 
 "Close Charge Port" = "충전 포트 닫기"; //Machine translated
