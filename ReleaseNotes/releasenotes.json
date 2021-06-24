@@ -287,8 +287,6 @@
             { "build": 751, "change": "Added Compass complication" },
             { "build": 754, "change": "Added Compass action for widgets" },
             { "build": 754, "change": "Updated Korean translations" },
-            { "build": 764, "change": "Reduced shadows on large rectangular graphic complication" },
-            { "build": 768, "change": "Re-added shadows on large rectangular graphic complication" },
             { "build": 768, "change": "Added Set Temperature Siri Shortcut action" },
             { "build": 768, "change": "Updated Korean translations" },
             { "build": 768, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
