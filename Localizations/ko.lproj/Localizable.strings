@@ -351,3 +351,4 @@
 "Set to ${temperature}" = "${temperature}로 설정"; //Machine translated
 "Temperature" = "온도"; //Machine translated
 "Sets climate control temperature" = "공조 온도 설정"; //Machine translated
+"Show data timer on compatible complications" = "호환되는 정보 표시에 데이터 타이머 표시"; //Machine translated

@@ -351,3 +351,4 @@
 "Set to ${temperature}" = "Indstil til ${temperature}"; //Machine translated
 "Temperature" = "Temperatur"; //Machine translated
 "Sets climate control temperature" = "Indstiller temperatur til klimakontrol"; //Machine translated
+"Show data timer on compatible complications" = "Vis datatimer på kompatible komplikationer"; //Machine translated

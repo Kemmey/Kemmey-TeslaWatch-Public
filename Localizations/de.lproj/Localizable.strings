@@ -351,3 +351,4 @@
 "Set to ${temperature}" = "Auf ${temperature} setzen"; //Machine translated
 "Temperature" = "Temperatur"; //Machine translated
 "Sets climate control temperature" = "Stellt die Temperatur der Klimaanlage ein"; //Machine translated
+"Show data timer on compatible complications" = "Datentimer bei kompatiblen Komplikationen anzeigen"; //Machine translated

@@ -351,3 +351,4 @@
 "Set to ${temperature}" = "${temperature}に設定"; //Machine translated
 "Temperature" = "温度"; //Machine translated
 "Sets climate control temperature" = "気候制御温度を設定します"; //Machine translated
+"Show data timer on compatible complications" = "互換性のある合併症に関するデータタイマーを表示する"; //Machine translated
