@@ -352,3 +352,7 @@
 "Temperature" = "Температура"; //Machine translated
 "Sets climate control temperature" = "Устанавливает температуру климат-контроля"; //Machine translated
 "Show data timer on compatible complications" = "Показывать таймер данных на совместимых усложнениях"; //Machine translated
+"Need help?" = "Нужна помощь?"; //Machine translated
+"Please login on your phone. Your login will automatically transfer to the watch." = "Пожалуйста, войдите на свой телефон. Ваш логин будет автоматически передан на часы."; //Machine translated
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Установите сопутствующее приложение для iOS и войдите в систему на своем телефоне. Ваш логин будет автоматически передан на часы."; //Machine translated
+"Advanced" = "Передовой"; //Machine translated

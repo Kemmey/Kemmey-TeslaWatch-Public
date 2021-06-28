@@ -352,3 +352,7 @@
 "Temperature" = "Θερμοκρασία"; //Machine translated
 "Sets climate control temperature" = "Ορίζει τη θερμοκρασία ελέγχου του κλίματος"; //Machine translated
 "Show data timer on compatible complications" = "Εμφάνιση χρονοδιακόπτη δεδομένων σχετικά με συμβατές επιπλοκές"; //Machine translated
+"Need help?" = "Χρειάζεστε βοήθεια?"; //Machine translated
+"Please login on your phone. Your login will automatically transfer to the watch." = "Συνδεθείτε στο τηλέφωνό σας. Τα στοιχεία σύνδεσής σας θα μεταφερθούν αυτόματα στο ρολόι."; //Machine translated
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Εγκαταστήστε τη συνοδευτική εφαρμογή iOS και, στη συνέχεια, συνδεθείτε στο τηλέφωνό σας. Τα στοιχεία σύνδεσής σας θα μεταφερθούν αυτόματα στο ρολόι."; //Machine translated
+"Advanced" = "Προχωρημένος"; //Machine translated

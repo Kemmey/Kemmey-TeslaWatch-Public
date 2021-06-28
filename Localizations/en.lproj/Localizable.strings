@@ -352,3 +352,7 @@
 "Temperature" = "Temperature";
 "Sets climate control temperature" = "Sets climate control temperature";
 "Show data timer on compatible complications" = "Show data timer on compatible complications";
+"Need help?" = "Need help?";
+"Please login on your phone. Your login will automatically transfer to the watch." = "Please login on your phone. Your login will automatically transfer to the watch.";
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch.";
+"Advanced" = "Advanced";

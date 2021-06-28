@@ -352,3 +352,7 @@
 "Temperature" = "온도"; //Machine translated
 "Sets climate control temperature" = "공조 온도 설정"; //Machine translated
 "Show data timer on compatible complications" = "호환되는 정보 표시에 데이터 타이머 표시"; //Machine translated
+"Need help?" = "도움이 필요하다?"; //Machine translated
+"Please login on your phone. Your login will automatically transfer to the watch." = "휴대폰에서 로그인하세요. 로그인이 자동으로 시계로 전송됩니다."; //Machine translated
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "iOS 컴패니언 앱을 설치 한 다음 휴대폰에 로그인하십시오. 로그인이 자동으로 시계로 전송됩니다."; //Machine translated
+"Advanced" = "많은"; //Machine translated

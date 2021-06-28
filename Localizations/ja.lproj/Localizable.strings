@@ -352,3 +352,7 @@
 "Temperature" = "温度"; //Machine translated
 "Sets climate control temperature" = "気候制御温度を設定します"; //Machine translated
 "Show data timer on compatible complications" = "互換性のある合併症に関するデータタイマーを表示する"; //Machine translated
+"Need help?" = "助けが必要？"; //Machine translated
+"Please login on your phone. Your login will automatically transfer to the watch." = "お使いの携帯電話にログインしてください。ログインは自動的に時計に転送されます。"; //Machine translated
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "iOSコンパニオンアプリをインストールしてから、携帯電話にログインしてください。ログインは自動的に時計に転送されます。"; //Machine translated
+"Advanced" = "高度な"; //Machine translated

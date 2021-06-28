@@ -352,3 +352,7 @@
 "Temperature" = "Temperatur"; //Machine translated
 "Sets climate control temperature" = "Stiller inn temperatur for klimakontroll"; //Machine translated
 "Show data timer on compatible complications" = "Vis datatidsur på kompatible komplikasjoner"; //Machine translated
+"Need help?" = "Trenger hjelp?"; //Machine translated
+"Please login on your phone. Your login will automatically transfer to the watch." = "Vennligst logg inn på telefonen din. Innloggingen din overføres automatisk til klokken."; //Machine translated
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Installer iOS-følgeappen, og logg deretter på telefonen din. Innloggingen din overføres automatisk til klokken."; //Machine translated
+"Advanced" = "Avansert"; //Machine translated

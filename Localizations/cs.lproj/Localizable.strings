@@ -352,3 +352,7 @@
 "Temperature" = "Teplota"; //Machine translated
 "Sets climate control temperature" = "Nastavuje teplotu klimatizace"; //Machine translated
 "Show data timer on compatible complications" = "Zobrazit časovač dat o kompatibilních komplikacích"; //Machine translated
+"Need help?" = "Potřebovat pomoc?"; //Machine translated
+"Please login on your phone. Your login will automatically transfer to the watch." = "Přihlaste se prosím na svém telefonu. Vaše přihlašovací údaje se automaticky přenesou do hodinek."; //Machine translated
+"Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Nainstalujte si prosím doprovodnou aplikaci pro iOS a poté se přihlaste do telefonu. Vaše přihlašovací údaje se automaticky přenesou do hodinek."; //Machine translated
+"Advanced" = "Pokročilý"; //Machine translated
