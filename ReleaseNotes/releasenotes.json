@@ -291,7 +291,8 @@
             { "build": 768, "change": "Updated Korean translations" },
             { "build": 770, "change": "Added updated ago timer to the graphic corner complication" },
             { "build": 771, "change": "Adjusted the login and settings screens" },
-            { "build": 771, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 772, "change": "Added internal/external temp combo complication" },
+            { "build": 772, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
