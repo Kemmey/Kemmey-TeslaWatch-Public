@@ -292,7 +292,8 @@
             { "build": 770, "change": "Added updated ago timer to the graphic corner complication" },
             { "build": 771, "change": "Adjusted the login and settings screens" },
             { "build": 773, "change": "Added internal/external temp combo complication" },
-            { "build": 773, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 777, "change": "Re-enabled ability to vent windows on Model S" },
+            { "build": 777, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
