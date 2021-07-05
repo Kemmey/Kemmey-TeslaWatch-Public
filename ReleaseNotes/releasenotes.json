@@ -295,8 +295,9 @@
             { "build": 777, "change": "Re-enabled ability to vent windows on Model S" },
             { "build": 778, "change": "Added vent windows only for Model S including warning that it will not be possible to close remotely." },
             { "build": 780, "change": "Added irreversible complication and widget command override" },            
-            { "build": 780, "change": "Added emissions-testing easteregg" },            
-            { "build": 780, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 780, "change": "Added emissions-testing easteregg" },         
+            { "build": 781, "change": "Added honk, flash, frunk and trunk actions to the compass view" },         
+            { "build": 781, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
