@@ -358,3 +358,5 @@
 "Advanced" = "Advanced";
 "Inside / outside temp" = "Inside / outside temp";
 "Are you sure? You will not be able to close your windows remotely" = "Are you sure? You will not be able to close your windows remotely";
+"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle";
+"Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle";

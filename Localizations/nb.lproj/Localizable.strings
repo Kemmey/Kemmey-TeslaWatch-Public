@@ -358,3 +358,5 @@
 "Advanced" = "Avansert"; //Machine translated
 "Inside / outside temp" = "Innvendig / utvendig temp"; //Machine translated
 "Are you sure? You will not be able to close your windows remotely" = "Er du sikker? Du vil ikke kunne lukke vinduene dine eksternt"; //Machine translated
+"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bekreft aldri komplikasjonshandlinger, selv irreversible handlinger og handlinger som ved et uhell kan gi andre tilgang til kjøretøyet ditt"; //Machine translated
+"Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bekreft aldri widgethandlinger, til og med irreversible og handlinger som ved et uhell kan gi andre tilgang til kjøretøyet ditt"; //Machine translated

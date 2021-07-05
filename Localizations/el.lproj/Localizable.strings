@@ -358,3 +358,5 @@
 "Advanced" = "Προχωρημένος"; //Machine translated
 "Inside / outside temp" = "Εσωτερική / εξωτερική θερμοκρασία"; //Machine translated
 "Are you sure? You will not be able to close your windows remotely" = "Είσαι σίγουρος? Δεν θα μπορείτε να κλείσετε τα παράθυρά σας από απόσταση"; //Machine translated
+"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Ποτέ μην επιβεβαιώνετε επιπλοκές, ακόμη και μη αναστρέψιμες και ενέργειες που μπορούν κατά λάθος να επιτρέψουν σε άλλους πρόσβαση στο όχημά σας"; //Machine translated
+"Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Ποτέ μην επιβεβαιώνετε ενέργειες widget, ακόμη και μη αναστρέψιμες ενέργειες και ενέργειες που μπορούν κατά λάθος να επιτρέψουν σε άλλους πρόσβαση στο όχημά σας"; //Machine translated

@@ -358,3 +358,5 @@
 "Advanced" = "高度な"; //Machine translated
 "Inside / outside temp" = "内側/外側の温度"; //Machine translated
 "Are you sure? You will not be able to close your windows remotely" = "本気ですか？リモートでウィンドウを閉じることはできません"; //Machine translated
+"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "不可逆的なアクションや、誤って他の人にあなたの車両へのアクセスを許可する可能性のあるアクションであっても、合併症のアクションを確認しないでください"; //Machine translated
+"Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "ウィジェットのアクションを確認しないでください。元に戻せないアクションや、誤って他の人に車両へのアクセスを許可する可能性のあるアクションであっても、"; //Machine translated

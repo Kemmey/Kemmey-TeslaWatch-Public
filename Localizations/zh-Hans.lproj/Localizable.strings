@@ -358,3 +358,5 @@
 "Advanced" = "先进的"; //Machine translated
 "Inside / outside temp" = "内部/外部温度"; //Machine translated
 "Are you sure? You will not be able to close your windows remotely" = "你确定吗？您将无法远程关闭窗户"; //Machine translated
+"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "切勿确认复杂操作，即使是不可逆转的操作和可能意外授予他人访问您车辆的权限的操作"; //Machine translated
+"Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "切勿确认小部件操作，即使是不可逆转的操作和可能意外授予他人访问您车辆的权限的操作"; //Machine translated
