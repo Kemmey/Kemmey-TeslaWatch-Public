@@ -282,22 +282,20 @@
     {
         "version": "1.1.8",
         "changes": [
-            { "build": 704, "change": "Initial 1.1.8 beta" },
-            { "build": 704, "change": "Added machine translated Hebrew localizations" },
-            { "build": 751, "change": "Added Compass complication" },
-            { "build": 754, "change": "Added Compass action for widgets" },
-            { "build": 754, "change": "Updated Korean translations" },
-            { "build": 768, "change": "Added Set Temperature Siri Shortcut action" },
-            { "build": 768, "change": "Updated Korean translations" },
-            { "build": 770, "change": "Added updated ago timer to the graphic corner complication" },
-            { "build": 771, "change": "Adjusted the login and settings screens" },
-            { "build": 773, "change": "Added internal/external temp combo complication" },
-            { "build": 777, "change": "Re-enabled ability to vent windows on Model S" },
-            { "build": 778, "change": "Added vent windows only for Model S including warning that it will not be possible to close remotely." },
-            { "build": 780, "change": "Added irreversible complication and widget command override" },            
-            { "build": 780, "change": "Added emissions-testing easteregg" },         
-            { "build": 781, "change": "Added honk, flash, frunk and trunk actions to the compass view" },         
-            { "build": 781, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 783, "change": "*New features*" },
+            { "build": 783, "change": "Added Compass complication" },
+            { "build": 783, "change": "Added Compass action for widgets" },
+            { "build": 783, "change": "Added Set Temperature Siri Shortcut action" },
+            { "build": 783, "change": "*Enhancements*" },
+            { "build": 783, "change": "Updated Korean translations" },
+            { "build": 783, "change": "Added optional updated ago timer to the graphic corner complication" },
+            { "build": 783, "change": "Adjusted the login and settings screens" },
+            { "build": 783, "change": "Added internal/external temp combo complication" },
+            { "build": 783, "change": "Added vent windows for Model S including warning that it will not be possible to close remotely." },
+            { "build": 783, "change": "Added irreversible complication and widget command override" },            
+            { "build": 783, "change": "Added emissions-testing easter egg" },         
+            { "build": 783, "change": "Added honk, flash, frunk and trunk actions to the compass view" },         
+            { "build": 783, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
