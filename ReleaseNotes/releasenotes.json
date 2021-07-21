@@ -301,10 +301,10 @@
     {
         "version": "1.1.9",
         "changes": [
-            { "build": 785, "change": "Initial 1.1.9 beta" },
-            { "build": 785, "change": "Fixed widgets not updating on iOS 15" },
-            { "build": 785, "change": "Some internal retooling - fingers crossed no bugs are introduced" },
-            { "build": 785, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 787, "change": "Initial 1.1.9 beta" },
+            { "build": 787, "change": "Fixed widgets not updating on iOS 15" },
+            { "build": 787, "change": "Some internal retooling - fingers crossed no bugs are introduced" },
+            { "build": 787, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
