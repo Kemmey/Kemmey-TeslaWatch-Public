@@ -304,7 +304,10 @@
             { "build": 787, "change": "Initial 1.1.9 beta" },
             { "build": 787, "change": "Fixed widgets not updating on iOS 15" },
             { "build": 787, "change": "Some internal retooling - fingers crossed no bugs are introduced" },
-            { "build": 787, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 791, "change": "Removed some modular large complications that were useless" },
+            { "build": 791, "change": "Added data age indicator to more complications and cleaned up the logic a bit" },
+            { "build": 791, "change": "Data age indicator formatting changed" },
+            { "build": 791, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
