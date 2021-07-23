@@ -313,7 +313,7 @@
     {
         "version": "9.9.9",
         "changes": [                  
-            { "build": 999999, "change": "Seeing this is an error!" }
+            { "build": 999999, "change": "Seeing this is an error" }
         ]        
     }
 ]
