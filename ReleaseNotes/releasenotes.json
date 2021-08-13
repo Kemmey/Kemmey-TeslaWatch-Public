@@ -311,7 +311,8 @@
             { "build": 798, "change": "Added a plugged-in indicator to most complications. Will show a plug-emoji when car is plugged in but not charging." },
             { "build": 798, "change": "Added an action log to debug area, logging origins of executed actions, in order to trace what triggered an unwanted action." },
             { "build": 798, "change": "Updated Dutch localizations." },
-            { "build": 798, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 799, "change": "Implemented new wait for wake feature in most Siri actions - beta feedback on this is very appreciated. One caveat - Apple has a bug in the intents framework, so localizations of the wait for wake prompt does not work." },
+            { "build": 799, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
