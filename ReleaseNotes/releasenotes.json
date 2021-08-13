@@ -307,7 +307,11 @@
             { "build": 791, "change": "Removed some modular large complications that were useless" },
             { "build": 791, "change": "Added data age indicator to more complications and cleaned up the logic a bit" },
             { "build": 791, "change": "Data age indicator formatting changed" },
-            { "build": 791, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 798, "change": "Experimental new wake and confirm logic for unlocking action using Siri or Shortcuts - could potentially allow waiting for wake indefinitely by asking user to continue waiting or not. Feedback on this very much appreciated. This is ONLY implemented for unlock using Siri." },
+            { "build": 798, "change": "Added a plugged-in indicator to most complications. Will show a plug-emoji when car is plugged in but not charging." },
+            { "build": 798, "change": "Added an action log to debug area, logging origins of executed actions, in order to trace what triggered an unwanted action." },
+            { "build": 798, "change": "Updated Dutch localizations." },
+            { "build": 798, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
