@@ -360,3 +360,5 @@
 "Are you sure? You will not be able to close your windows remotely" = "Уверены ли вы? Вы не сможете удаленно закрыть окна"; //Machine translated
 "Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Никогда не подтверждайте действия, вызывающие осложнения, даже необратимые, и действия, которые могут случайно предоставить другим доступ к вашему автомобилю."; //Machine translated
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Никогда не подтверждайте действия виджета, даже необратимые, и действия, которые могут случайно предоставить другим доступ к вашему автомобилю."; //Machine translated
+"Wait For Wake" = "Ждать пробуждения"; //Machine translated
+"Vehicle not online, keep trying?" = "Автомобиль не в сети, продолжать попытки?"; //Machine translated

@@ -360,3 +360,5 @@
 "Are you sure? You will not be able to close your windows remotely" = "확실합니까? 창을 원격으로 닫을 수 없습니다."; //Machine translated
 "Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "비가 역적 행동이나 실수로 다른 사람에게 차량에 대한 접근 권한을 부여 할 수있는 행동도 확인하지 마십시오."; //Machine translated
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "되돌릴 수없는 작업과 실수로 다른 사람에게 차량에 대한 액세스 권한을 부여 할 수있는 작업을 포함하여 위젯 작업을 확인하지 마십시오."; //Machine translated
+"Wait For Wake" = "웨이크를 기다리다"; //Machine translated
+"Vehicle not online, keep trying?" = "차량이 온라인 상태가 아닙니다. 계속 시도하시겠습니까?"; //Machine translated

@@ -360,3 +360,5 @@
 "Are you sure? You will not be able to close your windows remotely" = "Er du sikker? Du kan ikke lukke dine vinduer eksternt"; //Machine translated
 "Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bekræft aldrig komplikationshandlinger, selv irreversible handlinger og handlinger, der ved et uheld kan give andre adgang til dit køretøj"; //Machine translated
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bekræft aldrig Widget handlinger, selv irreversible handlinger og handlinger, der ved et uheld kan give andre adgang til dit køretøj"; //Machine translated
+"Wait For Wake" = "Vent på vågne"; //Machine translated
+"Vehicle not online, keep trying?" = "Køretøjet ikke online. Bliv ved med at prøve?"; //Machine translated

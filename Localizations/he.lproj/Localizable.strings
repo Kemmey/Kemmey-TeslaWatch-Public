@@ -360,3 +360,5 @@
 "Are you sure? You will not be able to close your windows remotely" = "האם אתה בטוח? לא תוכל לסגור את החלונות שלך מרחוק"; //Machine translated
 "Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "לעולם אל תאשר פעולות סיבוך, אפילו פעולות בלתי הפיכות ופעולות שעלולות להעניק לאחרים גישה לרכב שלך"; //Machine translated
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "לעולם אל תאשר פעולות יישומון, אפילו פעולות בלתי הפיכות ופעולות העלולות להעניק לאחרים גישה לרכב שלך"; //Machine translated
+"Wait For Wake" = "חכה להתעורר"; //Machine translated
+"Vehicle not online, keep trying?" = "הרכב לא מקוון, להמשיך לנסות?"; //Machine translated
