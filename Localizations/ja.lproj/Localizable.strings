@@ -362,3 +362,4 @@
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "ウィジェットのアクションを確認しないでください。元に戻せないアクションや、誤って他の人に車両へのアクセスを許可する可能性のあるアクションであっても、"; //Machine translated
 "Wait For Wake" = "目覚めを待つ"; //Machine translated
 "Vehicle not online, keep trying?" = "車両がオンラインではありません、試してみてください？"; //Machine translated
+"Is Driving" = "運転しています"; //Machine translated

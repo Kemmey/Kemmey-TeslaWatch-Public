@@ -362,3 +362,4 @@
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "切勿确认小部件操作，即使是不可逆转的操作和可能意外授予他人访问您车辆的权限的操作"; //Machine translated
 "Wait For Wake" = "等待醒来"; //Machine translated
 "Vehicle not online, keep trying?" = "车辆不在线，继续尝试？"; //Machine translated
+"Is Driving" = "在驾车"; //Machine translated

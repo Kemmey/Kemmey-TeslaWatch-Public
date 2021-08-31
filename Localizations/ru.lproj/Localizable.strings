@@ -362,3 +362,4 @@
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Никогда не подтверждайте действия виджета, даже необратимые, и действия, которые могут случайно предоставить другим доступ к вашему автомобилю."; //Machine translated
 "Wait For Wake" = "Ждать пробуждения"; //Machine translated
 "Vehicle not online, keep trying?" = "Автомобиль не в сети, продолжать попытки?"; //Machine translated
+"Is Driving" = "Является движущей"; //Machine translated
