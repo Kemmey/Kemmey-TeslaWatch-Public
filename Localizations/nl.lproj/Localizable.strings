@@ -5,6 +5,7 @@
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Don Hellwich - hellwich@hotmail.com
+  Updated by Paul van Voorst - PvanVoorst@gmail.com
  
   A note to translators - add a comment "//No Machine Translation" for entries that should use the key as translation value.
   This will prevent machine translation from adding an automatic translation.
@@ -39,25 +40,25 @@
 "Charging complete" = "Opladen voltooid";
 "Loading..." = "Laden...";
 "Open frunk" = "Voorbak openen";
-"Really open frunk?" = "Weet u zeker dat u de voorbak wilt openen?";
+"Really open frunk?" = "Echt de voorbak openen?";
 "Set temp:" = "Stel temperatuur in:";
 "Close" = "Sluiten";
 "Open" = "Openen";
 "close" = "sluiten";
 "open" = "openen";
 "%@ trunk" = "Achterbak %@";
-"Really %@ trunk?" = "Weet u zeker dat u de achterbak wilt %@?";
+"Really %@ trunk?" = "Echt de achterbak %@?";
 "%@ charge port" = "Laadpoort %@";
 "Activate Homelink" = "Homelink activeren";
-"Really activate Homelink?" = "Weet u het zeker dat u Homelink wilt activeren?";
+"Really activate Homelink?" = "Echt Homelink activeren?";
 "Keyless drive" = "Sleutelloos rijden";
-"Really enable keyless drive?" = "Weet u het zeker dat u sleutelloos rijden wilt inschakelen?";
-"Honk!" = "Claxon!";
+"Really enable keyless drive?" = "Echt sleutelloos rijden inschakelen?";
+"Honk!" = "Toeter!";
 "Unlock port" = "Laadpoort openen";
 "%@ port" = "Laadpoort %@";
 "Homelink" = "Homelink"; //No Machine Translation
-"Disable Sentry" = "Sentrymodus Uit";
-"Enable Sentry" = "Sentrymodus Aan";
+"Disable Sentry" = "Sentrymode Uit";
+"Enable Sentry" = "Sentrymode Aan";
 "Vent" = "Ventileren";
 "%@ windows" = "Ramen ventileren";
 "Location of %@" = "Locatie van %@";
@@ -112,7 +113,7 @@
 "Translators" = "Vertalers";
 "Beta testers" = "Beta testers"; //No Machine Translation
 "Huge thanks to my many active beta testers!" = "Dank aan mijn vele beta testers!";
-"Plug-in reminder" = "Oplaadherinnering";
+"Plug-in reminder" = "Oplaad herinnering";
 "Remove" = "Verwijderen";
 "Add current vehicle location" = "Voeg de huidige voertuiglocatie toe";
 "Unknown" = "Onbekend";
@@ -151,21 +152,21 @@
 "Stopping HVAC" = "HVAC Stoppen";
 "Started defroster" = "Ontdooien starten";
 "Stopped defroster" = "Ontdooien stoppen";
-"Honking" = "Claxoneren";
+"Honking" = "Toeteren";
 "Flashing the lights" = "Lichten zijn aan het knipperen";
 "Set temps" = "Stel temperaturen in";
-"Enabled Sentry mode" = "Sentrymodus ingeschakeld";
-"Disabled Sentry mode" = "Sentrymodus uitgeschakeld";
+"Enabled Sentry mode" = "Sentrymode ingeschakeld";
+"Disabled Sentry mode" = "Sentrymode uitgeschakeld";
 "Activating Homelink" = "Homelink activeren";
 "Closing windows" = "Ramen aan het sluiten";
 "Venting windows" = "Ramen op ventilatiestand";
 "Closing sunroof" = "Dakraam aan het sluiten";
 "Venting sunroof" = "Dakraam op ventilatiestand";
 "Enabling keyless drive" = "Sleutelloos rijden aan het inschakelen";
-"Setting seat heater" = "Stoelverwarming aan het instellen";
+"Setting seat heater" = "Stoel verwarming aan het instellen";
 "Don't remind me again today" = "Herinner me vandaag niet opnieuw";
-"Dog mode" = "Hondenmodus";
-"Camp mode" = "Kampeermodus";
+"Dog mode" = "Hondenmode";
+"Camp mode" = "Kampeermode";
 "N" = "N"; //No Machine Translation
 "NE" = "NO";
 "E" = "O";
@@ -176,11 +177,11 @@
 "NW" = "NW"; //No Machine Translation
 
 "Auto-enable remote start on unlock" = "Automatisch sleutelloos rijden inschakelen bij ontgrendelen";
-"Climate" = "Klimaat";
+"Climate" = "Airco";
 "Lock" = "Vergrendel";
 "Unlock" = "Ontgrendel";
 "Reset" = "Resetten";
-"Two main control rows" = "Twee rijen grote knoppen";
+"Two main control rows" = "Twee rijen met grote knoppen";
 "Drag controls to reorder" = "Sleep knoppen op volgorde";
 "Controls order" = "Volgorde knoppen";
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Functies die grijs zijn worden verborgen. Hierdoor kunnen actieve knoppen verplaatsen.";
@@ -189,12 +190,12 @@
 "Controls" = "Knoppen";
 "Compass" = "Kompas";
 
-"Enable climate to activate seat heaters" = "Schakel climate control in om stoelverwarming aan te zetten";
+"Enable climate to activate seat heaters" = "Schakel de Airco in om stoel verwarming aan te zetten";
 "Show inactive controls" = "Toon inactieve knoppen";
-"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Authenticeren niet mogelijk. Controleer of het account gelockt is.";
+"Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Authenticeren niet mogelijk. Controleer of het account gelockt is op de tesla website.";
 "Optionally allow use of your location to show current distance to vehicle" = "Maak optioneel gebruik van uw locatie om de afstand tot het voortuig te tonen";
 "Est." = "Gesch."; //short for Estimated
-"If you have the iOS companion app installed, you can transfer your login to the watch" = "Als u de iOS companion app heeft geïnstalleerd, dan kunt u de inloggegevens naar uw Apple Watch sturen";
+"If you have the iOS companion app installed, you can transfer your login to the watch" = "Als je de iOS companion app hebt geïnstalleerd, dan kun je de inloggegevens naar de Apple Watch sturen";
 "Transfer login" = "Inloggegevens versturen";
 "State" = "Energiepercentage";
 "Icon" = "Icoon";
@@ -204,8 +205,8 @@
 "Login with Tesla" = "Login met Tesla";
 "Rate this app" = "Beoordeel deze app";
 "Always confirm complication actions" = "Complicatie acties altijd bevestigen";
-"Activate climate" = "Schakel climate control in";
-"Deactivate climate" = "Schakel climate control uit";
+"Activate climate" = "Schakel de Airco in";
+"Deactivate climate" = "Schakel de Airco uit";
 "Please confirm" = "Bevestig aub";
 "Always confirm widget actions" = "Widget acties altijd bevestigen";
 "Offline" = "Offline"; //No Machine Translation
@@ -233,8 +234,8 @@
 "Setting steering wheel heater" = "Stuurverwarming wordt ingesteld";
 "Turn on steering wheel heater" = "Stuurverwarming inschakelen";
 "Turn off steering wheel heater" = "Stuurverwarming uitschakelen";
-"Close frunk" = "Frunk sluiten";
-"Really close frunk?" = "Wil je de frunk echt sluiten?";
+"Close frunk" = "Voorbak sluiten";
+"Really close frunk?" = "Echt de voorbak sluiten?";
 
 "Shortcuts" = "Shortcuts"; //No Machine Translation
 "About to buy a new Tesla? Use my referral code!" = "Sta je op het punt om een nieuwe Tesla te kopen? Gebruik mijn referral code!";
@@ -248,11 +249,11 @@
 "Open Frunk" = "Open voorbak";
 "Set Charge Limit" = "Laadlimiet instellen";
 "Start Charging" = "Start Laden";
-"Start Climate" = "Start AIRCO";
+"Start Climate" = "Start Airco";
 "Start Defrost" = "Start Ontdooien";
 "Stop Charging" = "Stop Laden";
-"Stop Climate" = "Stop AIRCO";
-"Stop Defrost" = "Stop Otdooien";
+"Stop Climate" = "Stop Airco";
+"Stop Defrost" = "Stop Ontdooien";
 "Trigger Homelink" = "Homelink activeren";
 "Vent Windows" = "Ramen ventileren";
 "Controls page" = "Bedienings pagina";
@@ -270,7 +271,7 @@
 "false" = "onwaar";
 "Is Locked" = "Zit op slot";
 "Close Frunk" = "Voorbak sluiten";
-"Get Vehicle State" = "Haal voertuig status op";
+"Get Vehicle State" = "Haal status voertuig op";
 "Vehicle Name" = "Voertuig naam";
 "Range Estimated KM" = "Geschatte afstand KM";
 "Open Features" = "Open opties";
@@ -279,7 +280,7 @@
 "Limit" = "Limiet";
 "Sentry Active" = "Sentry actief";
 "Outside Temp C" = "Buiten temp C";
-"Climate Active" = "Climate actief";
+"Climate Active" = "Airco is actief";
 "Range Rated KM" = "Afstand Rated KM";
 "Charge to ${limit}%" = "Laad tot ${limit}%";
 "Charge Limit" = "Oplaad limiet";
@@ -298,7 +299,7 @@
 "Vent sunroof" = "Ventileren dakraam";
 "Close sunroof" = "Sluiten dakraam";
 
-"Inside temp" = "Binnentemperatuur"; //Machine translated
+"Inside temp" = "Binnen temperatuur";
 "Outside temp" = "Buiten temperatuur"; //Machine translated
 "is" = "is"; //No Machine Translation
 "charged giving a range of" = "Geladen geeft een actieradius van";
@@ -313,22 +314,22 @@
 
 "Locking" = "Vergrendelen";
 "Seconds To Wait" = "Seconden wachten";
-"Vehicle in service mode" = "Voertuig in servicemodus";
+"Vehicle in service mode" = "Voertuig in servicemode";
 "Opens the trunk" = "Opent de achterbak";
 "Unlocks the car" = "Ontgrendelt de auto"; //Machine translated
 "Locks the car" = "Vergrendelt de auto"; //Machine translated
 "Starts charging if charger connected" = "Begint met opladen als de oplader is aangesloten"; //Machine translated
 "Stops charging if currently charging" = "Stopt met opladen als momenteel wordt opgeladen"; //Machine translated
-"Opens the charge port door" = "Opent de laadpoortdeur"; //Machine translated
-"Closes the charge port door" = "Sluit de laadpoortdeur charge"; //Machine translated
+"Opens the charge port door" = "Opent de laadpoort klep";
+"Closes the charge port door" = "Sluit de laadpoort klep";
 "Opens the front trunk" = "Opent de voorbak";
 "Starts the climate system" = "Start de Airconditioning";
 "Stops the climate system" = "Stopt het Airconditioning";
 "Starts the defroster" = "Start de ontdooier"; //Machine translated
 "Stops the defroster" = "Stopt de ontdooier"; //Machine translated
-"Turns on Sentry mode" = "Schakelt de Sentry-modus in"; //Machine translated
-"Turns off Sentry mode" = "Schakelt de Sentry-modus uit"; //Machine translated
-"Closes the trunk" = "Sluit de kofferbak"; //Machine translated
+"Turns on Sentry mode" = "Schakelt de Sentry mode in";
+"Turns off Sentry mode" = "Schakelt de Sentry mode uit";
+"Closes the trunk" = "Sluit de achterbak";
 "Closes the front trunk" = "Sluit de voorbak";
 "Sets the maximum charge limit" = "Stelt de maximale laadlimiet in"; //Machine translated
 "Opens the windows slightly" = "Opent de ramen een beetje"; //Machine translated
@@ -336,10 +337,10 @@
 "Activates Homelink if within range" = "Activeert Homelink indien binnen bereik"; //Machine translated
 "Returns all current values for the car" = "Retourneert alle huidige waarden voor de auto"; //Machine translated
 "Wakes up the car to accept commands" = "Maakt de auto wakker om commando's te accepteren"; //Machine translated
-"Unlocks the charge port door" = "Ontgrendelt de laadpoortdeur";
+"Unlocks the charge port door" = "Ontgrendelt de laadpoort klep";
 "Sends an address to the cars navigation system" = "Stuurt een adres naar het autonavigatiesysteem"; //Machine translated
 "Turns on the car allowing it to drive" = "Schakelt de auto in zodat deze kan rijden"; //Machine translated
-"Honks the horn" = "Toetert de hoorn";
+"Honks the horn" = "Claxxoneer met de toeter";
 "Flashes the headlights" = "Knippert met de koplampen"; //Machine translated
 "Slightly opens the sunroof" = "Opent het zonnedak een beetje"; //Machine translated
 "Turns on the steering wheel heater" = "Schakelt de stuurwielverwarming in"; //Machine translated
@@ -349,15 +350,15 @@
 "Set Temperature" = "Stel temperatuur in"; //Machine translated
 "Set to ${temperature}" = "Instellen op ${temperature}"; //Machine translated
 "Temperature" = "Temperatuur"; //Machine translated
-"Sets climate control temperature" = "Stelt de temperatuur van de klimaatregeling in"; //Machine translated
+"Sets climate control temperature" = "Stelt de temperatuur van de Airconditioning in";
 "Show data timer on compatible complications" = "Toon datatimer op compatibele complicaties"; //Machine translated
 "Need help?" = "Hulp nodig?"; //Machine translated
 "Please login on your phone. Your login will automatically transfer to the watch." = "Gelieve in te loggen op uw telefoon. Uw login wordt automatisch overgedragen naar het horloge."; //Machine translated
 "Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Installeer de bijbehorende iOS-app en log vervolgens in op uw telefoon. Uw login wordt automatisch overgedragen naar het horloge."; //Machine translated
 "Advanced" = "Geavanceerd"; //Machine translated
 "Inside / outside temp" = "Binnen / buiten temperatuur";
-"Are you sure? You will not be able to close your windows remotely" = "Weet je het zeker? U kunt uw ramen niet op afstand sluiten"; //Machine translated
-"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bevestig nooit complicatieacties, zelfs onomkeerbare acties en acties die anderen per ongeluk toegang tot uw voertuig kunnen geven"; //Machine translated
+"Are you sure? You will not be able to close your windows remotely" = "Weet je het zeker? Je kunt de ramen niet op afstand sluiten";
+"Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bevestig nooit complicatie acties, zelfs onomkeerbare acties en acties die anderen per ongeluk toegang tot uw voertuig kunnen geven";
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Bevestig nooit widgetacties, zelfs niet onomkeerbare acties en acties die anderen per ongeluk toegang tot uw voertuig kunnen geven"; //Machine translated
-"Wait For Wake" = "Wacht op wakker"; //Machine translated
+"Wait For Wake" = "Wacht op ontwaken";
 "Vehicle not online, keep trying?" = "Voertuig niet online, blijven proberen?"; //Machine translated
