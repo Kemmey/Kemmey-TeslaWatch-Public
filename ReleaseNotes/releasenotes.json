@@ -316,7 +316,9 @@
             { "build": 803, "change": "Updated dutch localizations." },
             { "build": 803, "change": "Fixed Siri infinite wait for wake feature. Due to a bug in Siri, when a timeout occurs and Siri prompts users to keep waiting, this prompt will not be localized, but Siri will prompt for the code variable name value - in all localizations but English." },
             { "build": 804, "change": "Added Is Driving property to vehicle state Shortcuts action." },
-            { "build": 804, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 805, "change": "Changed how last data is calculated and stored - now comes directly from Tesla API." },
+            { "build": 806, "change": "Now using timestamp on vehicle data when transferring data between devices." },
+            { "build": 806, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
