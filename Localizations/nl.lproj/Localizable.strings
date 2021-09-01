@@ -363,3 +363,6 @@
 "Wait For Wake" = "Wacht op ontwaken";
 "Vehicle not online, keep trying?" = "Voertuig niet online, blijven proberen?"; //Machine translated
 "Is Driving" = "Is aan het rijden"; //Machine translated
+"Show advanced" = "Toon geavanceerd"; //Machine translated
+"Hide advanced" = "Geavanceerd verbergen"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "Bereken het laadvermogen (kW) zonder nulleider"; //Machine translated

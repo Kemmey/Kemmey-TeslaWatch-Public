@@ -363,3 +363,6 @@
 "Wait For Wake" = "Wait For Wake"; //No Machine Translation
 "Vehicle not online, keep trying?" = "Vozidlo není online, stále to zkoušíte?"; //Machine translated
 "Is Driving" = "Řídí"; //Machine translated
+"Show advanced" = "Zobrazit pokročilé"; //Machine translated
+"Hide advanced" = "Skrýt pokročilé"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "Vypočítejte výkon nabíječky (kW) bez neutrálního připojení"; //Machine translated

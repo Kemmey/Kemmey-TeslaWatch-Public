@@ -363,3 +363,6 @@
 "Wait For Wake" = "等待醒来"; //Machine translated
 "Vehicle not online, keep trying?" = "车辆不在线，继续尝试？"; //Machine translated
 "Is Driving" = "在驾车"; //Machine translated
+"Show advanced" = "显示高级"; //Machine translated
+"Hide advanced" = "隐藏高级"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "计算没有中性线连接的充电器功率 (kW)"; //Machine translated

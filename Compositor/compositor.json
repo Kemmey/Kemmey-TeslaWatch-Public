@@ -12,7 +12,11 @@
             "Aero19": "WTAS",
             "Turbine19Dark": "WTDS",
             "Tempest19SonicSilver": "WTDS",
-            "default": "WTTB"
+            "refreshTempest": "WS90",
+            "refreshArachnid": "WS10",
+            "default": "WTTB",
+            "defaultRefresh": "WS90",
+            "defaultRefreshPerformance": "WS10"
         },
         "m3": {
             "Pinwheel18": "W38B",
@@ -25,7 +29,12 @@
             "Stiletto20DarkStaggered": "W32D",
             "Gemini19Square": "W38B",
             "Gemini19Staggered": "W38B",
-            "default": "W39B"
+            "refreshAero": "W40B",
+            "refreshSport": "W41B",
+            "refreshUberTurbine": "W33D",
+            "default": "W39B",
+            "defaultRefresh": "W40B",
+            "defaultRefreshPerformance": "W33D"
         },
         "mx": {
             "AeroTurbine20": "WT20",
@@ -34,8 +43,12 @@
             "Arachnid21Grey": "WTAB",
             "AeroTurbine22": "WT22",
             "Super21Gray": "WTSG",
-"Slipstream20Dark": "WTSC",
-            "default": "WT20"
+            "Slipstream20Dark": "WTSC",
+            "refreshCyberstream": "WX00",
+            "refreshTurbine": "WX20",
+            "default": "WT20",
+            "defaultRefresh": "WX00",
+            "defaultRefreshPerformance": "WX20"
         },
         "my": {
             "18": "WY18B",
@@ -43,7 +56,12 @@
             "Apollo19": "WY19B",
             "20": "WY20P",
             "21": "WY21P",
-            "default": "WY19B"
+            "refreshGemini": "WY19B",
+            "refreshInduction": "WY20P",
+            "refreshUberTurbine": "WY21P",
+            "default": "WY19B",
+            "defaultRefresh": "WY19B",
+            "defaultRefreshPerformance": "WY21P"
         }
     },
     "colors": {

@@ -363,3 +363,6 @@
 "Wait For Wake" = "חכה להתעורר"; //Machine translated
 "Vehicle not online, keep trying?" = "הרכב לא מקוון, להמשיך לנסות?"; //Machine translated
 "Is Driving" = "נוהג"; //Machine translated
+"Show advanced" = "הצג מתקדם"; //Machine translated
+"Hide advanced" = "הסתר מתקדם"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "חשב את כוח המטען (קילוואט) ללא חיבור ניטראלי"; //Machine translated

@@ -363,3 +363,6 @@
 "Wait For Wake" = "Vent på vågne"; //Machine translated
 "Vehicle not online, keep trying?" = "Køretøjet ikke online. Bliv ved med at prøve?"; //Machine translated
 "Is Driving" = "Kører"; //Machine translated
+"Show advanced" = "Vis avanceret"; //Machine translated
+"Hide advanced" = "Skjul avanceret"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "Beregn opladereffekt (kW) uden neutral forbindelse"; //Machine translated

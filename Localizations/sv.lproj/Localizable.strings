@@ -363,3 +363,6 @@
 "Wait For Wake" = "Vänta på att vakna"; //Machine translated
 "Vehicle not online, keep trying?" = "Fordon inte online, fortsätt försöka?"; //Machine translated
 "Is Driving" = "Kör"; //Machine translated
+"Show advanced" = "Visa avancerat"; //Machine translated
+"Hide advanced" = "Dölj avancerat"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "Beräkna laddarens effekt (kW) utan neutral anslutning"; //Machine translated

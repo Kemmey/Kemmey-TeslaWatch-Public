@@ -363,3 +363,6 @@
 "Wait For Wake" = "Attendre le réveil"; //Machine translated
 "Vehicle not online, keep trying?" = "Le véhicule n'est pas en ligne, continuez d'essayer ?"; //Machine translated
 "Is Driving" = "Conduit"; //Machine translated
+"Show advanced" = "Afficher les paramètres avancés"; //Machine translated
+"Hide advanced" = "Masquer avancé"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "Calculer la puissance du chargeur (kW) sans connexion neutre"; //Machine translated

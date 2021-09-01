@@ -318,7 +318,8 @@
             { "build": 804, "change": "Added Is Driving property to vehicle state Shortcuts action." },
             { "build": 805, "change": "Changed how last data is calculated and stored - now comes directly from Tesla API." },
             { "build": 806, "change": "Now using timestamp on vehicle data when transferring data between devices." },
-            { "build": 806, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 807, "change": "Added advanced settings section - for now containing toggle to calculate charger power without a neutral connection." },
+            { "build": 807, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

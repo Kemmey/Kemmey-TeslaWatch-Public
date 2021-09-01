@@ -363,3 +363,6 @@
 "Wait For Wake" = "Wait For Wake";
 "Vehicle not online, keep trying?" = "Vehicle not online, keep trying?";
 "Is Driving" = "Is Driving";
+"Show advanced" = "Show advanced";
+"Hide advanced" = "Hide advanced";
+"Calculate charger power (kW) without neutral connection" = "Calculate charger power (kW) without neutral connection";

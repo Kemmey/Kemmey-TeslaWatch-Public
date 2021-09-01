@@ -363,3 +363,6 @@
 "Wait For Wake" = "웨이크를 기다리다"; //Machine translated
 "Vehicle not online, keep trying?" = "차량이 온라인 상태가 아닙니다. 계속 시도하시겠습니까?"; //Machine translated
 "Is Driving" = "운전 중"; //Machine translated
+"Show advanced" = "고급 표시"; //Machine translated
+"Hide advanced" = "고급 숨기기"; //Machine translated
+"Calculate charger power (kW) without neutral connection" = "중립 연결 없이 충전기 전력(kW) 계산"; //Machine translated
