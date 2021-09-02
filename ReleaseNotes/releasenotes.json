@@ -320,9 +320,9 @@
             { "build": 806, "change": "Now using timestamp on vehicle data when transferring data between devices." },
             { "build": 807, "change": "Added advanced settings section - for now containing toggle to calculate charger power without a neutral connection." },
             { "build": 808, "change": "Initial support for 2021+ refresh vehicle images. Please send feedback if your 2021+ refresh model does not show correct background image. Please include screenshot of Settings, Show Debug, Vehicle section." },
-            { "build": 809, "change": "Properly clearing widget background images on update." },
-            { "build": 809, "change": "Adjusted 2021+ refresh background image crops." },
-            { "build": 809, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 810, "change": "Properly clearing widget background images on update." },
+            { "build": 810, "change": "Adjusted 2021+ refresh background image crops." },
+            { "build": 810, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
