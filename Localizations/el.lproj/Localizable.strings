@@ -366,3 +366,5 @@
 "Show advanced" = "Εμφάνιση προχωρημένων"; //Machine translated
 "Hide advanced" = "Απόκρυψη προχωρημένων"; //Machine translated
 "Calculate charger power (kW) without neutral connection" = "Υπολογίστε την ισχύ του φορτιστή (kW) χωρίς ουδέτερη σύνδεση"; //Machine translated
+"Except at these locations" = "Εκτός από αυτές τις τοποθεσίες"; //Machine translated
+"Remind at these locations" = "Υπενθυμίστε σε αυτές τις τοποθεσίες"; //Machine translated

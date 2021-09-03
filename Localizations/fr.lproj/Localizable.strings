@@ -366,3 +366,5 @@
 "Show advanced" = "Afficher les paramètres avancés"; //Machine translated
 "Hide advanced" = "Masquer avancé"; //Machine translated
 "Calculate charger power (kW) without neutral connection" = "Calculer la puissance du chargeur (kW) sans connexion neutre"; //Machine translated
+"Except at these locations" = "Sauf à ces endroits"; //Machine translated
+"Remind at these locations" = "Rappelez à ces endroits"; //Machine translated

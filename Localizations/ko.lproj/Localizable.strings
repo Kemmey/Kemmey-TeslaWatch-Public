@@ -366,3 +366,5 @@
 "Show advanced" = "고급 표시"; //Machine translated
 "Hide advanced" = "고급 숨기기"; //Machine translated
 "Calculate charger power (kW) without neutral connection" = "중립 연결 없이 충전기 전력(kW) 계산"; //Machine translated
+"Except at these locations" = "이 위치를 제외하고"; //Machine translated
+"Remind at these locations" = "이 위치에서 알림"; //Machine translated

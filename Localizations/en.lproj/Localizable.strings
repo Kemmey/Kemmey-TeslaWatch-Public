@@ -366,3 +366,5 @@
 "Show advanced" = "Show advanced";
 "Hide advanced" = "Hide advanced";
 "Calculate charger power (kW) without neutral connection" = "Calculate charger power (kW) without neutral connection";
+"Except at these locations" = "Except at these locations";
+"Remind at these locations" = "Remind at these locations";

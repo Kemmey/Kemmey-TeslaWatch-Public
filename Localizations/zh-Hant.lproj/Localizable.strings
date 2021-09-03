@@ -366,3 +366,5 @@
 "Show advanced" = "显示高级"; //Machine translated
 "Hide advanced" = "隐藏高级"; //Machine translated
 "Calculate charger power (kW) without neutral connection" = "计算没有中性线连接的充电器功率 (kW)"; //Machine translated
+"Except at these locations" = "除了这些地方"; //Machine translated
+"Remind at these locations" = "在这些位置提醒"; //Machine translated

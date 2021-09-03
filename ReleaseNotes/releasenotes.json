@@ -322,7 +322,8 @@
             { "build": 808, "change": "Initial support for 2021+ refresh vehicle images. Please send feedback if your 2021+ refresh model does not show correct background image. Please include screenshot of Settings, Show Debug, Vehicle section." },
             { "build": 810, "change": "Properly clearing widget background images on update." },
             { "build": 810, "change": "Adjusted 2021+ refresh background image crops." },
-            { "build": 810, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 811, "change": "Added open features reminder exclusion locations." },
+            { "build": 811, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

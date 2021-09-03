@@ -366,3 +366,5 @@
 "Show advanced" = "高度な表示"; //Machine translated
 "Hide advanced" = "高度な非表示"; //Machine translated
 "Calculate charger power (kW) without neutral connection" = "ニュートラル接続なしの充電器電力（kW）を計算します"; //Machine translated
+"Except at these locations" = "これらの場所を除いて"; //Machine translated
+"Remind at these locations" = "これらの場所で思い出させる"; //Machine translated
