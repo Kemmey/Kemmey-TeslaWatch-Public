@@ -52,8 +52,8 @@
 "Homelink" = "Homelink";
 "Disable Sentry" = "Sentry deaktivieren";
 "Enable Sentry" = "Sentry aktivieren";
-"Vent" = "Lüften";
-"%@ windows" = "Fenster zum %@ öffnen";
+"Vent" = "einen Spalt öffen";
+"%@ windows" = "Fenster %@ ";
 "Location of %@" = "Position von %@";
 "Location" = "Position";
 "Flash!" = "Lichthupe!";
