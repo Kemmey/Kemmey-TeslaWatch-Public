@@ -121,7 +121,7 @@
 "Charging" = "Laden";
 "%@ sunroof" = "%@ Schiebedach";
 "Sunroof" = "Schiebedach";
-"Closing sunroof" = "Closing Schiebedach";
+"Closing sunroof" = "Schiebedach schließen";
 "Unlocked" = "Entriegelt";
 "Open features reminder" = "Erinnerung für entriegelte Features";
 "is open" = "ist offen";
