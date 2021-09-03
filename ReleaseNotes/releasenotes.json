@@ -323,7 +323,8 @@
             { "build": 810, "change": "Properly clearing widget background images on update." },
             { "build": 810, "change": "Adjusted 2021+ refresh background image crops." },
             { "build": 811, "change": "Added open features reminder exclusion locations." },
-            { "build": 811, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 815, "change": "Updated German localizations." },
+            { "build": 815, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
