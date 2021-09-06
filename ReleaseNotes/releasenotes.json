@@ -324,7 +324,8 @@
             { "build": 810, "change": "Adjusted 2021+ refresh background image crops." },
             { "build": 811, "change": "Added open features reminder exclusion locations." },
             { "build": 815, "change": "Updated German localizations." },
-            { "build": 815, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 816, "change": "Background updates postponed when receiving updated data from companion device. Should reduce non-needed wake calls." },
+            { "build": 816, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
