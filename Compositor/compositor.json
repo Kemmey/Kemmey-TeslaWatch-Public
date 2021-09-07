@@ -117,5 +117,27 @@
         "modelx": "mx",
         "modely": "my",
         "default": "m3"
+    },
+    "options": {
+        "ms": {
+            "default": "MI01",
+            "defaultRefresh": "IBE00,MTS10",
+            "defaultRefreshPerformance": "IBE00,MTS11"
+        },
+        "m3": {
+            "default": "",
+            "defaultRefresh": "IBB1,MT314",
+            "defaultRefreshPerformance": "IPB1,MT317"
+        },
+        "mx": {
+            "default": "",
+            "defaultRefresh": "IBE00,MTX10",
+            "defaultRefreshPerformance": "IBC00,MTX11"
+        },
+        "my": {
+            "default": "",
+            "defaultRefresh": "INPB1,MTY06",
+            "defaultRefreshPerformance": "INPB1,MTY05"
+        }
     }
 }
