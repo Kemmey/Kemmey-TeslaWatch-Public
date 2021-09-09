@@ -328,7 +328,8 @@
             { "build": 818, "change": "Locally symbolicated build - fingers crossed I'll be able to track down background crashers with this build." },
             { "build": 819, "change": "Improved thread safety on singleton properties - should reduce background crashers. Might still be more though." },
             { "build": 820, "change": "Fixed compass orientation when in landscape view." },
-            { "build": 820, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 821, "change": "Preliminary HUD feature for full-screen driving state view. Long press when in full screen driving state to mirror screen, allowing for reflection to be used as HUD. Works best in dark mode." },
+            { "build": 821, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
