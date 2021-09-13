@@ -336,7 +336,8 @@
             { "build": 832, "change": "Universal battery view now also used in vehicle chooser, showing each vehicles proper state." },
             { "build": 832, "change": "Complications and universal battery view will now also show if battery is cold, indicating range is reduced due to less of battery pack is accessible." },
             { "build": 832, "change": "Improved logging when no vehicles on account." },
-            { "build": 832, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 833, "change": "Major warning symbols refactoring." },
+            { "build": 833, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
