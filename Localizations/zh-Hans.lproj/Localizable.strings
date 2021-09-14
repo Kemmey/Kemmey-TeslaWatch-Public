@@ -368,3 +368,4 @@
 "Calculate charger power (kW) without neutral connection" = "计算没有中性线连接的充电器功率 (kW)"; //Machine translated
 "Except at these locations" = "除了这些地方"; //Machine translated
 "Remind at these locations" = "在这些位置提醒"; //Machine translated
+"Override vehicle unit, show estimated range" = "覆盖车辆单位，显示估计范围"; //Machine translated

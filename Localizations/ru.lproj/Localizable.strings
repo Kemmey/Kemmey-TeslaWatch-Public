@@ -368,3 +368,4 @@
 "Calculate charger power (kW) without neutral connection" = "Рассчитать мощность зарядного устройства (кВт) без подключения нейтрали"; //Machine translated
 "Except at these locations" = "За исключением этих мест"; //Machine translated
 "Remind at these locations" = "Напомнить в этих местах"; //Machine translated
+"Override vehicle unit, show estimated range" = "Отменить блокировку транспортного средства, показать расчетный диапазон"; //Machine translated

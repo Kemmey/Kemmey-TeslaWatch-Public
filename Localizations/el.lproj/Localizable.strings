@@ -368,3 +368,4 @@
 "Calculate charger power (kW) without neutral connection" = "Υπολογίστε την ισχύ του φορτιστή (kW) χωρίς ουδέτερη σύνδεση"; //Machine translated
 "Except at these locations" = "Εκτός από αυτές τις τοποθεσίες"; //Machine translated
 "Remind at these locations" = "Υπενθυμίστε σε αυτές τις τοποθεσίες"; //Machine translated
+"Override vehicle unit, show estimated range" = "Παράκαμψη μονάδας οχήματος, εμφάνιση εκτιμώμενης εμβέλειας"; //Machine translated

@@ -368,3 +368,4 @@
 "Calculate charger power (kW) without neutral connection" = "Calculer la puissance du chargeur (kW) sans connexion neutre"; //Machine translated
 "Except at these locations" = "Sauf à ces endroits"; //Machine translated
 "Remind at these locations" = "Rappelez à ces endroits"; //Machine translated
+"Override vehicle unit, show estimated range" = "Remplacer l'unité du véhicule, afficher l'autonomie estimée"; //Machine translated

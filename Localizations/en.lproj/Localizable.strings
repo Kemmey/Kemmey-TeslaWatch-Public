@@ -368,3 +368,4 @@
 "Calculate charger power (kW) without neutral connection" = "Calculate charger power (kW) without neutral connection";
 "Except at these locations" = "Except at these locations";
 "Remind at these locations" = "Remind at these locations";
+"Override vehicle unit, show estimated range" = "Override vehicle unit, show estimated range";
