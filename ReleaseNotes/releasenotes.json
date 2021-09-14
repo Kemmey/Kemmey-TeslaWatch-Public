@@ -338,7 +338,8 @@
             { "build": 832, "change": "Improved logging when no vehicles on account." },
             { "build": 833, "change": "Major warning symbols refactoring." },
             { "build": 834, "change": "Fix percentage unit override in split battery view." },
-            { "build": 834, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 835, "change": "Fix percentage unit override in split battery view on small state widget." },
+            { "build": 835, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
