@@ -341,7 +341,10 @@
             { "build": 835, "change": "Fix percentage unit override in split battery view on small state widget." },
             { "build": 836, "change": "Now using refactored range view in small state widget." },
             { "build": 837, "change": "Added advanced toggle to switch range display to estimated range instead of in-vehicle configured range display (ideal or rated)." },
-            { "build": 837, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 843, "change": "HUD view will now automatically request max brightness." },
+            { "build": 845, "change": "Improved background image handling." },
+            { "build": 846, "change": "Updated graphic recangular state complication to new look and feel." },
+            { "build": 846, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
