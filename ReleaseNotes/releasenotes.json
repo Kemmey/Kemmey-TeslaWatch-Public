@@ -347,7 +347,8 @@
             { "build": 850, "change": "Fixed watchOS 8 using large title on login screen." },
             { "build": 850, "change": "Fixed medium controls widget padding on iOS 15." },
             { "build": 851, "change": "Updated watch to phone messaging - when watch gets new data in background, updating phone should be more reliable." },
-            { "build": 851, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 852, "change": "Further improved sending data from watch to phone - now also major data actions trigger an immediate message." },
+            { "build": 852, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
