@@ -42,22 +42,17 @@
         },
         "mx": {
             "AeroTurbine20": "WT20",
-            "AeroTurbine19": "WTAS",
-            "Turbine19": "WTTB",
-            "Arachnid21Grey": "WTAB",
             "AeroTurbine22": "WT22",
-            "Super21Gray": "WTSG",
             "Slipstream20Dark": "WTSC",
             "Turbine22": "WT22",
             "Onyx22Black": "WTUT",
             "Turbine22Dark": "WTUT",
             "Slipstream20Carbon": "WTSC",
-            "Slipstream20Dark_ALT": "WTSD",
             "refreshCyberstream": "WX00",
             "refreshTurbine": "WX20",
             "default": "WT20",
-            "defaultRefresh": "WX00",
-            "defaultRefreshPerformance": "WX20"
+            "defaultRefresh": "WT20",
+            "defaultRefreshPerformance": "WTUT"
         },
         "my": {
             "18": "WY18B",
@@ -124,9 +119,7 @@
             "defaultRefreshPerformance": "IPB1,MT317"
         },
         "mx": {
-            "default": "",
-            "defaultRefresh": "IBE00,MTX10",
-            "defaultRefreshPerformance": "IBC00,MTX11"
+            "default": ""
         },
         "my": {
             "default": "",
