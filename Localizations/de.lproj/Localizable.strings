@@ -58,7 +58,7 @@
 "Homelink" = "Homelink"; //No Machine Translation
 "Disable Sentry" = "Sentry deaktivieren";
 "Enable Sentry" = "Sentry aktivieren";
-"Vent" = "einen Spalt öffen";
+"Vent" = "einen Spalt öffnen";
 "%@ windows" = "Fenster %@ ";
 "Location of %@" = "Position von %@";
 "Location" = "Position";
