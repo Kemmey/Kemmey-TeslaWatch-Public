@@ -246,7 +246,7 @@
 "Open Charge Port" = "Öppna laddningsporten"; //Machine translated
 "Open Trunk" = "Öppna bagageutrymmet"; //Machine translated
 "Open Frunk" = "Öppna Frunk"; //Machine translated
-"Set Charge Limit" = "Ställ in avgiftsgräns"; //Machine translated
+"Set Charge Limit" = "Ställ in laddgräns";
 "Start Charging" = "Börja ladda"; //Machine translated
 "Start Climate" = "Starta klimatet"; //Machine translated
 "Start Defrost" = "Starta avfrostning"; //Machine translated
@@ -261,7 +261,7 @@
 //Siri
 "Result" = "Resultat"; //Machine translated
 "${displayName} can’t be lower than ${minimumValue}." = "${displayName} får inte vara lägre än ${minimumValue}."; //Machine translated
-"State Of Charge" = "Avgiftsstatus"; //Machine translated
+"State Of Charge" = "Laddstatus";
 "Vehicle Image Url" = "Fordonsbild-webbadress"; //Machine translated
 "Inside Temp F" = "Inuti Temp F"; //Machine translated
 "true" = "Sann"; //Machine translated
