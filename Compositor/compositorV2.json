@@ -1,0 +1,163 @@
+{
+    "wheels": {
+        "ms": {
+            "legacy": {
+                "AeroTurbine19": "WTAS",
+                "Turbine19": "WTAS",
+                "Arachnid21Grey": "WTAB",
+                "Super21Gray": "WTSG",
+                "Slipstream19Carbon": "WTDS",
+                "Base19": "WT19",
+                "Aero19": "WTAS",
+                "Turbine19Dark": "WTDS",
+                "Arachnid21Silver": "WTAS",
+                "Arachnid21Black": "WTAB",
+                "Charcoal21": "WTSP",
+                "Super21Silver": "WTSS",
+                "Silver21": "WT21",
+                "TwinTurbine21Carbon": "WTTC",
+                "default": "WTTB"    
+            },
+            "refresh": {
+                "refreshTempest": "WS90",
+                "Arachnid21": "WS10",
+                "default": "WS90"
+            },
+            "refreshPerformance": {
+                "refreshTempest": "WS90",
+                "Arachnid21": "WS10",
+                "default": "WS10"
+            }
+        },
+        "m3": {
+            "legacy": {
+                "Pinwheel18": "W38B",
+                "Pinwheel18CapKit": "W38B",
+                "Sportwheel19": "W39B",
+                "Stiletto19": "W39B",
+                "Stiletto20DarkSquare": "W32D",
+                "Performancewheel20": "W32P",
+                "Stiletto20": "W32P",
+                "Stiletto20DarkStaggered": "W32D",
+                "Gemini19Square": "W38B",
+                "Gemini19Staggered": "W38B",
+                "Stiletto20__ALT": "W32B",
+                "Gemini19Square__ALT": "W39P",
+                "UberTurbine20Gunpowder": "W33D",
+                "default": "W39B"
+            },
+            "refresh": {
+                "PinwheelRefresh18": "W40B",
+                "StilettoRefresh19": "W41B",
+                "refreshAero": "W40B",
+                "default": "W40B"
+            },
+            "refreshPerformance": {
+                "refreshUberTurbine": "W33D",
+                "default": "W33D"
+            }
+        },
+        "mx": {
+            "legacy": {
+                "AeroTurbine20": "WT20",
+                "AeroTurbine22": "WT22",
+                "Slipstream20Dark": "WTSC",
+                "Turbine22": "WT22",
+                "Onyx22Black": "WTUT",
+                "Turbine22Dark": "WTUT",
+                "Slipstream20Carbon": "WTSC",
+                "default": "WT20"
+            },
+            "refresh": {
+                "refreshCyberstream": "WX00",
+                "refreshTurbine": "WX20",
+                "default": "WX00"
+            },
+            "refreshPerformance": {
+                "refreshCyberstream": "WX00",
+                "refreshTurbine": "WX20",
+                "default": "WX20"
+            }
+        },
+        "my": {
+            "legacy": {
+                "18": "WY18B",
+                "19": "WY19B",
+                "Apollo19": "WY19B",
+                "20": "WY20P",
+                "21": "WY21P",
+                "UberTurbine21Black": "WY21P",
+                "Induction20Black": "WY20P",
+                "default": "WY19B"
+            },
+            "refresh": {
+                "refreshGemini": "WY19B",
+                "refreshInduction": "WY20P",
+                "default": "WY19B"
+            },
+            "refreshPerformance": {
+                "refreshUberTurbine": "WY21P",
+                "default": "WY21P"
+            }
+        }
+    },
+    "colors": {
+        "ObsidianBlack": "PMBL",
+        "SolidBlack": "PBSB", 
+        "MetallicBlack": "PMBL", 
+        "DeepBlueMetallic": "PPSB", 
+        "DeepBlue": "PPSB", 
+        "RedMulticoat": "PPMR", 
+        "Red": "PPMR", 
+        "MidnightSilverMetallic": "PMNG", 
+        "MidnightSilver": "PMNG", 
+        "SteelGrey": "PMNG", 
+        "SilverMetallic": "PMSS", 
+        "MetallicBrown": "PMAB", 
+        "Brown": "PMAB", 
+        "Silver": "PMSS", 
+        "TitaniumCopper": "PPTI", 
+        "DolphinGrey": "PMTG", 
+        "Green": "PMSG", 
+        "MetallicGreen": "PMSG", 
+        "PearlWhiteMulticoat": "PPSW", 
+        "PearlWhite": "PPSW", 
+        "Pearl": "PPSW", 
+        "SolidWhite": "PBCW", 
+        "White": "PBCW", 
+        "SignatureBlue": "PPSB", 
+        "MetallicBlue": "PMMB", 
+        "SignatureRed": "PPSR", 
+        "default": "PBSB"
+    },
+    "models": {
+        "models": "ms",
+        "models2": "ms",
+        "model3": "m3",
+        "modelx": "mx",
+        "modely": "my",
+        "default": "m3"
+    },
+    "options": {
+        "ms": {
+            "default": "MI01",
+            "defaultRefresh": "IBE00,MTS10",
+            "defaultRefreshPerformance": "IBE00,MTS11"
+        },
+        "m3": {
+            "default": "",
+            "defaultRefresh": "IBB1,MT314",
+            "defaultRefreshPerformance": "IPB1,MT317"
+        },
+        "mx": {
+            "default": "",
+            "defaultRefresh": "IBE00,MTX10",
+            "defaultRefreshPerformance": "IBC00,MTX11"
+        },
+        "my": {
+            "default": "",
+            "defaultRefresh": "INPB1,MTY06",
+            "defaultRefreshPerformance": "INPB1,MTY05"
+        }
+    }
+}
