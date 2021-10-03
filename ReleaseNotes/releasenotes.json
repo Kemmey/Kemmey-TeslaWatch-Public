@@ -341,10 +341,11 @@
         "version": "1.2",
         "changes": [
             { "build": 861, "change": "Initial 1.2 build - currently identical to released 1.1.9 build." },
-            { "build": 861, "change": "Updated Swedish localizations." },
-            { "build": 861, "change": "Updated Dutch localizations." },
+            { "build": 862, "change": "Updated Swedish localizations." },
+            { "build": 862, "change": "Updated Dutch localizations." },
             { "build": 862, "change": "Clear vehicle data and reload vehicles when vehicle id returns 404 not found. Should fix constantly showing no network connection in this edge case." },
-            { "build": 861, "change": "Updated VIN decoder to better identify Model X refresh models." },
+            { "build": 862, "change": "Updated VIN decoder to better identify Model X refresh models." },
+            { "build": 862, "change": "Added v2 compositor data, splitting out legacy, refresh and refresh performance for finer granularity in generating vehicle images." },
             { "build": 862, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
