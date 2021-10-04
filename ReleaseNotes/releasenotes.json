@@ -338,18 +338,18 @@
         ]
     },
     {
-        "version": "1.2",
+        "version": "1.2.1",
         "changes": [
-            { "build": 861, "change": "Initial 1.2 build - currently identical to released 1.1.9 build." },
-            { "build": 862, "change": "Updated Swedish localizations." },
-            { "build": 862, "change": "Updated Dutch localizations." },
-            { "build": 862, "change": "Clear vehicle data and reload vehicles when vehicle id returns 404 not found. Should fix constantly showing no network connection in this edge case." },
-            { "build": 862, "change": "Updated VIN decoder to better identify Model X refresh models." },
-            { "build": 862, "change": "Added v2 compositor data, splitting out legacy, refresh and refresh performance for finer granularity in generating vehicle images." },
-            { "build": 863, "change": "Sharing data between watch and phone now respects selected vehicle - so you can have different vehicle selected on watch and phone - they no longer automatically sync up." },
-            { "build": 864, "change": "Show no vehicles on account after logging in, if no vehicles are attached to logged in account." },
-            { "build": 864, "change": "Now only using v3 token, as Tesla will soon move to deprecate old v2 tokens entirely. This also affects advanced token login, which now only supports v3 refresh tokens." },
-            { "build": 864, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 865, "change": "*New features*" },
+            { "build": 865, "change": "Now only using v3 token, as Tesla will soon move to deprecate old v2 tokens entirely. This also affects advanced token login, which now only supports v3 refresh tokens." },
+            { "build": 865, "change": "Sharing data between watch and phone now respects selected vehicle - so you can have different vehicle selected on watch and phone - they no longer automatically sync up." },
+            { "build": 865, "change": "*Enhancements*" },
+            { "build": 865, "change": "Updated VIN decoder to better identify Model X refresh models." },
+            { "build": 865, "change": "Show no vehicles on account after logging in, if no vehicles are attached to logged in account." },
+            { "build": 865, "change": "Added v2 compositor data, splitting out legacy, refresh and refresh performance for finer granularity in generating vehicle images." },
+            { "build": 865, "change": "*Bugfixes*" },
+            { "build": 865, "change": "Clear vehicle data and reload vehicles when vehicle id returns 404 not found. Should fix constantly showing no network connection in this edge case." },
+            { "build": 865, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
