@@ -356,8 +356,12 @@
         "version": "1.2.2",
         "changes": [
             { "build": 866, "change": "Initial 1.2.2 build" },
-            { "build": 866, "change": "Added polish localizations." },
-            { "build": 866, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 866, "change": "Added Polish localizations." },
+            { "build": 867, "change": "Updated Swedish localizations." },
+            { "build": 868, "change": "Updated Polish localizations." },
+            { "build": 869, "change": "No longer shows what's new view on watchOS." },
+            { "build": 869, "change": "Now reloads complication descriptors at every clean app launch on watchOS 7 and 8 - could help with buggy large graphic complications." },
+            { "build": 869, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
