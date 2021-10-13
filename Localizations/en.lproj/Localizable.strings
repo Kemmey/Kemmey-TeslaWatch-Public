@@ -370,3 +370,35 @@
 "Remind at these locations" = "Remind at these locations";
 "Override vehicle unit, show estimated range" = "Override vehicle unit, show estimated range";
 "Choose login region" = "Choose login region";
+"R_range" = "R"; // _R_ated //No Machine Translation
+"I_range" = "I"; // _I_deal //No Machine Translation
+"E_range" = "E"; // _E_stimated //No Machine Translation
+"Help and hints" = "Help and hints";
+"If your login does not automatically transfer, please try to restart both your watch and your phone." = "If your login does not automatically transfer, please try to restart both your watch and your phone.";
+"You can tap the vehicle name headline from the main screen to enter the vehicle chooser." = "You can tap the vehicle name headline from the main screen to enter the vehicle chooser.";
+"You can tap the battery on the main screen to switch between a large battery view or a split view showing both percentage and range." = "You can tap the battery on the main screen to switch between a large battery view or a split view showing both percentage and range.";
+"You can change the formula used for calculating charging current from advanced settings." = "You can change the formula used for calculating charging current from advanced settings.";
+"Enable background updates and allow wake in background, but limit wake interval to the hours you yourself are awake. Set the update interval to every hour. This will allow the vehicle to deep sleep when you do. Resulting drain will be approx 1,2% per 24 hours." = "Enable background updates and allow wake in background, but limit wake interval to the hours you yourself are awake. Set the update interval to every hour. This will allow the vehicle to deep sleep when you do. Resulting drain will be approx 1,2% per 24 hours.";
+"Tap either of the temperature views to show the temperature controls." = "Tap either of the temperature views to show the temperature controls.";
+"If your vehicle has a heated steering wheel, you can activate it from the seat heating control." = "If your vehicle has a heated steering wheel, you can activate it from the seat heating control.";
+"Switch battery view" = "Switch battery view";
+"Charger current calculation" = "Charger current calculation";
+"Minimize phantom drain" = "Minimize phantom drain";
+"Set temperature" = "Set temperature";
+"Steering wheel heater" = "Steering wheel heater";
+
+"Cold battery indicator" = "Cold battery indicator";
+"Unlocked features warning" = "Unlocked features warning";
+"Vehicle is charging" = "Vehicle is charging";
+"Sentry mode enabled" = "Sentry mode enabled";
+"Vehicle in deep sleep" = "Vehicle in deep sleep";
+"Vehicle plugged in but not charging" = "Vehicle plugged in but not charging";
+"Rated range" = "Rated range";
+"Ideal range" = "Ideal range";
+"Estimated range" = "Estimated range";
+
+"Climate is active" = "Climate is active";
+"Dog mode active" = "Dog mode active";
+"Camp mode active" = "Camp mode active";
+"Symbols" = "Symbols";
+"Hints" = "Hints";
