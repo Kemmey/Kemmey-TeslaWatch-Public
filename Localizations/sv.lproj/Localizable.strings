@@ -400,3 +400,4 @@
 "R_range" = "R"; // _R_ated //No Machine Translation
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
+"Is Charger Connected" = "Är laddaren ansluten"; //Machine translated

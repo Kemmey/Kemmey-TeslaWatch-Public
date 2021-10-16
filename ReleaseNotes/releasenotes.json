@@ -361,9 +361,10 @@
             { "build": 868, "change": "Updated Polish localizations." },
             { "build": 869, "change": "No longer shows what's new view on watchOS." },
             { "build": 869, "change": "Now reloads complication descriptors at every clean app launch on watchOS 7 and 8 - could help with buggy large graphic complications." },
-            { "build": 870, "change": "Added help and tips in settings." },
-            { "build": 870, "change": "Added Rated, Ideal and Estimated range indicators." },
-            { "build": 870, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 871, "change": "Added help and tips in settings." },
+            { "build": 871, "change": "Added Rated, Ideal and Estimated range indicators." },
+            { "build": 872, "change": "Added Is Charger Connected bool to Get State intent." },
+            { "build": 872, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
