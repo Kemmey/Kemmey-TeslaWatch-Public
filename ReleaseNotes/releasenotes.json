@@ -364,7 +364,11 @@
             { "build": 871, "change": "Added help and tips in settings." },
             { "build": 871, "change": "Added Rated, Ideal and Estimated range indicators." },
             { "build": 872, "change": "Added Is Charger Connected bool to Get State intent." },
-            { "build": 872, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 873, "change": "Show time to full counter on widgets when charging." },
+            { "build": 873, "change": "Graphic rectangular complication now shows time to full counter when charging and properly respects setting to not show updated ago timer." },
+            { "build": 873, "change": "Help view layout fixes." },
+            { "build": 873, "change": "Fixed extra large widget layout." },
+            { "build": 873, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
