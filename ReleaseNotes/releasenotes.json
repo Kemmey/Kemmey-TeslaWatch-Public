@@ -368,7 +368,9 @@
             { "build": 873, "change": "Graphic rectangular complication now shows time to full counter when charging and properly respects setting to not show updated ago timer." },
             { "build": 873, "change": "Help view layout fixes." },
             { "build": 873, "change": "Fixed extra large widget layout." },
-            { "build": 873, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 873, "change": "Adjusted alternate state complication to put vehicle in max focus while keeping relevant info visible." },
+            { "build": 876, "change": "Updated all complication icons to universal svg to accomodate Series 7 watches." },
+            { "build": 876, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
