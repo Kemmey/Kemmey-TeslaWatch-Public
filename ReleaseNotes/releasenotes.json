@@ -370,7 +370,8 @@
             { "build": 873, "change": "Fixed extra large widget layout." },
             { "build": 873, "change": "Adjusted alternate state complication to put vehicle in max focus while keeping relevant info visible." },
             { "build": 876, "change": "Updated all complication icons to universal svg to accomodate Series 7 watches." },
-            { "build": 876, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 877, "change": "Added advanced setting: Travel mode. Completely disable wake vehicle and background updates while Travel mode is enabled. Manually tap the refresh button to grab new data from vehicle one time." },
+            { "build": 877, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

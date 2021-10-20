@@ -403,3 +403,8 @@
 "Symbols" = "Symbols";
 "Hints" = "Hints";
 "Is Charger Connected" = "Is Charger Connected";
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button.";
+"Enable travel mode" = "Enable travel mode";
+"Travel mode: " = "Travel mode: ";
+"Refresh" = "Refresh";
+"Sleeping" = "Sleeping";

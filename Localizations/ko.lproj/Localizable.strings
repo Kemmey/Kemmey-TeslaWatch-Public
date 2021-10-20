@@ -401,3 +401,8 @@
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
 "Is Charger Connected" = "충전기가 연결되어 있습니까"; //Machine translated
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "여행 모드가 활성화되어 있는 동안에는 백그라운드 활동이 발생하지 않습니다. 위젯과 컴플리케이션은 업데이트되지 않습니다. 알림이 전송되지 않습니다. 앱이 열려 있는 동안에도 차량 데이터 새로 고침 버튼을 수동으로 누르지 않는 한 차량은 깨어나지 않습니다."; //Machine translated
+"Enable travel mode" = "여행 모드 활성화"; //Machine translated
+"Travel mode: " = "여행 모드: "; //Machine translated
+"Refresh" = "새로 고치다"; //Machine translated
+"Sleeping" = "자고있는"; //Machine translated

@@ -401,3 +401,8 @@
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
 "Is Charger Connected" = "充电器是否已连接"; //Machine translated
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "当旅行模式处于活动状态时，不会发生后台活动。小工具和并发症不会更新。不会发送提醒。即使应用程序打开，车辆也不会被唤醒，除非您手动点击刷新车辆数据按钮。"; //Machine translated
+"Enable travel mode" = "启用出行模式"; //Machine translated
+"Travel mode: " = "出行方式："; //Machine translated
+"Refresh" = "刷新"; //Machine translated
+"Sleeping" = "睡眠"; //Machine translated

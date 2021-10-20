@@ -401,3 +401,8 @@
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
 "Is Charger Connected" = "¿Está conectado el cargador?"; //Machine translated
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "Mientras el modo de viaje esté activo, no se producirá ninguna actividad en segundo plano. Los widgets y las complicaciones no se actualizarán. No se enviarán recordatorios. Incluso cuando la aplicación está abierta, el vehículo no se activará, a menos que toque manualmente el botón Actualizar datos del vehículo."; //Machine translated
+"Enable travel mode" = "Habilitar el modo de viaje"; //Machine translated
+"Travel mode: " = "Modo de viaje: "; //Machine translated
+"Refresh" = "Actualizar"; //Machine translated
+"Sleeping" = "Dormido"; //Machine translated

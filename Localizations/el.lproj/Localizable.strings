@@ -401,3 +401,8 @@
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
 "Is Charger Connected" = "Είναι συνδεδεμένος ο φορτιστής"; //Machine translated
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "Ενώ η λειτουργία ταξιδιού είναι ενεργή, δεν θα πραγματοποιηθεί καμία δραστηριότητα στο παρασκήνιο. Τα γραφικά στοιχεία και οι επιπλοκές δεν θα ενημερωθούν. Δεν θα σταλούν υπενθυμίσεις. Ακόμα και όταν η εφαρμογή είναι ανοιχτή, το όχημα δεν θα ξυπνήσει, εκτός αν πατήσετε μη αυτόματα το κουμπί ανανέωσης δεδομένων οχήματος."; //Machine translated
+"Enable travel mode" = "Ενεργοποιήστε τη λειτουργία ταξιδιού"; //Machine translated
+"Travel mode: " = "Λειτουργία ταξιδιού: "; //Machine translated
+"Refresh" = "Φρεσκάρω"; //Machine translated
+"Sleeping" = "Κοιμάμαι"; //Machine translated

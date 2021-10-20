@@ -401,3 +401,8 @@
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
 "Is Charger Connected" = "Er oplader tilsluttet"; //Machine translated
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "Mens rejsetilstand er aktiv, sker der ingen baggrundsaktivitet. Widgets og komplikationer opdateres ikke. Påmindelser vil ikke blive sendt. Selv mens appen er åben, vågnes køretøjet ikke, medmindre du manuelt trykker på knappen Opdater køretøjsdata."; //Machine translated
+"Enable travel mode" = "Aktiver rejsetilstand"; //Machine translated
+"Travel mode: " = "Rejsetilstand: "; //Machine translated
+"Refresh" = "Opdater"; //Machine translated
+"Sleeping" = "Sover"; //Machine translated

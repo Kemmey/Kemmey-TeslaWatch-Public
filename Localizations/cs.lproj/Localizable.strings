@@ -401,3 +401,8 @@
 "I_range" = "I"; // _I_deal //No Machine Translation
 "E_range" = "E"; // _E_stimated //No Machine Translation
 "Is Charger Connected" = "Je nabíječka připojena"; //Machine translated
+"While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "Je -li cestovní režim aktivní, nedojde k žádné aktivitě na pozadí. Widgety a komplikace se neaktualizují. Upomínky nebudou zasílány. I když je aplikace otevřená, vozidlo se neprobudí, pokud ručně neklepnete na tlačítko Obnovit data vozidla."; //Machine translated
+"Enable travel mode" = "Povolit cestovní režim"; //Machine translated
+"Travel mode: " = "Cestovní režim: "; //Machine translated
+"Refresh" = "Obnovit"; //Machine translated
+"Sleeping" = "Spící"; //Machine translated
