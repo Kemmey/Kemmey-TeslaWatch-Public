@@ -377,6 +377,11 @@
             { "build": 880, "change": "Added padding around advanced toggle on login screen." },
             { "build": 880, "change": "Rearranged advanced settings." },
             { "build": 884, "change": "Fixed buttons and toggles not working when accessibility setting button shapes enabled." },
+            { "build": 885, "change": "Deprecated force-touch menu on watchOS 6. As a side note, iOS 13 / watchOS 6 support will soon be phased out entirely." },
+            { "build": 880, "change": "Fixed sliders layout issues." },
+            { "build": 880, "change": "Reordered settings screen." },
+            { "build": 880, "change": "Added help text to advanced settings." },
+            { "build": 880, "change": "Updated traditional chinese machine translations." },
             { "build": 884, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
