@@ -407,3 +407,7 @@
 "Refresh" = "לְרַעֲנֵן"; //Machine translated
 "Sleeping" = "יָשֵׁן"; //Machine translated
 "Single vehicle mode" = "מצב רכב יחיד"; //Machine translated
+"Watch faces" = "צפו בפרצופים"; //Machine translated
+"Add Apple Watch Face" = "הוסף את Apple Watch Face"; //Machine translated
+"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "באזור שורת הכותרת תראה מספר שסופר. מספר זה מייצג את משך הזמן שעבר מאז קבלת הנתונים מהרכב שלך. השתמש במספר זה כדי לקבוע אם המצב המיוצג בממשק המשתמש מהימן או עשוי להיות מיושן. אותו מונה גלוי בווידג'טים וסיבוכים."; //Machine translated
+"Data age indicator" = "מדד גיל הנתונים"; //Machine translated

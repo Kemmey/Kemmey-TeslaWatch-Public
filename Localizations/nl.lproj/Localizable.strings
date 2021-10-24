@@ -407,3 +407,7 @@
 "Refresh" = "Vernieuwen"; //Machine translated
 "Sleeping" = "Slapen"; //Machine translated
 "Single vehicle mode" = "Enkele voertuigmodus"; //Machine translated
+"Watch faces" = "Kijk gezichten"; //Machine translated
+"Add Apple Watch Face" = "Apple Watch Face toevoegen"; //Machine translated
+"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "In het titelbalkgebied ziet u een nummer dat optelt. Dit getal geeft de hoeveelheid tijd weer die is verstreken sinds het ophalen van gegevens van uw voertuig. Gebruik dit nummer om te bepalen of de status die wordt weergegeven in de gebruikersinterface betrouwbaar is of mogelijk verouderd is. Deze zelfde teller is zichtbaar op widgets en complicaties."; //Machine translated
+"Data age indicator" = "Gegevens leeftijdsindicator"; //Machine translated

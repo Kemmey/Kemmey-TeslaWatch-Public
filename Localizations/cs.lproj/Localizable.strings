@@ -407,3 +407,7 @@
 "Refresh" = "Obnovit"; //Machine translated
 "Sleeping" = "Spící"; //Machine translated
 "Single vehicle mode" = "Režim jednoho vozidla"; //Machine translated
+"Watch faces" = "Ciferníky"; //Machine translated
+"Add Apple Watch Face" = "Přidejte Apple Watch Face"; //Machine translated
+"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "V oblasti titulků uvidíte odpočítávání čísla. Toto číslo představuje dobu, která uplynula od získání dat z vašeho vozidla. Pomocí tohoto čísla určete, zda je stav reprezentovaný v uživatelském rozhraní důvěryhodný nebo může být zastaralý. Stejné počítadlo je vidět na widgetech a komplikacích."; //Machine translated
+"Data age indicator" = "Ukazatel stáří dat"; //Machine translated

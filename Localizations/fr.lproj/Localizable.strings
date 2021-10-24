@@ -407,3 +407,7 @@
 "Refresh" = "Rafraîchir"; //Machine translated
 "Sleeping" = "En train de dormir"; //Machine translated
 "Single vehicle mode" = "Mode véhicule unique"; //Machine translated
+"Watch faces" = "Regarder les visages"; //Machine translated
+"Add Apple Watch Face" = "Ajouter un cadran Apple Watch"; //Machine translated
+"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "Dans la zone de la barre de titre, vous verrez un nombre décompter. Ce nombre représente le temps écoulé depuis l'obtention des données de votre véhicule. Utilisez ce numéro pour déterminer si l'état représenté dans l'interface utilisateur est digne de confiance ou peut être obsolète. Ce même compteur est visible sur les widgets et complications."; //Machine translated
+"Data age indicator" = "Indicateur d'âge des données"; //Machine translated

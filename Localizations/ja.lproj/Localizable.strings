@@ -407,3 +407,7 @@
 "Refresh" = "更新"; //Machine translated
 "Sleeping" = "睡眠"; //Machine translated
 "Single vehicle mode" = "単一車両モード"; //Machine translated
+"Watch faces" = "時計の文字盤"; //Machine translated
+"Add Apple Watch Face" = "Apple WatchFaceを追加する"; //Machine translated
+"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "タイトルバーエリアに、カウントアップする数字が表示されます。この数値は、車両からデータを取得してから経過した時間を表します。この番号を使用して、ユーザーインターフェイスに表示される状態が信頼できるかどうか、または古くなっている可能性があるかどうかを判断します。これと同じカウンターがウィジェットとコンプリケーションに表示されます。"; //Machine translated
+"Data age indicator" = "データ年齢インジケーター"; //Machine translated
