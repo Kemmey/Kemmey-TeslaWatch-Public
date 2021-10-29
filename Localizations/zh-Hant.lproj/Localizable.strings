@@ -45,7 +45,7 @@
 "Open" = "打開"; //Machine translated
 "close" = "關閉"; //Machine translated
 "open" = "打開"; //Machine translated
-"%@ trunk" = "％@ 樹幹"; //Machine translated
+"%@ trunk" = "%@ 樹幹"; //Machine translated
 "Really %@ trunk?" = "真的 %@ 後備箱？"; //Machine translated
 "%@ charge port" = "%@充電口"; //Machine translated
 "Activate Homelink" = "激活主頁鏈接"; //Machine translated
@@ -54,7 +54,7 @@
 "Really enable keyless drive?" = "Really enable remote start?";
 "Honk!" = "鳴！"; //Machine translated
 "Unlock port" = "解鎖端口"; //Machine translated
-"%@ port" = "％@ 港口"; //Machine translated
+"%@ port" = "%@ 港口"; //Machine translated
 "Homelink" = "主頁鏈接"; //Machine translated
 "Disable Sentry" = "禁用哨兵"; //Machine translated
 "Enable Sentry" = "啟用哨兵"; //Machine translated
@@ -76,7 +76,7 @@
 "Background image" = "背景圖片"; //Machine translated
 "Image url" = "圖片網址"; //Machine translated
 "Add vehicle option codes querystring" = "添加車輛選項代碼查詢字符串"; //Machine translated
-"Example: %@%@" = "例子： ％@％@"; //Machine translated
+"Example: %@%@" = "例子： %@%@"; //Machine translated
 "Vehicle open" = "車輛開"; //Machine translated
 "Frunk" = "弗蘭克"; //Machine translated
 "Trunk" = "樹幹"; //Machine translated
