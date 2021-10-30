@@ -382,7 +382,9 @@
             { "build": 880, "change": "Reordered settings screen." },
             { "build": 880, "change": "Added help text to advanced settings." },
             { "build": 880, "change": "Updated traditional chinese machine translations." },
-            { "build": 884, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 888, "change": "Fix correctly showing \"Depart at\" on vehicles with 2021.36 or newer." },
+            { "build": 889, "change": "Added ability to set charging current by tapping the charging current between the two temperature views." },
+            { "build": 889, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
