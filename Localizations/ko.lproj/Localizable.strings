@@ -418,3 +418,8 @@
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "백그라운드 업데이트를 활성화하면 앱이 위젯 및 컴플리케이션에 대한 최신 정보를 표시할 수 있으며 차량이 연결되어 있지 않거나 차량이 열려 있거나 잠금 해제되어 있을 때 알림을 보낼 수 있습니다. 이러한 기능이 모두 활성화되어 있지 않거나 사용 중이거나 차량의 충전량이 20% 미만인 경우 백그라운드 업데이트가 발생하지 않습니다. 밤에 자동차를 연결하는 경우 이 설정을 기본값으로 두는 것이 좋습니다."; //Machine translated
 "Setting charging current" = "충전 전류 설정"; //Machine translated
 "Set charging current:" = "충전 전류 설정:"; //Machine translated
+"Amperes" = "암페어"; //Machine translated
+"Set Charging Current" = "충전 전류 설정"; //Machine translated
+"Sets the charging current in Ampere" = "암페어 단위로 충전 전류를 설정합니다."; //Machine translated
+"How many Ampere?" = "몇 암페어입니까?"; //Machine translated
+"Set to ${amperes}" = "${amperes}로 설정"; //Machine translated

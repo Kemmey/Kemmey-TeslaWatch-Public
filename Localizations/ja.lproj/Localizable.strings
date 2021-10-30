@@ -418,3 +418,8 @@
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "バックグラウンド更新を有効にすると、アプリはウィジェットと合併症に関する最新情報を表示でき、車両が接続されていないか、開いたまままたはロック解除されたままのときに通知を送信できます。これらの機能のいずれも有効になっていないか、使用中であるか、車両の充電残量が20％未満の場合、バックグラウンド更新は行われません。夜間に車を接続する場合は、これらの設定をデフォルトのままにしておくことを強くお勧めします。"; //Machine translated
 "Setting charging current" = "充電電流の設定"; //Machine translated
 "Set charging current:" = "充電電流を設定します。"; //Machine translated
+"Amperes" = "アンペア"; //Machine translated
+"Set Charging Current" = "充電電流を設定する"; //Machine translated
+"Sets the charging current in Ampere" = "充電電流をアンペアで設定します"; //Machine translated
+"How many Ampere?" = "アンペアはいくつですか？"; //Machine translated
+"Set to ${amperes}" = "${amperes}に設定"; //Machine translated

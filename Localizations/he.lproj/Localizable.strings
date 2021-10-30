@@ -418,3 +418,8 @@
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "הפעלת עדכוני רקע מאפשרת לאפליקציה להציג מידע עדכני על ווידג'טים וסיבוכים ומאפשרת לשלוח התראות כאשר הרכב אינו מחובר לחשמל או נשאר פתוח או נעול. אם אף אחת מהתכונות האלה לא מופעלת או נמצאת בשימוש או שנותר לרכב פחות מ -20% תשלום, עדכוני רקע לעולם לא יקרו. מומלץ מאוד להשאיר הגדרות אלה בברירות המחדל אם תחבר את המכונית בלילה."; //Machine translated
 "Setting charging current" = "הגדרת זרם טעינה"; //Machine translated
 "Set charging current:" = "הגדר את זרם הטעינה:"; //Machine translated
+"Amperes" = "אמפר"; //Machine translated
+"Set Charging Current" = "הגדר זרם טעינה"; //Machine translated
+"Sets the charging current in Ampere" = "מגדיר את זרם הטעינה באמפר"; //Machine translated
+"How many Ampere?" = "כמה אמפר?"; //Machine translated
+"Set to ${amperes}" = "הגדר ל-${amperes}"; //Machine translated

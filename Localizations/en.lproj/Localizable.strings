@@ -420,3 +420,8 @@
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night.";
 "Setting charging current" = "Setting charging current";
 "Set charging current:" = "Set charging current:";
+"Amperes" = "Amperes";
+"Set Charging Current" = "Set Charging Current";
+"Sets the charging current in Ampere" = "Sets the charging current in Ampere";
+"How many Ampere?" = "How many Ampere?";
+"Set to ${amperes}" = "Set to ${amperes}";

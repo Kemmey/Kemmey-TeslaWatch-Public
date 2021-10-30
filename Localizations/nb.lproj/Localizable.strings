@@ -418,3 +418,8 @@
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "Ved å aktivere bakgrunnsoppdateringer kan appen vise oppdatert informasjon om widgets og komplikasjoner, og du kan sende varsler når kjøretøyet ikke er koblet til eller er åpent eller ulåst. Hvis ingen av disse funksjonene er aktivert eller i bruk eller bilen har mindre enn 20% ladning igjen, vil bakgrunnsoppdateringer aldri skje. Det anbefales på det sterkeste å la disse innstillingene stå som standard hvis du plugger inn bilen om natten."; //Machine translated
 "Setting charging current" = "Stille inn ladestrøm"; //Machine translated
 "Set charging current:" = "Still inn ladestrøm:"; //Machine translated
+"Amperes" = "ampere"; //Machine translated
+"Set Charging Current" = "Still inn ladestrøm"; //Machine translated
+"Sets the charging current in Ampere" = "Stiller inn ladestrømmen i Ampere"; //Machine translated
+"How many Ampere?" = "Hvor mange ampere?"; //Machine translated
+"Set to ${amperes}" = "Sett til ${amperes}"; //Machine translated

@@ -418,3 +418,8 @@
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "L'attivazione degli aggiornamenti in background consente all'app di mostrare informazioni aggiornate su widget e complicazioni e consente l'invio di notifiche quando il veicolo non è collegato o viene lasciato aperto o sbloccato. Se nessuna di queste funzionalità è abilitata o in uso o se il veicolo ha meno del 20% di carica residua, gli aggiornamenti in background non verranno mai eseguiti. Si consiglia vivamente di lasciare queste impostazioni ai valori predefiniti se si collega l'auto di notte."; //Machine translated
 "Setting charging current" = "Impostazione della corrente di carica"; //Machine translated
 "Set charging current:" = "Imposta la corrente di carica:"; //Machine translated
+"Amperes" = "Ampere"; //Machine translated
+"Set Charging Current" = "Imposta corrente di carica"; //Machine translated
+"Sets the charging current in Ampere" = "Imposta la corrente di carica in Ampere"; //Machine translated
+"How many Ampere?" = "Quanti Ampere?"; //Machine translated
+"Set to ${amperes}" = "Imposta su ${amperes}"; //Machine translated
