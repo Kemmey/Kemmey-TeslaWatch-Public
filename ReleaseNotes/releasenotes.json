@@ -385,7 +385,8 @@
             { "build": 888, "change": "Fix correctly showing \"Depart at\" on vehicles with 2021.36 or newer." },
             { "build": 889, "change": "Added ability to set charging current by tapping the charging current between the two temperature views." },
             { "build": 890, "change": "Added Set Charging Current Siri intent." },
-            { "build": 890, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 891, "change": "Mac Catalyst display name fixed." },
+            { "build": 891, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
