@@ -437,10 +437,11 @@
 "Trim" = "Trim";
 "Just to confirm, you wanted ‘${vehicle}’?" = "Just to confirm, you wanted ‘${vehicle}’?";
 "Get Active Vehicle" = "Get Active Vehicle";
-"Vin" = "Vin"; //No Machine Translation
+"Vin" = "Vin";
 "Model" = "Model";
 "Vehicles" = "Vehicles";
 "Get Active Vehicle" = "Get Active Vehicle";
 "There are ${count} options matching ‘${vehicle}’." = "There are ${count} options matching ‘${vehicle}’.";
 "Returns the active vehicle in the app" = "Returns the active vehicle in the app";
 "Returns all vehicles on account" = "Returns all vehicles on account";
+"Vehicle Id" = "Vehicle Id";

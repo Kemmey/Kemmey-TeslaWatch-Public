@@ -439,3 +439,4 @@
 "Vehicles" = "車両"; //Machine translated
 "There are ${count} options matching ‘${vehicle}’." = "「${vehicle}」に一致する${count}オプションがあります。"; //Machine translated
 "Returns the active vehicle in the app" = "アプリでアクティブな車両を返します"; //Machine translated
+"Vehicle Id" = "車両ID"; //Machine translated

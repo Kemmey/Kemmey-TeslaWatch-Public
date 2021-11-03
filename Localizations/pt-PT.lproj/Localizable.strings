@@ -439,3 +439,4 @@
 "Vehicles" = "Veículos"; //Machine translated
 "There are ${count} options matching ‘${vehicle}’." = "Existem ${count} opções que correspondem a ‘${vehicle}’."; //Machine translated
 "Returns the active vehicle in the app" = "Retorna o veículo ativo no aplicativo"; //Machine translated
+"Vehicle Id" = "Id do veículo"; //Machine translated

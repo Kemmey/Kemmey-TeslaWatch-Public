@@ -439,3 +439,4 @@
 "Vehicles" = "Kjøretøy"; //Machine translated
 "There are ${count} options matching ‘${vehicle}’." = "Det er ${count} alternativer som samsvarer med «${vehicle}»."; //Machine translated
 "Returns the active vehicle in the app" = "Returnerer det aktive kjøretøyet i appen"; //Machine translated
+"Vehicle Id" = "Kjøretøy-ID"; //Machine translated

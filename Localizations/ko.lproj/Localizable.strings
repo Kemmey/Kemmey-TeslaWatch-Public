@@ -439,3 +439,4 @@
 "Vehicles" = "차량"; //Machine translated
 "There are ${count} options matching ‘${vehicle}’." = "'${vehicle}'과(와) 일치하는 ${count} 옵션이 있습니다."; //Machine translated
 "Returns the active vehicle in the app" = "앱에서 활성 차량을 반환합니다."; //Machine translated
+"Vehicle Id" = "차량 ID"; //Machine translated
