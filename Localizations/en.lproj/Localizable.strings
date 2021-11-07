@@ -445,3 +445,7 @@
 "Returns the active vehicle in the app" = "Returns the active vehicle in the app";
 "Returns all vehicles on account" = "Returns all vehicles on account";
 "Vehicle Id" = "Vehicle Id";
+"Use ${vehicle.name}?" = "Use ${vehicle.name}?";
+"Please select a vehicle" = "Please select a vehicle";
+"Just to confirm, you wanted ${vehicle.name}?" = "Just to confirm, you wanted ${vehicle.name}?";
+"Please select a vehicle" = "Please select a vehicle";

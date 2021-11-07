@@ -440,3 +440,6 @@
 "There are ${count} options matching ‘${vehicle}’." = "Det finns ${count} alternativ som matchar ${vehicle}."; //Machine translated
 "Returns the active vehicle in the app" = "Returnerar det aktiva fordonet i appen"; //Machine translated
 "Vehicle Id" = "Fordons-ID"; //Machine translated
+"Use ${vehicle.name}?" = "Använd ${vehicle.name}?"; //Machine translated
+"Please select a vehicle" = "Välj ett fordon"; //Machine translated
+"Just to confirm, you wanted ${vehicle.name}?" = "Bara för att bekräfta, ville du ha ${vehicle.name}?"; //Machine translated

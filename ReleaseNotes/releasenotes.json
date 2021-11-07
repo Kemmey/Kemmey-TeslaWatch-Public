@@ -390,7 +390,8 @@
             { "build": 900, "change": "Do not show open features warning symbol, when vehicle parked in zone marked as excluded from open features notifications." },
             { "build": 900, "change": "Use cached vehicles data to get vehicle name." },
             { "build": 900, "change": "Fixed regression where settings would not save due to Userdefaults size overflow." },
-            { "build": 900, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 905, "change": "Experimental Siri multi vehicle support." },
+            { "build": 905, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

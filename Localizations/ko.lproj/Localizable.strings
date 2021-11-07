@@ -440,3 +440,6 @@
 "There are ${count} options matching ‘${vehicle}’." = "'${vehicle}'과(와) 일치하는 ${count} 옵션이 있습니다."; //Machine translated
 "Returns the active vehicle in the app" = "앱에서 활성 차량을 반환합니다."; //Machine translated
 "Vehicle Id" = "차량 ID"; //Machine translated
+"Use ${vehicle.name}?" = "${vehicle.name}을(를) 사용하시겠습니까?"; //Machine translated
+"Please select a vehicle" = "차량을 선택해주세요"; //Machine translated
+"Just to confirm, you wanted ${vehicle.name}?" = "확인을 위해 ${vehicle.name}을(를) 원하셨습니까?"; //Machine translated

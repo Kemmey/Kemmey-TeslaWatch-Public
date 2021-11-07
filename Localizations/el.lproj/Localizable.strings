@@ -440,3 +440,6 @@
 "There are ${count} options matching ‘${vehicle}’." = "Υπάρχουν ${count} επιλογές που ταιριάζουν με το ${vehicle}."; //Machine translated
 "Returns the active vehicle in the app" = "Επιστρέφει το ενεργό όχημα στην εφαρμογή"; //Machine translated
 "Vehicle Id" = "Αναγνωριστικό οχήματος"; //Machine translated
+"Use ${vehicle.name}?" = "Χρησιμοποιήστε το ${vehicle.name};"; //Machine translated
+"Please select a vehicle" = "Επιλέξτε ένα όχημα"; //Machine translated
+"Just to confirm, you wanted ${vehicle.name}?" = "Απλώς για επιβεβαίωση, θέλατε ${vehicle.name};"; //Machine translated

@@ -440,3 +440,6 @@
 "There are ${count} options matching ‘${vehicle}’." = "Есть ${count} вариантов, соответствующих ${vehicle}."; //Machine translated
 "Returns the active vehicle in the app" = "Возвращает активный автомобиль в приложении"; //Machine translated
 "Vehicle Id" = "Идентификатор автомобиля"; //Machine translated
+"Use ${vehicle.name}?" = "Использовать ${vehicle.name}?"; //Machine translated
+"Please select a vehicle" = "Пожалуйста, выберите автомобиль"; //Machine translated
+"Just to confirm, you wanted ${vehicle.name}?" = "Для подтверждения, вам нужен ${vehicle.name}?"; //Machine translated

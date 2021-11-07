@@ -440,3 +440,6 @@
 "There are ${count} options matching ‘${vehicle}’." = "「${vehicle}」に一致する${count}オプションがあります。"; //Machine translated
 "Returns the active vehicle in the app" = "アプリでアクティブな車両を返します"; //Machine translated
 "Vehicle Id" = "車両ID"; //Machine translated
+"Use ${vehicle.name}?" = "${vehicle.name}を使用しますか？"; //Machine translated
+"Please select a vehicle" = "車両を選択してください"; //Machine translated
+"Just to confirm, you wanted ${vehicle.name}?" = "確認のために、${vehicle.name}が必要ですか？"; //Machine translated

@@ -423,3 +423,6 @@
 "There are ${count} options matching ‘${vehicle}’." = "有 ${count} 個選項與“${vehicle}”匹配。"; //Machine translated
 "Returns the active vehicle in the app" = "返回應用程序中的活動車輛"; //Machine translated
 "Vehicle Id" = "車輛編號"; //Machine translated
+"Use ${vehicle.name}?" = "使用 ${vehicle.name}？"; //Machine translated
+"Please select a vehicle" = "請選擇車輛"; //Machine translated
+"Just to confirm, you wanted ${vehicle.name}?" = "只是為了確認，您想要 ${vehicle.name}？"; //Machine translated
