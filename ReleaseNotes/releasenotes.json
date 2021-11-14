@@ -392,7 +392,8 @@
             { "build": 900, "change": "Fixed regression where settings would not save due to Userdefaults size overflow." },
             { "build": 905, "change": "Experimental Siri multi vehicle support." },
             { "build": 907, "change": "Improved Siri multi vehicle support - now for built-in Apple intents and custom lock/unlock intents." },
-            { "build": 907, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 912, "change": "Notice: This release will be the last release supporting iOS 13 and watchOS 6.2." },
+            { "build": 912, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
