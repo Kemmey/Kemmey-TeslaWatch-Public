@@ -496,3 +496,4 @@
 "Just to confirm, you wanted ‘Off’?" = "확인을 위해 '끄기'를 원하셨나요?"; //Machine translated
 "Rear left" = "후방 좌측"; //Machine translated
 "Front right" = "앞 오른쪽"; //Machine translated
+"Climate not active. Unable to set seat heater level." = "기후가 활성화되지 않았습니다. 시트 히터 레벨을 설정할 수 없습니다."; //Machine translated
