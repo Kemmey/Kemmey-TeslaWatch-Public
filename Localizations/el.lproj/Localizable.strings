@@ -497,3 +497,5 @@
 "Rear left" = "Πίσω αριστερά"; //Machine translated
 "Front right" = "Μπροστά δεξιά"; //Machine translated
 "Climate not active. Unable to set seat heater level." = "Το κλίμα δεν είναι ενεργό. Δεν είναι δυνατή η ρύθμιση της στάθμης του θερμαντήρα καθισμάτων."; //Machine translated
+"Siri actions unreliable" = "Οι ενέργειες του Siri είναι αναξιόπιστες"; //Machine translated
+"If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "Αν ξέρετε ότι θα χρειαστείτε το Siri για να ανοίξει το πορτμπαγκάζ σας, προσπαθήστε να ανοίξετε την εφαρμογή ρολογιού όσο έχετε ακόμα ελεύθερα τα χέρια σας και, στη συνέχεια, πάρτε τα πράγματά σας και φύγετε για το όχημά σας. Μέχρι να φτάσετε εκεί, η εφαρμογή θα πρέπει να έχει ξυπνήσει το αυτοκίνητό σας και οι ενέργειές σας στο Siri θα πρέπει να εκτελούνται πιο ομαλά."; //Machine translated

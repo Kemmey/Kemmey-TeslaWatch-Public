@@ -395,7 +395,8 @@
             { "build": 914, "change": "Notice: This release will be the last release supporting iOS 13 and watchOS 6.2." },
             { "build": 914, "change": "Added set seat heater Siri Intent." },
             { "build": 919, "change": "Added new vehicle chooser to all Siri Actions. If you only have one vehicle on your account, this should not make any impact. For owners with multiple vehicles, this should ensure Siri actions target the vehicle of your choice." },
-            { "build": 919, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 921, "change": "Store VehicleVin along with VehicleId - can use VIN to fallback if vehicleId ever changes (which it does in rare instances)." },
+            { "build": 921, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
