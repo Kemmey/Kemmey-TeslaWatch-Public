@@ -497,3 +497,5 @@
 "Rear left" = "Задний левый"; //Machine translated
 "Front right" = "Передний правый"; //Machine translated
 "Climate not active. Unable to set seat heater level." = "Климат неактивный. Невозможно установить уровень обогрева сиденья."; //Machine translated
+"Siri actions unreliable" = "Действия Siri ненадежны"; //Machine translated
+"If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "Если вы знаете, что вам понадобится Siri, чтобы открыть багажник, попробуйте открыть приложение для часов, пока у вас все еще свободны руки, затем возьмите свои вещи и отправляйтесь в свой автомобиль. К тому времени, как вы доберетесь туда, приложение должно разбудить вашу машину, и ваши действия Siri должны работать более плавно."; //Machine translated

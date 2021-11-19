@@ -497,3 +497,5 @@
 "Rear left" = "Bak venstre"; //Machine translated
 "Front right" = "Foran, til høyre"; //Machine translated
 "Climate not active. Unable to set seat heater level." = "Klima ikke aktivt. Kan ikke stille inn setevarmernivået."; //Machine translated
+"Siri actions unreliable" = "Siri-handlinger upålitelige"; //Machine translated
+"If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "Hvis du vet at du kommer til å trenge Siri for å åpne bagasjerommet, prøv å åpne klokkeappen mens du fortsatt har hendene fri, og ta deretter tingene dine og dra til kjøretøyet ditt. Innen du kommer dit, skal appen ha vekket bilen din, og Siri-handlingene dine skal gå jevnere."; //Machine translated
