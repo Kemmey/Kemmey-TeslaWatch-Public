@@ -331,7 +331,7 @@
 "Turns off the steering wheel heater" = "關閉方向盤加熱器"; //Machine translated
 "Closes the sunroof" = "關閉天窗"; //Machine translated
 "Set Temperature" = "設定溫度"; //Machine translated
-"Set to ${temperature}" = "設置為 ${溫度}"; //Machine translated
+"Set to ${temperature}" = "設置為 ${temperature}"; //Machine translated
 "Temperature" = "溫度"; //Machine translated
 "Sets climate control temperature" = "設置氣候控制溫度"; //Machine translated
 "Show data timer on compatible complications" = "在兼容的並發症上顯示數據計時器"; //Machine translated

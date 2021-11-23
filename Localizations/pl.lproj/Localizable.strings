@@ -348,7 +348,7 @@
 "Closes the sunroof" = "Zamyka szyberdach"; //Machine translated
 
 "Set Temperature" = "Ustaw temperaturę"; //Machine translated
-"Set to ${temperature}" = "Ustaw na ${temperaturę}"; //Machine translated
+"Set to ${temperature}" = "Ustaw na ${temperature}"; //Machine translated
 "Temperature" = "Temperatura"; //Machine translated
 "Sets climate control temperature" = "Ustawia temperaturę klimatyzacji"; //Machine translated
 "Show data timer on compatible complications" = "Pokaż licznik danych na kompatybilnych komplikacjach"; //Machine translated

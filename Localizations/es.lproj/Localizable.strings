@@ -293,7 +293,7 @@
 "Send Navigation Destination" = "Enviar destino de navegación"; //Machine translated
 "Destination" = "Destino"; //Machine translated
 "Where do you want to go?" = "¿A donde quieres ir?"; //Machine translated
-"Set navigation destination to ${destination}" = "Establecer el destino de navegación en ${destino}"; //Machine translated
+"Set navigation destination to ${destination}" = "Establecer el destino de navegación en ${destination}"; //Machine translated
 
 "Vent sunroof" = "Ventilar sunroof";
 "Close sunroof" = "Cerrar sunroof";

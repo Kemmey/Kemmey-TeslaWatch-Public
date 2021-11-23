@@ -483,7 +483,7 @@
 "There are ${count} options matching ‘Level 1’." = "Есть ${count} вариантов, соответствующих 'Уровню 1'."; //Machine translated
 "There are ${count} options matching ‘Level 3’." = "Есть ${count} вариантов, соответствующих уровню 3."; //Machine translated
 "There are ${count} options matching ‘Level 2’." = "Есть ${count} вариантов, соответствующих 'Уровню 2'."; //Machine translated
-"There are ${count} options matching ‘Off’." = "Есть $ {count} вариантов, соответствующих 'Off'."; //Machine translated
+"There are ${count} options matching ‘Off’." = "Есть ${count} вариантов, соответствующих 'Off'."; //Machine translated
 "Seat" = "Сиденье"; //Machine translated
 "There are ${count} options matching ‘Rear left’." = "Есть ${count} вариантов, соответствующих запросу 'Сзади слева'."; //Machine translated
 "There are ${count} options matching ‘Front right’." = "Есть ${count} вариантов, соответствующих 'Спереди справа'."; //Machine translated

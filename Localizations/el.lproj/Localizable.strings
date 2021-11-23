@@ -283,7 +283,7 @@
 "Range Rated KM" = "Εύρος βαθμολογίας KM"; //Machine translated
 "Charge to ${limit}%" = "Χρέωση σε ${limit}%"; //Machine translated
 "Charge Limit" = "Όριο χρέωσης"; //Machine translated
-"${displayName} can’t be higher than ${maximumValue}." = "Το ${displayName} δεν μπορεί να είναι υψηλότερο από ${maxValue}."; //Machine translated
+"${displayName} can’t be higher than ${maximumValue}." = "Το ${displayName} δεν μπορεί να είναι υψηλότερο από ${maximumValue}."; //Machine translated
 "${displayName} can’t be negative." = "Το ${displayName} δεν μπορεί να είναι αρνητικό."; //Machine translated
 "Is Charging" = "Φορτίζει"; //Machine translated
 "Inside Temp C" = "Μέσα Temp C"; //Machine translated
