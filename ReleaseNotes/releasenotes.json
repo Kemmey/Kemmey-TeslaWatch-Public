@@ -396,7 +396,9 @@
         "changes": [
             { "build": 934, "change": "Initial 1.2.3 build" },
             { "build": 934, "change": "Allow setting amperage while charging." },
-            { "build": 934, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 936, "change": "Minimum deployment targets updated to iOS 14.2, watchOS 7.2 and macOS 11.3." },
+            { "build": 937, "change": "Preview support for getting background data from TeslaScope. Add your TeslaScope API key from Settings, Advanced, Background Updates." },
+            { "build": 937, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
