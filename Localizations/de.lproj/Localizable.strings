@@ -499,3 +499,6 @@
 "Climate not active. Unable to set seat heater level." = "Klima nicht aktiv. Sitzheizungsstufe kann nicht eingestellt werden."; //Machine translated
 "Siri actions unreliable" = "Siri-Aktionen unzuverlässig"; //Machine translated
 "If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "Wenn Sie wissen, dass Sie Siri brauchen werden, um Ihren Kofferraum zu öffnen, versuchen Sie, die Watch-App zu öffnen, während Sie noch Ihre Hände frei haben, schnappen Sie sich dann Ihre Sachen und gehen Sie zu Ihrem Fahrzeug. Wenn Sie dort ankommen, sollte die App Ihr Auto aufgeweckt haben und Ihre Siri-Aktionen sollten reibungsloser ablaufen."; //Machine translated
+"You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "Sie können optional unten Ihren TeslaScope-API-Schlüssel eingeben. Wenn vorhanden, verwenden Hintergrundaktualisierungen Daten von TeslaScope, anstatt Ihr Fahrzeug zu wecken."; //Machine translated
+"Verify" = "Verifizieren"; //Machine translated
+"Succeeded" = "Erfolgreich"; //Machine translated

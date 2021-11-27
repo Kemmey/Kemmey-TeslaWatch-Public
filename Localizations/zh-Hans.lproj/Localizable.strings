@@ -499,3 +499,6 @@
 "Climate not active. Unable to set seat heater level." = "气候不活跃。无法设置座椅加热器水平。"; //Machine translated
 "Siri actions unreliable" = "Siri 动作不可靠"; //Machine translated
 "If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "如果您知道需要 Siri 来打开后备箱，请尝试在双手还没有空闲的情况下打开手表应用程序，然后拿起您的东西准备上车。当您到达那里时，应用程序应该已经唤醒了您的汽车，并且您的 Siri 操作应该运行得更加顺畅。"; //Machine translated
+"You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "您可以选择在下方输入您的 TeslaScope API 密钥。如果存在，后台更新将使用来自 TeslaScope 的数据，而不是唤醒您的车辆。"; //Machine translated
+"Verify" = "核实"; //Machine translated
+"Succeeded" = "成功"; //Machine translated

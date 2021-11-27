@@ -499,3 +499,6 @@
 "Climate not active. Unable to set seat heater level." = "기후가 활성화되지 않았습니다. 시트 히터 레벨을 설정할 수 없습니다."; //Machine translated
 "Siri actions unreliable" = "신뢰할 수 없는 Siri 작업"; //Machine translated
 "If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "트렁크를 여는 데 Siri가 필요하다는 것을 알고 있다면 핸즈프리 상태에서 시계 앱을 열고 물건을 들고 차량으로 출발하십시오. 당신이 거기에 도착할 때쯤이면 앱이 당신의 차를 깨웠을 것이고 당신의 Siri 동작은 더 부드럽게 실행될 것입니다."; //Machine translated
+"You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "선택적으로 아래 TeslaScope API 키를 입력할 수 있습니다. 존재하는 경우 백그라운드 업데이트는 차량을 깨우는 대신 TeslaScope의 데이터를 사용합니다."; //Machine translated
+"Verify" = "검증"; //Machine translated
+"Succeeded" = "성공"; //Machine translated
