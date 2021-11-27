@@ -502,3 +502,7 @@
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "Du kan eventuelt indtaste din TeslaScope API-nøgle nedenfor. Når de er til stede, vil baggrundsopdateringer bruge data fra TeslaScope i stedet for at vække dit køretøj."; //Machine translated
 "Verify" = "Verificere"; //Machine translated
 "Succeeded" = "Det lykkedes"; //Machine translated
+"Use TeslaScope for background updates" = "Brug TeslaScope til baggrundsopdateringer"; //Machine translated
+"Show logs" = "Vis logfiler"; //Machine translated
+"Hide logs" = "Skjul logfiler"; //Machine translated
+"Logs" = "Logs"; //No Machine Translation

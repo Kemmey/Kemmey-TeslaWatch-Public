@@ -502,3 +502,7 @@
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "선택적으로 아래 TeslaScope API 키를 입력할 수 있습니다. 존재하는 경우 백그라운드 업데이트는 차량을 깨우는 대신 TeslaScope의 데이터를 사용합니다."; //Machine translated
 "Verify" = "검증"; //Machine translated
 "Succeeded" = "성공"; //Machine translated
+"Use TeslaScope for background updates" = "백그라운드 업데이트에 TeslaScope 사용"; //Machine translated
+"Show logs" = "로그 표시"; //Machine translated
+"Hide logs" = "로그 숨기기"; //Machine translated
+"Logs" = "로그"; //Machine translated

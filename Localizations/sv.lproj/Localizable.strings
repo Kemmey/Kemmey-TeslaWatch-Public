@@ -502,3 +502,7 @@
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "Du kan valfritt ange din TeslaScope API-nyckel nedan. När de finns kommer bakgrundsuppdateringar att använda data från TeslaScope istället för att väcka ditt fordon."; //Machine translated
 "Verify" = "Kontrollera"; //Machine translated
 "Succeeded" = "Lyckades"; //Machine translated
+"Use TeslaScope for background updates" = "Använd TeslaScope för bakgrundsuppdateringar"; //Machine translated
+"Show logs" = "Visa loggar"; //Machine translated
+"Hide logs" = "Göm loggar"; //Machine translated
+"Logs" = "Loggar"; //Machine translated

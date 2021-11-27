@@ -502,3 +502,7 @@
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "您可以选择在下方输入您的 TeslaScope API 密钥。如果存在，后台更新将使用来自 TeslaScope 的数据，而不是唤醒您的车辆。"; //Machine translated
 "Verify" = "核实"; //Machine translated
 "Succeeded" = "成功"; //Machine translated
+"Use TeslaScope for background updates" = "使用 TeslaScope 进行后台更新"; //Machine translated
+"Show logs" = "显示日志"; //Machine translated
+"Hide logs" = "隐藏日志"; //Machine translated
+"Logs" = "日志"; //Machine translated

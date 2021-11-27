@@ -532,3 +532,7 @@
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle.";
 "Verify" = "Verify";
 "Succeeded" = "Succeeded";
+"Use TeslaScope for background updates" = "Use TeslaScope for background updates";
+"Show logs" = "Show logs";
+"Hide logs" = "Hide logs";
+"Logs" = "Logs";
