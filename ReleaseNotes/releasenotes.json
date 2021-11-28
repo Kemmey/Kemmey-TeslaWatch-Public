@@ -399,10 +399,11 @@
             { "build": 936, "change": "Minimum deployment targets updated to iOS 14.2, watchOS 7.2 and macOS 11.3." },
             { "build": 938, "change": "Preview support for getting background data from TeslaScope. Add your TeslaScope API key from Settings, Advanced, Background Updates." },
             { "build": 941, "change": "Optimized controls ordering layout on iOS" },
-            { "build": 946, "change": "Updated HUD layout" },
-            { "build": 946, "change": "LazyVStack to improve scrolling performance" },
-            { "build": 946, "change": "Layout of what's new screen" },
-            { "build": 946, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 949, "change": "Updated HUD layout" },
+            { "build": 949, "change": "LazyVStack to improve scrolling performance" },
+            { "build": 949, "change": "Layout of what's new screen" },
+            { "build": 950, "change": "Added iCloud KVS for iOS / iPadOS / macOS " },
+            { "build": 950, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
