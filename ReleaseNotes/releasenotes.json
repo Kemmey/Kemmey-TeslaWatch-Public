@@ -402,8 +402,9 @@
             { "build": 949, "change": "Updated HUD layout" },
             { "build": 949, "change": "LazyVStack to improve scrolling performance" },
             { "build": 949, "change": "Layout of what's new screen" },
-            { "build": 950, "change": "Added iCloud KVS for iOS / iPadOS / macOS " },
-            { "build": 950, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 950, "change": "Added iCloud KVS for iOS / iPadOS / macOS" },
+            { "build": 954, "change": "Work-in-progress UI refresh" },
+            { "build": 954, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
