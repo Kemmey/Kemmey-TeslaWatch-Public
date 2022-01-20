@@ -264,7 +264,7 @@
 "${displayName} can’t be lower than ${minimumValue}." = "${displayName} kan niet lager zijn dan ${minimumValue}.";
 "State Of Charge" = "Status van de lading";
 "Vehicle Image Url" = "Auto afbeeldings URL";
-"Inside Temp F" = "Interieur Temp F"; //does this need translation to Celsius (C)?
+"Inside Temp F" = "Interieur Temp F"; //does this need translation to Celsius (C)? - no C variant is below in line 290 :-D
 "true" = "waar";
 "Vehicle State" = "Status Auto";
 "Range Estimated M" = "Geschatte afstand M";
@@ -288,7 +288,7 @@
 "${displayName} can’t be negative." = "${displayName} kan niet negatief zijn.";
 "Is Charging" = "Is aan het opladen";
 "Inside Temp C" = "Interieur temp C";
-"Range Rated M" = "Bereik waardering M"; //does this need translation to KiloMeters (KM)?
+"Range Rated M" = "Bereik waardering M"; //does this need translation to KiloMeters (KM)? - no KM variant is in line 284 ;-D
 "Signal Homelink" = "Signaleer Homelink";
 "Sharing to vehicle" = "Delen naar auto";
 "Send Navigation Destination" = "Deel navigatiebestemming";
@@ -399,7 +399,7 @@
 "Hints" = "Tips:";
 "R_range" = "N"; // _R_ated / Nominaal
 "I_range" = "I"; // _I_deal / Ideaal
-"E_range" = "G; // _E_stimated / Geschat
+"E_range" = "G"; // _E_stimated / Geschat
 "Is Charger Connected" = "Is lader aangesloten";
 "While travel mode is active, no background activity will happen. Widgets and complications will not update. Reminders will not be sent. Even while the app is open, the vehicle will not be woken up, unless you manually tap the refresh vehicle data button." = "Zolang de reismode actief is, vindt er geen achtergrond activiteit plaats. Widgets en complicaties worden niet bijgewerkt. Herinneringen worden niet verzonden. Zelfs als de app is geopend, wordt het voertuig niet gewekt, tenzij u handmatig op de knop voertuiggegevens vernieuwen tikt.";
 "Enable travel mode" = "Reismode inschakelen";
@@ -435,7 +435,7 @@
 "Just to confirm, you wanted ‘${vehicle}’?" = "Ter bevestiging: u wilde '${vehicle}'?";
 "Get Active Vehicle" = "Overzicht actieve voertuig";
 "Vin" = "VIN";
-"Model" = "Model";
+"Model" = "Model"; //No Machine Translation
 "Vehicles" = "Voertuigen";
 "There are ${count} options matching ‘${vehicle}’." = "Er zijn ${count} opties die overeenkomen met '${vehicle}'.";
 "Returns the active vehicle in the app" = "Retourneert het actieve voertuig in de app";
@@ -470,7 +470,7 @@
 "Rear right" = "Rechts achter";
 "Set ${seat} to ${heaterLevel}" = "Stel ${seat} in op ${heaterLevel}";
 "Rear middle" = "Midden achter";
-"Level 2" = "Level 2";
+"Level 2" = "Level 2"; //No Machine Translation
 "Off" = "Uit";
 "Sets the specified seat heater to the specified level" = "Stelt de gespecificeerde stoelverwarming in op het gespecificeerde niveau";
 "Just to confirm, you wanted ‘Rear left’?" = "Even ter bevestiging: je wilde 'Linksachter'?";
