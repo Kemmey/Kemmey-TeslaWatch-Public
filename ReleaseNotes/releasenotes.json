@@ -405,7 +405,9 @@
             { "build": 950, "change": "Added iCloud KVS for iOS / iPadOS / macOS" },
             { "build": 954, "change": "Work-in-progress UI refresh" },
             { "build": 955, "change": "Only send remote start and chargeport unlock after successful vehicle unlock" },
-            { "build": 955, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 959, "change": "Completely rewrote network stack to no longer rely on ANY open source dependencies. Please check ALL aspects of the app and report ANY issues. This was a huge rewrite, so errors might have been introduced!" },
+            { "build": 959, "change": "Updated all Siri intents localization keys - XCode found it amusing to use duplicate keys for most intents, so translations did not work in practice! Thanks Apple! - Please verify Siri actions are now properly localized." },
+            { "build": 959, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
