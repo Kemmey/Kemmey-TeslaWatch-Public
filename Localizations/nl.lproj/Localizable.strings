@@ -60,7 +60,7 @@
 "Disable Sentry" = "Sentry Uit"; // this needs to be really short to fit in buttonbar
 "Enable Sentry" = "Sentry Aan"; // this needs to be really short to fit in buttonbar
 "Vent" = "Ventileren";
-"%@ windows" = "Ramen ventileren";
+"%@ windows" = "Ramen %@";
 "Location of %@" = "Locatie van %@";
 "Location" = "Locatie";
 "Flash!" = "Lichten knipperen!";
@@ -461,7 +461,7 @@
 "Set Rear right to Level 1" = "Zet Rechtsachter op Niveau 1";
 "Set Rear right to Level 3" = "Zet Rechtsachter op Niveau 3";
 "Set Rear right to Level 2" = "Zet Rechtsachter op Niveau 2";
-"Set Rear right to Off" = "Zet Rechtsachter op Uit"; 
+"Set Rear right to Off" = "Zet Rechtsachter op Uit";
 "Set Rear middle to Level 1" = "Stel Midden achter in op niveau 1";
 "Set Rear middle to Level 3" = "Stel Midden achter in op niveau 3";
 "Set Rear middle to Level 2" = "Stel Midden achter in op niveau 2";
@@ -497,7 +497,7 @@
 "Rear left" = "Linksachter";
 "Front right" = "Rechtsvoor";
 "Climate not active. Unable to set seat heater level." = "Airco niet actief. Kan verwarmingsniveau stoel niet instellen.";
-"Siri actions unreliable" = "Siri-acties onbetrouwbaar"; 
+"Siri actions unreliable" = "Siri-acties onbetrouwbaar";
 "If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "Als je weet dat je Siri nodig hebt om je kofferbak te openen, probeer dan de horloge-app te openen terwijl je je handen vrij hebt, pak dan je spullen en vertrek naar je voertuig. Tegen de tijd dat je daar aankomt, zou de app je auto moeten hebben gewekt en zouden je Siri-acties soepeler moeten verlopen."; //Machine translated
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "U kunt hieronder optioneel uw TeslaScope API-sleutel invoeren. Indien aanwezig, gebruiken achtergrondupdates gegevens van TeslaScope in plaats van uw voertuig te wekken."; //Machine translated
 "Verify" = "Verifiëren";
@@ -506,3 +506,4 @@
 "Show logs" = "Toon logboeken";
 "Hide logs" = "Logboeken verbergen";
 "Logs" = "Logboeken";
+"Which seats?" = "Welke stoelen?"; //Machine translated
