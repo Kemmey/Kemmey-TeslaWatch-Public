@@ -409,7 +409,8 @@
             { "build": 960, "change": "Updated all Siri intents localization keys - XCode found it amusing to use duplicate keys for most intents, so translations did not work in practice! Thanks Apple! - Please verify Siri actions are now properly localized." },
             { "build": 960, "change": "Fixed not being able to toggle background image on watchOS." },
             { "build": 961, "change": "Removed need for Tesla Account Password for Remote Start." },
-            { "build": 961, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 963, "change": "Removed TeslaScope support from settings for now." },
+            { "build": 963, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
