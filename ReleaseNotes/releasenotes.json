@@ -409,6 +409,13 @@
         ]
     },
     {
+        "version": "1.2.4",
+        "changes": [
+            { "build": 964, "change": "Initial 1.2.4 build." },
+            { "build": 964, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error" }
