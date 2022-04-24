@@ -415,7 +415,9 @@
             { "build": 966, "change": "Preliminary UI refresh groundwork - cleaned up dividers. Icons square / different alignment" },
             { "build": 966, "change": "Fixed navigation button text no longer overflowing" },
             { "build": 966, "change": "Support for 4 controls per row on iOS, iPadOS, macOS" },
-            { "build": 966, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 967, "change": "Added TPMS data collection. Data will ONLY be collected if a data update happens while driving, and vehicle has initialized TPMS sensors." },
+            { "build": 967, "change": "Added initial TPMS view panel. Panel only visible once TPMS data has been collected during a driving session." },
+            { "build": 967, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
