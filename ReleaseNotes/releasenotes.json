@@ -419,6 +419,9 @@
             { "build": 967, "change": "Added initial TPMS view panel. Panel only visible once TPMS data has been collected during a driving session." },
             { "build": 968, "change": "Add advanced setting to override pressure unit from BAR to PSI." },
             { "build": 968, "change": "Added TPMS data and raw JSON to Get Vehicle State Siri Shortcuts intent." },
+            { "build": 968, "change": "Moved TPMS data into vehicle chooser." },
+            { "build": 968, "change": "Added vehicle chooser to Settings - even for accounts with only one vehicle." },
+            { "build": 968, "change": "Added activate button to vehicle chooser vehicle item." },
             { "build": 968, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
