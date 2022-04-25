@@ -508,7 +508,7 @@
 "Logs" = "ログ"; //Machine translated
 "Which seats?" = "どの席ですか？"; //Machine translated
 "Tire pressure" = "タイヤ圧"; //Machine translated
-"bar" = "バー"; //Machine translated
+"bar" = "bar"; //Machine translated
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "BARの代わりにPSIを圧力単位として使用します"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "タイヤ圧を表示するときは、デフォルトのBARの代わりにPSIを測定単位として使用します。"; //Machine translated

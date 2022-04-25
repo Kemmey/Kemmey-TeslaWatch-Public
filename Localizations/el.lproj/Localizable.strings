@@ -508,7 +508,7 @@
 "Logs" = "κούτσουρα"; //Machine translated
 "Which seats?" = "Ποιες θέσεις;"; //Machine translated
 "Tire pressure" = "Πίεση ελαστικών"; //Machine translated
-"bar" = "μπαρ"; //Machine translated
+"bar" = "bar"; //Machine translated
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "Χρησιμοποιήστε PSI ως μονάδα πίεσης αντί για BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Όταν εμφανίζετε την πίεση των ελαστικών, χρησιμοποιήστε το PSI ως μονάδα μέτρησης αντί για την προεπιλεγμένη τιμή BAR."; //Machine translated

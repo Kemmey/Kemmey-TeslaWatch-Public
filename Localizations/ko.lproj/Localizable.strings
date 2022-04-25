@@ -508,7 +508,7 @@
 "Logs" = "로그"; //Machine translated
 "Which seats?" = "어느 좌석?"; //Machine translated
 "Tire pressure" = "타이어 압력"; //Machine translated
-"bar" = "술집"; //Machine translated
-"psi" = "사이"; //Machine translated
+"bar" = "bar"; //Machine translated
+"psi" = "psi"; //Machine translated
 "Use PSI as pressure unit instead of BAR" = "BAR 대신 PSI를 압력 단위로 사용"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "타이어 공기압을 표시할 때 기본값인 BAR 대신 PSI를 측정 단위로 사용하십시오."; //Machine translated
