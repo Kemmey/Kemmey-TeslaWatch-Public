@@ -507,3 +507,8 @@
 "Hide logs" = "Logboeken verbergen";
 "Logs" = "Logboeken";
 "Which seats?" = "Welke stoelen?"; //Machine translated
+"Tire pressure" = "Bandenspanning"; //Machine translated
+"bar" = "bar"; //No Machine Translation
+"psi" = "psi"; //No Machine Translation
+"Use PSI as pressure unit instead of BAR" = "Gebruik PSI als drukeenheid in plaats van BAR"; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Gebruik bij het weergeven van de bandenspanning PSI als maateenheid in plaats van de standaard BAR."; //Machine translated

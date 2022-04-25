@@ -507,3 +507,8 @@
 "Hide logs" = "Göm loggar"; //Machine translated
 "Logs" = "Loggar"; //Machine translated
 "Which seats?" = "Vilka platser?"; //Machine translated
+"Tire pressure" = "Däcktryck"; //Machine translated
+"bar" = "bar"; //No Machine Translation
+"psi" = "psi"; //No Machine Translation
+"Use PSI as pressure unit instead of BAR" = "Använd PSI som tryckenhet istället för BAR"; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "När du visar däcktrycket, använd PSI som måttenhet istället för standardvärdet BAR."; //Machine translated

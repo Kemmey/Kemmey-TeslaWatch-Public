@@ -517,3 +517,8 @@
 "Hide logs" = "Hide logs";
 "Logs" = "Logs";
 "Which seats?" = "Which seats?";
+"Tire pressure" = "Tire pressure";
+"bar" = "bar";
+"psi" = "psi";
+"Use PSI as pressure unit instead of BAR" = "Use PSI as pressure unit instead of BAR";
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "When showing tire pressure, use PSI as unit of measure instead of the default of BAR.";

@@ -507,3 +507,8 @@
 "Hide logs" = "Skrýt protokoly"; //Machine translated
 "Logs" = "Protokoly"; //Machine translated
 "Which seats?" = "Která sedadla?"; //Machine translated
+"Tire pressure" = "Tlak v pneumatice"; //Machine translated
+"bar" = "bar"; //No Machine Translation
+"psi" = "psi"; //No Machine Translation
+"Use PSI as pressure unit instead of BAR" = "Použijte PSI jako jednotku tlaku místo BAR"; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Při zobrazování tlaku v pneumatikách použijte jako měrnou jednotku PSI namísto výchozí BAR."; //Machine translated

@@ -507,3 +507,8 @@
 "Hide logs" = "Скрыть журналы"; //Machine translated
 "Logs" = "Журналы"; //Machine translated
 "Which seats?" = "Какие места?"; //Machine translated
+"Tire pressure" = "Давление в шинах"; //Machine translated
+"bar" = "бар"; //Machine translated
+"psi" = "пси"; //Machine translated
+"Use PSI as pressure unit instead of BAR" = "Используйте PSI в качестве единицы измерения давления вместо BAR."; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "При отображении давления в шинах используйте PSI в качестве единицы измерения вместо BAR по умолчанию."; //Machine translated

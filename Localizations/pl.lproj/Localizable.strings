@@ -508,3 +508,8 @@
 "Hide logs" = "Ukryj dzienniki"; //Machine translated
 "Logs" = "Dzienniki"; //Machine translated
 "Which seats?" = "Jakie miejsca?"; //Machine translated
+"Tire pressure" = "Ciśnienie w oponach"; //Machine translated
+"bar" = "bar"; //No Machine Translation
+"psi" = "psi"; //No Machine Translation
+"Use PSI as pressure unit instead of BAR" = "Użyj PSI jako jednostki ciśnienia zamiast BAR"; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Wyświetlając ciśnienie w oponach, użyj PSI jako jednostki miary zamiast domyślnej wartości BAR."; //Machine translated

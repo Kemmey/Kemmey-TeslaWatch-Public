@@ -507,3 +507,8 @@
 "Hide logs" = "Masquer les journaux"; //Machine translated
 "Logs" = "Journaux"; //Machine translated
 "Which seats?" = "Quels sièges ?"; //Machine translated
+"Tire pressure" = "Pression des pneus"; //Machine translated
+"bar" = "bar"; //No Machine Translation
+"psi" = "psi"; //No Machine Translation
+"Use PSI as pressure unit instead of BAR" = "Utilisez PSI comme unité de pression au lieu de BAR"; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Lors de l'affichage de la pression des pneus, utilisez PSI comme unité de mesure au lieu de la valeur par défaut de BAR."; //Machine translated

@@ -490,3 +490,8 @@
 "Hide logs" = "隱藏日誌"; //Machine translated
 "Logs" = "日誌"; //Machine translated
 "Which seats?" = "有哪些座位？"; //Machine translated
+"Tire pressure" = "胎壓"; //Machine translated
+"bar" = "酒吧"; //Machine translated
+"psi" = "磅/平方英寸"; //Machine translated
+"Use PSI as pressure unit instead of BAR" = "使用 PSI 作為壓力單位而不是 BAR"; //Machine translated
+"When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "顯示輪胎壓力時，使用 PSI 作為測量單位，而不是默認的 BAR。"; //Machine translated
