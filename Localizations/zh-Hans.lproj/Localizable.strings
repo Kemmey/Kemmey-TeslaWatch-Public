@@ -512,3 +512,8 @@
 "psi" = "磅/平方英寸"; //Machine translated
 "Use PSI as pressure unit instead of BAR" = "使用 PSI 作为压力单位而不是 BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "显示轮胎压力时，使用 PSI 作为测量单位，而不是默认的 BAR。"; //Machine translated
+"Tire pressure rear right" = "右后胎压"; //Machine translated
+"Raw JSON" = "原始 JSON"; //Machine translated
+"Tire pressure front left" = "左前胎压"; //Machine translated
+"Tire pressure front right" = "右前胎压"; //Machine translated
+"Tire pressure rear left" = "左后胎压"; //Machine translated

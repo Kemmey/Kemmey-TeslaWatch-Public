@@ -418,6 +418,7 @@
             { "build": 967, "change": "Added TPMS data collection. Data will ONLY be collected if a data update happens while driving, and vehicle has initialized TPMS sensors." },
             { "build": 967, "change": "Added initial TPMS view panel. Panel only visible once TPMS data has been collected during a driving session." },
             { "build": 968, "change": "Add advanced setting to override pressure unit from BAR to PSI." },
+            { "build": 968, "change": "Added TPMS data and raw JSON to Get Vehicle State Siri Shortcuts intent." },
             { "build": 968, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },

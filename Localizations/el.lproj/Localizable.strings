@@ -512,3 +512,8 @@
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "Χρησιμοποιήστε PSI ως μονάδα πίεσης αντί για BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Όταν εμφανίζετε την πίεση των ελαστικών, χρησιμοποιήστε το PSI ως μονάδα μέτρησης αντί για την προεπιλεγμένη τιμή BAR."; //Machine translated
+"Tire pressure rear right" = "Πίεση ελαστικών πίσω δεξιά"; //Machine translated
+"Raw JSON" = "Ακατέργαστο JSON"; //Machine translated
+"Tire pressure front left" = "Πίεση ελαστικών εμπρός αριστερά"; //Machine translated
+"Tire pressure front right" = "Πίεση ελαστικών μπροστά δεξιά"; //Machine translated
+"Tire pressure rear left" = "Πίεση ελαστικών πίσω αριστερά"; //Machine translated

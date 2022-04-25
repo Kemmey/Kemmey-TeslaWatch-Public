@@ -512,3 +512,8 @@
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "Usa PSI come unità di pressione invece di BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Quando si mostra la pressione dei pneumatici, utilizzare PSI come unità di misura invece dell'impostazione predefinita BAR."; //Machine translated
+"Tire pressure rear right" = "Pressione pneumatici posteriore destra"; //Machine translated
+"Raw JSON" = "JSON grezzo"; //Machine translated
+"Tire pressure front left" = "Pressione pneumatici anteriore sinistro"; //Machine translated
+"Tire pressure front right" = "Pressione pneumatici anteriore destra"; //Machine translated
+"Tire pressure rear left" = "Pressione pneumatici posteriore sinistro"; //Machine translated

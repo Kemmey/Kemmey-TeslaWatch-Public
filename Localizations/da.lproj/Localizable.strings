@@ -512,3 +512,8 @@
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "Brug PSI som trykenhed i stedet for BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Når du viser dæktryk, skal du bruge PSI som måleenhed i stedet for standarden på BAR."; //Machine translated
+"Tire pressure rear right" = "Dæktryk bagtil højre"; //Machine translated
+"Raw JSON" = "Rå JSON"; //Machine translated
+"Tire pressure front left" = "Dæktryk foran venstre"; //Machine translated
+"Tire pressure front right" = "Dæktryk foran højre"; //Machine translated
+"Tire pressure rear left" = "Dæktryk bag venstre"; //Machine translated

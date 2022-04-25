@@ -512,3 +512,8 @@
 "psi" = "psi"; //Machine translated
 "Use PSI as pressure unit instead of BAR" = "BAR 대신 PSI를 압력 단위로 사용"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "타이어 공기압을 표시할 때 기본값인 BAR 대신 PSI를 측정 단위로 사용하십시오."; //Machine translated
+"Tire pressure rear right" = "타이어 공기압 뒤 우측"; //Machine translated
+"Raw JSON" = "원시 JSON"; //Machine translated
+"Tire pressure front left" = "타이어 공기압 앞 좌측"; //Machine translated
+"Tire pressure front right" = "타이어 공기압 앞 우측"; //Machine translated
+"Tire pressure rear left" = "타이어 공기압 뒤 좌측"; //Machine translated

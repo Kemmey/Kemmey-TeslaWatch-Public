@@ -512,3 +512,8 @@
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "Gebruik PSI als drukeenheid in plaats van BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Gebruik bij het weergeven van de bandenspanning PSI als maateenheid in plaats van de standaard BAR."; //Machine translated
+"Tire pressure rear right" = "Bandenspanning rechts achter"; //Machine translated
+"Raw JSON" = "onbewerkte JSON"; //Machine translated
+"Tire pressure front left" = "Bandenspanning linksvoor"; //Machine translated
+"Tire pressure front right" = "Bandenspanning voor rechts"; //Machine translated
+"Tire pressure rear left" = "Bandenspanning achter links"; //Machine translated

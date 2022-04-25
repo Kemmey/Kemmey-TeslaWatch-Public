@@ -512,3 +512,8 @@
 "psi" = "psi"; //Machine translated
 "Use PSI as pressure unit instead of BAR" = "Используйте PSI в качестве единицы измерения давления вместо BAR."; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "При отображении давления в шинах используйте PSI в качестве единицы измерения вместо BAR по умолчанию."; //Machine translated
+"Tire pressure rear right" = "Давление в шинах сзади справа"; //Machine translated
+"Raw JSON" = "Необработанный JSON"; //Machine translated
+"Tire pressure front left" = "Давление в шинах передних левых"; //Machine translated
+"Tire pressure front right" = "Давление в шинах переднее правое"; //Machine translated
+"Tire pressure rear left" = "Давление в шинах сзади слева"; //Machine translated

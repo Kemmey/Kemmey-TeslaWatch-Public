@@ -522,3 +522,8 @@
 "psi" = "psi";
 "Use PSI as pressure unit instead of BAR" = "Use PSI as pressure unit instead of BAR";
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "When showing tire pressure, use PSI as unit of measure instead of the default of BAR.";
+"Tire pressure rear right" = "Tire pressure rear right";
+"Raw JSON" = "Raw JSON";
+"Tire pressure front left" = "Tire pressure front left";
+"Tire pressure front right" = "Tire pressure front right";
+"Tire pressure rear left" = "Tire pressure rear left";

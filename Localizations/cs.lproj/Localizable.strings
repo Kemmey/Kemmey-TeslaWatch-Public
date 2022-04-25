@@ -512,3 +512,8 @@
 "psi" = "psi"; //No Machine Translation
 "Use PSI as pressure unit instead of BAR" = "Použijte PSI jako jednotku tlaku místo BAR"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Při zobrazování tlaku v pneumatikách použijte jako měrnou jednotku PSI namísto výchozí BAR."; //Machine translated
+"Tire pressure rear right" = "Tlak v pneu vpravo vzadu"; //Machine translated
+"Raw JSON" = "Raw JSON"; //No Machine Translation
+"Tire pressure front left" = "Tlak v pneu vpředu vlevo"; //Machine translated
+"Tire pressure front right" = "Tlak v pneumatikách vpředu vpravo"; //Machine translated
+"Tire pressure rear left" = "Tlak v pneu vlevo vzadu"; //Machine translated
