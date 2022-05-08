@@ -518,3 +518,11 @@
 "Tire pressure front right" = "フロント右タイヤ圧"; //Machine translated
 "Tire pressure rear left" = "左リアタイヤ圧"; //Machine translated
 "Activate" = "活性化"; //Machine translated
+"Remote start active" = "リモートスタートアクティブ"; //Machine translated
+"Charge port unlocked" = "充電ポートのロックが解除されました"; //Machine translated
+"Details" = "詳細"; //Machine translated
+"Odometer" = "オドメーター"; //Machine translated
+"Software" = "ソフトウェア"; //Machine translated
+"Apple Watch usage" = "AppleWatchの使用法"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Apple Watchからショートカットを個別にアクティブ化するには、アクティブ化されたショートカットが、このデバイスのAppleShortcutsアプリから監視するように同期するように構成されていることを確認してください。"; //Machine translated
+"Siri actions on Apple Watch" = "AppleWatchでのSiriアクション"; //Machine translated

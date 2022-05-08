@@ -528,3 +528,11 @@
 "Tire pressure front right" = "Tire pressure front right";
 "Tire pressure rear left" = "Tire pressure rear left";
 "Activate" = "Activate";
+"Remote start active" = "Remote start active";
+"Charge port unlocked" = "Charge port unlocked";
+"Details" = "Details";
+"Odometer" = "Odometer";
+"Software" = "Software";
+"Apple Watch usage" = "Apple Watch usage";
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device.";
+"Siri actions on Apple Watch" = "Siri actions on Apple Watch";

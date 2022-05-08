@@ -518,3 +518,11 @@
 "Tire pressure front right" = "Tlak v pneumatikách vpředu vpravo"; //Machine translated
 "Tire pressure rear left" = "Tlak v pneu vlevo vzadu"; //Machine translated
 "Activate" = "aktivovat"; //Machine translated
+"Remote start active" = "Vzdálený start aktivní"; //Machine translated
+"Charge port unlocked" = "Nabíjecí port odblokován"; //Machine translated
+"Details" = "Podrobnosti"; //Machine translated
+"Odometer" = "Počítadlo kilometrů"; //Machine translated
+"Software" = "Software"; //No Machine Translation
+"Apple Watch usage" = "Používání Apple Watch"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Chcete-li nezávisle aktivovat zkratky z Apple Watch, ujistěte se, že jsou aktivované zkratky nakonfigurovány tak, aby se synchronizovaly se sledováním z aplikace Apple Shortcuts na tomto zařízení."; //Machine translated
+"Siri actions on Apple Watch" = "Akce Siri na Apple Watch"; //Machine translated

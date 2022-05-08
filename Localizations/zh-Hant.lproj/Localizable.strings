@@ -501,3 +501,11 @@
 "Tire pressure front right" = "右前胎壓"; //Machine translated
 "Tire pressure rear left" = "左後胎壓"; //Machine translated
 "Activate" = "啟用"; //Machine translated
+"Remote start active" = "遠程啟動激活"; //Machine translated
+"Charge port unlocked" = "充電端口解鎖"; //Machine translated
+"Details" = "細節"; //Machine translated
+"Odometer" = "里程表"; //Machine translated
+"Software" = "軟件"; //Machine translated
+"Apple Watch usage" = "Apple Watch 使用情況"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "為了從 Apple Watch 獨立激活快捷方式，請確保將激活的快捷方式配置為同步以從該設備上的 Apple Shortcuts 應用程序觀看。"; //Machine translated
+"Siri actions on Apple Watch" = "Apple Watch 上的 Siri 操作"; //Machine translated

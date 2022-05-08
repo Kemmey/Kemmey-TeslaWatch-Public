@@ -518,3 +518,11 @@
 "Tire pressure front right" = "Dæktryk foran højre"; //Machine translated
 "Tire pressure rear left" = "Dæktryk bag venstre"; //Machine translated
 "Activate" = "Aktiver"; //Machine translated
+"Remote start active" = "Fjernstart aktiv"; //Machine translated
+"Charge port unlocked" = "Ladeport ulåst"; //Machine translated
+"Details" = "detaljer"; //Machine translated
+"Odometer" = "Kilometertæller"; //Machine translated
+"Software" = "Software"; //No Machine Translation
+"Apple Watch usage" = "Brug af Apple Watch"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "For at aktivere genveje fra Apple Watch uafhængigt, skal du sikre dig, at aktiverede genveje er konfigureret til at synkronisere med ur fra Apple Genveje-appen på denne enhed."; //Machine translated
+"Siri actions on Apple Watch" = "Siri-handlinger på Apple Watch"; //Machine translated

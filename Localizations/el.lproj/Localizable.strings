@@ -518,3 +518,11 @@
 "Tire pressure front right" = "Πίεση ελαστικών μπροστά δεξιά"; //Machine translated
 "Tire pressure rear left" = "Πίεση ελαστικών πίσω αριστερά"; //Machine translated
 "Activate" = "Θέτω εις ενέργειαν"; //Machine translated
+"Remote start active" = "Ενεργή η απομακρυσμένη εκκίνηση"; //Machine translated
+"Charge port unlocked" = "Η θύρα φόρτισης είναι ξεκλείδωτη"; //Machine translated
+"Details" = "Λεπτομέριες"; //Machine translated
+"Odometer" = "Οδόμετρο"; //Machine translated
+"Software" = "Λογισμικό"; //Machine translated
+"Apple Watch usage" = "Χρήση Apple Watch"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Για να ενεργοποιήσετε ανεξάρτητα τις συντομεύσεις από το Apple Watch, βεβαιωθείτε ότι οι ενεργοποιημένες συντομεύσεις έχουν διαμορφωθεί ώστε να συγχρονίζονται με το ρολόι από την εφαρμογή Συντομεύσεις Apple σε αυτήν τη συσκευή."; //Machine translated
+"Siri actions on Apple Watch" = "Ενέργειες Siri στο Apple Watch"; //Machine translated

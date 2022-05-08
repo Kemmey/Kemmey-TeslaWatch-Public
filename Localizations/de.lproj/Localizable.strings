@@ -518,3 +518,11 @@
 "Tire pressure front right" = "Reifendruck vorne rechts"; //Machine translated
 "Tire pressure rear left" = "Reifendruck hinten links"; //Machine translated
 "Activate" = "aktivieren Sie"; //Machine translated
+"Remote start active" = "Fernstart aktiv"; //Machine translated
+"Charge port unlocked" = "Ladeanschluss entsperrt"; //Machine translated
+"Details" = "Einzelheiten"; //Machine translated
+"Odometer" = "Kilometerzähler"; //Machine translated
+"Software" = "Software"; //No Machine Translation
+"Apple Watch usage" = "Nutzung der Apple Watch"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Um Shortcuts unabhängig von der Apple Watch zu aktivieren, stellen Sie bitte sicher, dass aktivierte Shortcuts so konfiguriert sind, dass sie mit der Apple Shortcuts-App auf diesem Gerät synchronisiert werden."; //Machine translated
+"Siri actions on Apple Watch" = "Siri-Aktionen auf der Apple Watch"; //Machine translated

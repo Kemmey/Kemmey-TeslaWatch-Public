@@ -518,3 +518,11 @@
 "Tire pressure front right" = "Bandenspanning voor rechts"; //Machine translated
 "Tire pressure rear left" = "Bandenspanning achter links"; //Machine translated
 "Activate" = "Activeren"; //Machine translated
+"Remote start active" = "Start op afstand actief"; //Machine translated
+"Charge port unlocked" = "Oplaadpoort ontgrendeld"; //Machine translated
+"Details" = "Details"; //No Machine Translation
+"Odometer" = "Kilometerteller"; //Machine translated
+"Software" = "Software"; //No Machine Translation
+"Apple Watch usage" = "Apple Watch-gebruik"; //Machine translated
+"In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Om snelkoppelingen van Apple Watch onafhankelijk te activeren, moet u ervoor zorgen dat geactiveerde snelkoppelingen zijn geconfigureerd om te synchroniseren om te kijken vanuit de Apple Shortcuts-app op dit apparaat."; //Machine translated
+"Siri actions on Apple Watch" = "Siri-acties op Apple Watch"; //Machine translated
