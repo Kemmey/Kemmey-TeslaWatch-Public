@@ -424,7 +424,8 @@
             { "build": 968, "change": "Added activate button to vehicle chooser vehicle item." },
             { "build": 970, "change": "Open features panel now also shows if remote start is active or charge port is unlocked." },
             { "build": 970, "change": "Added help text and hint about needing to manually sync shortcuts to Apple Watch." },
-            { "build": 970, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 971, "change": "Allow setting amperage at max 48 instead of only 32 when using the set charging current siri action." },
+            { "build": 971, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
