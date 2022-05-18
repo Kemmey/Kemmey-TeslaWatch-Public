@@ -427,7 +427,8 @@
             { "build": 971, "change": "Allow setting amperage at max 48 instead of only 32 when using the set charging current siri action." },
             { "build": 972, "change": "Updated Spanish translations." },
             { "build": 972, "change": "Fixed showing charge port open when cable disconnected." },
-            { "build": 972, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 974, "change": "Added set climate keeper, camp and dog modes." },
+            { "build": 974, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
