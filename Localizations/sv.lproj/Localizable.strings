@@ -522,7 +522,13 @@
 "Charge port unlocked" = "Laddningsporten är upplåst"; //Machine translated
 "Details" = "Detaljer"; //Machine translated
 "Odometer" = "Vägmätare"; //Machine translated
-"Software" = "programvara"; //Machine translated
+"Software" = "Programvara"; //Machine translated
 "Apple Watch usage" = "Användning av Apple Watch"; //Machine translated
 "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "För att aktivera genvägar från Apple Watch oberoende, se till att aktiverade genvägar är konfigurerade för att synkronisera med titta från Apple Shortcuts-appen på den här enheten."; //Machine translated
 "Siri actions on Apple Watch" = "Siri-åtgärder på Apple Watch"; //Machine translated
+"Keep mode active" = "Håll läget aktivt"; //Machine translated
+"Keep mode" = "Behåll läge"; //Machine translated
+"Turn on dog mode?" = "Aktivera hundläget?"; //Machine translated
+"Really turn off dog mode?" = "Stänger du verkligen av hundläget?"; //Machine translated
+"Deactivate dog mode" = "Inaktivera hundläge"; //Machine translated
+"Activate dog mode" = "Aktivera hundläge"; //Machine translated

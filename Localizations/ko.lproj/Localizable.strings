@@ -526,3 +526,9 @@
 "Apple Watch usage" = "애플워치 사용"; //Machine translated
 "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Apple Watch에서 바로가기를 독립적으로 활성화하려면 활성화된 바로가기가 이 기기의 Apple Shortcuts 앱에서 시청하도록 동기화되도록 구성되어 있는지 확인하십시오."; //Machine translated
 "Siri actions on Apple Watch" = "Apple Watch의 Siri 작업"; //Machine translated
+"Keep mode active" = "모드 활성 유지"; //Machine translated
+"Keep mode" = "유지 모드"; //Machine translated
+"Turn on dog mode?" = "강아지 모드를 켜시겠습니까?"; //Machine translated
+"Really turn off dog mode?" = "강아지 모드를 해제하시겠습니까?"; //Machine translated
+"Deactivate dog mode" = "개 모드 비활성화"; //Machine translated
+"Activate dog mode" = "개 모드 활성화"; //Machine translated

@@ -526,3 +526,9 @@
 "Apple Watch usage" = "Apple Watch-gebruik"; //Machine translated
 "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Om snelkoppelingen van Apple Watch onafhankelijk te activeren, moet u ervoor zorgen dat geactiveerde snelkoppelingen zijn geconfigureerd om te synchroniseren om te kijken vanuit de Apple Shortcuts-app op dit apparaat."; //Machine translated
 "Siri actions on Apple Watch" = "Siri-acties op Apple Watch"; //Machine translated
+"Keep mode active" = "Houd modus actief"; //Machine translated
+"Keep mode" = "Modus behouden"; //Machine translated
+"Turn on dog mode?" = "Hondenmodus inschakelen?"; //Machine translated
+"Really turn off dog mode?" = "Hondenmodus echt uitschakelen?"; //Machine translated
+"Deactivate dog mode" = "Hondenmodus deactiveren"; //Machine translated
+"Activate dog mode" = "Hondenmodus activeren"; //Machine translated

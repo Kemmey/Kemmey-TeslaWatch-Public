@@ -52,7 +52,7 @@
 "Really activate Homelink?" = "Seguro que quieres activar el Homelink?";
 "Keyless drive" = "Arranque sin llave";
 "Really enable keyless drive?" = "Seguro que quieres activar el Arranque sin llave?";
-"Honk!" = "Tocar la bocina!";
+"Honk!" = "Tocar el claxon";
 "Unlock port" = "Desbloquear el puerto";
 "%@ port" = "%@ el puerto";
 "Homelink" = "Homelink"; //No Machine Translation
@@ -68,8 +68,8 @@
 "Loading" = "Refrescando";
 "Online" = "En línea";
 "Settings" = "Configuración";
-"Background updates" = "Actualización en el fondo";
-"Allow wake in background" = "Permitir despertar en el fondo";
+"Background updates" = "Actualización en segundo plano";
+"Allow wake in background" = "Despertar en segundo plano";
 "Set" = "Configurar";
 "Interval" = "Intervalo";
 "Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Arranque sin llave requiere la contraseña de la cuenta de Tesla. Esta almacenada encriptada en keychain. Conectividad de red en los dos, el reloj y el vehículo es REQUERIDA. Nunca conduzca sin una llave de respaldo:";
@@ -112,8 +112,8 @@
 "Translators" = "Traductores";
 "Beta testers" = "Evaluadores de versiones beta";
 "Huge thanks to my many active beta testers!" = "Mil gracias a mis muchos evaluadores de versiones beta activos!";
-"Plug-in reminder" = "Recordatorio de Conectar";
-"Remove" = "Remover";
+"Plug-in reminder" = "Recordatorio de conexión";
+"Remove" = "Eliminar";
 "Add current vehicle location" = "Agregar la ubicación actual del vehículo";
 "Unknown" = "Desconocido";
 "is not plugged in" = "no está conectado";
@@ -127,7 +127,7 @@
 "is open" = "está abierto";
 "Sentry active" = "Sentry activo";
 "sentry on" = "sentry prendido";
-"Seat heaters" = "Calentador de asiento";
+"Seat heaters" = "Calentador del asiento";
 "No vehicle data" = "No hay datos de vehículo";
 "Choose vehicle" = "Seleccionar vehículo";
 "Allow wake" = "Permitir despertar";
@@ -151,7 +151,7 @@
 "Stopping HVAC" = "Detener el HVAC";
 "Started defroster" = "El descongelado ha comenzado";
 "Stopped defroster" = "Descongelado detenido";
-"Honking" = "Tocando la bocina";
+"Honking" = "Tocando el claxon";
 "Flashing the lights" = "Luces parpadeando";
 "Set temps" = "Fijar temperaturas";
 "Enabled Sentry mode" = "Modo Sentry activado";
@@ -162,7 +162,7 @@
 "Closing sunroof" = "Cerrando el sunroof";
 "Venting sunroof" = "Ventilando el sunroof";
 "Enabling keyless drive" = "Habilitando conducir sin llave";
-"Setting seat heater" = "Ajustando calentador de asiento";
+"Setting seat heater" = "Ajustando calentador del asiento";
 "Don't remind me again today" = "No me recuerdes hoy otra vez";
 "Dog mode" = "Modo de Perro";
 "Camp mode" = "Modo de acampada";
@@ -182,7 +182,7 @@
 "Reset" = "Reiniciar"; //Machine translated
 "Two main control rows" = "Dos filas de control principales"; //Machine translated
 "Drag controls to reorder" = "Arrastra los controles para reordenar"; //Machine translated
-"Controls order" = "Orden de controles"; //Machine translated
+"Controls order" = "Orden de los controles"; //Machine translated
 "Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Los elementos que están atenuados se ocultarán. Esto puede hacer que cambie la ubicación real del control."; //Machine translated
 "First row" = "Primera fila"; //Machine translated
 "Second row" = "Segunda fila"; //Machine translated
@@ -213,7 +213,7 @@
 "Updated " = "Actualizado"; //Machine translated
 " ago" = " atrás"; //Machine translated
 "Appearance" = "Apariencia"; //Machine translated
-"Light" = "Luz"; //Machine translated
+"Light" = "Claro"; //Machine translated
 "Dark" = "Oscuro"; //Machine translated
 "Auto" = "Auto"; //No Machine Translation
 
@@ -243,9 +243,9 @@
 "Close Charge Port" = "Cerrar puerto de carga"; //Machine translated
 "Close Trunk" = "Cerrar maletero"; //Machine translated
 "Close Windows" = "Cerrar ventanas"; //Machine translated
-"Open Charge Port" = "Puerto de carga abierto"; //Machine translated
-"Open Trunk" = "Tronco abierto"; //Machine translated
-"Open Frunk" = "Frunk abierto"; //Machine translated
+"Open Charge Port" = "Abrir puerto de carga"; //Machine translated
+"Open Trunk" = "Abrir maletero"; //Machine translated
+"Open Frunk" = "Abrir frunk"; //Machine translated
 "Set Charge Limit" = "Establecer límite de carga"; //Machine translated
 "Start Charging" = "Empezar a cargar"; //Machine translated
 "Start Climate" = "Inicio del clima"; //Machine translated
@@ -340,7 +340,7 @@
 "Unlocks the charge port door" = "Desbloquea la puerta del puerto de carga"; //Machine translated
 "Sends an address to the cars navigation system" = "Envía una dirección al sistema de navegación del automóvil."; //Machine translated
 "Turns on the car allowing it to drive" = "Enciende el automóvil permitiéndole conducir"; //Machine translated
-"Honks the horn" = "Toca la bocina"; //Machine translated
+"Honks the horn" = "Toca el claxon"; //Machine translated
 "Flashes the headlights" = "Parpadea los faros"; //Machine translated
 "Slightly opens the sunroof" = "Abre ligeramente el techo corredizo"; //Machine translated
 "Turns on the steering wheel heater" = "Enciende el calentador del volante"; //Machine translated
@@ -363,7 +363,7 @@
 "Wait For Wake" = "Espera para despertar"; //Machine translated
 "Vehicle not online, keep trying?" = "El vehículo no está en línea, ¿sigue intentándolo?"; //Machine translated
 "Is Driving" = "Esta conduciendo"; //Machine translated
-"Show advanced" = "Espectáculo avanzado"; //Machine translated
+"Show advanced" = "Opciones avanzadas"; //Machine translated
 "Hide advanced" = "Ocultar avanzado"; //Machine translated
 "Calculate charger power (kW) without neutral connection" = "Calcule la potencia del cargador (kW) sin conexión neutra"; //Machine translated
 "Except at these locations" = "Excepto en estas ubicaciones"; //Machine translated
@@ -526,3 +526,9 @@
 "Apple Watch usage" = "Uso de Apple Watch"; //Machine translated
 "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "Para activar accesos directos desde Apple Watch de forma independiente, asegúrese de que los accesos directos activados estén configurados para sincronizarse con el reloj desde la aplicación Apple Shortcuts en este dispositivo."; //Machine translated
 "Siri actions on Apple Watch" = "Acciones de Siri en Apple Watch"; //Machine translated
+"Keep mode active" = "Mantener el modo activo"; //Machine translated
+"Keep mode" = "Mantener el modo"; //Machine translated
+"Turn on dog mode?" = "¿Activar el modo perro?"; //Machine translated
+"Really turn off dog mode?" = "¿Realmente desactivas el modo perro?"; //Machine translated
+"Deactivate dog mode" = "Desactivar modo perro"; //Machine translated
+"Activate dog mode" = "Activar modo perro"; //Machine translated

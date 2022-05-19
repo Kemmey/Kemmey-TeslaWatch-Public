@@ -526,3 +526,9 @@
 "Apple Watch usage" = "Apple Watch 使用情况"; //Machine translated
 "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "为了从 Apple Watch 独立激活快捷方式，请确保将激活的快捷方式配置为同步以从该设备上的 Apple Shortcuts 应用程序观看。"; //Machine translated
 "Siri actions on Apple Watch" = "Apple Watch 上的 Siri 操作"; //Machine translated
+"Keep mode active" = "保持模式激活"; //Machine translated
+"Keep mode" = "保持模式"; //Machine translated
+"Turn on dog mode?" = "开启狗模式？"; //Machine translated
+"Really turn off dog mode?" = "真的关掉狗模式？"; //Machine translated
+"Deactivate dog mode" = "关闭狗模式"; //Machine translated
+"Activate dog mode" = "开启狗模式"; //Machine translated

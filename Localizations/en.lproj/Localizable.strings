@@ -536,3 +536,9 @@
 "Apple Watch usage" = "Apple Watch usage";
 "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device." = "In order to activate shortcuts from Apple Watch independently, please ensure activated shortcuts are configured to sync to watch from the Apple Shortcuts app on this device.";
 "Siri actions on Apple Watch" = "Siri actions on Apple Watch";
+"Keep mode active" = "Keep mode active";
+"Keep mode" = "Keep mode";
+"Turn on dog mode?" = "Turn on dog mode?";
+"Really turn off dog mode?" = "Really turn off dog mode?";
+"Deactivate dog mode" = "Deactivate dog mode";
+"Activate dog mode" = "Activate dog mode";
