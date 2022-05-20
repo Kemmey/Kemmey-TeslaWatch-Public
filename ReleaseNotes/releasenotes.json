@@ -429,7 +429,8 @@
             { "build": 972, "change": "Fixed showing charge port open when cable disconnected." },
             { "build": 976, "change": "Added set climate keeper, camp and dog modes - accessible from the set temp panel by tapping either the internal or external temperature views on the main screen." },
             { "build": 978, "change": "Added Siri action for setting climate keeper mode. Find it directly in the Shortcuts app and use for custom workflows." },
-            { "build": 978, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 979, "change": "Add Siri Shortcut to in-app shortcuts list." },
+            { "build": 979, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
