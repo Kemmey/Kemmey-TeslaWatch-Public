@@ -434,7 +434,8 @@
             { "build": 981, "change": "Added support for cached data from the Tesla API servers. If available, app will grab last known data from Teslas servers first, then continue to wake vehicle for actual up to date data." },
             { "build": 984, "change": "Use Tesla API cached data when doing background updates if not allowed to wake vehicle." },
             { "build": 984, "change": "Use vehicle vin as cache key instead of vehicle id, as  vehicle id changes inexplicably." },
-            { "build": 984, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 985, "change": "Added write review button to what's new panel." },
+            { "build": 985, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

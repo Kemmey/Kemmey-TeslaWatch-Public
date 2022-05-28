@@ -553,3 +553,4 @@
 "There are ${count} options matching ‘off’." = "Есть варианты ${count}, соответствующие варианту «выкл»."; //Machine translated
 "There are ${count} options matching ‘Dog’." = "Есть ${count} вариантов, соответствующих слову «Собака»."; //Machine translated
 "There are ${count} options matching ‘Camp’." = "Есть ${count} вариантов, соответствующих слову «лагерь»."; //Machine translated
+"If you liked these updates, please consider writing a review on the App Store - it really does help a lot!" = "Если вам понравились эти обновления, рассмотрите возможность написать отзыв в App Store — это действительно очень помогает!"; //Machine translated
