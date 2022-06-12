@@ -537,3 +537,7 @@
 "There are ${count} options matching ‘Dog’." = "有 ${count} 個選項匹配“狗”。"; //Machine translated
 "There are ${count} options matching ‘Camp’." = "有 ${count} 個選項匹配“Camp”。"; //Machine translated
 "If you liked these updates, please consider writing a review on the App Store - it really does help a lot!" = "如果您喜歡這些更新，請考慮在 App Store 上發表評論 - 這確實很有幫助！"; //Machine translated
+"Charge Stats" = "收費統計"; //Machine translated
+"Home" = "家"; //Machine translated
+"Supercharger" = "增壓器"; //Machine translated
+"Other" = "其他"; //Machine translated

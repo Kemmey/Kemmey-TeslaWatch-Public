@@ -554,3 +554,7 @@
 "There are ${count} options matching ‘Dog’." = "'개'와 일치하는 ${count}개의 옵션이 있습니다."; //Machine translated
 "There are ${count} options matching ‘Camp’." = "'캠프'와 일치하는 ${count}개의 옵션이 있습니다."; //Machine translated
 "If you liked these updates, please consider writing a review on the App Store - it really does help a lot!" = "이 업데이트가 마음에 든다면 App Store에서 리뷰를 작성하는 것을 고려해 보세요. 정말 많은 도움이 됩니다!"; //Machine translated
+"Charge Stats" = "충전 통계"; //Machine translated
+"Home" = "집"; //Machine translated
+"Supercharger" = "과급기"; //Machine translated
+"Other" = "다른"; //Machine translated

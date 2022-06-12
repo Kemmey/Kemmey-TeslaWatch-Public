@@ -435,7 +435,9 @@
             { "build": 984, "change": "Use Tesla API cached data when doing background updates if not allowed to wake vehicle." },
             { "build": 984, "change": "Use vehicle vin as cache key instead of vehicle id, as  vehicle id changes inexplicably." },
             { "build": 985, "change": "Added write review button to what's new panel." },
-            { "build": 985, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1010, "change": "Added preliminary long-term data persistence. All captured api data will now be stored in a local database as well as synced across all iCloud connected devices. This will enable additional features in the future, as well as further reduce vehicle wakes." },
+            { "build": 1010, "change": "Added support for capturing charge stats. Currently this only shows as a unit-less chart, but further features are planned - including configuring currencies and energy plans." },
+            { "build": 1010, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

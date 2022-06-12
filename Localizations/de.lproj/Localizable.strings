@@ -554,3 +554,7 @@
 "There are ${count} options matching ‘Dog’." = "Es gibt ${count} Optionen, die mit „Hund“ übereinstimmen."; //Machine translated
 "There are ${count} options matching ‘Camp’." = "Es gibt ${count} Optionen, die mit „Camp“ übereinstimmen."; //Machine translated
 "If you liked these updates, please consider writing a review on the App Store - it really does help a lot!" = "Wenn Ihnen diese Updates gefallen haben, denken Sie bitte darüber nach, eine Rezension im App Store zu schreiben – es hilft wirklich sehr!"; //Machine translated
+"Charge Stats" = "Ladestatistiken"; //Machine translated
+"Home" = "Heim"; //Machine translated
+"Supercharger" = "Kompressor"; //Machine translated
+"Other" = "Sonstiges"; //Machine translated
