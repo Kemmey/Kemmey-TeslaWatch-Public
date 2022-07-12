@@ -443,8 +443,8 @@
     {
         "version": "1.2.5",
         "changes": [
-            { "build": 1015, "change": "Added explicit Dismiss button to what's new modal popover, to make it more obvious how to dismiss this modal panel, as the system native feature was confusing to some users." },
-            { "build": 1015, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1022, "change": "Added explicit Dismiss button to what's new modal popover, to make it more obvious how to dismiss this modal panel, as the system native feature was confusing to some users." },
+            { "build": 1022, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
