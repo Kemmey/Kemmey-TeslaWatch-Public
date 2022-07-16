@@ -411,6 +411,7 @@
     {
         "version": "1.2.4",
         "changes": [
+            { "build": 1014, "change": "PLEASE NOTE: After release of this version, it has come to my attention that some users are not familiar with the system-standard pull-down-to-dismiss gesture, leading them to believe this app forces you to leave a review on the App Store. This is absolutely not the case! Please pull down on this pop-over window to dismiss the wath's new modal dialog." },
             { "build": 1014, "change": "*New features*" },
             { "build": 1014, "change": "Support for 4 controls per row on iOS, iPadOS, macOS" },
             { "build": 1014, "change": "Added TPMS data collection. Data will ONLY be collected if a data update happens while driving, and vehicle has initialized TPMS sensors." },
@@ -437,7 +438,8 @@
             { "build": 1014, "change": "Allow setting amperage at max 48 instead of only 32 when using the set charging current siri action." },
             { "build": 1014, "change": "Fixed showing charge port open when cable disconnected." },
             { "build": 1014, "change": "Use vehicle vin as cache key instead of vehicle id, as  vehicle id changes inexplicably." },
-            { "build": 1014, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1014, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
+            { "build": 1014, "change": "PLEASE NOTE: After release of this version, it has come to my attention that some users are not familiar with the system-standard pull-down-to-dismiss gesture, leading them to believe this app forces you to leave a review on the App Store. This is absolutely not the case! Please pull down on this pop-over window to dismiss the wath's new modal dialog." }
         ]
     },
     {
