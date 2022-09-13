@@ -451,7 +451,8 @@
             { "build": 1028, "change": "Fixed some localization issues." },
             { "build": 1030, "change": "No longer dim widgets when vehicle was sleeping at time of refresh." },
             { "build": 1030, "change": "Added iOS 16 Lock Screen Widgets for Status and Controls." },
-            { "build": 1030, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1035, "change": "Performance improvements for widgets." },
+            { "build": 1035, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
