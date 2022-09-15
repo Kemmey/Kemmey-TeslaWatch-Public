@@ -445,15 +445,17 @@
     {
         "version": "1.2.5",
         "changes": [
-            { "build": 1022, "change": "Added explicit Dismiss button to what's new modal popover, to make it more obvious how to dismiss this modal panel, as the system native feature was confusing to some users." },
-            { "build": 1023, "change": "In driving view full screen, tap power to toggle between power and speed in center slot." },
-            { "build": 1028, "change": "Added 'Work' to charge stats - using heuristics for now." },
-            { "build": 1028, "change": "Fixed some localization issues." },
-            { "build": 1030, "change": "No longer dim widgets when vehicle was sleeping at time of refresh." },
-            { "build": 1030, "change": "Added iOS 16 Lock Screen Widgets for Status and Controls." },
-            { "build": 1035, "change": "Performance improvements for widgets." },
-            { "build": 1039, "change": "Performance improvements - should have improved launch speed, navigation speed etc." },
-            { "build": 1039, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1040, "change": "*New features*" },
+            { "build": 1040, "change": "Added iOS 16 Lock Screen Widgets for Status and Controls." },
+            { "build": 1040, "change": "In driving view full screen, tap power to toggle between power and speed in center slot." },
+            { "build": 1040, "change": "Added 'Work' to charge stats - using heuristics for now." },
+            { "build": 1040, "change": "*Enhancements*" },
+            { "build": 1040, "change": "Added explicit Dismiss button to what's new modal popover, to make it more obvious how to dismiss this modal panel, as the system native feature was confusing to some users." },
+            { "build": 1040, "change": "*Bugfixes*" },
+            { "build": 1040, "change": "Fixed some localization issues." },
+            { "build": 1040, "change": "No longer dim widgets when vehicle was sleeping at time of refresh." },
+            { "build": 1040, "change": "Performance improvements - should have improved launch speed, navigation speed etc." },
+            { "build": 1040, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
