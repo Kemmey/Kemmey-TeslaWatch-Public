@@ -463,7 +463,9 @@
         "changes": [
             { "build": 1045, "change": "Added Swift Charts from Apple for 2022 OS releases." },
             { "build": 1045, "change": "Fixed sharing navigation destination Siri intent." },
-            { "build": 1045, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1051, "change": "Now using Swift Charts in widgets and complications if available." },
+            { "build": 1051, "change": "Added debug output to show size of local database." },
+            { "build": 1051, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
