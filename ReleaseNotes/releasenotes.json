@@ -465,7 +465,9 @@
             { "build": 1045, "change": "Fixed sharing navigation destination Siri intent." },
             { "build": 1051, "change": "Now using Swift Charts in widgets and complications if available." },
             { "build": 1051, "change": "Added debug output to show size of local database." },
-            { "build": 1051, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1057, "change": "Updated database management." },
+            { "build": 1057, "change": "Now syncing allow wake and travel mode through iCloud - so toggling on one device, should toggle on all devices." },
+            { "build": 1057, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
