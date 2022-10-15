@@ -561,7 +561,7 @@
 "Release notes" = "Ændringer"; //Machine translated
 "Work" = "Arbejde"; //Machine translated
 "Vent windows" = "Udluftningsvinduer"; //Machine translated
-"Control" = "Styring"; //Machine translated
+"Control" = "Kontrol"; 
 "Configuration" = "Konfiguration"; //Machine translated
 "Just to confirm, you wanted ‘Vent windows’?" = "Bare for at bekræfte, ville du have 'Vent windows'?"; //Machine translated
 "Just to confirm, you wanted ‘Compass’?" = "Bare for at bekræfte, ville du have 'Kompas'?"; //Machine translated
@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Der er ${count} muligheder, der matcher 'Mørk'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Der er ${count} muligheder, der matcher 'Lys'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Der er ${count} muligheder, der matcher 'Auto'."; //Machine translated
+"Information" = "Information"; //No Machine Translation
+"Warnings" = "Advarsler"; //Machine translated
+"Errors" = "Fejl"; //Machine translated
+"rear" = "bag"; //Machine translated
+"front" = "foran"; //Machine translated
+"Recommended cold pressure" = "Anbefalet koldt tryk"; //Machine translated
+"front and rear" = "for og bag"; //Machine translated

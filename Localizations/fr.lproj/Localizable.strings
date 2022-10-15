@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Il existe ${count} options correspondant à 'Dark'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Il existe ${count} options correspondant à 'Lumière'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Il existe ${count} options correspondant à 'Auto'."; //Machine translated
+"Information" = "Informations"; //Machine translated
+"Warnings" = "Avertissements"; //Machine translated
+"Errors" = "les erreurs"; //Machine translated
+"rear" = "arrière"; //Machine translated
+"front" = "de face"; //Machine translated
+"Recommended cold pressure" = "Pression à froid recommandée"; //Machine translated
+"front and rear" = "devant et derrière"; //Machine translated

@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Det er ${count} alternativer som samsvarer med 'Mørk'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Det er ${count} alternativer som samsvarer med 'Lys'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Det er ${count} alternativer som samsvarer med 'Auto'."; //Machine translated
+"Information" = "Informasjon"; //Machine translated
+"Warnings" = "Advarsler"; //Machine translated
+"Errors" = "Feil"; //Machine translated
+"rear" = "bak"; //Machine translated
+"front" = "front"; //No Machine Translation
+"Recommended cold pressure" = "Anbefalt kaldtrykk"; //Machine translated
+"front and rear" = "fremside og bakside"; //Machine translated

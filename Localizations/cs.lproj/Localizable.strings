@@ -606,3 +606,10 @@
 "There are ${count} options matching ‘Dark’." = "„Tmavý“ odpovídá ${count} možností."; //Machine translated
 "There are ${count} options matching ‘Light’." = "„Světlo“ odpovídá ${count} možností."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Možností „Auto“ odpovídá ${count}."; //Machine translated
+"Information" = "Informace"; //Machine translated
+"Warnings" = "Varování"; //Machine translated
+"Errors" = "Chyby"; //Machine translated
+"rear" = "zadní"; //Machine translated
+"front" = "přední"; //Machine translated
+"Recommended cold pressure" = "Doporučený tlak za studena"; //Machine translated
+"front and rear" = "přední a zadní"; //Machine translated
