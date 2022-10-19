@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "「Dark」に一致する ${count} 個のオプションがあります。"; //Machine translated
 "There are ${count} options matching ‘Light’." = "「Light」に一致する ${count} 個のオプションがあります。"; //Machine translated
 "There are ${count} options matching ‘Auto’." = "「Auto」に一致する ${count} 個のオプションがあります。"; //Machine translated
+"Information" = "情報"; //Machine translated
+"Warnings" = "警告"; //Machine translated
+"Errors" = "エラー"; //Machine translated
+"rear" = "後方"; //Machine translated
+"front" = "フロント"; //Machine translated
+"Recommended cold pressure" = "推奨冷圧"; //Machine translated
+"front and rear" = "フロントとリア"; //Machine translated

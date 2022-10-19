@@ -588,3 +588,10 @@
 "There are ${count} options matching ‘Dark’." = "有 ${count} 個選項匹配“Dark”。"; //Machine translated
 "There are ${count} options matching ‘Light’." = "有 ${count} 個選項匹配“Light”。"; //Machine translated
 "There are ${count} options matching ‘Auto’." = "有 ${count} 個選項匹配“自動”。"; //Machine translated
+"Information" = "信息"; //Machine translated
+"Warnings" = "警告"; //Machine translated
+"Errors" = "錯誤"; //Machine translated
+"rear" = "後部"; //Machine translated
+"front" = "正面"; //Machine translated
+"Recommended cold pressure" = "推薦冷壓"; //Machine translated
+"front and rear" = "前部和後部"; //Machine translated

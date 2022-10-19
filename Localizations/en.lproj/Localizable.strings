@@ -621,3 +621,10 @@
 "There are ${count} options matching ‘Dark’." = "There are ${count} options matching ‘Dark’.";
 "There are ${count} options matching ‘Light’." = "There are ${count} options matching ‘Light’.";
 "There are ${count} options matching ‘Auto’." = "There are ${count} options matching ‘Auto’.";
+"Information" = "Information";
+"Warnings" = "Warnings";
+"Errors" = "Errors";
+"rear" = "rear";
+"front" = "front";
+"Recommended cold pressure" = "Recommended cold pressure";
+"front and rear" = "front and rear";

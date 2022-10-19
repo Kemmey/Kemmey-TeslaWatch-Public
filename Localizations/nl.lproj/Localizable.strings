@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Er zijn ${count} opties die overeenkomen met 'Dark'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Er zijn ${count} opties die overeenkomen met 'Licht'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Er zijn ${count} opties die overeenkomen met 'Auto'."; //Machine translated
+"Information" = "Informatie"; //Machine translated
+"Warnings" = "Waarschuwingen"; //Machine translated
+"Errors" = "fouten"; //Machine translated
+"rear" = "achterkant"; //Machine translated
+"front" = "voorkant"; //Machine translated
+"Recommended cold pressure" = "Aanbevolen koude druk"; //Machine translated
+"front and rear" = "voorkant en achterkant"; //Machine translated

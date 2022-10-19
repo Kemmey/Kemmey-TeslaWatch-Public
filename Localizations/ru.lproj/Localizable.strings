@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Есть варианты: ${count}, соответствующие варианту 'Темный'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Есть ${count} вариантов, соответствующих варианту 'Светлый'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Есть ${count} вариантов, соответствующих параметру 'Авто'."; //Machine translated
+"Information" = "Информация"; //Machine translated
+"Warnings" = "Предупреждения"; //Machine translated
+"Errors" = "Ошибки"; //Machine translated
+"rear" = "задний"; //Machine translated
+"front" = "фронт"; //Machine translated
+"Recommended cold pressure" = "Рекомендуемое холодное давление"; //Machine translated
+"front and rear" = "передний и задний"; //Machine translated

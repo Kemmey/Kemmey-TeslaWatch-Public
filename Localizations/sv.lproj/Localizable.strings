@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Det finns ${count} alternativ som matchar 'Mörkt'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Det finns ${count} alternativ som matchar 'Ljus'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Det finns ${count} alternativ som matchar 'Auto'."; //Machine translated
+"Information" = "Information"; //No Machine Translation
+"Warnings" = "Varningar"; //Machine translated
+"Errors" = "Fel"; //Machine translated
+"rear" = "bak"; //Machine translated
+"front" = "främre"; //Machine translated
+"Recommended cold pressure" = "Rekommenderat kalltryck"; //Machine translated
+"front and rear" = "fram och bak"; //Machine translated

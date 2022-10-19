@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "'Dark'와 일치하는 ${count}개의 옵션이 있습니다."; //Machine translated
 "There are ${count} options matching ‘Light’." = "'Light'와 일치하는 ${count}개의 옵션이 있습니다."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "'자동'과 일치하는 ${count}개의 옵션이 있습니다."; //Machine translated
+"Information" = "정보"; //Machine translated
+"Warnings" = "경고"; //Machine translated
+"Errors" = "오류"; //Machine translated
+"rear" = "뒤쪽"; //Machine translated
+"front" = "앞쪽"; //Machine translated
+"Recommended cold pressure" = "권장 냉압"; //Machine translated
+"front and rear" = "전면 및 후면"; //Machine translated

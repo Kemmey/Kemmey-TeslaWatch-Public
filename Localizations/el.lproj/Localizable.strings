@@ -605,3 +605,10 @@
 "There are ${count} options matching ‘Dark’." = "Υπάρχουν ${count} επιλογές που ταιριάζουν με το 'Dark'."; //Machine translated
 "There are ${count} options matching ‘Light’." = "Υπάρχουν ${count} επιλογές που ταιριάζουν με το 'Light'."; //Machine translated
 "There are ${count} options matching ‘Auto’." = "Υπάρχουν ${count} επιλογές που ταιριάζουν με το 'Auto'."; //Machine translated
+"Information" = "Πληροφορίες"; //Machine translated
+"Warnings" = "Προειδοποιήσεις"; //Machine translated
+"Errors" = "Σφάλματα"; //Machine translated
+"rear" = "όπισθεν"; //Machine translated
+"front" = "εμπρός"; //Machine translated
+"Recommended cold pressure" = "Συνιστώμενη κρύα πίεση"; //Machine translated
+"front and rear" = "εμπρός και πίσω"; //Machine translated
