@@ -467,7 +467,18 @@
             { "build": 1051, "change": "Added debug output to show size of local database." },
             { "build": 1057, "change": "Updated database management." },
             { "build": 1057, "change": "Now syncing allow wake and travel mode through iCloud - so toggling on one device, should toggle on all devices." },
-            { "build": 1057, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1078, "change": "Changed Sentry Mode icon to always use filled-in version as it was more readable." },
+            { "build": 1078, "change": "Added new log-level setting - defaults to only log errors, which will keep the log size down." },
+            { "build": 1078, "change": "Added clear logs button to get rid of old large logs." },
+            { "build": 1078, "change": "Fixed widget settings localizations for Danish." },
+            { "build": 1078, "change": "Added sample data when configuring widgets to make them show up faster." },
+            { "build": 1078, "change": "Fixed charge stats not updating UI immediately upon receiving new stats." },
+            { "build": 1078, "change": "Added reccommended TPMS cold temperature pressure settings to TPMS view in vehicle chooser." },
+            { "build": 1078, "change": "When data is old, only some elements of main UI will now be dimmed, as not all features are unavailable or untrustworthy data." },
+            { "build": 1078, "change": "Added detailed charge stats - tap the charge stats chart on main screen to see larger and summary." },
+            { "build": 1078, "change": "Only show chart legend for columns showed on the chart" },
+            { "build": 1078, "change": "Migrated vehicle data history to only store certain interesting historic values and not all captured data. This will take some time on first initial startup to convert - but afterwards will significantly reduce size of local database." },
+            { "build": 1078, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
