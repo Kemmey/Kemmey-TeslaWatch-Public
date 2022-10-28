@@ -479,8 +479,9 @@
             { "build": 1078, "change": "Only show chart legend for columns showed on the chart" },
             { "build": 1078, "change": "Migrated vehicle data history to only store certain interesting historic values and not all captured data. This will take some time on first initial startup to convert - but afterwards will significantly reduce size of local database." },
             { "build": 1082, "change": "Updated extra large widget design for charge stats." },
-            { "build": 1082, "change": "Added Live Activity for charging session. Will only show up if app is open on iPhone while charging session is active. Still a work-in-progress." },
-            { "build": 1082, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1082, "change": "Added Live Activity for charging session. Will only show up if app is open on iPhone while charging session is active and that status has synced to the app." },
+            { "build": 1084, "change": "Added Live Activity for driving session. Will only show up if app is open while vehicle is driving and that status has synced to the app. " },
+            { "build": 1084, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
