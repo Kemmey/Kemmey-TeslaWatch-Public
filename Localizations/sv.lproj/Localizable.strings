@@ -612,3 +612,9 @@
 "front" = "främre"; //Machine translated
 "Recommended cold pressure" = "Rekommenderat kalltryck"; //Machine translated
 "front and rear" = "fram och bak"; //Machine translated
+"Total" = "Total"; //No Machine Translation
+"Average" = "Medel"; //Machine translated
+"Last %ld days" = "Senaste %ld dagarna"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Visar den övergripande statusen för det aktiva fordonet, tillsammans med så många kontroller som passar."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Visar den senaste laddningsstatistiken från det aktiva fordonet."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Visar så många kontroller för det aktiva fordonet som får plats. För enstaka kontroller, använd widgetkonfigurationen för att välja vilken kontroll som ska visas."; //Machine translated

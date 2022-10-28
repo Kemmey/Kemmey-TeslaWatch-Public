@@ -628,3 +628,9 @@
 "front" = "front";
 "Recommended cold pressure" = "Recommended cold pressure";
 "front and rear" = "front and rear";
+"Total" = "Total";
+"Average" = "Average";
+"Last %ld days" = "Last %ld days";
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Shows the overall status of the active vehicle, along with as many controls as will fit.";
+"Shows the most recent charge statistics from the active vehicle." = "Shows the most recent charge statistics from the active vehicle.";
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show.";

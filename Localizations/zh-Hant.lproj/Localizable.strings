@@ -595,3 +595,9 @@
 "front" = "正面"; //Machine translated
 "Recommended cold pressure" = "推薦冷壓"; //Machine translated
 "front and rear" = "前部和後部"; //Machine translated
+"Total" = "全部的"; //Machine translated
+"Average" = "平均"; //Machine translated
+"Last %ld days" = "過去 %ld 天"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "顯示活動車輛的整體狀態，以及盡可能多的控件。"; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "顯示當前車輛的最新充電統計信息。"; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "顯示盡可能多的活動車輛控件。對於單個控件，請使用小部件配置來選擇要顯示的控件。"; //Machine translated

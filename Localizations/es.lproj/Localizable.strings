@@ -612,3 +612,9 @@
 "front" = "frente"; //Machine translated
 "Recommended cold pressure" = "Presión fría recomendada"; //Machine translated
 "front and rear" = "parte delantera y trasera"; //Machine translated
+"Total" = "Total"; //No Machine Translation
+"Average" = "Promedio"; //Machine translated
+"Last %ld days" = "últimos %ld días"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Muestra el estado general del vehículo activo, junto con todos los controles que quepan."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Muestra las estadísticas de carga más recientes del vehículo activo."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Muestra tantos controles del vehículo activo como quepan. Para controles individuales, use la configuración del widget para elegir qué control mostrar."; //Machine translated

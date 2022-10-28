@@ -613,3 +613,9 @@
 "front" = "přední"; //Machine translated
 "Recommended cold pressure" = "Doporučený tlak za studena"; //Machine translated
 "front and rear" = "přední a zadní"; //Machine translated
+"Total" = "Celkový"; //Machine translated
+"Average" = "Průměrný"; //Machine translated
+"Last %ld days" = "Posledních %ld dní"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Zobrazuje celkový stav aktivního vozidla spolu s tolika ovládacími prvky, kolik se vejde."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Zobrazuje nejnovější statistiky nabíjení z aktivního vozidla."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Zobrazuje tolik ovládacích prvků aktivního vozidla, kolik se vejde. U jednotlivých ovládacích prvků použijte konfiguraci widgetu k výběru, který ovládací prvek se má zobrazit."; //Machine translated

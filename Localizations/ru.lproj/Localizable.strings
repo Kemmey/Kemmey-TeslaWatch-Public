@@ -612,3 +612,9 @@
 "front" = "фронт"; //Machine translated
 "Recommended cold pressure" = "Рекомендуемое холодное давление"; //Machine translated
 "front and rear" = "передний и задний"; //Machine translated
+"Total" = "Общий"; //Machine translated
+"Average" = "Средний"; //Machine translated
+"Last %ld days" = "Последние %ld дня"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Показывает общее состояние активного автомобиля, а также столько элементов управления, сколько поместится."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Показывает самую последнюю статистику заряда активного автомобиля."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Показывает столько элементов управления активного автомобиля, сколько поместится. Для отдельных элементов управления используйте конфигурацию виджета, чтобы выбрать элемент управления для отображения."; //Machine translated

@@ -612,3 +612,9 @@
 "front" = "フロント"; //Machine translated
 "Recommended cold pressure" = "推奨冷圧"; //Machine translated
 "front and rear" = "フロントとリア"; //Machine translated
+"Total" = "合計"; //Machine translated
+"Average" = "平均"; //Machine translated
+"Last %ld days" = "過去 %ld 日間"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "アクティブな車両の全体的なステータスと、収まる数のコントロールを表示します。"; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "アクティブな車両からの最新の充電統計を表示します。"; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "アクティブな車両のコントロールをできるだけ多く表示します。単一のコントロールの場合は、ウィジェット構成を使用して、表示するコントロールを選択してください。"; //Machine translated

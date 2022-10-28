@@ -612,3 +612,9 @@
 "front" = "εμπρός"; //Machine translated
 "Recommended cold pressure" = "Συνιστώμενη κρύα πίεση"; //Machine translated
 "front and rear" = "εμπρός και πίσω"; //Machine translated
+"Total" = "Σύνολο"; //Machine translated
+"Average" = "Μέση τιμή"; //Machine translated
+"Last %ld days" = "Τελευταίες %ld ημέρες"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Δείχνει τη συνολική κατάσταση του ενεργού οχήματος, μαζί με όσα χειριστήρια χωρούν."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Εμφανίζει τα πιο πρόσφατα στατιστικά στοιχεία φόρτισης από το ενεργό όχημα."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Εμφανίζει όσα χειριστήρια του ενεργού οχήματος χωρούν. Για μεμονωμένα στοιχεία ελέγχου, χρησιμοποιήστε τη διαμόρφωση του γραφικού στοιχείου για να επιλέξετε ποιο στοιχείο ελέγχου θα εμφανίζεται."; //Machine translated

@@ -612,3 +612,9 @@
 "front" = "foran"; //Machine translated
 "Recommended cold pressure" = "Anbefalet koldt tryk"; //Machine translated
 "front and rear" = "for og bag"; //Machine translated
+"Total" = "I alt"; //Machine translated
+"Average" = "Gennemsnit"; //Machine translated
+"Last %ld days" = "Sidste %ld dage"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Viser den overordnede status for det aktive køretøj sammen med så mange kontroller, der passer."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Viser den seneste ladningsstatistik fra det aktive køretøj."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Viser så mange kontroller af det aktive køretøj, som passer. For enkelte kontroller skal du bruge widgetkonfigurationen til at vælge hvilken kontrol der skal vises."; //Machine translated

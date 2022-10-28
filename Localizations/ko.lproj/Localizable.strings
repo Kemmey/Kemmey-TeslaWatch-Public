@@ -612,3 +612,9 @@
 "front" = "앞쪽"; //Machine translated
 "Recommended cold pressure" = "권장 냉압"; //Machine translated
 "front and rear" = "전면 및 후면"; //Machine translated
+"Total" = "총"; //Machine translated
+"Average" = "평균"; //Machine translated
+"Last %ld days" = "지난 %ld일"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "활성화된 차량의 전체 상태와 가능한 한 많은 컨트롤을 표시합니다."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "활성 차량의 가장 최근 충전 통계를 표시합니다."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "활성 차량의 컨트롤을 가능한 한 많이 표시합니다. 단일 컨트롤의 경우 위젯 구성을 사용하여 표시할 컨트롤을 선택하십시오."; //Machine translated
