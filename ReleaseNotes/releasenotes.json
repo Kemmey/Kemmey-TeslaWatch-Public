@@ -481,7 +481,10 @@
             { "build": 1082, "change": "Updated extra large widget design for charge stats." },
             { "build": 1082, "change": "Added Live Activity for charging session. Will only show up if app is open on iPhone while charging session is active and that status has synced to the app." },
             { "build": 1084, "change": "Added Live Activity for driving session. Will only show up if app is open while vehicle is driving and that status has synced to the app. " },
-            { "build": 1086, "change": "Significantly improved speed of widgets. This required removing a huge dependency, possibly impacting state-treatment of all controls - please report any regressions in controls not reflecting state updates." },
+            { "build": 1085, "change": "Significantly improved speed of widgets. This required removing a huge dependency, possibly impacting state-treatment of all controls - please report any regressions in controls not reflecting state updates." },
+            { "build": 1086, "change": "Added charge stats lock screen widget." },
+            { "build": 1086, "change": "Added data age indicator to live activities." },
+            { "build": 1086, "change": "Fixed charge session live activity not counting down to end time." },
             { "build": 1086, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
