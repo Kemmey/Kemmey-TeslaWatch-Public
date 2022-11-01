@@ -485,7 +485,9 @@
             { "build": 1087, "change": "Added charge stats lock screen widget." },
             { "build": 1087, "change": "Added data age indicator to live activities." },
             { "build": 1087, "change": "Fixed charge session live activity not counting down to end time." },
-            { "build": 1087, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1090, "change": "Charging session live activity now sends a notification when charging is complete. Will also show charging is complete and at what time." },
+            { "build": 1090, "change": "Now updates live activity at all the same places where widgets update - hopefully that will push data to both widgets and live activity." },
+            { "build": 1090, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
