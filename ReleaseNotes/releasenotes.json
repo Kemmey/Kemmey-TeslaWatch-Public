@@ -480,7 +480,10 @@
             { "build": 1078, "change": "Migrated vehicle data history to only store certain interesting historic values and not all captured data. This will take some time on first initial startup to convert - but afterwards will significantly reduce size of local database." },
             { "build": 1082, "change": "Updated extra large widget design for charge stats." },
             { "build": 1082, "change": "Added Live Activity for charging session. Will only show up if app is open on iPhone while charging session is active. Still a work-in-progress." },
-            { "build": 1082, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1106, "change": "Added delete all data button in the debug menu. Helpful if database has grown too large during beta testing phase. App will now try to trim data properly, and only store data as needed for future features." },
+            { "build": 1106, "change": "Live Activities will not only send push updates when SoC changes - but will update with a higher frequency server-side to improve the timing of these pushes." },
+            { "build": 1106, "change": "Added navigation details to driving view." },
+            { "build": 1106, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
