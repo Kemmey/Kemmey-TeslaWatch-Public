@@ -492,7 +492,6 @@
             { "build": 1101, "change": "Added navigation data to driving view bar in main apps." },
             { "build": 1106, "change": "Added delete all data button in the debug menu. Helpful if database has grown too large during beta testing phase. App will now try to trim data properly, and only store data as needed for future features." },
             { "build": 1106, "change": "Live Activities will not only send push updates when SoC changes - but will update with a higher frequency server-side to improve the timing of these pushes." },
-            { "build": 1106, "change": "Added navigation details to driving view." },
             { "build": 1106, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
