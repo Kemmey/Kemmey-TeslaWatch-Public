@@ -612,3 +612,11 @@
 "front" = "voorkant"; //Machine translated
 "Recommended cold pressure" = "Aanbevolen koude druk"; //Machine translated
 "front and rear" = "voorkant en achterkant"; //Machine translated
+"Total" = "Totaal"; //Machine translated
+"Average" = "Gemiddeld"; //Machine translated
+"Last %ld days" = "Afgelopen %ld dagen"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Toont de algemene status van het actieve voertuig, samen met zoveel bedieningselementen als past."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Toont de meest recente laadstatistieken van het actieve voertuig."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Toont zoveel bedieningselementen van het actieve voertuig als er passen. Gebruik voor enkele bedieningselementen de widgetconfiguratie om te kiezen welk bedieningselement moet worden weergegeven."; //Machine translated
+"Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "Laat uw persoonlijke toegangstoken (met een levensduur van maximaal 8 uur) naar de cloud worden verzonden. Als deze optie is uitgeschakeld, wordt alle verwerking lokaal op het apparaat uitgevoerd - uw token verlaat uw apparaat nooit, behalve voor authenticatie bij Tesla. Wanneer cloudverwerking is ingeschakeld, wordt een beperkte reeks langlopende processen uitgevoerd vanuit een serverloze cloudinfrastructuur, waardoor in sommige scenario's gegevensupdates met een hogere frequentie mogelijk zijn."; //Machine translated
+"Enable cloud processing" = "Cloudverwerking inschakelen"; //Machine translated

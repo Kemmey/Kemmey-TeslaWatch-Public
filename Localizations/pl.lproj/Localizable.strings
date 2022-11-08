@@ -613,3 +613,11 @@
 "front" = "przód"; //Machine translated
 "Recommended cold pressure" = "Zalecane ciśnienie na zimno"; //Machine translated
 "front and rear" = "przód i tył"; //Machine translated
+"Total" = "Całkowity"; //Machine translated
+"Average" = "Przeciętny"; //Machine translated
+"Last %ld days" = "Ostatnie %ld dni"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Pokazuje ogólny stan aktywnego pojazdu wraz z tyloma elementami sterującymi, ile zmieści się."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Pokazuje najnowsze statystyki ładowania aktywnego pojazdu."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Pokazuje tyle elementów sterujących aktywnego pojazdu, ile zmieści się. W przypadku pojedynczych elementów sterujących użyj konfiguracji widżetu, aby wybrać, który element ma być wyświetlany."; //Machine translated
+"Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "Zezwól na wysyłanie osobistego tokena dostępu (o żywotności do 8 godzin) do chmury. Gdy jest wyłączone, całe przetwarzanie odbywa się lokalnie na urządzeniu – token nigdy nie opuszcza urządzenia, z wyjątkiem uwierzytelnienia za pomocą Tesli. Gdy przetwarzanie w chmurze jest włączone, ograniczony zestaw długotrwałych procesów będzie wykonywany z bezserwerowej infrastruktury chmury, co w niektórych scenariuszach pozwoli na częstsze aktualizowanie danych."; //Machine translated
+"Enable cloud processing" = "Włącz przetwarzanie w chmurze"; //Machine translated

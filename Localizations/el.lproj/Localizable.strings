@@ -612,3 +612,11 @@
 "front" = "εμπρός"; //Machine translated
 "Recommended cold pressure" = "Συνιστώμενη κρύα πίεση"; //Machine translated
 "front and rear" = "εμπρός και πίσω"; //Machine translated
+"Total" = "Σύνολο"; //Machine translated
+"Average" = "Μέση τιμή"; //Machine translated
+"Last %ld days" = "Τελευταίες %ld ημέρες"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "Δείχνει τη συνολική κατάσταση του ενεργού οχήματος, μαζί με όσα χειριστήρια χωρούν."; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "Εμφανίζει τα πιο πρόσφατα στατιστικά στοιχεία φόρτισης από το ενεργό όχημα."; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Εμφανίζει όσα χειριστήρια του ενεργού οχήματος χωρούν. Για μεμονωμένα στοιχεία ελέγχου, χρησιμοποιήστε τη διαμόρφωση του γραφικού στοιχείου για να επιλέξετε ποιο στοιχείο ελέγχου θα εμφανίζεται."; //Machine translated
+"Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "Επιτρέψτε στο προσωπικό σας διακριτικό πρόσβασης (με διάρκεια ζωής έως και 8 ώρες) να σταλεί στο cloud. Όταν είναι απενεργοποιημένη, όλη η επεξεργασία γίνεται τοπικά στη συσκευή - το διακριτικό σας δεν φεύγει ποτέ από τη συσκευή σας εκτός από τον έλεγχο ταυτότητας με την Tesla. Όταν η επεξεργασία cloud είναι ενεργοποιημένη, ένα περιορισμένο σύνολο μακροχρόνιων διαδικασιών θα εκτελείται από υποδομή cloud χωρίς διακομιστή, επιτρέποντας ενημερώσεις δεδομένων υψηλότερης συχνότητας σε ορισμένα σενάρια."; //Machine translated
+"Enable cloud processing" = "Ενεργοποίηση επεξεργασίας cloud"; //Machine translated

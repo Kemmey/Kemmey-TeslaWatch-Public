@@ -614,3 +614,11 @@
 "front" = "正面"; //Machine translated
 "Recommended cold pressure" = "推荐冷压"; //Machine translated
 "front and rear" = "前部和后部"; //Machine translated
+"Total" = "全部的"; //Machine translated
+"Average" = "平均"; //Machine translated
+"Last %ld days" = "过去 %ld 天"; //Machine translated
+"Shows the overall status of the active vehicle, along with as many controls as will fit." = "显示活动车辆的整体状态，以及尽可能多的控件。"; //Machine translated
+"Shows the most recent charge statistics from the active vehicle." = "显示当前车辆的最新充电统计信息。"; //Machine translated
+"Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "显示尽可能多的活动车辆控件。对于单个控件，请使用小部件配置来选择要显示的控件。"; //Machine translated
+"Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "允许将您的个人访问令牌（使用寿命长达 8 小时）发送到云端。关闭时，所有处理都在设备本地完成 - 您的令牌永远不会离开您的设备，除非通过 Tesla 进行身份验证。启用云处理后，将从无服务器云基础架构执行一组有限的长时间运行的进程，从而在某些情况下允许更高频率的数据更新。"; //Machine translated
+"Enable cloud processing" = "启用云处理"; //Machine translated
