@@ -603,3 +603,4 @@
 "Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "顯示盡可能多的活動車輛控件。對於單個控件，請使用小部件配置來選擇要顯示的控件。"; //Machine translated
 "Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "允許將您的個人訪問令牌（使用壽命長達 8 小時）發送到雲端。關閉時，所有處理都在設備本地完成 - 您的令牌永遠不會離開您的設備，除非通過 Tesla 進行身份驗證。啟用雲處理後，將從無服務器雲基礎架構執行一組有限的長時間運行的進程，從而在某些情況下允許更高頻率的數據更新。"; //Machine translated
 "Enable cloud processing" = "啟用雲處理"; //Machine translated
+"No data" = "沒有數據"; //Machine translated
