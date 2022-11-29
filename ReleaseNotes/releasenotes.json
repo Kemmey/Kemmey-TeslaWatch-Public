@@ -492,8 +492,10 @@
         "version": "1.2.7",
         "changes": [
             { "build": 1111, "change": "Initial 1.2.7 build" },
-            { "build": 1116, "change": "When cloud processing is enabled, command executions will now be performed in the cloud. Command will time out after 1 minute and 15 seconds, if unable to wake in that time. This applies to Siri and Shortcuts as well. For now, notifications will always be sent with command result - this will be fixed." },
-            { "build": 1116, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1123, "change": "When cloud processing is enabled, command executions will now be performed in the cloud. Command will time out after 1 minute and 15 seconds, if unable to wake in that time. This applies to Siri and Shortcuts as well." },
+            { "build": 1123, "change": "Updated opacity to only dim header-view when data is old. All commands should execute just fine in this state, especially with cloud processing enabled." },
+            { "build": 1123, "change": "Command executions will only be deferred to cloud if local data is older than 7 seconds (and cloud processing is enabled) - otherwise local device will execute comand directly." },
+            { "build": 1123, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
