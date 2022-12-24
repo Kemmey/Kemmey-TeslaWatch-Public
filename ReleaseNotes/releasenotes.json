@@ -495,7 +495,8 @@
             { "build": 1123, "change": "When cloud processing is enabled, command executions will now be performed in the cloud. Command will time out after 1 minute and 15 seconds, if unable to wake in that time. This applies to Siri and Shortcuts as well." },
             { "build": 1123, "change": "Updated opacity to only dim header-view when data is old. All commands should execute just fine in this state, especially with cloud processing enabled." },
             { "build": 1123, "change": "Command executions will only be deferred to cloud if local data is older than 7 seconds (and cloud processing is enabled) - otherwise local device will execute comand directly." },
-            { "build": 1123, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1126, "change": "Holiday present for all you lovely beta testers - Bluetooth LE Direct connectivity is here! Swipe into controls, then tap BLE Controls and scan, connect, whitelist your watch, and you can control vehicle completely offline. Works as semi-passive entry as well - app has to be open and awake on watch screen and connected to vehicle, then grab door handle and car will auto-unlock. This is a quick proof-of-concept first iteration, and I will improve it to be pretty much invisible in daily use, as with the official Tesla app. But for now, please enjoy this VERY highly requested feature! Happy holidays! :-D" },
+            { "build": 1126, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
