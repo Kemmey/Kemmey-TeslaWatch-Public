@@ -636,3 +636,4 @@
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "Autorizzazioni Bluetooth non concesse: consenti all'app di utilizzare il Bluetooth dalle impostazioni di sistema."; //Machine translated
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Quando è abilitato e le autorizzazioni sono concesse, questo dispositivo può essere associato come chiave nel veicolo."; //Machine translated
 "Direct Controls" = "Controlli Diretti"; //Machine translated
+"Vehicle not within range" = "Veicolo fuori portata"; //Machine translated

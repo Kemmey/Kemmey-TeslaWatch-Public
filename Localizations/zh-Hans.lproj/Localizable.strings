@@ -638,3 +638,4 @@
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "未授予蓝牙权限 - 请允许应用程序使用系统设置中的蓝牙。"; //Machine translated
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "启用并授予权限后，此设备可以作为车辆中的钥匙进行配对。"; //Machine translated
 "Direct Controls" = "直接控制"; //Machine translated
+"Vehicle not within range" = "车辆不在范围内"; //Machine translated

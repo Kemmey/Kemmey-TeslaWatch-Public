@@ -636,3 +636,4 @@
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "Bluetooth 権限が付与されていません - システム設定からアプリが Bluetooth を使用することを許可してください。"; //Machine translated
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "有効にすると、権限が付与され、このデバイスを車両のキーとしてペアリングできます。"; //Machine translated
 "Direct Controls" = "ダイレクトコントロール"; //Machine translated
+"Vehicle not within range" = "車両が範囲内にありません"; //Machine translated

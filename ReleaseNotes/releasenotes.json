@@ -496,7 +496,12 @@
             { "build": 1123, "change": "Updated opacity to only dim header-view when data is old. All commands should execute just fine in this state, especially with cloud processing enabled." },
             { "build": 1123, "change": "Command executions will only be deferred to cloud if local data is older than 7 seconds (and cloud processing is enabled) - otherwise local device will execute comand directly." },
             { "build": 1133, "change": "Holiday present for all you lovely beta testers - Bluetooth LE Direct connectivity is here! Enable Bluetooth in Settings, then swipe into controls, then tap Direct Controls and add your watch as key in the car, and you can control vehicle completely offline. Works as semi-passive entry as well - app has to be open and awake on watch screen and connected to vehicle, then grab door handle and car will auto-unlock. This is a quick proof-of-concept first iteration, and I will improve it to be pretty much invisible in daily use, as with the official Tesla app. But for now, please enjoy this VERY highly requested feature! Happy holidays! :-D" },
-            { "build": 1133, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1138, "change": "Bluetooth API - now properly allows switching vehicles, including scanning and connecting to new vehicle using Bluetooth." },
+            { "build": 1138, "change": "Bluetooth API - now using Bluetooth for lock/unlock, open/close chargeport, open trunk and frunk when using regular controls." },
+            { "build": 1138, "change": "Bluetooth API - now using Bluetooth for open features, specifically doors, trunks and lock state." },
+            { "build": 1138, "change": "Bluetooth API - added Bluetooth specific logs." },
+            { "build": 1138, "change": "Bluetooth API - now shows an icon in title area when directly connected to car." },
+            { "build": 1138, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

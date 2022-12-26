@@ -636,3 +636,4 @@
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "Δεν παραχωρήθηκαν δικαιώματα Bluetooth - επιτρέψτε στην εφαρμογή να χρησιμοποιεί Bluetooth από τις ρυθμίσεις συστήματος."; //Machine translated
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Όταν είναι ενεργοποιημένη και χορηγούνται άδειες, αυτή η συσκευή μπορεί να αντιστοιχιστεί ως κλειδί στο όχημα."; //Machine translated
 "Direct Controls" = "Άμεσοι έλεγχοι"; //Machine translated
+"Vehicle not within range" = "Το όχημα δεν βρίσκεται εντός εμβέλειας"; //Machine translated

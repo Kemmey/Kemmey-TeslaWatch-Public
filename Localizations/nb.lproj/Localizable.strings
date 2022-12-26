@@ -636,3 +636,4 @@
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "Bluetooth-tillatelser ikke gitt - la appen bruke Bluetooth fra systeminnstillingene."; //Machine translated
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Når den er aktivert, og tillatelser er gitt, kan denne enheten sammenkobles som en nøkkel i kjøretøyet."; //Machine translated
 "Direct Controls" = "Direkte kontroller"; //Machine translated
+"Vehicle not within range" = "Kjøretøy ikke innenfor rekkevidde"; //Machine translated

@@ -652,3 +652,4 @@
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings.";
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "When enabled, and permissions are granted, this device can be paired as a key in the vehicle.";
 "Direct Controls" = "Direct Controls";
+"Vehicle not within range" = "Vehicle not within range";
