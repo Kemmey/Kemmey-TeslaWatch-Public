@@ -500,6 +500,7 @@
             { "build": 1138, "change": "Bluetooth API - now using Bluetooth for lock/unlock, open/close chargeport, open trunk and frunk when using regular controls." },
             { "build": 1138, "change": "Bluetooth API - now using Bluetooth for open features, specifically doors, trunks and lock state." },
             { "build": 1138, "change": "Bluetooth API - added Bluetooth specific logs." },
+            { "build": 1138, "change": "Bluetooth API - more robust error handling - now properly handles key being removed from vehicle." },
             { "build": 1138, "change": "Bluetooth API - now shows an icon in title area when directly connected to car." },
             { "build": 1138, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
