@@ -645,3 +645,5 @@
 "Front Passenger" = "Pasażer z przodu"; //Machine translated
 "Rear Driver" = "Tylny kierowca"; //Machine translated
 "Rear Passenger" = "Pasażer z tyłu"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "Wskaźnik połączenia bezpośredniego — pojazd jest bezpośrednio połączony przez Bluetooth"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Wskaźnik wieku danych - jak dawno dane wyświetlane w interfejsie użytkownika zostały pobrane z pojazdu"; //Machine translated

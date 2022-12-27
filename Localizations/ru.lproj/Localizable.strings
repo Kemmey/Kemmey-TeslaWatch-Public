@@ -644,3 +644,5 @@
 "Front Passenger" = "Передний пассажир"; //Machine translated
 "Rear Driver" = "Задний водитель"; //Machine translated
 "Rear Passenger" = "Задний пассажир"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "Индикатор прямого подключения — автомобиль подключен напрямую через Bluetooth"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Индикатор возраста данных — как давно данные, отображаемые в пользовательском интерфейсе, были получены из транспортного средства."; //Machine translated

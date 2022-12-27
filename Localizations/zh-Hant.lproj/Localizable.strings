@@ -627,3 +627,5 @@
 "Front Passenger" = "前排乘客"; //Machine translated
 "Rear Driver" = "後司機"; //Machine translated
 "Rear Passenger" = "後排乘客"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "直接連接指示燈 - 車輛通過藍牙直接連接"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "數據年齡指示器——多長時間前在 UI 中顯示的數據是從車輛中獲取的"; //Machine translated

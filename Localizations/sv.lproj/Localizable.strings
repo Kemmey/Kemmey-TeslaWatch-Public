@@ -644,3 +644,5 @@
 "Front Passenger" = "Frampassagerare"; //Machine translated
 "Rear Driver" = "Bakre förare"; //Machine translated
 "Rear Passenger" = "Bakre passagerare"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "Direktanslutningsindikator - fordonet är direktanslutet via Bluetooth"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Data åldersindikator - hur länge sedan data visades i användargränssnittet hämtades från fordonet"; //Machine translated

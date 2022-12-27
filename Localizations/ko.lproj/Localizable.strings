@@ -644,3 +644,5 @@
 "Front Passenger" = "조수석"; //Machine translated
 "Rear Driver" = "리어 드라이버"; //Machine translated
 "Rear Passenger" = "뒷좌석 승객"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "직접 연결 표시기 - 차량이 블루투스를 통해 직접 연결됨"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "데이터 수명 표시기 - UI에 표시된 데이터가 차량에서 가져온 기간"; //Machine translated

@@ -644,3 +644,5 @@
 "Front Passenger" = "Passasjer foran"; //Machine translated
 "Rear Driver" = "Driver bak"; //Machine translated
 "Rear Passenger" = "Passasjer bak"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "Direkte tilkoblingsindikator - kjøretøyet er direkte tilkoblet via Bluetooth"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Data aldersindikator - hvor lenge siden ble data vist i brukergrensesnittet hentet fra kjøretøyet"; //Machine translated

@@ -644,3 +644,5 @@
 "Front Passenger" = "Μπροστινός επιβάτης"; //Machine translated
 "Rear Driver" = "Πίσω Οδηγός"; //Machine translated
 "Rear Passenger" = "Πίσω επιβάτης"; //Machine translated
+"Direct connection indicator - vehicle is directly connected via Bluetooth" = "Ένδειξη άμεσης σύνδεσης - το όχημα συνδέεται απευθείας μέσω Bluetooth"; //Machine translated
+"Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Ένδειξη ηλικίας δεδομένων - πριν από πόσο καιρό τα δεδομένα που εμφανίστηκαν στη διεπαφή χρήστη ελήφθησαν από το όχημα"; //Machine translated
