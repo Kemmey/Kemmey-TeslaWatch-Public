@@ -638,3 +638,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Když je povoleno a jsou udělena oprávnění, lze toto zařízení spárovat jako klíč ve vozidle."; //Machine translated
 "Direct Controls" = "Přímé ovládání"; //Machine translated
 "Vehicle not within range" = "Vozidlo není v dosahu"; //Machine translated
+"Vehicle key added" = "Přidán klíč od vozidla"; //Machine translated
+"Remove Key" = "Odebrat klíč"; //Machine translated
+"Unlatch Doors" = "Odemkněte dveře"; //Machine translated
+"Front Driver" = "Přední řidič"; //Machine translated
+"Front Passenger" = "Přední spolujezdec"; //Machine translated
+"Rear Driver" = "Zadní řidič"; //Machine translated
+"Rear Passenger" = "Zadní cestující"; //Machine translated

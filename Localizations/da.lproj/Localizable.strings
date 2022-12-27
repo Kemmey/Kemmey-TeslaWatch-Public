@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Når den er aktiveret, og der er givet tilladelser, kan denne enhed parres som en nøgle i køretøjet."; //Machine translated
 "Direct Controls" = "Direkte kontrol"; //Machine translated
 "Vehicle not within range" = "Køretøj ikke inden for rækkevidde"; //Machine translated
+"Vehicle key added" = "Køretøjsnøgle tilføjet"; //Machine translated
+"Remove Key" = "Fjern nøgle"; //Machine translated
+"Unlatch Doors" = "Frigør døre"; //Machine translated
+"Front Driver" = "Fører foran"; //Machine translated
+"Front Passenger" = "Forreste passager"; //Machine translated
+"Rear Driver" = "Bagerste driver"; //Machine translated
+"Rear Passenger" = "Bagsædepassager"; //Machine translated

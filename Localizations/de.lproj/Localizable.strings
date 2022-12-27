@@ -557,7 +557,7 @@
 "Charge Stats" = "Ladestatistiken"; //Machine translated
 "Home" = "Heim"; //Machine translated
 "Other" = "Sonstiges"; //Machine translated
-"Dismiss" = "Zurückweisen"; //Machine translated
+"Dismiss" = "Schließen";
 "Release notes" = "Versionshinweise"; //Machine translated
 "Work" = "Arbeit"; //Machine translated
 "Vent windows" = "Lüftungsfenster"; //Machine translated
@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Wenn es aktiviert ist und Berechtigungen erteilt wurden, kann dieses Gerät als Schlüssel im Fahrzeug gekoppelt werden."; //Machine translated
 "Direct Controls" = "Direkte Steuerung"; //Machine translated
 "Vehicle not within range" = "Fahrzeug nicht in Reichweite"; //Machine translated
+"Vehicle key added" = "Fahrzeugschlüssel hinzugefügt"; //Machine translated
+"Remove Key" = "Schlüssel entfernen"; //Machine translated
+"Unlatch Doors" = "Türen entriegeln"; //Machine translated
+"Front Driver" = "Fahrer vorne"; //Machine translated
+"Front Passenger" = "Beifahrer vorne"; //Machine translated
+"Rear Driver" = "Fahrer hinten"; //Machine translated
+"Rear Passenger" = "Beifahrer hinten"; //Machine translated

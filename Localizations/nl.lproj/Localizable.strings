@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Indien ingeschakeld en toestemmingen zijn verleend, kan dit apparaat worden gekoppeld als een sleutel in het voertuig."; //Machine translated
 "Direct Controls" = "Directe controles"; //Machine translated
 "Vehicle not within range" = "Voertuig niet binnen bereik"; //Machine translated
+"Vehicle key added" = "Voertuigsleutel toegevoegd"; //Machine translated
+"Remove Key" = "Sleutel verwijderen"; //Machine translated
+"Unlatch Doors" = "Ontgrendel deuren"; //Machine translated
+"Front Driver" = "Bestuurder voor"; //Machine translated
+"Front Passenger" = "Voorste passagier"; //Machine translated
+"Rear Driver" = "Chauffeur achterzijde"; //Machine translated
+"Rear Passenger" = "Passagier achterin"; //Machine translated

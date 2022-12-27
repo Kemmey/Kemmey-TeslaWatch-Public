@@ -639,3 +639,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "启用并授予权限后，此设备可以作为车辆中的钥匙进行配对。"; //Machine translated
 "Direct Controls" = "直接控制"; //Machine translated
 "Vehicle not within range" = "车辆不在范围内"; //Machine translated
+"Vehicle key added" = "已添加车钥匙"; //Machine translated
+"Remove Key" = "删除密钥"; //Machine translated
+"Unlatch Doors" = "打开门"; //Machine translated
+"Front Driver" = "前司机"; //Machine translated
+"Front Passenger" = "前排乘客"; //Machine translated
+"Rear Driver" = "后司机"; //Machine translated
+"Rear Passenger" = "后排乘客"; //Machine translated

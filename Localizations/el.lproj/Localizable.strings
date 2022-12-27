@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Όταν είναι ενεργοποιημένη και χορηγούνται άδειες, αυτή η συσκευή μπορεί να αντιστοιχιστεί ως κλειδί στο όχημα."; //Machine translated
 "Direct Controls" = "Άμεσοι έλεγχοι"; //Machine translated
 "Vehicle not within range" = "Το όχημα δεν βρίσκεται εντός εμβέλειας"; //Machine translated
+"Vehicle key added" = "Προστέθηκε κλειδί οχήματος"; //Machine translated
+"Remove Key" = "Αφαίρεση κλειδιού"; //Machine translated
+"Unlatch Doors" = "Απασφαλίστε τις πόρτες"; //Machine translated
+"Front Driver" = "Μπροστινός οδηγός"; //Machine translated
+"Front Passenger" = "Μπροστινός επιβάτης"; //Machine translated
+"Rear Driver" = "Πίσω Οδηγός"; //Machine translated
+"Rear Passenger" = "Πίσω επιβάτης"; //Machine translated

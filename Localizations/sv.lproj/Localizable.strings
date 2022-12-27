@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "När den är aktiverad och behörigheter beviljas kan den här enheten kopplas ihop som en nyckel i fordonet."; //Machine translated
 "Direct Controls" = "Direkta kontroller"; //Machine translated
 "Vehicle not within range" = "Fordonet är inte inom räckhåll"; //Machine translated
+"Vehicle key added" = "Fordonsnyckel tillagd"; //Machine translated
+"Remove Key" = "Ta bort nyckel"; //Machine translated
+"Unlatch Doors" = "Lås upp dörrar"; //Machine translated
+"Front Driver" = "Främre förare"; //Machine translated
+"Front Passenger" = "Frampassagerare"; //Machine translated
+"Rear Driver" = "Bakre förare"; //Machine translated
+"Rear Passenger" = "Bakre passagerare"; //Machine translated

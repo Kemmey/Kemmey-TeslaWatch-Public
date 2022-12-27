@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Quando ativado e com permissões concedidas, este dispositivo pode ser emparelhado como uma chave no veículo."; //Machine translated
 "Direct Controls" = "Controles Diretos"; //Machine translated
 "Vehicle not within range" = "Veículo fora do alcance"; //Machine translated
+"Vehicle key added" = "Chave do veículo adicionada"; //Machine translated
+"Remove Key" = "Remover chave"; //Machine translated
+"Unlatch Doors" = "Destravar Portas"; //Machine translated
+"Front Driver" = "Motorista dianteiro"; //Machine translated
+"Front Passenger" = "Passageiro dianteiro"; //Machine translated
+"Rear Driver" = "motorista traseiro"; //Machine translated
+"Rear Passenger" = "Passageiro Traseiro"; //Machine translated

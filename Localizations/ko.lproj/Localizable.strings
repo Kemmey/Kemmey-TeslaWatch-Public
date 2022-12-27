@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "활성화되고 권한이 부여되면 이 장치를 차량의 키로 페어링할 수 있습니다."; //Machine translated
 "Direct Controls" = "직접 제어"; //Machine translated
 "Vehicle not within range" = "차량이 범위 내에 있지 않음"; //Machine translated
+"Vehicle key added" = "차량 키가 추가됨"; //Machine translated
+"Remove Key" = "키 제거"; //Machine translated
+"Unlatch Doors" = "문 걸쇠 풀기"; //Machine translated
+"Front Driver" = "프론트 드라이버"; //Machine translated
+"Front Passenger" = "조수석"; //Machine translated
+"Rear Driver" = "리어 드라이버"; //Machine translated
+"Rear Passenger" = "뒷좌석 승객"; //Machine translated

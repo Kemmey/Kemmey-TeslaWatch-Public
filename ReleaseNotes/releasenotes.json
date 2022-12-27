@@ -502,7 +502,10 @@
             { "build": 1138, "change": "Bluetooth API - added Bluetooth specific logs." },
             { "build": 1138, "change": "Bluetooth API - more robust error handling - now properly handles key being removed from vehicle." },
             { "build": 1138, "change": "Bluetooth API - now shows an icon in title area when directly connected to car." },
-            { "build": 1138, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1140, "change": "Bluetooth API - moved key pairing into the settings screen." },
+            { "build": 1140, "change": "Open features - doors and trunks - are now illustrated with icons and no longer written." },
+            { "build": 1141, "change": "Bluetooth API - added Unlatch Doors control and removed Direct Controls - all is now integrated." },
+            { "build": 1141, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

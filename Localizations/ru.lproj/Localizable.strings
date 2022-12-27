@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "При включении и предоставлении разрешений это устройство может быть сопряжено в качестве ключа в автомобиле."; //Machine translated
 "Direct Controls" = "Прямое управление"; //Machine translated
 "Vehicle not within range" = "Автомобиль вне досягаемости"; //Machine translated
+"Vehicle key added" = "Добавлен ключ от автомобиля"; //Machine translated
+"Remove Key" = "Удалить ключ"; //Machine translated
+"Unlatch Doors" = "Разблокировать двери"; //Machine translated
+"Front Driver" = "Передний водитель"; //Machine translated
+"Front Passenger" = "Передний пассажир"; //Machine translated
+"Rear Driver" = "Задний водитель"; //Machine translated
+"Rear Passenger" = "Задний пассажир"; //Machine translated

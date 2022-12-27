@@ -637,3 +637,10 @@
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "有効にすると、権限が付与され、このデバイスを車両のキーとしてペアリングできます。"; //Machine translated
 "Direct Controls" = "ダイレクトコントロール"; //Machine translated
 "Vehicle not within range" = "車両が範囲内にありません"; //Machine translated
+"Vehicle key added" = "ビークルキー追加"; //Machine translated
+"Remove Key" = "キーを削除"; //Machine translated
+"Unlatch Doors" = "ドアのラッチを外す"; //Machine translated
+"Front Driver" = "フロントドライバー"; //Machine translated
+"Front Passenger" = "助手席"; //Machine translated
+"Rear Driver" = "リアドライバー"; //Machine translated
+"Rear Passenger" = "リアパッセンジャー"; //Machine translated
