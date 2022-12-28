@@ -646,3 +646,4 @@
 "Rear Passenger" = "Bakre passagerare"; //Machine translated
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "Direktanslutningsindikator - fordonet är direktanslutet via Bluetooth"; //Machine translated
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Data åldersindikator - hur länge sedan data visades i användargränssnittet hämtades från fordonet"; //Machine translated
+"This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "Den här appen använder valfritt Bluetooth för att hitta och underhålla anslutningar till ditt Tesla-fordon"; //Machine translated

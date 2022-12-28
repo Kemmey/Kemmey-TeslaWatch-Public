@@ -507,7 +507,8 @@
             { "build": 1141, "change": "Bluetooth API - added Unlatch Doors control and removed Direct Controls - all is now integrated." },
             { "build": 1142, "change": "Bluetooth API - properly show enabled controls, when offline but connected via Bluetooth." },
             { "build": 1142, "change": "Bluetooth API - unlatch doors UI improved." },
-            { "build": 1142, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1145, "change": "Fixed right-hand drive vehicles visual representation of open doors / unlatched doors." },
+            { "build": 1145, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

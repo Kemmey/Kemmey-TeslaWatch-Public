@@ -646,3 +646,4 @@
 "Rear Passenger" = "Задний пассажир"; //Machine translated
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "Индикатор прямого подключения — автомобиль подключен напрямую через Bluetooth"; //Machine translated
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Индикатор возраста данных — как давно данные, отображаемые в пользовательском интерфейсе, были получены из транспортного средства."; //Machine translated
+"This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "Это приложение дополнительно использует Bluetooth для поиска и поддержания подключения к вашему автомобилю Tesla."; //Machine translated

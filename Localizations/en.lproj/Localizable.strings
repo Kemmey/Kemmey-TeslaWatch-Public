@@ -662,3 +662,4 @@
 "Rear Passenger" = "Rear Passenger";
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "Direct connection indicator - vehicle is directly connected via Bluetooth";
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Data age indicator - how long ago was data shown in UI fetched from the vehicle";
+"This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle";
