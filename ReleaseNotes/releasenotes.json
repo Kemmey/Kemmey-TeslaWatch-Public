@@ -508,7 +508,10 @@
             { "build": 1142, "change": "Bluetooth API - properly show enabled controls, when offline but connected via Bluetooth." },
             { "build": 1142, "change": "Bluetooth API - unlatch doors UI improved." },
             { "build": 1145, "change": "Fixed right-hand drive vehicles visual representation of open doors / unlatched doors." },
-            { "build": 1145, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1148, "change": "Added Unlatch Doors complication and widget control." },
+            { "build": 1148, "change": "Fixed compass showing wrong distance to vehicle." },
+            { "build": 1148, "change": "Compass control now only visible, when valid vehicle location is available." },
+            { "build": 1148, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

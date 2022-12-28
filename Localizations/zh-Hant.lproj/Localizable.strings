@@ -630,3 +630,5 @@
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "直接連接指示燈 - 車輛通過藍牙直接連接"; //Machine translated
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "數據年齡指示器——多長時間前在 UI 中顯示的數據是從車輛中獲取的"; //Machine translated
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "此應用程序可選擇使用藍牙來查找和保持與您的 Tesla 車輛的連接"; //Machine translated
+"Just to confirm, you wanted ‘Unlatch Doors’?" = "只是為了確認一下，您想要“Unlatch Doors”？"; //Machine translated
+"There are ${count} options matching ‘Unlatch Doors’." = "有 ${count} 個選項與“Unlatch Doors”匹配。"; //Machine translated

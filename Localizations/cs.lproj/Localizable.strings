@@ -648,3 +648,5 @@
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "Indikátor přímého připojení - vozidlo je přímo připojeno přes Bluetooth"; //Machine translated
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Indikátor stáří dat – jak dlouho byla data zobrazena v uživatelském rozhraní načtena z vozidla"; //Machine translated
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "Tato aplikace volitelně využívá Bluetooth k vyhledání a udržování spojení s vaším vozidlem Tesla"; //Machine translated
+"Just to confirm, you wanted ‘Unlatch Doors’?" = "Jen pro potvrzení, chtěli jste „Unlatch Doors“?"; //Machine translated
+"There are ${count} options matching ‘Unlatch Doors’." = "„Unlatch Doors“ odpovídá ${count} možností."; //Machine translated

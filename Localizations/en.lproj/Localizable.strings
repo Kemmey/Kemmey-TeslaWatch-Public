@@ -663,3 +663,5 @@
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "Direct connection indicator - vehicle is directly connected via Bluetooth";
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Data age indicator - how long ago was data shown in UI fetched from the vehicle";
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle";
+"Just to confirm, you wanted ‘Unlatch Doors’?" = "Just to confirm, you wanted ‘Unlatch Doors’?";
+"There are ${count} options matching ‘Unlatch Doors’." = "There are ${count} options matching ‘Unlatch Doors’.";
