@@ -70,12 +70,16 @@
             },
             "refresh": {
                 "refreshCyberstream": "WX00",
+                "Cyberstream20": "WX00",
                 "refreshTurbine": "WX20",
+                "Turbine22": "WX20",
                 "default": "WX00"
             },
             "refreshPerformance": {
                 "refreshCyberstream": "WX00",
+                "Cyberstream20": "WX00",
                 "refreshTurbine": "WX20",
+                "Turbine22": "WX20",
                 "default": "WX20"
             }
         },
@@ -136,6 +140,8 @@
         "model3": "m3",
         "modelx": "mx",
         "modely": "my",
+        "tamarind": "mx",
+        "lychee": "ms",
         "default": "m3"
     },
     "options": {
