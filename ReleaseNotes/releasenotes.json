@@ -511,8 +511,8 @@
             { "build": 1150, "change": "Initial 1.2.8 release" },
             { "build": 1150, "change": "Fixed model s/x plaid image rendering." },
             { "build": 1150, "change": "Persist cached drive state, when receiving empty drive state from Tesla API cache. Should make Compass more reliable." },
-            { "build": 1150, "change": "Always generate a clean keypair when removing paired BLE key after a comms error" },
-            { "build": 1150, "change": "Bluetooth control can now open and close doors on Model X" },
+            { "build": 1150, "change": "Always generate a clean keypair when removing paired BLE key after a comms error." },
+            { "build": 1150, "change": "Bluetooth control can now open and close doors on Model X." },
             { "build": 1150, "change": "Added close all action to center vehicle image in Unlatch doors control - which is also now just Doors on Model X." },
             { "build": 1150, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
