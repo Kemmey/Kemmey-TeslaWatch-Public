@@ -20,11 +20,13 @@
             },
             "refresh": {
                 "refreshTempest": "WS90",
+                "Tempest19": "WS90",
                 "Arachnid21": "WS10",
                 "default": "WS90"
             },
             "refreshPerformance": {
                 "refreshTempest": "WS90",
+                "Tempest19": "WS90",
                 "Arachnid21": "WS10",
                 "default": "WS10"
             }

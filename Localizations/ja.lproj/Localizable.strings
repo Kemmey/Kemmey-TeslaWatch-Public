@@ -649,3 +649,5 @@
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "このアプリは、必要に応じて Bluetooth を使用して、テスラ車への接続を見つけて維持します"; //Machine translated
 "Just to confirm, you wanted ‘Unlatch Doors’?" = "念のために言っておきますが、「Unlatch Doors」が必要でしたか?"; //Machine translated
 "There are ${count} options matching ‘Unlatch Doors’." = "「Unlatch Doors」に一致する ${count} 個のオプションがあります。"; //Machine translated
+"Add Key" = "キーを追加"; //Machine translated
+"Doors" = "ドア"; //Machine translated

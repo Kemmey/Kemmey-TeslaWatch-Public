@@ -632,3 +632,5 @@
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "此應用程序可選擇使用藍牙來查找和保持與您的 Tesla 車輛的連接"; //Machine translated
 "Just to confirm, you wanted ‘Unlatch Doors’?" = "只是為了確認一下，您想要“Unlatch Doors”？"; //Machine translated
 "There are ${count} options matching ‘Unlatch Doors’." = "有 ${count} 個選項與“Unlatch Doors”匹配。"; //Machine translated
+"Add Key" = "添加密鑰"; //Machine translated
+"Doors" = "門"; //Machine translated

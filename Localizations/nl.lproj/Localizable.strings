@@ -649,3 +649,5 @@
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "Deze app maakt optioneel gebruik van Bluetooth om verbindingen met uw Tesla-voertuig te vinden en te onderhouden"; //Machine translated
 "Just to confirm, you wanted ‘Unlatch Doors’?" = "Ter bevestiging, je wilde 'Unlatch Doors'?"; //Machine translated
 "There are ${count} options matching ‘Unlatch Doors’." = "Er zijn ${count} opties die overeenkomen met 'Deuren ontgrendelen'."; //Machine translated
+"Add Key" = "Sleutel toevoegen"; //Machine translated
+"Doors" = "Deuren"; //Machine translated

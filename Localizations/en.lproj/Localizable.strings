@@ -665,3 +665,5 @@
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle";
 "Just to confirm, you wanted ‘Unlatch Doors’?" = "Just to confirm, you wanted ‘Unlatch Doors’?";
 "There are ${count} options matching ‘Unlatch Doors’." = "There are ${count} options matching ‘Unlatch Doors’.";
+"Add Key" = "Add Key";
+"Doors" = "Doors";
