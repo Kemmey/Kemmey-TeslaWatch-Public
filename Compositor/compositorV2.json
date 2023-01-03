@@ -99,10 +99,15 @@
             "refresh": {
                 "refreshGemini": "WY19B",
                 "refreshInduction": "WY20P",
+                "Gemini19": "WY19B",
+                "Apollo19": "WY19B",
+                "Induction20": "WY20P",
                 "default": "WY19B"
             },
             "refreshPerformance": {
                 "refreshUberTurbine": "WY21P",
+                "Apollo19": "WY21P",
+                "Gemini19": "WY21P",
                 "default": "WY21P"
             }
         }
