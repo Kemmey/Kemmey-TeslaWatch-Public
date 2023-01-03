@@ -514,7 +514,12 @@
             { "build": 1150, "change": "Always generate a clean keypair when removing paired BLE key after a comms error." },
             { "build": 1150, "change": "Bluetooth control can now open and close doors on Model X." },
             { "build": 1150, "change": "Added close all action to center vehicle image in Unlatch doors control - which is also now just Doors on Model X." },
-            { "build": 1150, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1158, "change": "Updated Unlatch Doors UI." },
+            { "build": 1158, "change": "Always query vehicle state immediately after whitelisting new key." },
+            { "build": 1158, "change": "Always call wake vehicle immediately after connecting with Bluetooth." },
+            { "build": 1158, "change": "Call auto-lock after sending close-all Bluetooth request by tapping center image in Unlatch Doors control." },
+            { "build": 1159, "change": "Model X vehicles now use different icon for Doors control." },
+            { "build": 1158, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
