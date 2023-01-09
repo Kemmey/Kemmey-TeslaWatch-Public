@@ -652,3 +652,5 @@
 "There are ${count} options matching ‘Unlatch Doors’." = "„Unlatch Doors“ odpovídá ${count} možností."; //Machine translated
 "Add Key" = "Přidat klíč"; //Machine translated
 "Doors" = "Dveře"; //Machine translated
+"Ooops, I farted!" = "Jejda, prdnul jsem!"; //Machine translated
+"Fart!" = "Prd!"; //Machine translated

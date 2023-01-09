@@ -651,3 +651,5 @@
 "There are ${count} options matching ‘Unlatch Doors’." = "'Unlatch Doors'와 일치하는 옵션이 ${count}개 있습니다."; //Machine translated
 "Add Key" = "키 추가"; //Machine translated
 "Doors" = "문"; //Machine translated
+"Ooops, I farted!" = "으악, 방귀 뀌었어요!"; //Machine translated
+"Fart!" = "방귀!"; //Machine translated

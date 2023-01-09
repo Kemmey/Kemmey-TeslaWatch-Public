@@ -651,3 +651,5 @@
 "There are ${count} options matching ‘Unlatch Doors’." = "Ci sono ${count} opzioni corrispondenti a 'Sblocca porte'."; //Machine translated
 "Add Key" = "Aggiungi chiave"; //Machine translated
 "Doors" = "Porte"; //Machine translated
+"Ooops, I farted!" = "Ops, ho scoreggiato!"; //Machine translated
+"Fart!" = "Scoreggia!"; //Machine translated

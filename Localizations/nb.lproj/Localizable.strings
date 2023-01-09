@@ -651,3 +651,5 @@
 "There are ${count} options matching ‘Unlatch Doors’." = "Det er ${count} alternativer som samsvarer med 'Unlatch Doors'."; //Machine translated
 "Add Key" = "Legg til nøkkel"; //Machine translated
 "Doors" = "Dører"; //Machine translated
+"Ooops, I farted!" = "Oops, jeg fiset!"; //Machine translated
+"Fart!" = "Promp!"; //Machine translated

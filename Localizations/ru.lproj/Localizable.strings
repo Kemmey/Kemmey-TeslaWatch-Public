@@ -651,3 +651,5 @@
 "There are ${count} options matching ‘Unlatch Doors’." = "Есть ${count} вариантов, соответствующих запросу 'Открыть двери'."; //Machine translated
 "Add Key" = "Добавить ключ"; //Machine translated
 "Doors" = "Двери"; //Machine translated
+"Ooops, I farted!" = "Упс, я пукнул!"; //Machine translated
+"Fart!" = "Пердеть!"; //Machine translated

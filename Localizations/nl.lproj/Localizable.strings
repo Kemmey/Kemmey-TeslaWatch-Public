@@ -651,3 +651,5 @@
 "There are ${count} options matching ‘Unlatch Doors’." = "Er zijn ${count} opties die overeenkomen met 'Deuren ontgrendelen'."; //Machine translated
 "Add Key" = "Sleutel toevoegen"; //Machine translated
 "Doors" = "Deuren"; //Machine translated
+"Ooops, I farted!" = "Oeps, ik liet een scheet!"; //Machine translated
+"Fart!" = "Scheet!"; //Machine translated
