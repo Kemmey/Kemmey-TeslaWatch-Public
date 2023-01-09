@@ -535,10 +535,10 @@
             { "build": 1165, "change": "Updated the logs view." },
             { "build": 1165, "change": "Sending logs via e-mail now includes up to 10k entries, not only last 30 of each type of event." },
             { "build": 1165, "change": "Added fart control - currently not properly gated to only vehicles with boombox - yet that is still required for it to actually work." },
-            { "build": 1170, "change": "Localization updates." },
-            { "build": 1170, "change": "Added Siri intent for Fart! control." },
-            { "build": 1170, "change": "Updates to IV handling in BLE controller." },
-            { "build": 1170, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1171, "change": "Localization updates." },
+            { "build": 1171, "change": "Added Siri intent for Fart! control." },
+            { "build": 1171, "change": "Updates to IV handling in BLE controller." },
+            { "build": 1171, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
