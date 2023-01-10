@@ -527,17 +527,17 @@
     {
         "version": "1.2.9",
         "changes": [
-            { "build": 1162, "change": "Initial 1.2.9 build." },
-            { "build": 1162, "change": "Only call lock on open features panel if bluetooth not available." },
-            { "build": 1162, "change": "Close all button available even if only trunk is open." },
-            { "build": 1165, "change": "Reduce amount of events that would be considered an unpair key event. Try to increase IV instead and allow retry." },
-            { "build": 1165, "change": "Trimmed amount of shown debug menu data." },
-            { "build": 1165, "change": "Updated the logs view." },
-            { "build": 1165, "change": "Sending logs via e-mail now includes up to 10k entries, not only last 30 of each type of event." },
-            { "build": 1165, "change": "Added fart control - currently not properly gated to only vehicles with boombox - yet that is still required for it to actually work." },
+            { "build": 1171, "change": "*New features*" },
+            { "build": 1171, "change": "Added fart control, Siri intent and widget (add controls widget, then configure to select Fart!). Requires vehicle with 2022.44.25+ firmware and Boombox external speaker." },
+            { "build": 1171, "change": "*Enhancements*" },
+            { "build": 1171, "change": "Updated the logs views." },
+            { "build": 1171, "change": "Sending logs via e-mail now includes up to 10k entries, not only last 30 of each type of event." },
+            { "build": 1171, "change": "*Bugfixes*" },
+            { "build": 1171, "change": "Do not send REST API request for lock as well as Bluetooth API request for lock, when tapping open features panel on main screen." },
+            { "build": 1171, "change": "Close all button available even if only trunk is open." },
+            { "build": 1171, "change": "Reduce amount of events that would be considered an unpair key event. Try to increase IV instead and allow retry." },
+            { "build": 1171, "change": "Trimmed amount of shown debug menu data." },
             { "build": 1171, "change": "Localization updates." },
-            { "build": 1171, "change": "Added Siri intent for Fart! control." },
-            { "build": 1171, "change": "Updates to IV handling in BLE controller." },
             { "build": 1171, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
