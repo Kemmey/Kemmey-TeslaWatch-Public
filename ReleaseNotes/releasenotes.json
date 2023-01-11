@@ -546,7 +546,10 @@
         "changes": [
             { "build": 1172, "change": "Fixed Unlatch doors control not opening trunks." },
             { "build": 1172, "change": "Added open all button to Doors control for Model X Plaid." },
-            { "build": 1172, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1174, "change": "Added Bluetooth direct control for supported Siri actions." },
+            { "build": 1174, "change": "Migrated device local keychain to access group shared across application extensions (to allow Siri to access BLE keys)." },
+            { "build": 1175, "change": "Add logs counts to logs overview." },
+            { "build": 1175, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
