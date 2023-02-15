@@ -544,12 +544,18 @@
     {
         "version": "1.3.0",
         "changes": [
-            { "build": 1172, "change": "Fixed Unlatch doors control not opening trunks." },
-            { "build": 1172, "change": "Added open all button to Doors control for Model X Plaid." },
-            { "build": 1174, "change": "Added Bluetooth direct control for supported Siri actions." },
-            { "build": 1174, "change": "Migrated device local keychain to access group shared across application extensions (to allow Siri to access BLE keys)." },
-            { "build": 1175, "change": "Add logs counts to logs overview." },
-            { "build": 1175, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1180, "change": "*New features*" },
+            { "build": 1180, "change": "Added open/close all doors control for Model X Plaid." },
+            { "build": 1180, "change": "*Enhancements*" },
+            { "build": 1180, "change": "Will now always try to use Bluetooth to wake the car, if within proximity." },
+            { "build": 1180, "change": "Now shows a cloud emoji in title bar area when control commands will be processed in the cloud." },
+            { "build": 1180, "change": "Siri will try to use Bluetooth if within range, for commands that are supported." },
+            { "build": 1180, "change": "Migrated device local keychain to access group shared across application extensions (to allow Siri to access BLE keys)." },
+            { "build": 1180, "change": "Add logs counts to logs overview." },
+            { "build": 1180, "change": "*Bugfixes*" },
+            { "build": 1180, "change": "Fixed login, which was broken due to an infrastructure change at Tesla." },
+            { "build": 1180, "change": "Fixed Unlatch doors control not opening trunks." },
+            { "build": 1180, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
