@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "Oeps, ik liet een scheet!"; //Machine translated
 "Fart!" = "Scheet!"; //Machine translated
 "Make the vehicle fart!" = "Laat het voertuig scheten!"; //Machine translated
+"Open All Doors" = "Open alle deuren"; //Machine translated
+"Close All" = "Sluit alles"; //Machine translated
+"Open All" = "Maak alles open"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Ter bevestiging, je wilde 'Open All Doors'?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Ter bevestiging, je wilde 'scheet!'?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Er zijn ${count} opties die overeenkomen met 'Alle deuren openen'."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Er zijn ${count} opties die overeenkomen met 'scheet!'."; //Machine translated

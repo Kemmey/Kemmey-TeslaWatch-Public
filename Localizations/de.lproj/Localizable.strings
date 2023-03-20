@@ -435,7 +435,7 @@
 "Just to confirm, you wanted ‘${vehicle}’?" = "Nur zur Bestätigung, du willst ${vehicle}?";
 "Get Active Vehicle" = "Lade aktives Fahrzeug"; //Machine translated
 "Vin" = "FIN";
-"Model" = "Model";
+"Model" = "Model"; //No Machine Translation;
 "Vehicles" = "Fahrzeuge"; //Machine translated
 "There are ${count} options matching ‘${vehicle}’." = "Es gibt ${count}-Optionen, die mit ${vehicle} übereinstimmen."; //Machine translated
 "Returns the active vehicle in the app" = "Gibt das aktive Fahrzeug in der App zurück"; //Machine translated
@@ -513,14 +513,14 @@
 "Use PSI as pressure unit instead of BAR" = "PSI statt BAR als Druckeinheit"; //Machine translated
 "When showing tire pressure, use PSI as unit of measure instead of the default of BAR." = "Der Reifendruck wird in PSI statt BAR als Maßeinheit angezeigt.";
 "Tire pressure rear right" = "Reifendruck hinten rechts"; //Machine translated
-"Raw JSON" = "Raw JSON";
+"Raw JSON" = "Raw JSON"; //No Machine Translation;
 "Tire pressure front left" = "Reifendruck vorne links"; //Machine translated
 "Tire pressure front right" = "Reifendruck vorne rechts"; //Machine translated
 "Tire pressure rear left" = "Reifendruck hinten links"; //Machine translated
 "Activate" = "Aktivieren";
 "Remote start active" = "Start aktiv";
 "Charge port unlocked" = "Ladeanschluss entriegelt";
-"Details" = "Details";
+"Details" = "Details"; //No Machine Translation;
 "Odometer" = "Kilometerstand";
 "Software" = "Software"; //No Machine Translation
 "Apple Watch usage" = "Nutzung der Apple Watch"; //Machine translated
@@ -542,7 +542,7 @@
 "off" = "Aus";
 "Dog" = "Hunde";
 "Climate Keeper Mode" = "Klima-Halten-Modus"; 
-"Camp" = "Camp";
+"Camp" = "Camp"; //No Machine Translation;
 "Climate Keeper Mode Intent" = "Klima eingeschaltet lassen Anfrage"; 
 "Activates the selected climate keeper mode" = "Aktiviert den gewählten Klima-Halten-Modus";
 "Just to confirm, you wanted ‘Keep’?" = "Nur zur Bestätigung, du willst „Eingeschaltet-lassen“?"; 
@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "Ups, ich habe gefurzt!"; //Machine translated
 "Fart!" = "Furz!"; //Machine translated
 "Make the vehicle fart!" = "Lasse das Fahrzeug furzen!";
+"Open All Doors" = "Alle Türen öffnen"; //Machine translated
+"Close All" = "Alle schließen"; //Machine translated
+"Open All" = "Öffne alle"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Nur zur Bestätigung, Sie wollten „Open All Doors“?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Nur zur Bestätigung, du wolltest „Furz!“?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Es gibt ${count} Optionen, die mit „Alle Türen öffnen“ übereinstimmen."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Es gibt ${count} Optionen, die mit „Furz!“ übereinstimmen."; //Machine translated

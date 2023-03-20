@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "Ουπς, φάρσα!"; //Machine translated
 "Fart!" = "Κλανιά!"; //Machine translated
 "Make the vehicle fart!" = "Κάντε το όχημα να κλανίσει!"; //Machine translated
+"Open All Doors" = "Ανοίξτε όλες τις πόρτες"; //Machine translated
+"Close All" = "Κλείσ'τα όλα"; //Machine translated
+"Open All" = "Άνοιγμα όλων"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Απλώς για επιβεβαίωση, θέλατε το 'Open All Doors';"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Απλώς για επιβεβαίωση, ήθελες το 'Fart!';"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Υπάρχουν ${count} επιλογές που ταιριάζουν με το 'Άνοιγμα όλων των θυρών'."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Υπάρχουν ${count} επιλογές που ταιριάζουν με το 'Fart!'."; //Machine translated

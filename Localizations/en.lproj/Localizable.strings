@@ -670,3 +670,10 @@
 "Ooops, I farted!" = "Ooops, I farted!";
 "Fart!" = "Fart!";
 "Make the vehicle fart!" = "Make the vehicle fart!";
+"Open All Doors" = "Open All Doors";
+"Close All" = "Close All";
+"Open All" = "Open All";
+"Just to confirm, you wanted ‘Open All Doors’?" = "Just to confirm, you wanted ‘Open All Doors’?";
+"Just to confirm, you wanted ‘Fart!’?" = "Just to confirm, you wanted ‘Fart!’?";
+"There are ${count} options matching ‘Open All Doors’." = "There are ${count} options matching ‘Open All Doors’.";
+"There are ${count} options matching ‘Fart!’." = "There are ${count} options matching ‘Fart!’.";

@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "Ops, eu peidei!"; //Machine translated
 "Fart!" = "Peidar!"; //Machine translated
 "Make the vehicle fart!" = "Faça o veículo peidar!"; //Machine translated
+"Open All Doors" = "Abra todas as portas"; //Machine translated
+"Close All" = "Feche tudo"; //Machine translated
+"Open All" = "Abra tudo"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Só para confirmar, você queria ‘Open All Doors’?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Só para confirmar, você queria 'Fart!'?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Existem ${count} opções que correspondem a 'Abrir todas as portas'."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Existem ${count} opções correspondentes a 'Fart!'."; //Machine translated

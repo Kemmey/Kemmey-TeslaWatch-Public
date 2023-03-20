@@ -655,3 +655,10 @@
 "Ooops, I farted!" = "Ups, pierdnąłem!"; //Machine translated
 "Fart!" = "Pierdnięcie!"; //Machine translated
 "Make the vehicle fart!" = "Spraw, by pojazd pierdnął!"; //Machine translated
+"Open All Doors" = "Otwórz wszystkie drzwi"; //Machine translated
+"Close All" = "Zamknij wszystko"; //Machine translated
+"Open All" = "Otwórz wszystko"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Aby potwierdzić, chciałeś „Otwórz wszystkie drzwi”?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Tylko żeby potwierdzić, chciałeś „Pierdnięcie!”?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Istnieje ${count} opcji pasujących do „Otwórz wszystkie drzwi”."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Istnieje ${count} opcji pasujących do „Pierdnięcie!”."; //Machine translated

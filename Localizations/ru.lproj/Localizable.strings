@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "Упс, я пукнул!"; //Machine translated
 "Fart!" = "Пердеть!"; //Machine translated
 "Make the vehicle fart!" = "Заставь машину пукать!"; //Machine translated
+"Open All Doors" = "Откройте все двери"; //Machine translated
+"Close All" = "Закрыть все"; //Machine translated
+"Open All" = "Открыть все"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Просто чтобы подтвердить, вы хотели 'Открыть все двери'?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Просто чтобы подтвердить, вы хотели 'Фарт!'?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Есть ${count} вариантов, соответствующих запросу 'Открыть все двери'."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Есть ${count} вариантов, соответствующих фразе 'Пердеть!'."; //Machine translated

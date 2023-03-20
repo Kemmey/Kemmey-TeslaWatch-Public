@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "으악, 방귀 뀌었어요!"; //Machine translated
 "Fart!" = "방귀!"; //Machine translated
 "Make the vehicle fart!" = "차량 방귀를 확인!"; //Machine translated
+"Open All Doors" = "모든 문 열기"; //Machine translated
+"Close All" = "모두 닫기"; //Machine translated
+"Open All" = "모두 열기"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "확인을 위해 'Open All Doors'를 원하셨습니까?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "확인을 위해 '방귀!'를 원했습니까?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "'Open All Doors'와 일치하는 옵션이 ${count}개 있습니다."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "'Fart!'와 일치하는 옵션이 ${count}개 있습니다."; //Machine translated

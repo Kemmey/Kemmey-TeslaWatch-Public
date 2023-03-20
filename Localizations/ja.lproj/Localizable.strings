@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "おっと、おならをしました！"; //Machine translated
 "Fart!" = "おなら！"; //Machine translated
 "Make the vehicle fart!" = "車のおならを作ろう！"; //Machine translated
+"Open All Doors" = "すべてのドアを開く"; //Machine translated
+"Close All" = "すべて閉じる"; //Machine translated
+"Open All" = "すべて開く"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "念のため言っておきますが、「Open All Doors」が欲しかったのですか?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "念のため言っておきますが、「おなら！」が欲しかったのですか？"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "「Open All Doors」に一致する ${count} 個のオプションがあります。"; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "「Fart!」に一致する ${count} 個のオプションがあります。"; //Machine translated

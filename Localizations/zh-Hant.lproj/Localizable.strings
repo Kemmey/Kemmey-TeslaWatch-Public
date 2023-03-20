@@ -637,3 +637,10 @@
 "Ooops, I farted!" = "糟糕，我放屁了！"; //Machine translated
 "Fart!" = "屁！"; //Machine translated
 "Make the vehicle fart!" = "讓車輛放屁！"; //Machine translated
+"Open All Doors" = "打開所有的門"; //Machine translated
+"Close All" = "關閉所有"; //Machine translated
+"Open All" = "全部打開"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "只是為了確認，你想要“敞開所有的門”？"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "只是為了確認一下，你想要“放屁！”？"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "有 ${count} 個選項匹配“打開所有門”。"; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "有 ${count} 個選項匹配“放屁！”。"; //Machine translated

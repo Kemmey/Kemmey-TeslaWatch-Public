@@ -654,3 +654,10 @@
 "Ooops, I farted!" = "Ups, jeg pruttede!"; //Machine translated
 "Fart!" = "Prut!"; //Machine translated
 "Make the vehicle fart!" = "Få køretøjet til at prutte!"; //Machine translated
+"Open All Doors" = "Åbn alle døre"; //Machine translated
+"Close All" = "Luk alle"; //Machine translated
+"Open All" = "Åbn alle"; //Machine translated
+"Just to confirm, you wanted ‘Open All Doors’?" = "Bare for at bekræfte, ville du have 'Open All Doors'?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Bare for at bekræfte, ville du have 'prut!'?"; //Machine translated
+"There are ${count} options matching ‘Open All Doors’." = "Der er ${count} muligheder, der matcher 'Åbn alle døre'."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Der er ${count} muligheder, der matcher 'Prut!'."; //Machine translated
