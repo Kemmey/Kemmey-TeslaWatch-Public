@@ -652,12 +652,13 @@
 "Add Key" = "Aggiungi chiave"; //Machine translated
 "Doors" = "Porte"; //Machine translated
 "Ooops, I farted!" = "Ops, ho scoreggiato!"; //Machine translated
-"Fart!" = "Scoreggia!"; //No Machine Translation;
+"Fart!" = "Peto!"; //No Machine Translation;
 "Make the vehicle fart!" = "Fai scoreggiare il veicolo!"; //Machine translated
 "Open All Doors" = "Apri tutte le porte"; //Machine translated
 "Close All" = "Chiudi tutto"; //Machine translated
 "Open All" = "Apri tutto"; //Machine translated
 "Just to confirm, you wanted ‘Open All Doors’?" = "Giusto per confermare, volevi 'Apri tutte le porte'?"; //Machine translated
-"Just to confirm, you wanted ‘Fart!’?" = "Solo per confermare, volevi 'Scoreggia!'?"; //Machine translated
+"Just to confirm, you wanted ‘Fart!’?" = "Solo per confermare, volevi 'Peto!'?"; //No Machine Translation;
 "There are ${count} options matching ‘Open All Doors’." = "Ci sono ${count} opzioni corrispondenti a 'Apri tutte le porte'."; //Machine translated
-"There are ${count} options matching ‘Fart!’." = "Ci sono ${count} opzioni corrispondenti a 'Scoreggia!'."; //Machine translated
+"There are ${count} options matching ‘Fart!’." = "Ci sono ${count} opzioni corrispondenti a 'Peto!'."; //No Machine Translation;
+"Show instructions from Apple Support" = "Mostra le istruzioni del supporto Apple"; //Machine translated
