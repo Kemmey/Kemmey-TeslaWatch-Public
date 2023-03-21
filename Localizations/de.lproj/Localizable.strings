@@ -5,7 +5,7 @@
   Created by Kim Hansen on 27/05/2020.
   Copyright © 2021 Kim Hansen. All rights reserved.
   Localized by Dominic Hanselmann, Daniel Bertuleit and Christian Wegerhoff
- 
+
   A note to translators - add a comment "//No Machine Translation" for entries that should use the key as translation value.
   This will prevent machine translation from adding an automatic translation.
   Ex.
@@ -41,8 +41,8 @@
 "Open frunk" = "Frunk öffnen";
 "Really open frunk?" = "Frunk wirklich öffnen?";
 "Set temp:" = "Temperatur einstellen:";
-"Close" = "Schließen";
-"Open" = "Öffnen";
+"Close" = "Schließe";
+"Open" = "Öffne";
 "close" = "schließen";
 "open" = "öffnen";
 "%@ trunk" = "%@ Trunk";
@@ -50,29 +50,29 @@
 "%@ charge port" = "Ladeanschluss %@";
 "Activate Homelink" = "Homelink aktivieren";
 "Really activate Homelink?" = "Homelink wirklich aktivieren?";
-"Keyless drive" = "Schlüsselloses Fahren";
-"Really enable keyless drive?" = "Schlüsselloses Fahren wirklich aktivieren?";
+"Keyless drive" = "Starten";
+"Really enable keyless drive?" = "Starten ohne Schlüssel wirklich aktivieren?";
 "Honk!" = "Hupen!";
 "Unlock port" = "Ladeanschluss entriegeln";
 "%@ port" = "%@ Ladeanschluss";
 "Homelink" = "Homelink"; //No Machine Translation
 "Disable Sentry" = "Wächter-Modus deaktivieren";
 "Enable Sentry" = "Wächter-Modus aktivieren";
-"Vent" = "einen Spalt öffnen";
+"Vent" = "Spalt";
 "%@ windows" = "Fenster %@ ";
 "Location of %@" = "Position von %@";
 "Location" = "Position";
 "Flash!" = "Licht!";
-"Waking" = "Wecke";
-"Sending" = "Sende";
-"Loading" = "Lade";
+"Waking" = "Aufwecken";
+"Sending" = "Senden";
+"Loading" = "Laden";
 "Online" = "Online"; //No Machine Translation
 "Settings" = "Einstellungen";
 "Background updates" = "Aktualisierung im Hintergrund";
 "Allow wake in background" = "Erlaube Aufwecken im Hintergrund";
 "Set" = "Setzen";
 "Interval" = "Intervall";
-"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Schlüsselloses Fahren erfordert das Passwort deines Tesla Kontos. Es wird verschlüsselt im iOS Schlüsselbund gespeichert. BENÖTIGT eine aktive Internetverbindung der Uhr und im Fahrzeug! Fahre niemals ohne einen zusätzlichen Schlüssel:";
+"Keyless drive requires your Tesla Account password. It is stored encrypted in keychain. Network connectivity in both Watch and vehicle REQUIRED. Never drive without backup key:" = "Schlüsselloses Fahren erfordert das Passwort deines Tesla-Kontos. Es wird verschlüsselt im iOS-Schlüsselbund gespeichert. BENÖTIGT eine aktive Internetverbindung der Uhr und im Fahrzeug! Fahre nicht ohne einen zusätzlichen Schlüssel:";
 "Log out" = "Abmelden";
 "Background image" = "Hintergrundbild";
 "Image url" = "Bild-URL";
@@ -111,8 +111,8 @@
 "by" = "von";
 "Translators" = "Übersetzer";
 "Beta testers" = "Betatester";
-"Huge thanks to my many active beta testers!" = "Großes Danke an alle meine aktiven Betatester!";
-"Plug-in reminder" = "Auflade-Erinnerung";
+"Huge thanks to my many active beta testers!" = "Großen Dank an alle meine aktiven Betatester!";
+"Plug-in reminder" = "Erinnerung ans Anschließen";
 "Remove" = "Entfernen";
 "Add current vehicle location" = "Aktuellen Fahrzeugstandort hinzufügen";
 "Unknown" = "Unbekannt";
@@ -123,7 +123,7 @@
 "Sunroof" = "Schiebedach";
 "Closing sunroof" = "Schiebedach schließen";
 "Unlocked" = "Entriegelt";
-"Open features reminder" = "Erinnerung für entriegelte Türen";
+"Open features reminder" = "Erinnerung bei entriegelten Türen";
 "is open" = "ist offen";
 "Sentry active" = "Wächter-Modus aktiv";
 "sentry on" = "Wächter-Modus an";
@@ -147,8 +147,8 @@
 "Opened frunk" = "Frunk geöffnet";
 "Opened trunk" = "Trunk geöffnet";
 "Set charge limit" = "Ladelimit einstellen";
-"Starting HVAC" = "Klimaanlage wird eingeschaltet";
-"Stopping HVAC" = "Klimaanlage wird ausgeschaltet";
+"Starting HVAC" = "Klima wird eingeschaltet";
+"Stopping HVAC" = "Klima wird ausgeschaltet";
 "Started defroster" = "Enteisen eingeschaltet";
 "Stopped defroster" = "Enteisen ausgeschaltet";
 "Honking" = "Hupen";
@@ -158,10 +158,10 @@
 "Disabled Sentry mode" = "Wächter-Modus ausgeschaltet";
 "Activating Homelink" = "Homelink aktivieren";
 "Closing windows" = "Fenster schließen";
-"Venting windows" = "Fenster einen Spalt öffnen";
+"Venting windows" = "Fenster Spalt öffnen";
 "Closing sunroof" = "Schiebedach schließen";
-"Venting sunroof" = "Schiebedach einen Spalt öffnen";
-"Enabling keyless drive" = "Schlüsselloses Fahren aktivieren";
+"Venting sunroof" = "Schiebedach Spalt öffnen";
+"Enabling keyless drive" = "Starten aktivieren";
 "Setting seat heater" = "Sitzheizung einstellen";
 "Don't remind me again today" = "Heute nicht mehr erinnern";
 "Dog mode" = "Hunde-Modus";
@@ -182,14 +182,14 @@
 "Reset" = "Zurücksetzen"; //Machine translated
 "Two main control rows" = "Zwei Reihen Schaltflächen";
 "Drag controls to reorder" = "Mit Ziehen neu anordnen";
-"Controls order" = "Schaltflächen-Reihenfolge";
-"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Ausgegraute Schaltflächen werden nicht angezeigt. Dies kann die Anzeige der Schaltflächen verschieben.";
+"Controls order" = "Schaltflächen anordnen";
+"Items that are greyed out will be hidden. This can cause actual control placement to shift." = "Inaktive Schaltflächen werden nicht angezeigt. Dies kann die Anordnung der Schaltflächen verändern.";
 "First row" = "Erste Reihe";
 "Second row" = "Zweite Reihe";
 "Controls" = "Schaltflächen";
 "Compass" = "Kompass";
 
-"Enable climate to activate seat heaters" = "Zum Einschalten der Sitzheizung muss die Klimaanlage aktiv sein";
+"Enable climate to activate seat heaters" = "Zum Einschalten der Sitzheizung muss Klima aktiv sein";
 "Show inactive controls" = "Inaktive Schaltflächen anzeigen";
 "Unable to authenticate. Please ensure account is not locked out - verify by logging in to your account on tesla.com" = "Authentifizierung fehlgeschlagen. Stelle sicher, dass dein Account nicht gesperrt ist, indem du dich bei tesla.com anmeldest.";
 "Optionally allow use of your location to show current distance to vehicle" = "Verwendung des Standortes zur Anzeige der Entfernung zum Fahrzeug erlauben";
@@ -204,8 +204,8 @@
 "Login with Tesla" = "Login mit Tesla";
 "Rate this app" = "App bewerten";
 "Always confirm complication actions" = "Aktionen aus Komplikationen immer bestätigen";
-"Activate climate" = "Klimaanlage einschalten";
-"Deactivate climate" = "Klimaanlage ausschalten";
+"Activate climate" = "Klima einschalten";
+"Deactivate climate" = "Klima ausschalten";
 "Please confirm" = "Bitte bestätigen";
 "Always confirm widget actions" = "Aktionen aus Widgets immer bestätigen";
 "Offline" = "Offline"; //No Machine Translation
@@ -248,10 +248,10 @@
 "Open Frunk" = "Frunk öffnen";
 "Set Charge Limit" = "Ladelimit setzen";
 "Start Charging" = "Aufladen starten";
-"Start Climate" = "Klimaanlage einschalten";
+"Start Climate" = "Klima einschalten";
 "Start Defrost" = "Enteisen aktivieren";
 "Stop Charging" = "Aufladen stoppen";
-"Stop Climate" = "Klimaanlage abschalten";
+"Stop Climate" = "Klima abschalten";
 "Stop Defrost" = "Enteisen stoppen";
 "Trigger Homelink" = "Homelink aktivieren";
 "Vent Windows" = "Fenster wenig öffnen";
@@ -279,7 +279,7 @@
 "Limit" = "Grenze"; //Machine translated
 "Sentry Active" = "Wächter-Modus aktiv";
 "Outside Temp C" = "Außentemperatur C";
-"Climate Active" = "Klimaanlage aktiv";
+"Climate Active" = "Klima aktiv";
 "Range Rated KM" = "Reichweite KM";
 "Charge to ${limit}%" = "Aufladen bis ${limit}%";
 "Charge Limit" = "Ladelimit";
@@ -357,7 +357,7 @@
 "Please install the iOS companion app, then login on your phone. Your login will automatically transfer to the watch." = "Bitte installiere die iOS Companion-App und melde dich auf deinem iPhone an. Deine Anmeldung wird automatisch auf die Uhr übertragen.";
 "Advanced" = "Erweitert";
 "Inside / outside temp" = "Innen- / Außentemperatur"; //Machine translated
-"Are you sure? You will not be able to close your windows remotely" = "Bist du sicher? Du kannst die Fenster nicht aus der Ferne schließen"; 
+"Are you sure? You will not be able to close your windows remotely" = "Bist du sicher? Du kannst die Fenster nicht aus der Ferne schließen";
 "Never confirm complication actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Aktionen aus Komplikationen immer ohne Bestätigung ausführen, auch solche, die nicht revidiert werden können oder anderen unbeabsichtigt Zugang zum Fahrzeug ermöglichen können";
 "Never confirm widget actions, even irreversible ones and actions that can accidentally grant others access to your vehicle" = "Aktionen aus Widgets immer ohne Bestätigung ausführen, auch solche, die nicht revidiert werden können oder anderen unbeabsichtigt Zugang zum Fahrzeug ermöglichen können";
 "Wait For Wake" = "Warte auf Aufwachen";
@@ -366,30 +366,30 @@
 "Show advanced" = "Erweiterte Einstellungen anzeigen";
 "Hide advanced" = "Erweiterte Einstellungen ausblenden";
 "Calculate charger power (kW) without neutral connection" = "Berechnung der Ladeleistung (kW) ohne Neutralleiter";
-"Except at these locations" = "Außer an diesen Orten"; 
+"Except at these locations" = "Außer an diesen Orten";
 "Remind at these locations" = "An diesen Orten erinnern";
 "Override vehicle unit, show estimated range" = "Geschätzte Reichweite anzeigen, Fahrzeugeinstellung ignorieren";
 "Choose login region" = "Anmelde-Region auswählen";
 "Help and hints" = "Hilfe und Hinweise"; //Machine translated
 "If your login does not automatically transfer, please try to restart both your watch and your phone." = "Wenn deine Anmeldung nicht automatisch übertragen wird, starte deine Uhr und dein iPhone neu.";
-"You can tap the vehicle name headline from the main screen to enter the vehicle chooser." = "Zur Auswahl des Fahrzeuges kannst du auf der Hauptseite auf den Fahrzeugnamen tippen."; 
+"You can tap the vehicle name headline from the main screen to enter the vehicle chooser." = "Zur Auswahl des Fahrzeuges kannst du auf der Hauptseite auf den Fahrzeugnamen tippen.";
 "You can tap the battery on the main screen to switch between a large battery view or a split view showing both percentage and range." = "Du kannst auf der Hauptseite auf den Akku tippen, um zwischen einer großen Akkuansicht oder einer geteilten Ansicht mit Prozent- und Reichweitenanzeige zu wechseln."; //Machine translated
 "You can change the formula used for calculating charging current from advanced settings." = "Die Formel zur Berechnung des Ladestroms kann in den erweiterten Einstellungen geändert werden."; //Machine translated
-"Enable background updates and allow wake in background, but limit wake interval to the hours you yourself are awake. Set the update interval to every hour. This will allow the vehicle to deep sleep when you do. Resulting drain will be approx 1,2% per 24 hours." = "Aktiviere die Hintergrundaktualisierungen und lasse das Aufwachen im Hintergrund zu, aber begrenze das Aufwachintervall auf die Zeit, in denen du selbst wach bist. Stelle das Aktualisierungsintervall auf stündlich ein. So kann das Fahrzeug tief schlafen, wenn du selbst schläfst. Dann beträgt die Batterieentladung etwa 1,2% in 24 Stunden.";
+"Enable background updates and allow wake in background, but limit wake interval to the hours you yourself are awake. Set the update interval to every hour. This will allow the vehicle to deep sleep when you do. Resulting drain will be approx 1,2% per 24 hours." = "Aktiviere die Hintergrundaktualisierungen und lasse das Aufwachen im Hintergrund zu, aber begrenze das Aufwachen auf die Zeit, in der du selbst wach bist. Stelle das Intervall auf stündlich ein. So kann das Fahrzeug tief schlafen, während auch du schläfst. So beträgt die Batterieentladung etwa 1,2% in 24 Stunden.";
 "Tap either of the temperature views to show the temperature controls." = "Tippe auf eine der Temperaturansichten, um die Temperatursteuerung anzuzeigen."; //Machine translated
 "If your vehicle has a heated steering wheel, you can activate it from the seat heating control." = "Wenn dein Fahrzeug über eine Lenkradheizung verfügt, kannst du diese über die Steuerung der Sitzheizung aktivieren."; //Machine translated
 "Switch battery view" = "Batterieansicht wechseln"; //Machine translated
-"Charger current calculation" = "Ladestromberechnung"; //Machine translated
-"Minimize phantom drain" = "Phantomdrain minimieren";
+"Charger current calculation" = "Ladestrom-Berechnung"; //Machine translated
+"Minimize phantom drain" = "Stromverbrauch minimieren";
 "Set temperature" = "Temperatur einstellen"; //Machine translated
 "Steering wheel heater" = "Lenkradheizung"; //Machine translated
 "Cold battery indicator" = "Kalte Batterie"; //Machine translated
 "Unlocked features warning" = "Türen nicht verriegelt";
 "Vehicle is charging" = "Fahrzeug wird geladen"; //Machine translated
-"Sentry mode enabled" = "Wächter-Modus aktiv"; 
+"Sentry mode enabled" = "Wächter-Modus aktiv";
 "Vehicle in deep sleep" = "Fahrzeug schläft"; //Machine translated
-"Vehicle plugged in but not charging" = "Fahrzeug angeschlossen, lädt nicht"; 
-"Rated range" = "Nominale Reichweite (Rated Range)"; 
+"Vehicle plugged in but not charging" = "Fahrzeug angeschlossen, lädt nicht";
+"Rated range" = "Nominale Reichweite (Rated Range)";
 "Ideal range" = "Optimale Reichweite (Ideal Range)";
 "Estimated range" = "Geschätzte Reichweite (Estimated Range)";
 "Climate is active" = "Klima aktiv";
@@ -409,8 +409,8 @@
 "Single vehicle mode" = "Einzel-Fahrzeug Modus"; //Machine translated
 "Watch faces" = "Zifferblätter";
 "Add Apple Watch Face" = "Zifferblatt zur Uhr hinzufügen";
-"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "Im der Titelleiste zeigt ein laufender Zähler die Zeit an, die seit der letzten Aktualisierung der Fahrzeugdaten verstrichen ist. So kannst du erkennen, ob die in der App angezeigten Fahrzeuginformationen zuverlässig oder veraltet sind. Der Zähler kann ebenfalls in Widgets und Komplikationen angezeigt werden.";
-"Data age indicator" = "Alter der Fahrzeuginformationen";
+"In the titlebar area, you will see a number counting up. This number represents the amount of time passed since getting data from your vehicle. Use this number to determine if the state represented in the user interface is trustworthy or might be outdated. This same counter is visible on widgets and complications." = "Im der Titelleiste zeigt ein Zähler die Zeit an, die seit der letzten Aktualisierung der Fahrzeugdaten vergangen ist. So kannst du erkennen, ob die in der App angezeigten Informationen zuverlässig oder veraltet sind. Der Zähler kann ebenfalls in Widgets und Komplikationen angezeigt werden.";
+"Data age indicator" = "Alter der Anzeige";
 "When enabled, when showing vehicle range, use the estimated range as calculated by the vehicle based on recent driving." = "Verwendet für die Anzeige der Reichweite die geschätzte Reichweite, die vom Fahrzeug basierend auf den letzten Fahrten berechnet wurde.";
 "In very rare charger installations, it is possible to do a custom Tesla specific wiring that bypasses a neutral connection. In this case, the power calculation logic is different. Enable this toggle if your charger is wired like this to show correct power draw while charging." = "In seltenen Fällen muss beim Anschluss des Ladegerätes für Teslas der Neutralleiter überbrückt werden. Wenn dein Ladegerät in dieser Weise angeschlossen ist, aktiviere diese Funktion, um die korrekte Leistungsaufnahme beim Ladevorgang anzuzeigen.";
 "Complications will show a number counting up from when the data shown on the complication was fetched from the vehicle. Except while charging, then it will show a counter, counting down until estimated charging completion time." = "Komplikationen zeigen die Zeit seit der letzten Aktualisierung der Fahrzeugdaten an. Während des Aufladens wird hier die verbleibende Ladezeit angezeigt.";
@@ -429,8 +429,8 @@
 "Name" = "Name"; //No Machine Translation
 "Returns all vehicles on account" = "Gibt alle Fahrzeuge des Kontos zurück";
 "Choose ${vehicle} as active vehicle" = "Wähle ${vehicle} als aktives Fahrzeug"; //Machine translated
-"Get Vehicles" = "Fahrzeuge laden"; 
-"Get all vehicles on account" = "Lade alle Fahrzeuge des Kontos"; 
+"Get Vehicles" = "Fahrzeuge laden";
+"Get all vehicles on account" = "Lade alle Fahrzeuge des Kontos";
 "Trim" = "Trimmen"; //Machine translated
 "Just to confirm, you wanted ‘${vehicle}’?" = "Nur zur Bestätigung, du willst ${vehicle}?";
 "Get Active Vehicle" = "Lade aktives Fahrzeug"; //Machine translated
@@ -439,7 +439,7 @@
 "Vehicles" = "Fahrzeuge"; //Machine translated
 "There are ${count} options matching ‘${vehicle}’." = "Es gibt ${count}-Optionen, die mit ${vehicle} übereinstimmen."; //Machine translated
 "Returns the active vehicle in the app" = "Gibt das aktive Fahrzeug in der App zurück"; //Machine translated
-"Vehicle Id" = "Fahrzeug-ID"; 
+"Vehicle Id" = "Fahrzeug-ID";
 "Use ${vehicle.name}?" = "${vehicle.name} verwenden?"; //Machine translated
 "Please select a vehicle" = "Bitte wähle ein Fahrzeug";
 "Just to confirm, you wanted ${vehicle.name}?" = "Nur zur Bestätigung, du willst ${vehicle.name}?";
@@ -474,7 +474,7 @@
 "Off" = "aus"; //Machine translated
 "Sets the specified seat heater to the specified level" = "Setzt die angegebene Sitzheizung auf die angegebene Stufe"; //Machine translated
 "Just to confirm, you wanted ‘Rear left’?" = "Nur zur Bestätigung, du willst 'Hinten links'?";
-"Just to confirm, you wanted ‘Front right’?" = "Nur zur Bestätigung, du willst 'Vorne rechts'?"; 
+"Just to confirm, you wanted ‘Front right’?" = "Nur zur Bestätigung, du willst 'Vorne rechts'?";
 "Just to confirm, you wanted ‘Front left’?" = "Nur zur Bestätigung, du willst 'Vorne links'?";
 "Just to confirm, you wanted ‘Rear right’?" = "Nur zur Bestätigung, du willst 'Hinten rechts'?";
 "Just to confirm, you wanted ‘Rear middle’?" = "Nur zur Bestätigung, du willst 'Hinten Mitte'?";
@@ -497,7 +497,7 @@
 "Rear left" = "Hinten links"; //Machine translated
 "Front right" = "Vorne rechts"; //Machine translated
 "Climate not active. Unable to set seat heater level." = "Klima nicht aktiv. Sitzheizungsstufe kann nicht eingestellt werden.";
-"Siri actions unreliable" = "Siri-Aktionen unzuverlässig"; //Machine translated
+"Siri actions unreliable" = "Siri-Aktionen verwenden"; //Machine translated
 "If you know you're going to need Siri to open your trunk, try to open the watch app while you still have your hands free, then grab your stuff and leave for your vehicle. By the time you get there, the app should have woken up your car, and your Siri actions should run more smoothly." = "Wenn du weißt, dass du Siri brauchen wirst, um den Kofferraum zu öffnen, versuche, die Watch-App zu öffnen, während du noch Ihre Hände frei hast, schnapp dir dann deine Sachen und gehe zu deinem Fahrzeug. Wenn du dort ankommst, sollte die App dein Auto aufgeweckt haben und deine Siri-Aktionen sollten reibungsloser ablaufen.";
 "You can optionally input your TeslaScope API key below. When present, background updates will use data from TeslaScope instead of waking your vehicle." = "Du kannst optional unten deinen TeslaScope-API-Schlüssel eingeben. Hintergrundaktualisierungen verwenden dann Daten von TeslaScope ohne dein Fahrzeug zu wecken.";
 "Verify" = "Verifizieren"; //Machine translated
@@ -528,8 +528,8 @@
 "Siri actions on Apple Watch" = "Siri-Aktionen auf der Apple Watch"; //Machine translated
 "Keep mode active" = "Klima eingeschaltet lassen eingeschaltet";
 "Keep mode" = "Klima eingeschaltet lassen";
-"Turn on dog mode?" = "Hunde-Modus einschalten?"; 
-"Really turn off dog mode?" = "Hunde-Modus wirklich ausschalten?"; 
+"Turn on dog mode?" = "Hunde-Modus einschalten?";
+"Really turn off dog mode?" = "Hunde-Modus wirklich ausschalten?";
 "Deactivate dog mode" = "Hunde-Modus ausschalten";
 "Activate dog mode" = "Hunde-Modus einschalten";
 "Activate Keep mode" = "Klima eingeschaltet lassen einschalten";
@@ -541,11 +541,11 @@
 "Keep" = "Eingeschaltet-lassen";
 "off" = "Aus";
 "Dog" = "Hunde";
-"Climate Keeper Mode" = "Klima-Halten-Modus"; 
+"Climate Keeper Mode" = "Klima-Halten-Modus";
 "Camp" = "Camp"; //No Machine Translation;
-"Climate Keeper Mode Intent" = "Klima eingeschaltet lassen Anfrage"; 
+"Climate Keeper Mode Intent" = "Klima eingeschaltet lassen Anfrage";
 "Activates the selected climate keeper mode" = "Aktiviert den gewählten Klima-Halten-Modus";
-"Just to confirm, you wanted ‘Keep’?" = "Nur zur Bestätigung, du willst „Eingeschaltet-lassen“?"; 
+"Just to confirm, you wanted ‘Keep’?" = "Nur zur Bestätigung, du willst „Eingeschaltet-lassen“?";
 "Just to confirm, you wanted ‘off’?" = "Nur zur Bestätigung, du willst „Ausschalten“?";
 "Just to confirm, you wanted ‘Dog’?" = "Nur zur Bestätigung, du willst „Hunde-Modus“?";
 "Just to confirm, you wanted ‘Camp’?" = "Nur zur Bestätigung, du willst „Camp-Modus“?";
@@ -560,7 +560,7 @@
 "Dismiss" = "Schließen";
 "Release notes" = "Versionshinweise"; //Machine translated
 "Work" = "Arbeit"; //Machine translated
-"Vent windows" = "Fenster Spalt Öffnen";
+"Vent windows" = "Fenster Spalt";
 "Control" = "Steuerung";
 "Configuration" = "Einstellungen";
 "Just to confirm, you wanted ‘Vent windows’?" = "Nur zur Bestätigung, du willst „Fenster Spalt“?";
@@ -618,10 +618,10 @@
 "Shows the overall status of the active vehicle, along with as many controls as will fit." = "Zeigt den Status des aktiven Fahrzeugs an mit so vielen Schaltflächen wie möglich.";
 "Shows the most recent charge statistics from the active vehicle." = "Zeigt die aktuellen Ladestatistiken des aktiven Fahrzeugs an.";
 "Shows as many controls of the active vehicle as will fit. For single controls, please use the widget configuration to choose which control to show." = "Zeigt so viele Schaltflächen des aktiven Fahrzeugs an wie möglich. Für einzelne Schaltflächen verwenden Sie die Widget-Einstellungen, um auszuwählen, welche Schaltflächen angezeigt werden sollen.";
-"Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "Persönliches Zugriffstoken (mit bis zu acht Stunden Lebensdauer) an die Cloud senden. Wenn diese Einstellung nicht aktiviert ist, erfolgt die gesamte Verarbeitung lokal auf dem Gerät. Ihr Token verlässt niemals dein Gerät, ausgenommen zur Authentifizierung bei Tesla. Wenn die Cloud-Verarbeitung aktiviert ist, werden gewisse zeitintensive Prozesse in der Cloud ausgeführt, was in einigen Situationen häufigere Datenaktualisierungen ermöglicht.";
+"Allow your personal access token (with up to 8 hours lifespan) to be sent to the cloud. When off, all processing is done locally on device - your token never leaves your device except for authentication with Tesla. When cloud processing is enabled, a limited set of long-running processes will be executed from serverless cloud infrastructure, allowing for higher frequency data updates in some scenarios." = "Persönliches Zugriffstoken (mit bis zu acht Stunden Lebensdauer) an die Cloud senden. Wenn diese Einstellung nicht aktiviert ist, erfolgt die gesamte Verarbeitung lokal auf dem Gerät. Dein Token verlässt niemals dein Gerät, ausgenommen zur Authentifizierung bei Tesla. Wenn die Cloud-Verarbeitung aktiviert ist, werden gewisse zeitintensive Prozesse in der Cloud ausgeführt, was in einigen Situationen häufigere Datenaktualisierungen ermöglicht.";
 "Enable cloud processing" = "Cloud-Verarbeitung";
 "No data" = "Keine Daten"; //Machine translated
-"Please add this device as a key in your Tesla. Tap the Add Key button below, then place a Tesla keycard on the designated area in the vehicle and confirm on the center screen to add the key." = "Füge in deinem Tesla dieses Gerät als Schlüssel hinzu: Tippe unten auf Schlüssel hinzufügen, lege im Fahrzeug eine Tesla-Schlüsselkarte in den Bereich des Kartenlesers und bestätige das Hinzufügen des neuen Schlüssels auf dem Touchscreen im Fahrzeug."; 
+"Please add this device as a key in your Tesla. Tap the Add Key button below, then place a Tesla keycard on the designated area in the vehicle and confirm on the center screen to add the key." = "Füge in deinem Tesla dieses Gerät als Schlüssel hinzu: Tippe unten auf Schlüssel hinzufügen, lege im Fahrzeug eine Tesla-Schlüsselkarte in den Bereich des Kartenlesers und bestätige das Hinzufügen des neuen Schlüssels auf dem Touchscreen im Fahrzeug.";
 "Please tap keycard in vehicle to complete pairing" = "Lege eine Tesla-Schlüsselkarte in den Bereich des Kartenlesers im Fahrzeug, um die Kopplung abzuschließen";
 "Unlatch Front Driver Door" = "Fahrertür entriegeln";
 "Unlatch Front Passenger Door" = "Beifahrertür entriegeln"; //Machine translated
@@ -631,7 +631,7 @@
 "Stop scanning" = "Scan beenden";
 "Start scanning" = "Scan starten";
 "Bluetooth not available!" = "Bluetooth nicht verfügbar!"; //Machine translated
-"Enable Bluetooth direct vehicle control" = "Fahrzeugsteuerung über Bluetooth";
+"Enable Bluetooth direct vehicle control" = "Fahrzeug über Bluetooth verbinden";
 "Bluetooth ready!" = "Bluetooth bereit!"; //Machine translated
 "Bluetooth permissions not granted - please allow the app to use Bluetooth from System settings." = "Bluetooth-Berechtigungen nicht erteilt. Erlaube der App in den Systemeinstellungen, Bluetooth zu verwenden.";
 "When enabled, and permissions are granted, this device can be paired as a key in the vehicle." = "Dieses Gerät kann im Fahrzeug als Schlüssel hinzugefügt werden. Dazu müssen die Bluetooth-Berechtigungen eingeschaltet sein.";
@@ -639,7 +639,7 @@
 "Vehicle not within range" = "Fahrzeug nicht in Reichweite"; //Machine translated
 "Vehicle key added" = "Fahrzeugschlüssel hinzugefügt"; //Machine translated
 "Remove Key" = "Schlüssel entfernen"; //Machine translated
-"Unlatch Doors" = "Türen entriegeln"; //Machine translated
+"Unlatch Doors" = "Entriegeln"; //Machine translated
 "Front Driver" = "Fahrertür";
 "Front Passenger" = "Beifahrertür";
 "Rear Driver" = "Hintere Tür Fahrerseite";
@@ -647,18 +647,10 @@
 "Direct connection indicator - vehicle is directly connected via Bluetooth" = "Direkte Verbindung – Fahrzeug ist über Bluetooth verbunden";
 "Data age indicator - how long ago was data shown in UI fetched from the vehicle" = "Alter der Informationen – Zeit seit der letzten Aktualisierung der Fahrzeugdaten";
 "This app optionally uses Bluetooth to find and maintain connections to your Tesla vehicle" = "Diese App kann optional Bluetooth verwenden, um sich mit deinem Tesla zu verbinden";
-"Just to confirm, you wanted ‘Unlatch Doors’?" = "Nur zur Bestätigung, du willst „Türen entriegeln“?"; 
-"There are ${count} options matching ‘Unlatch Doors’." = "Es gibt ${count} Optionen, die mit „Türen entriegeln“ übereinstimmen."; //Machine translated
+"Just to confirm, you wanted ‘Unlatch Doors’?" = "Nur zur Bestätigung, du willst „Entriegeln“?";
+"There are ${count} options matching ‘Unlatch Doors’." = "Es gibt ${count} Optionen, die mit „Entriegeln“ übereinstimmen."; //Machine translated
 "Add Key" = "Schlüssel hinzufügen"; //Machine translated
 "Doors" = "Türen"; //Machine translated
 "Ooops, I farted!" = "Ups, ich habe gefurzt!"; //Machine translated
 "Fart!" = "Furz!"; //Machine translated
 "Make the vehicle fart!" = "Lasse das Fahrzeug furzen!";
-"Open All Doors" = "Alle Türen öffnen"; //Machine translated
-"Close All" = "Alle schließen"; //Machine translated
-"Open All" = "Öffne alle"; //Machine translated
-"Just to confirm, you wanted ‘Open All Doors’?" = "Nur zur Bestätigung, Sie wollten „Open All Doors“?"; //Machine translated
-"Just to confirm, you wanted ‘Fart!’?" = "Nur zur Bestätigung, du wolltest „Furz!“?"; //Machine translated
-"There are ${count} options matching ‘Open All Doors’." = "Es gibt ${count} Optionen, die mit „Alle Türen öffnen“ übereinstimmen."; //Machine translated
-"There are ${count} options matching ‘Fart!’." = "Es gibt ${count} Optionen, die mit „Furz!“ übereinstimmen."; //Machine translated
-"Show instructions from Apple Support" = "Anweisungen vom Apple Support anzeigen"; //Machine translated
