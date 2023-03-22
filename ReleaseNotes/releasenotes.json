@@ -562,7 +562,10 @@
         "version": "1.3.1",
         "changes": [
             { "build": 1193, "change": "Passive entry support for Apple Watch series 6 and newer running watchOS 9. When Bluetooth direct control is enabled and paired as key in vehicle, on supported watches, it is no longer neccessary to bring the app to the foreground to unlock and drive the car." },
-            { "build": 1193, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1201, "change": "Added button to open instructions from Apple Support for how to run shortcuts natively on the Apple Watch." },
+            { "build": 1201, "change": "Updated german localizations." },
+            { "build": 1201, "change": "Added Mastodon contact info." },
+            { "build": 1201, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
