@@ -678,3 +678,5 @@
 "There are ${count} options matching ‘Open All Doors’." = "There are ${count} options matching ‘Open All Doors’.";
 "There are ${count} options matching ‘Fart!’." = "There are ${count} options matching ‘Fart!’.";
 "Show instructions from Apple Support" = "Show instructions from Apple Support";
+"Are you sure you want to reset?" = "Are you sure you want to reset?";
+"Are you sure you want to log out?" = "Are you sure you want to log out?";

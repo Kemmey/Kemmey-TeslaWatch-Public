@@ -662,3 +662,5 @@
 "There are ${count} options matching ‘Open All Doors’." = "Er zijn ${count} opties die overeenkomen met 'Alle deuren openen'."; //Machine translated
 "There are ${count} options matching ‘Fart!’." = "Er zijn ${count} opties die overeenkomen met 'scheet!'."; //Machine translated
 "Show instructions from Apple Support" = "Toon instructies van Apple Support"; //Machine translated
+"Are you sure you want to reset?" = "Weet je zeker dat je wilt resetten?"; //Machine translated
+"Are you sure you want to log out?" = "Weet je zeker dat je wilt uitloggen?"; //Machine translated

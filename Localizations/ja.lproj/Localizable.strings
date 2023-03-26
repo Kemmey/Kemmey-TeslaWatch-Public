@@ -662,3 +662,5 @@
 "There are ${count} options matching ‘Open All Doors’." = "「Open All Doors」に一致する ${count} 個のオプションがあります。"; //Machine translated
 "There are ${count} options matching ‘Fart!’." = "「Fart!」に一致する ${count} 個のオプションがあります。"; //Machine translated
 "Show instructions from Apple Support" = "Apple サポートからの指示を表示する"; //Machine translated
+"Are you sure you want to reset?" = "リセットしてもよろしいですか？"; //Machine translated
+"Are you sure you want to log out?" = "ログアウトしてもよろしいですか？"; //Machine translated

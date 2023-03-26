@@ -663,3 +663,5 @@
 "There are ${count} options matching ‘Open All Doors’." = "Istnieje ${count} opcji pasujących do „Otwórz wszystkie drzwi”."; //Machine translated
 "There are ${count} options matching ‘Fart!’." = "Istnieje ${count} opcji pasujących do „Pierdnięcie!”."; //Machine translated
 "Show instructions from Apple Support" = "Pokaż instrukcje od Wsparcia Apple"; //Machine translated
+"Are you sure you want to reset?" = "Czy na pewno chcesz zresetować?"; //Machine translated
+"Are you sure you want to log out?" = "Czy na pewno chcesz się wylogować?"; //Machine translated

@@ -662,3 +662,5 @@
 "There are ${count} options matching ‘Open All Doors’." = "Есть ${count} вариантов, соответствующих запросу 'Открыть все двери'."; //Machine translated
 "There are ${count} options matching ‘Fart!’." = "Есть ${count} вариантов, соответствующих фразе 'Пердеть!'."; //Machine translated
 "Show instructions from Apple Support" = "Показать инструкции службы поддержки Apple"; //Machine translated
+"Are you sure you want to reset?" = "Вы уверены, что хотите выполнить сброс?"; //Machine translated
+"Are you sure you want to log out?" = "Вы действительно хотите выйти?"; //Machine translated

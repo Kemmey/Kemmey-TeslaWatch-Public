@@ -664,3 +664,5 @@
 "There are ${count} options matching ‘Open All Doors’." = "有 ${count} 个选项匹配“打开所有门”。"; //Machine translated
 "There are ${count} options matching ‘Fart!’." = "有 ${count} 个选项匹配“放屁！”。"; //Machine translated
 "Show instructions from Apple Support" = "显示来自 Apple 支持的说明"; //Machine translated
+"Are you sure you want to reset?" = "您确定要重置吗？"; //Machine translated
+"Are you sure you want to log out?" = "您确定要退出吗？"; //Machine translated
