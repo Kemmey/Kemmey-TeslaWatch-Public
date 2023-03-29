@@ -666,3 +666,4 @@
 "Are you sure you want to log out?" = "ログアウトしてもよろしいですか？"; //Machine translated
 "Really clear all logs?" = "本当にすべてのログを消去しますか?"; //Machine translated
 "No vehicles on account!" = "アカウントに車両はありません！"; //Machine translated
+"If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "まだ車両を受け取っていない場合、これは正常です。これが予期しないものである場合は、正しい電子メール アドレスでログインしていることを確認してください。複数のテスラ アカウントを持つことは珍しくありません。"; //Machine translated

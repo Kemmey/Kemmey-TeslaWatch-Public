@@ -668,3 +668,4 @@
 "Are you sure you want to log out?" = "您确定要退出吗？"; //Machine translated
 "Really clear all logs?" = "真的清除所有日志吗？"; //Machine translated
 "No vehicles on account!" = "无车辆入账！"; //Machine translated
+"If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "如果您尚未提车，这是正常的。如果这是意外，请确保您已使用正确的电子邮件地址登录。拥有多个特斯拉账户的情况并不少见。"; //Machine translated
