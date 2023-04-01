@@ -565,7 +565,8 @@
             { "build": 1201, "change": "Added button to open instructions from Apple Support for how to run shortcuts natively on the Apple Watch." },
             { "build": 1201, "change": "Updated german localizations." },
             { "build": 1201, "change": "Added Mastodon contact info." },
-            { "build": 1201, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1251, "change": "UI alignment overhaul." },
+            { "build": 1251, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
