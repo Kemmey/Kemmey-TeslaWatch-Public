@@ -667,3 +667,5 @@
 "Really clear all logs?" = "Vill du verkligen rensa alla loggar?"; //Machine translated
 "No vehicles on account!" = "Inga fordon på konto!"; //Machine translated
 "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "Om du ännu inte har tagit emot ditt fordon är detta normalt. Om detta är oväntat, se till att du har loggat in med rätt e-postadress. Det är inte ovanligt att ha mer än ett Tesla-konto."; //Machine translated
+"Passive entry unavailable" = "Passiv post inte tillgänglig"; //Machine translated
+"Bluetooth background execution time limit exceeded." = "Tidsgränsen för körning av Bluetooth i bakgrunden har överskridits."; //Machine translated

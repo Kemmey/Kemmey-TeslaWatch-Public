@@ -683,3 +683,5 @@
 "Really clear all logs?" = "Really clear all logs?";
 "No vehicles on account!" = "No vehicles on account!";
 "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account.";
+"Passive entry unavailable" = "Passive entry unavailable";
+"Bluetooth background execution time limit exceeded." = "Bluetooth background execution time limit exceeded.";

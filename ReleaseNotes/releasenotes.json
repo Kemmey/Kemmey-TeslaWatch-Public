@@ -567,7 +567,9 @@
             { "build": 1201, "change": "Added Mastodon contact info." },
             { "build": 1251, "change": "UI alignment overhaul." },
             { "build": 1257, "change": "Fixed issue where sample data would be shown in very rare circumstances." },
-            { "build": 1257, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1264, "change": "Improvements to background Bluetooth - will now send notification when passive entry becomes unavailable." },
+            { "build": 1264, "change": "Added Bluetooth debug info." },
+            { "build": 1264, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {

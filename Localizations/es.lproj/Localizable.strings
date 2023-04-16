@@ -667,3 +667,5 @@
 "Really clear all logs?" = "¿Realmente borrar todos los registros?"; //Machine translated
 "No vehicles on account!" = "¡Sin vehículos a cuenta!"; //Machine translated
 "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "Si aún no ha recibido su vehículo, esto es normal. Si esto es inesperado, asegúrese de haber iniciado sesión con la dirección de correo electrónico correcta. No es raro tener más de una cuenta de Tesla."; //Machine translated
+"Passive entry unavailable" = "Entrada pasiva no disponible"; //Machine translated
+"Bluetooth background execution time limit exceeded." = "Se excedió el límite de tiempo de ejecución en segundo plano de Bluetooth."; //Machine translated
