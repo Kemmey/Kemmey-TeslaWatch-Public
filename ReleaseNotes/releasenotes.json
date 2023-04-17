@@ -561,17 +561,17 @@
     {
         "version": "1.3.1",
         "changes": [
-            { "build": 1268, "change": "*New features*" },
-            { "build": 1268, "change": "Passive entry support for Apple Watch series 6 and newer running watchOS 9. When Bluetooth direct control is enabled and paired as key in vehicle, on supported watches, it is no longer neccessary to bring the app to the foreground to unlock and drive the car. There are strict limits on background Bluetooth activity on watchOS in order to conserve battery, which might restrict this functionality in some circumstances. Keep in mind that it is always possible to use Siri to open the app - which will be sufficient for Bluetooth to work in the foreground - keep this in mind in hands-free scenarios as a backup." },
-            { "build": 1268, "change": "UI alignment overhaul - polished almost all the pixels, for a sharper, tighter look and feel." },
-            { "build": 1268, "change": "*Enhancements*" },
-            { "build": 1268, "change": "Added button to open instructions from Apple Support for how to run shortcuts natively on the Apple Watch." },
-            { "build": 1268, "change": "Updated german localizations." },
-            { "build": 1268, "change": "Added Mastodon contact info." },
-            { "build": 1268, "change": "Added Bluetooth debug info." },
-            { "build": 1268, "change": "*Bugfixes*" },
-            { "build": 1268, "change": "Fixed issue where sample data would be shown in very rare circumstances." },
-            { "build": 1268, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1269, "change": "*New features*" },
+            { "build": 1269, "change": "Passive entry support for Apple Watch series 6 and newer running watchOS 9. When Bluetooth direct control is enabled and paired as key in vehicle, on supported watches, it is no longer neccessary to bring the app to the foreground to unlock and drive the car. There are strict limits on background Bluetooth activity on watchOS in order to conserve battery, which might restrict this functionality in some circumstances. Keep in mind that it is always possible to use Siri to open the app - which will be sufficient for Bluetooth to work in the foreground - keep this in mind in hands-free scenarios as a backup." },
+            { "build": 1269, "change": "UI alignment overhaul - polished almost all the pixels, for a sharper, tighter look and feel." },
+            { "build": 1269, "change": "*Enhancements*" },
+            { "build": 1269, "change": "Added button to open instructions from Apple Support for how to run shortcuts natively on the Apple Watch." },
+            { "build": 1269, "change": "Updated german localizations." },
+            { "build": 1269, "change": "Added Mastodon contact info." },
+            { "build": 1269, "change": "Added Bluetooth debug info." },
+            { "build": 1269, "change": "*Bugfixes*" },
+            { "build": 1269, "change": "Fixed issue where sample data would be shown in very rare circumstances." },
+            { "build": 1269, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
