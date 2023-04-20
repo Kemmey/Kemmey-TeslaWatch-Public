@@ -587,7 +587,10 @@
         "changes": [
             { "build": 1276, "change": "Set Bluetooth key name in vehicle, identifying it as coming from this app and device." },
             { "build": 1276, "change": "Use graphql to get proper vehicle image url, as shown on Tesla account page." },
-            { "build": 1276, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1281, "change": "No controls triggered from complications, widgets or in-app no longer require confirmation, if within proximity of vehicle." },
+            { "build": 1281, "change": "Fixed the blinking text on Live Activities." },
+            { "build": 1281, "change": "Fixed loading image assets within China." },
+            { "build": 1281, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
