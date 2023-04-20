@@ -590,7 +590,8 @@
             { "build": 1281, "change": "No controls triggered from complications, widgets or in-app no longer require confirmation, if within proximity of vehicle." },
             { "build": 1281, "change": "Fixed the blinking text on Live Activities." },
             { "build": 1281, "change": "Fixed loading image assets within China." },
-            { "build": 1281, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1282, "change": "Will no longer disable main controls, when vehicle is offline, but Bluetooth key is connected." },
+            { "build": 1282, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
