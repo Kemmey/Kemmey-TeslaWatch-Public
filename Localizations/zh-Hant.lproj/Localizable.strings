@@ -652,3 +652,4 @@
 "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "如果您尚未提車，這是正常的。如果這是意外，請確保您已使用正確的電子郵件地址登錄。擁有多個特斯拉賬戶的情況並不少見。"; //Machine translated
 "Passive entry unavailable" = "被動進入不可用"; //Machine translated
 "Bluetooth background execution time limit exceeded." = "超出藍牙後台執行時間限制。"; //Machine translated
+"Enable Bluetooth wake on approach" = "啟用藍牙喚醒方法"; //Machine translated

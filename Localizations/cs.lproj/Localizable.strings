@@ -670,3 +670,4 @@
 "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "Pokud jste své vozidlo ještě nepřevzali, je to normální. Pokud to neočekáváte, ujistěte se, že jste se přihlásili pomocí správné e-mailové adresy. Není neobvyklé mít více než jeden Tesla účet."; //Machine translated
 "Passive entry unavailable" = "Pasivní vstup není k dispozici"; //Machine translated
 "Bluetooth background execution time limit exceeded." = "Byl překročen časový limit spuštění Bluetooth na pozadí."; //Machine translated
+"Enable Bluetooth wake on approach" = "Povolit probuzení Bluetooth při přiblížení"; //Machine translated

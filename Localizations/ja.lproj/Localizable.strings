@@ -669,3 +669,4 @@
 "If you have not yet taken delivery of your vehicle, this is normal. If this is unexpected, please ensure you have logged in with the correct e-mail address. It is not uncommon to have more than one Tesla-account." = "まだ車両を受け取っていない場合、これは正常です。これが予期しないものである場合は、正しい電子メール アドレスでログインしていることを確認してください。複数のテスラ アカウントを持つことは珍しくありません。"; //Machine translated
 "Passive entry unavailable" = "パッシブエントリー不可"; //Machine translated
 "Bluetooth background execution time limit exceeded." = "Bluetooth バックグラウンド実行時間の制限を超えました。"; //Machine translated
+"Enable Bluetooth wake on approach" = "Bluetooth ウェイク オン アプローチを有効にする"; //Machine translated
