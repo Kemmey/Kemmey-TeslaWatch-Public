@@ -670,3 +670,4 @@
 "Passive entry unavailable" = "Пассивный вход недоступен"; //Machine translated
 "Bluetooth background execution time limit exceeded." = "Превышен лимит времени фонового выполнения Bluetooth."; //Machine translated
 "Enable Bluetooth wake on approach" = "Включить пробуждение Bluetooth при приближении"; //Machine translated
+"Please add this device as a key in your Tesla from the Settings menu" = "Пожалуйста, добавьте это устройство в качестве ключа в свою Tesla из меню настроек."; //Machine translated

@@ -670,3 +670,4 @@
 "Passive entry unavailable" = "パッシブエントリー不可"; //Machine translated
 "Bluetooth background execution time limit exceeded." = "Bluetooth バックグラウンド実行時間の制限を超えました。"; //Machine translated
 "Enable Bluetooth wake on approach" = "Bluetooth ウェイク オン アプローチを有効にする"; //Machine translated
+"Please add this device as a key in your Tesla from the Settings menu" = "[設定] メニューから、このデバイスをテスラのキーとして追加してください"; //Machine translated
