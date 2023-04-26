@@ -592,6 +592,7 @@
             { "build": 1281, "change": "Fixed loading image assets within China." },
             { "build": 1282, "change": "Will no longer disable main controls, when vehicle is offline, but Bluetooth key is connected." },
             { "build": 1285, "change": "Added setting to disable Bluetooth wake on approach. Commands requiring internet connectivity will take slightly longer when close to vehicle, but vehicle will no longer be woken up when just passing by vehicle without interacting." },
+            { "build": 1295, "change": "Adjsted the open/unlatch doors view - will now require scrolling to actuate trunk from this view, due to the fact the watch was really poor at capturing user input at the lower part of the screen - now forcing user to scroll up to access the trunk button to overcome this watchOS issue." },
             { "build": 1295, "change": "Added Open All Doors watch complication - will open all doors on Model X with a single tap from the watch face, if within Bluetooth range and paired as Bluetooth key. Only relevant for Model X 2021+ refresh." },
             { "build": 1295, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
