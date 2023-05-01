@@ -585,17 +585,27 @@
     {
         "version": "1.3.3",
         "changes": [
-            { "build": 1276, "change": "Set Bluetooth key name in vehicle, identifying it as coming from this app and device." },
-            { "build": 1276, "change": "Use graphql to get proper vehicle image url, as shown on Tesla account page." },
-            { "build": 1281, "change": "No controls triggered from complications, widgets or in-app no longer require confirmation, if within proximity of vehicle." },
-            { "build": 1281, "change": "Fixed the blinking text on Live Activities." },
-            { "build": 1281, "change": "Fixed loading image assets within China." },
-            { "build": 1282, "change": "Will no longer disable main controls, when vehicle is offline, but Bluetooth key is connected." },
-            { "build": 1285, "change": "Added setting to disable Bluetooth wake on approach. Commands requiring internet connectivity will take slightly longer when close to vehicle, but vehicle will no longer be woken up when just passing by vehicle without interacting." },
-            { "build": 1295, "change": "Adjsted the open/unlatch doors view - will now require scrolling to actuate trunk from this view, due to the fact the watch was really poor at capturing user input at the lower part of the screen - now forcing user to scroll up to access the trunk button to overcome this watchOS issue." },
-            { "build": 1295, "change": "Added Open All Doors watch complication - will open all doors on Model X with a single tap from the watch face, if within Bluetooth range and paired as Bluetooth key. Only relevant for Model X 2021+ refresh." },
-            { "build": 1298, "change": "Added control strip option - switch on from settings, controls order, use control strip. Now the main actions will show all actions in a horizontal scroll view." },
-            { "build": 1298, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1300, "change": "*New features*" },
+            { "build": 1300, "change": "Controls triggered from complications, widgets or in-app no longer require confirmation, if within Bluetooth proximity of vehicle, whether paired as key or not." },
+            { "build": 1300, "change": "Added Open All Doors watch complication - will open all doors on Model X with a single tap from the watch face, if within Bluetooth range and paired as Bluetooth key. Only relevant for Model X 2021+ refresh." },
+            { "build": 1300, "change": "Added control strip option - switch on from settings, controls order, use control strip. Now the main actions will show all actions in a horizontal scroll view." },
+            { "build": 1300, "change": "Added setting to disable Bluetooth wake on approach. Commands requiring internet connectivity will take slightly longer when close to vehicle, but vehicle will no longer be woken up when just passing by vehicle without interacting." },
+            { "build": 1300, "change": "*Enhancements*" },
+            { "build": 1300, "change": "Set Bluetooth key name in vehicle, identifying it as coming from this app and device." },
+            { "build": 1300, "change": "Use graphql to get proper vehicle image url, as shown on the Tesla account page." },
+            { "build": 1300, "change": "Adjusted the open/unlatch doors view - will now require scrolling to actuate trunk from this view, due to the fact the watch was really poor at capturing user input at the lower part of the screen - now forcing user to scroll up to access the trunk button to overcome this watchOS issue." },
+            { "build": 1300, "change": "*Bugfixes*" },
+            { "build": 1300, "change": "Fixed the blinking text on Live Activities." },
+            { "build": 1300, "change": "Fixed loading image assets within China." },
+            { "build": 1300, "change": "Will no longer disable main controls, when vehicle is offline, but Bluetooth key is connected." },
+            { "build": 1300, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.4",
+        "changes": [
+            { "build": 1302, "change": "Initial 1.3.4 build." },
+            { "build": 1302, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
