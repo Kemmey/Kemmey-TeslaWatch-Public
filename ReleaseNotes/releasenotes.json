@@ -622,21 +622,18 @@
     {
         "version": "1.3.6",
         "changes": [
-            { "build": 1316, "change": "*Enhancements*" },
-            { "build": 1316, "change": "Updated Simplified Chinese translations." },
-            { "build": 1316, "change": "*Bugfixes*" },
-            { "build": 1316, "change": "Fixed vehicle image loading in China (again)." },
-            { "build": 1316, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
-        ]
-    },
-    {
-        "version": "1.3.7",
-        "changes": [
             { "build": 1317, "change": "*Enhancements*" },
             { "build": 1317, "change": "Updated Simplified Chinese translations." },
             { "build": 1317, "change": "*Bugfixes*" },
             { "build": 1317, "change": "Fixed vehicle image loading in China (again)." },
             { "build": 1317, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.7",
+        "changes": [
+            { "build": 1318, "change": "Initial 1.3.7 build." },
+            { "build": 1318, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
