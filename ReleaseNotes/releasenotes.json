@@ -640,8 +640,16 @@
     {
         "version": "1.3.8",
         "changes": [
-            { "build": 1322, "change": "Initial 1.3.8 build" },
-            { "build": 1322, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1324, "change": "*Bugfixes*" },
+            { "build": 1324, "change": "Fixes Bluetooth connectivity issues related to vehicle firmware 2023.20.4 and newer." },
+            { "build": 1324, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.9",
+        "changes": [
+            { "build": 1325, "change": "Initial 1.3.9 build" },
+            { "build": 1325, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
