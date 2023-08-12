@@ -656,8 +656,8 @@
     {
         "version": "1.3.10",
         "changes": [
-            { "build": 1336, "change": "Fixed issues with Bluetooth direct vehicle connectivity and Tesla vehicle firmware 2023.26.7" },
-            { "build": 1336, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 1337, "change": "Fixed issues with Bluetooth direct vehicle connectivity and Tesla vehicle firmware 2023.26.7" },
+            { "build": 1337, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
         ]
     },
     {
