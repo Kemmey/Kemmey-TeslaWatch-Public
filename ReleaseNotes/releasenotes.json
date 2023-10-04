@@ -661,6 +661,13 @@
         ]
     },
     {
+        "version": "1.3.11",
+        "changes": [
+            { "build": 1349, "change": "Fixed issues with loading background image in certain conditions." },
+            { "build": 1349, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error" }
