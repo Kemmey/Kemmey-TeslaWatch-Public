@@ -703,7 +703,7 @@
 "Flash the headlights on the vehicle" = "Zablikejte světlomety na vozidle"; //Machine translated
 "Honk the vehicle horn" = "Zatroubte na klakson vozidla"; //Machine translated
 "Start/Stop Charging" = "Start/Stop Charging"; //No Machine Translation
-"Start og stop charging the vehicle" = "Spusťte nebo zastavte nabíjení vozidla"; //Machine translated
+"Start or stop charging the vehicle" = "Spusťte nebo zastavte nabíjení vozidla"; //Machine translated
 "Remotely test vehicle emissions" = "Dálkové testování emisí vozidla"; //Machine translated
 "Emissions Test" = "Test emisí"; //Machine translated
 "Open/Close Doors" = "Otevřít/zavřít dveře"; //Machine translated
@@ -713,3 +713,8 @@
 "Toggle" = "Přepnout"; //Machine translated
 "On" = "Na"; //Machine translated
 "Perform Refresh" = "Proveďte aktualizaci"; //Machine translated
+"Connected" = "Připojeno"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Otevřete aplikaci a přejděte do zobrazení odemknutí dveří"; //Machine translated
+"Open the app and navigate to the compass view" = "Otevřete aplikaci a přejděte do zobrazení kompasu"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Otevřete Mapy a zobrazte aktuální polohu vozidla"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Otevřete aplikaci a přejděte do zobrazení vyhřívání sedadel"; //Machine translated

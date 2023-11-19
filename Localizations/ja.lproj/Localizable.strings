@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "車のヘッドライトを点滅させる"; //Machine translated
 "Honk the vehicle horn" = "車のクラクションを鳴らします"; //Machine translated
 "Start/Stop Charging" = "充電の開始/停止"; //Machine translated
-"Start og stop charging the vehicle" = "車両の充電を開始または停止する"; //Machine translated
+"Start or stop charging the vehicle" = "車両の充電を開始または停止する"; //Machine translated
 "Remotely test vehicle emissions" = "車両の排出ガスをリモートでテストする"; //Machine translated
 "Emissions Test" = "排出ガス試験"; //Machine translated
 "Open/Close Doors" = "ドアの開閉"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "トグル"; //Machine translated
 "On" = "の上"; //Machine translated
 "Perform Refresh" = "リフレッシュを実行する"; //Machine translated
+"Connected" = "接続済み"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "アプリを開き、ラッチ解除ドアのビューに移動します"; //Machine translated
+"Open the app and navigate to the compass view" = "アプリを開いてコンパスビューに移動します"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "マップを開いて車両の現在位置を表示します"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "アプリを開き、シートヒータービューに移動します"; //Machine translated

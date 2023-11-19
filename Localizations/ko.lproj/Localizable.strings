@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "차량의 헤드라이트를 깜박입니다."; //Machine translated
 "Honk the vehicle horn" = "차량 경적을 울려보세요"; //Machine translated
 "Start/Stop Charging" = "충전 시작/중지"; //Machine translated
-"Start og stop charging the vehicle" = "차량 충전 시작 및 중지"; //Machine translated
+"Start or stop charging the vehicle" = "차량 충전 시작 및 중지"; //Machine translated
 "Remotely test vehicle emissions" = "차량 배기가스 원격 테스트"; //Machine translated
 "Emissions Test" = "방출 테스트"; //Machine translated
 "Open/Close Doors" = "문 열기/닫기"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "비녀장"; //Machine translated
 "On" = "~에"; //Machine translated
 "Perform Refresh" = "새로 고침 수행"; //Machine translated
+"Connected" = "연결됨"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "앱을 열고 래치 해제 도어 보기로 이동하세요."; //Machine translated
+"Open the app and navigate to the compass view" = "앱을 열고 나침반 보기로 이동하세요."; //Machine translated
+"Open Maps and show the current location of the vehicle" = "지도를 열고 차량의 현재 위치를 표시하세요."; //Machine translated
+"Open the app and navigate to the seat heaters view" = "앱을 열고 시트 히터 보기로 이동하세요."; //Machine translated

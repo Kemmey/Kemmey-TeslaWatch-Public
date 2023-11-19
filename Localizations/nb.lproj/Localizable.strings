@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "Blink frontlysene på kjøretøyet"; //Machine translated
 "Honk the vehicle horn" = "Tut på kjøretøyets horn"; //Machine translated
 "Start/Stop Charging" = "Start/stopp lading"; //Machine translated
-"Start og stop charging the vehicle" = "Start og stopp lading av kjøretøyet"; //Machine translated
+"Start or stop charging the vehicle" = "Start og stopp lading av kjøretøyet"; //Machine translated
 "Remotely test vehicle emissions" = "Fjerntest utslipp fra kjøretøy"; //Machine translated
 "Emissions Test" = "Utslippstest"; //Machine translated
 "Open/Close Doors" = "Åpne/lukke dører"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "Veksle"; //Machine translated
 "On" = "På"; //Machine translated
 "Perform Refresh" = "Utfør Refresh"; //Machine translated
+"Connected" = "Tilkoblet"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Åpne appen og naviger til visningen av åpne dører"; //Machine translated
+"Open the app and navigate to the compass view" = "Åpne appen og naviger til kompassvisningen"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Åpne Maps og vis gjeldende plassering av kjøretøyet"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Åpne appen og naviger til setevarmervisningen"; //Machine translated

@@ -685,7 +685,7 @@
 "Flash the headlights on the vehicle" = "Fflachiwch y prif oleuadau ar y cerbyd"; //Machine translated
 "Honk the vehicle horn" = "Honk corn y cerbyd"; //Machine translated
 "Start/Stop Charging" = "Dechrau/Stop Codi Tâl"; //Machine translated
-"Start og stop charging the vehicle" = "Dechreuwch a stopiwch wefru'r cerbyd"; //Machine translated
+"Start or stop charging the vehicle" = "Dechreuwch a stopiwch wefru'r cerbyd"; //Machine translated
 "Remotely test vehicle emissions" = "Profi allyriadau cerbydau o bell"; //Machine translated
 "Emissions Test" = "Prawf Allyriadau"; //Machine translated
 "Open/Close Doors" = "Agor/Cau Drysau"; //Machine translated
@@ -695,3 +695,8 @@
 "Toggle" = "Toglo"; //Machine translated
 "On" = "Ar"; //Machine translated
 "Perform Refresh" = "Perfformio Adnewyddu"; //Machine translated
+"Connected" = "Wedi'i gysylltu"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Agorwch yr ap a llywiwch i'r olygfa drysau unlatch"; //Machine translated
+"Open the app and navigate to the compass view" = "Agorwch yr ap a llywio i olwg y cwmpawd"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Agorwch Fapiau a dangoswch leoliad presennol y cerbyd"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Agorwch yr ap a llywio i olwg y gwresogyddion seddi"; //Machine translated

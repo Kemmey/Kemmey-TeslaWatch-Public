@@ -704,7 +704,7 @@
 "Flash the headlights on the vehicle" = "使车辆上的前灯闪烁"; //Machine translated
 "Honk the vehicle horn" = "按车辆喇叭"; //Machine translated
 "Start/Stop Charging" = "开始/停止充电"; //Machine translated
-"Start og stop charging the vehicle" = "开始或停止给车辆充电"; //Machine translated
+"Start or stop charging the vehicle" = "开始或停止给车辆充电"; //Machine translated
 "Remotely test vehicle emissions" = "远程测试车辆排放"; //Machine translated
 "Emissions Test" = "排放测试"; //Machine translated
 "Open/Close Doors" = "打开/关闭门"; //Machine translated
@@ -714,3 +714,8 @@
 "Toggle" = "切换"; //Machine translated
 "On" = "在"; //Machine translated
 "Perform Refresh" = "执行刷新"; //Machine translated
+"Connected" = "连接的"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "打开应用程序并导航至解锁门视图"; //Machine translated
+"Open the app and navigate to the compass view" = "打开应用程序并导航至指南针视图"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "打开地图并显示车辆的当前位置"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "打开应用程序并导航至座椅加热器视图"; //Machine translated

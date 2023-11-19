@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "Αναβοσβήνουν τους προβολείς στο όχημα"; //Machine translated
 "Honk the vehicle horn" = "Κόρναρε το όχημα"; //Machine translated
 "Start/Stop Charging" = "Έναρξη/Διακοπή φόρτισης"; //Machine translated
-"Start og stop charging the vehicle" = "Ξεκινήστε και σταματήστε τη φόρτιση του οχήματος"; //Machine translated
+"Start or stop charging the vehicle" = "Ξεκινήστε και σταματήστε τη φόρτιση του οχήματος"; //Machine translated
 "Remotely test vehicle emissions" = "Ελέγξτε εξ αποστάσεως τις εκπομπές ρύπων των οχημάτων"; //Machine translated
 "Emissions Test" = "Δοκιμή εκπομπών"; //Machine translated
 "Open/Close Doors" = "Άνοιγμα/Κλείσιμο θυρών"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "Μεταβάλλω"; //Machine translated
 "On" = "Επί"; //Machine translated
 "Perform Refresh" = "Εκτελέστε Ανανέωση"; //Machine translated
+"Connected" = "Συνδεδεμένος"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Ανοίξτε την εφαρμογή και μεταβείτε στην προβολή απασφάλισης θυρών"; //Machine translated
+"Open the app and navigate to the compass view" = "Ανοίξτε την εφαρμογή και μεταβείτε στην προβολή πυξίδας"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Ανοίξτε τους Χάρτες και εμφανίστε την τρέχουσα θέση του οχήματος"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Ανοίξτε την εφαρμογή και μεταβείτε στην προβολή θερμαντήρες καθισμάτων"; //Machine translated

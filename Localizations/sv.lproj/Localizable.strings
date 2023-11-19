@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "Blinka med strålkastarna på fordonet"; //Machine translated
 "Honk the vehicle horn" = "Tuta på fordonets tuta"; //Machine translated
 "Start/Stop Charging" = "Starta/Stoppa laddning"; //Machine translated
-"Start og stop charging the vehicle" = "Starta och sluta ladda fordonet"; //Machine translated
+"Start or stop charging the vehicle" = "Starta och sluta ladda fordonet"; //Machine translated
 "Remotely test vehicle emissions" = "Testa fordonsutsläpp på distans"; //Machine translated
 "Emissions Test" = "Utsläppstest"; //Machine translated
 "Open/Close Doors" = "Öppna/stäng dörrar"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "Växla"; //Machine translated
 "On" = "På"; //Machine translated
 "Perform Refresh" = "Utför Refresh"; //Machine translated
+"Connected" = "Ansluten"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Öppna appen och navigera till vyn för upplåsta dörrar"; //Machine translated
+"Open the app and navigate to the compass view" = "Öppna appen och navigera till kompassvyn"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Öppna Maps och visa fordonets aktuella position"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Öppna appen och navigera till vyn för sätesvärmare"; //Machine translated

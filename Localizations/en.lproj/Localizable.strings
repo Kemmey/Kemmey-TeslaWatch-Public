@@ -720,7 +720,7 @@
 "Flash the headlights on the vehicle" = "Flash the headlights on the vehicle";
 "Honk the vehicle horn" = "Honk the vehicle horn";
 "Start/Stop Charging" = "Start/Stop Charging";
-"Start og stop charging the vehicle" = "Start og stop charging the vehicle";
+"Start or stop charging the vehicle" = "Start or stop charging the vehicle";
 "Remotely test vehicle emissions" = "Remotely test vehicle emissions";
 "Emissions Test" = "Emissions Test";
 "Open/Close Doors" = "Open/Close Doors";
@@ -731,3 +731,8 @@
 "Toggle" = "Toggle";
 "On" = "On";
 "Perform Refresh" = "Perform Refresh";
+"Connected" = "Connected";
+"Open the app and navigate to the unlatch doors view" = "Open the app and navigate to the unlatch doors view";
+"Open the app and navigate to the compass view" = "Open the app and navigate to the compass view";
+"Open Maps and show the current location of the vehicle" = "Open Maps and show the current location of the vehicle";
+"Open the app and navigate to the seat heaters view" = "Open the app and navigate to the seat heaters view";

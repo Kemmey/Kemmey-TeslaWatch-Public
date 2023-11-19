@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "Мигать фарами автомобиля"; //Machine translated
 "Honk the vehicle horn" = "Подайте звуковой сигнал автомобиля"; //Machine translated
 "Start/Stop Charging" = "Начать/остановить зарядку"; //Machine translated
-"Start og stop charging the vehicle" = "Начать и прекратить зарядку автомобиля"; //Machine translated
+"Start or stop charging the vehicle" = "Начать и прекратить зарядку автомобиля"; //Machine translated
 "Remotely test vehicle emissions" = "Дистанционно проверять выбросы транспортных средств"; //Machine translated
 "Emissions Test" = "Тест на выбросы"; //Machine translated
 "Open/Close Doors" = "Открыть/закрыть двери"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "Переключать"; //Machine translated
 "On" = "На"; //Machine translated
 "Perform Refresh" = "Выполнить обновление"; //Machine translated
+"Connected" = "Связанный"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Откройте приложение и перейдите к виду разблокировки дверей."; //Machine translated
+"Open the app and navigate to the compass view" = "Откройте приложение и перейдите к представлению компаса."; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Откройте Карты и покажите текущее местоположение автомобиля"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Откройте приложение и перейдите к виду подогрева сидений."; //Machine translated

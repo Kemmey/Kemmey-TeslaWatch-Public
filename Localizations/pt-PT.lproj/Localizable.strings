@@ -702,7 +702,7 @@
 "Flash the headlights on the vehicle" = "Pisque os faróis do veículo"; //Machine translated
 "Honk the vehicle horn" = "Buzinar a buzina do veículo"; //Machine translated
 "Start/Stop Charging" = "Iniciar/parar carregamento"; //Machine translated
-"Start og stop charging the vehicle" = "Iniciar e parar de carregar o veículo"; //Machine translated
+"Start or stop charging the vehicle" = "Iniciar e parar de carregar o veículo"; //Machine translated
 "Remotely test vehicle emissions" = "Teste remotamente as emissões dos veículos"; //Machine translated
 "Emissions Test" = "Teste de emissões"; //Machine translated
 "Open/Close Doors" = "Abrir/fechar portas"; //Machine translated
@@ -712,3 +712,8 @@
 "Toggle" = "Alternar"; //Machine translated
 "On" = "Sobre"; //Machine translated
 "Perform Refresh" = "Executar atualização"; //Machine translated
+"Connected" = "Conectado"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Abra o aplicativo e navegue até a visualização de portas destravadas"; //Machine translated
+"Open the app and navigate to the compass view" = "Abra o aplicativo e navegue até a visualização da bússola"; //Machine translated
+"Open Maps and show the current location of the vehicle" = "Abra o Maps e mostre a localização atual do veículo"; //Machine translated
+"Open the app and navigate to the seat heaters view" = "Abra o aplicativo e navegue até a visualização dos aquecedores de assento"; //Machine translated
