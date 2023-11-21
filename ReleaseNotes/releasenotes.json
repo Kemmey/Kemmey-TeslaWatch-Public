@@ -670,6 +670,7 @@
     {
         "version": "1.3.12",
         "changes": [
+            { "build": 1441, "change": "ADVISORY: Tesla is currently (November 2023) rolling out breaking changes to the vehicle API. All newly-delivered vehicles will require this new API, which results in vehicle commands not working. All other vehicles will adopt this API throughout the rest of the year. As that happens, this app will stop working. This is intentional by Tesla. I am working on converting the app to the new API, but Tesla has not released pricing information - but most likely this API will be expensive - which means this app will have to resort to a subscription model to continue working. Stay tuned - the next weeks are going to be a rough ride." },
             { "build": 1441, "change": "Fixed issues with pairing Bluetooth key on 2023.38+ vehicle firmwares." },
             { "build": 1441, "change": "Fixed issues with location data missing on 2023.38+ vehicle firmwares." },
             { "build": 1441, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
