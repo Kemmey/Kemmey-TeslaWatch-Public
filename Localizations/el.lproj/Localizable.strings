@@ -674,6 +674,13 @@
 "Contact support" = "Επικοινωνήστε με την υποστήριξη"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Ανοίξτε το Watch for Tesla στο τηλέφωνό σας για να επικοινωνήσετε με την υποστήριξη"; //Machine translated
 "Closing" = "Κλείσιμο"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Κατά τη σύνδεση, επιτρέψτε σε όλα τα ζητούμενα πεδία αδειών για τη σωστή λειτουργία της εφαρμογής."; //Machine translated
+"Revoke permissions" = "Ανάκληση αδειών"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Έγινε επιτυχής σύνδεση, αλλά δεν παραχωρήθηκαν όλα τα απαιτούμενα πεδία αδειών κατά τη διαδικασία σύνδεσης. Πατήστε παρακάτω για να ανακαλέσετε τα δικαιώματα και, στη συνέχεια, συνδεθείτε ξανά, φροντίζοντας να επιτρέψετε όλα τα ζητούμενα πεδία."; //Machine translated
+"Add virtual key with Tesla" = "Προσθήκη εικονικού κλειδιού με την Tesla"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "Χρησιμοποιείτε μια απαρχαιωμένη μέθοδο σύνδεσης. Η Tesla διέκοψε τη λειτουργία αυτή τον Νοέμβριο του 2023. Συνδεθείτε ξανά για ενημερωμένη πρόσβαση."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Συμφωνώ να μοιραστώ ένα διακριτικό πρόσβασης μικρής διάρκειας με ένα ασφαλές σύστημα κατά την εκτέλεση εντολών αυτοκινήτου. Αυτό διασφαλίζει τον έλεγχό σας διατηρώντας παράλληλα το απόρρητο, καθώς δεν τηρούνται αρχεία καταγραφής ή αναλυτικά στοιχεία."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Το εικονικό κλειδί δεν είναι εγγεγραμμένο στο όχημα - ανοίξτε αυτήν την εφαρμογή στο τηλέφωνό σας και εγγράψτε το εικονικό κλειδί από την οθόνη Ρυθμίσεις."; //Machine translated
 "Vehicle commands" = "Εντολές οχημάτων"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "Η χρήση των υπηρεσιών τοποθεσίας δεν έχει εξουσιοδοτηθεί. Επιτρέψτε κατά τη χρήση της εφαρμογής."; //Machine translated
 "Lock/Unlock" = "Κλείδωμα/Ξεκλείδωμα"; //Machine translated
@@ -702,7 +709,7 @@
 "Flash the headlights on the vehicle" = "Αναβοσβήνουν τους προβολείς στο όχημα"; //Machine translated
 "Honk the vehicle horn" = "Κόρναρε το όχημα"; //Machine translated
 "Start/Stop Charging" = "Έναρξη/Διακοπή φόρτισης"; //Machine translated
-"Start or stop charging the vehicle" = "Ξεκινήστε και σταματήστε τη φόρτιση του οχήματος"; //Machine translated
+"Start or stop charging the vehicle" = "Ξεκινήστε ή σταματήστε τη φόρτιση του οχήματος"; //Machine translated
 "Remotely test vehicle emissions" = "Ελέγξτε εξ αποστάσεως τις εκπομπές ρύπων των οχημάτων"; //Machine translated
 "Emissions Test" = "Δοκιμή εκπομπών"; //Machine translated
 "Open/Close Doors" = "Άνοιγμα/Κλείσιμο θυρών"; //Machine translated

@@ -674,6 +674,13 @@
 "Contact support" = "サポート問い合わせ先"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "電話で Watch for Tesla を開いてサポートに連絡する"; //Machine translated
 "Closing" = "閉鎖"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "ログイン中に、アプリが適切に機能するために、要求されたすべての権限スコープを許可してください。"; //Machine translated
+"Revoke permissions" = "権限を取り消す"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "正常にログインしましたが、ログイン プロセス中に必要な権限スコープの一部が付与されませんでした。以下をタップして権限を取り消し、再度ログインして、要求されたスコープをすべて許可していることを確認してください。"; //Machine translated
+"Add virtual key with Tesla" = "Tesla で仮想キーを追加"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "古いログイン方法を使用しています。テスラはこれを 2023 年 11 月に廃止しました。更新されたアクセス権を得るには、再度ログインしてください。"; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "車のコマンドを実行するときに、有効期間の短いアクセス トークンを安全なシステムと共有することに同意します。これにより、ログや分析が保持されないため、プライバシーを維持しながら確実に制御できます。"; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "仮想キーが車両に登録されていません - 携帯電話でこのアプリを開き、設定画面から仮想キーを登録してください。"; //Machine translated
 "Vehicle commands" = "車両コマンド"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "位置情報サービスの使用は許可されていません。アプリ使用中は許可してください。"; //Machine translated
 "Lock/Unlock" = "施錠開錠"; //Machine translated

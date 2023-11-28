@@ -657,6 +657,13 @@
 "Contact support" = "Cysylltwch â chefnogaeth"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Gwylio Agored ar gyfer Tesla ar eich ffôn i gysylltu â chymorth"; //Machine translated
 "Closing" = "Cau"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Yn ystod mewngofnodi, caniatewch yr holl gwmpasau caniatâd y gofynnwyd amdanynt er mwyn i'r ap weithio'n iawn."; //Machine translated
+"Revoke permissions" = "Diddymu caniatadau"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Wedi mewngofnodi'n llwyddiannus, ond ni roddwyd pob sgôp caniatâd gofynnol yn ystod y broses fewngofnodi. Tapiwch isod i ddirymu caniatâd, yna mewngofnodi eto, gan wneud yn siŵr eich bod yn caniatáu pob cwmpas y gofynnir amdano."; //Machine translated
+"Add virtual key with Tesla" = "Ychwanegu allwedd rithwir gyda Tesla"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "Rydych chi'n defnyddio dull mewngofnodi sydd wedi dyddio. Daeth Tesla â hyn i ben ym mis Tachwedd 2023. Mewngofnodwch eto i gael mynediad wedi'i ddiweddaru."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Rwy'n cytuno i rannu tocyn mynediad byrhoedlog gyda system ddiogel wrth weithredu gorchmynion car. Mae hyn yn sicrhau eich rheolaeth wrth gynnal preifatrwydd, gan nad oes unrhyw logiau na dadansoddeg yn cael eu cadw."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Allwedd Rhithwir heb ei gofrestru yn y cerbyd - agorwch yr ap hwn ar eich ffôn, a chofrestrwch Allwedd Rhithwir o'r sgrin Gosodiadau."; //Machine translated
 "Vehicle commands" = "Gorchmynion cerbyd"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "Nid yw defnyddio gwasanaethau lleoliad wedi'i awdurdodi. Caniatewch tra'n defnyddio'r ap."; //Machine translated
 "Lock/Unlock" = "Cloi/Datgloi"; //Machine translated
@@ -685,7 +692,7 @@
 "Flash the headlights on the vehicle" = "Fflachiwch y prif oleuadau ar y cerbyd"; //Machine translated
 "Honk the vehicle horn" = "Honk corn y cerbyd"; //Machine translated
 "Start/Stop Charging" = "Dechrau/Stop Codi Tâl"; //Machine translated
-"Start or stop charging the vehicle" = "Dechreuwch a stopiwch wefru'r cerbyd"; //Machine translated
+"Start or stop charging the vehicle" = "Dechreuwch neu stopiwch wefru'r cerbyd"; //Machine translated
 "Remotely test vehicle emissions" = "Profi allyriadau cerbydau o bell"; //Machine translated
 "Emissions Test" = "Prawf Allyriadau"; //Machine translated
 "Open/Close Doors" = "Agor/Cau Drysau"; //Machine translated

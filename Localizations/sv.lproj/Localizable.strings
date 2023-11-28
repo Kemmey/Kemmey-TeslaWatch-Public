@@ -674,8 +674,15 @@
 "Contact support" = "Kontakta supporten"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Öppna Watch for Tesla på din telefon för att kontakta support"; //Machine translated
 "Closing" = "Stängning"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Under inloggningen, vänligen tillåt alla begärda behörighetsomfång för att appen ska fungera korrekt."; //Machine translated
+"Revoke permissions" = "Återkalla behörigheter"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Inloggad framgångsrikt, men inte alla nödvändiga behörighetsomfång beviljades under inloggningsprocessen. Vänligen tryck på nedan för att återkalla behörigheter, logga sedan in igen och se till att tillåta alla begärda omfattningar."; //Machine translated
+"Add virtual key with Tesla" = "Lägg till virtuell nyckel med Tesla"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "Du använder en föråldrad inloggningsmetod. Tesla avbröt detta i november 2023. Logga in igen för uppdaterad åtkomst."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Jag samtycker till att dela en kortlivad åtkomsttoken med ett säkert system när jag kör bilkommandon. Detta säkerställer din kontroll med bibehållen integritet, eftersom inga loggar eller analyser sparas."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Den virtuella nyckeln är inte registrerad i fordonet - öppna den här appen på din telefon och registrera den virtuella nyckeln från skärmen Inställningar."; //Machine translated
 "Vehicle commands" = "Fordonskommandon"; //Machine translated
-"Use of location services has not been authorized. Please allow while using the app." = "Användning av platstjänster har inte godkänts. Vänligen tillåt när du använder appen."; //Machine translated
+"Use of location services has not been authorized. Please allow while using the app." = "Användning av platstjänster har inte godkänts. Tillåt när du använder appen."; //Machine translated
 "Lock/Unlock" = "Lås lås upp"; //Machine translated
 "Locks or unlocks your vehicle" = "Låser eller låser upp ditt fordon"; //Machine translated
 "Start/Stop Climate" = "Starta/Stoppa klimatet"; //Machine translated
@@ -702,7 +709,7 @@
 "Flash the headlights on the vehicle" = "Blinka med strålkastarna på fordonet"; //Machine translated
 "Honk the vehicle horn" = "Tuta på fordonets tuta"; //Machine translated
 "Start/Stop Charging" = "Starta/Stoppa laddning"; //Machine translated
-"Start or stop charging the vehicle" = "Starta och sluta ladda fordonet"; //Machine translated
+"Start or stop charging the vehicle" = "Starta eller sluta ladda fordonet"; //Machine translated
 "Remotely test vehicle emissions" = "Testa fordonsutsläpp på distans"; //Machine translated
 "Emissions Test" = "Utsläppstest"; //Machine translated
 "Open/Close Doors" = "Öppna/stäng dörrar"; //Machine translated
@@ -713,7 +720,7 @@
 "On" = "På"; //Machine translated
 "Perform Refresh" = "Utför Refresh"; //Machine translated
 "Connected" = "Ansluten"; //Machine translated
-"Open the app and navigate to the unlatch doors view" = "Öppna appen och navigera till vyn för upplåsta dörrar"; //Machine translated
+"Open the app and navigate to the unlatch doors view" = "Öppna appen och navigera till vyn för låsta dörrar"; //Machine translated
 "Open the app and navigate to the compass view" = "Öppna appen och navigera till kompassvyn"; //Machine translated
 "Open Maps and show the current location of the vehicle" = "Öppna Maps och visa fordonets aktuella position"; //Machine translated
 "Open the app and navigate to the seat heaters view" = "Öppna appen och navigera till vyn för sätesvärmare"; //Machine translated

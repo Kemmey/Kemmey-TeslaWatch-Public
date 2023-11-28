@@ -736,3 +736,10 @@
 "Open the app and navigate to the compass view" = "Open the app and navigate to the compass view";
 "Open Maps and show the current location of the vehicle" = "Open Maps and show the current location of the vehicle";
 "Open the app and navigate to the seat heaters view" = "Open the app and navigate to the seat heaters view";
+"During login, please allow all requested permission scopes for the app to function properly." = "During login, please allow all requested permission scopes for the app to function properly.";
+"Revoke permissions" = "Revoke permissions";
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes.";
+"Add virtual key with Tesla" = "Add virtual key with Tesla";
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access.";
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept.";
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen.";

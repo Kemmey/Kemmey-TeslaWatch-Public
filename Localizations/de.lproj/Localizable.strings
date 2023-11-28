@@ -674,6 +674,13 @@
 "Contact support" = "Kontaktieren Sie Support"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Öffnen Sie Watch for Tesla auf Ihrem Telefon, um den Support zu kontaktieren"; //Machine translated
 "Closing" = "Schließen"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Bitte erlauben Sie beim Anmelden alle angeforderten Berechtigungsbereiche, damit die App ordnungsgemäß funktioniert."; //Machine translated
+"Revoke permissions" = "Berechtigungen widerrufen"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Erfolgreich angemeldet, aber während des Anmeldevorgangs wurden nicht alle erforderlichen Berechtigungsbereiche gewährt. Bitte tippen Sie unten, um die Berechtigungen zu widerrufen, melden Sie sich dann erneut an und stellen Sie sicher, dass alle angeforderten Bereiche zugelassen sind."; //Machine translated
+"Add virtual key with Tesla" = "Mit Tesla einen virtuellen Schlüssel hinzufügen"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "Sie verwenden eine veraltete Anmeldemethode. Tesla hat dies im November 2023 eingestellt. Bitte melden Sie sich erneut an, um einen aktualisierten Zugriff zu erhalten."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Ich bin damit einverstanden, bei der Ausführung von Fahrzeugbefehlen ein kurzlebiges Zugriffstoken mit einem sicheren System zu teilen. Dadurch wird Ihre Kontrolle gewährleistet und gleichzeitig die Privatsphäre gewahrt, da keine Protokolle oder Analysen geführt werden."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Der virtuelle Schlüssel ist nicht im Fahrzeug registriert – bitte öffnen Sie diese App auf Ihrem Telefon und registrieren Sie den virtuellen Schlüssel über den Einstellungsbildschirm."; //Machine translated
 "Vehicle commands" = "Fahrzeugbefehle"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "Die Nutzung von Ortungsdiensten wurde nicht genehmigt. Bitte erlauben Sie dies während der Nutzung der App."; //Machine translated
 "Lock/Unlock" = "Schliessen aufmachen"; //Machine translated
@@ -702,7 +709,7 @@
 "Flash the headlights on the vehicle" = "Lassen Sie die Scheinwerfer am Fahrzeug blinken"; //Machine translated
 "Honk the vehicle horn" = "Hupen Sie die Fahrzeughupe"; //Machine translated
 "Start/Stop Charging" = "Ladevorgang starten/stoppen"; //Machine translated
-"Start or stop charging the vehicle" = "Starten und stoppen Sie den Ladevorgang des Fahrzeugs"; //Machine translated
+"Start or stop charging the vehicle" = "Starten oder stoppen Sie den Ladevorgang des Fahrzeugs"; //Machine translated
 "Remotely test vehicle emissions" = "Testen Sie Fahrzeugemissionen aus der Ferne"; //Machine translated
 "Emissions Test" = "Emissionstest"; //Machine translated
 "Open/Close Doors" = "Türen öffnen/schließen"; //Machine translated

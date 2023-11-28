@@ -674,6 +674,13 @@
 "Contact support" = "Contact opnemen met ondersteuning"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Open Watch for Tesla op uw telefoon om contact op te nemen met de ondersteuning"; //Machine translated
 "Closing" = "Sluitend"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Geef tijdens het inloggen alle gevraagde toestemmingsbereiken toe, zodat de app correct functioneert."; //Machine translated
+"Revoke permissions" = "Machtigingen intrekken"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Succesvol ingelogd, maar niet alle vereiste toestemmingsbereiken zijn verleend tijdens het inlogproces. Tik hieronder om de machtigingen in te trekken, log vervolgens opnieuw in en zorg ervoor dat u alle gevraagde bereiken toestaat."; //Machine translated
+"Add virtual key with Tesla" = "Virtuele sleutel toevoegen met Tesla"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "U gebruikt een verouderde inlogmethode. Tesla is hier in november 2023 mee gestopt. Log opnieuw in voor bijgewerkte toegang."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Ik ga ermee akkoord een kortstondig toegangstoken te delen met een beveiligd systeem bij het uitvoeren van auto-opdrachten. Dit garandeert uw controle terwijl de privacy behouden blijft, omdat er geen logs of analyses worden bijgehouden."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Virtuele sleutel is niet geregistreerd in het voertuig. Open deze app op uw telefoon en registreer de virtuele sleutel via het scherm Instellingen."; //Machine translated
 "Vehicle commands" = "Voertuigopdrachten"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "Het gebruik van locatiediensten is niet toegestaan. Sta dit toe tijdens het gebruik van de app."; //Machine translated
 "Lock/Unlock" = "Afsluiten openen"; //Machine translated
@@ -702,7 +709,7 @@
 "Flash the headlights on the vehicle" = "Laat de koplampen van het voertuig knipperen"; //Machine translated
 "Honk the vehicle horn" = "Toeter"; //Machine translated
 "Start/Stop Charging" = "Start/stop met opladen"; //Machine translated
-"Start or stop charging the vehicle" = "Start en stop het opladen van het voertuig"; //Machine translated
+"Start or stop charging the vehicle" = "Start of stop het opladen van het voertuig"; //Machine translated
 "Remotely test vehicle emissions" = "Test de emissies van voertuigen op afstand"; //Machine translated
 "Emissions Test" = "Emissietest"; //Machine translated
 "Open/Close Doors" = "Open/sluit deuren"; //Machine translated

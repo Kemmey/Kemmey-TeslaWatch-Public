@@ -676,6 +676,13 @@
 "Contact support" = "联系支持"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "在手机上打开 Watch for Tesla 以联系支持人员"; //Machine translated
 "Closing" = "闭幕式"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "登录期间，请允许所有请求的权限范围，以便应用程序正常运行。"; //Machine translated
+"Revoke permissions" = "撤销权限"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "已成功登录，但在登录过程中并未授予所有必需的权限范围。请点击下面撤销权限，然后再次登录，确保允许所有请求的范围。"; //Machine translated
+"Add virtual key with Tesla" = "添加特斯拉虚拟钥匙"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "您正在使用过时的登录方法。 Tesla 已于 2023 年 11 月停止此服务。请重新登录以获取更新的访问权限。"; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "我同意在执行汽车命令时与安全系统共享短期访问令牌。这样可以确保您的控制权，同时维护隐私，因为不会保留任何日志或分析。"; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "虚拟钥匙未在车辆中注册 - 请在手机上打开此应用程序，然后从“设置”屏幕注册虚拟钥匙。"; //Machine translated
 "Vehicle commands" = "车辆指令"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "尚未授权使用定位服务。使用该应用程序时请允许。"; //Machine translated
 "Lock/Unlock" = "锁定/解锁"; //Machine translated

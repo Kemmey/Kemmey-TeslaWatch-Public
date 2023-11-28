@@ -674,6 +674,13 @@
 "Contact support" = "Kontakt support"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Åpne Watch for Tesla på telefonen for å kontakte brukerstøtten"; //Machine translated
 "Closing" = "Lukking"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Under pålogging, la alle forespurte tillatelsesomfang for at appen skal fungere skikkelig."; //Machine translated
+"Revoke permissions" = "Oppheve tillatelser"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Vellykket pålogget, men ikke alle nødvendige tillatelsesomfang ble gitt under påloggingsprosessen. Trykk nedenfor for å tilbakekalle tillatelser, logg deretter på igjen, og pass på å tillate alle forespurte omfang."; //Machine translated
+"Add virtual key with Tesla" = "Legg til virtuell nøkkel med Tesla"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "Du bruker en utdatert påloggingsmetode. Tesla sluttet med dette i november 2023. Logg på igjen for oppdatert tilgang."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Jeg godtar å dele et kortvarig tilgangstoken med et sikkert system når jeg utfører bilkommandoer. Dette sikrer din kontroll samtidig som personvernet opprettholdes, siden ingen logger eller analyser holdes."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Virtuell nøkkel er ikke registrert i kjøretøyet - åpne denne appen på telefonen, og registrer den virtuelle nøkkelen fra Innstillinger-skjermen."; //Machine translated
 "Vehicle commands" = "Kjøretøy kommandoer"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "Bruk av lokaliseringstjenester er ikke autorisert. Vennligst tillat mens du bruker appen."; //Machine translated
 "Lock/Unlock" = "Lås åpne"; //Machine translated
@@ -702,7 +709,7 @@
 "Flash the headlights on the vehicle" = "Blink frontlysene på kjøretøyet"; //Machine translated
 "Honk the vehicle horn" = "Tut på kjøretøyets horn"; //Machine translated
 "Start/Stop Charging" = "Start/stopp lading"; //Machine translated
-"Start or stop charging the vehicle" = "Start og stopp lading av kjøretøyet"; //Machine translated
+"Start or stop charging the vehicle" = "Start eller stopp lading av kjøretøyet"; //Machine translated
 "Remotely test vehicle emissions" = "Fjerntest utslipp fra kjøretøy"; //Machine translated
 "Emissions Test" = "Utslippstest"; //Machine translated
 "Open/Close Doors" = "Åpne/lukke dører"; //Machine translated

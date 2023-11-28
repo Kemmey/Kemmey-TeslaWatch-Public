@@ -674,6 +674,13 @@
 "Contact support" = "Контактная поддержка"; //Machine translated
 "Open Watch for Tesla on your phone to contact support" = "Откройте Watch for Tesla на своем телефоне, чтобы связаться со службой поддержки."; //Machine translated
 "Closing" = "Закрытие"; //Machine translated
+"During login, please allow all requested permission scopes for the app to function properly." = "Во время входа в систему разрешите все запрошенные области разрешений, чтобы приложение функционировало правильно."; //Machine translated
+"Revoke permissions" = "Отозвать разрешения"; //Machine translated
+"Successfully logged in, but not all required permission scopes were granted during the login process. Please tap below to revoke permissions, then login again, making sure to allow all requested scopes." = "Вход выполнен успешно, но во время входа в систему были предоставлены не все необходимые разрешения. Нажмите ниже, чтобы отозвать разрешения, затем войдите снова, убедившись, что все запрошенные области разрешены."; //Machine translated
+"Add virtual key with Tesla" = "Добавить виртуальный ключ с Tesla"; //Machine translated
+"You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "Вы используете устаревший метод входа. Tesla прекратила поддержку в ноябре 2023 года. Пожалуйста, войдите в систему еще раз, чтобы получить обновленный доступ."; //Machine translated
+"I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "Я согласен передавать кратковременный токен доступа безопасной системе при выполнении команд автомобиля. Это обеспечивает ваш контроль при сохранении конфиденциальности, поскольку журналы или аналитика не сохраняются."; //Machine translated
+"Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Виртуальный ключ не зарегистрирован в автомобиле. Откройте это приложение на своем телефоне и зарегистрируйте виртуальный ключ на экране настроек."; //Machine translated
 "Vehicle commands" = "Команды автомобиля"; //Machine translated
 "Use of location services has not been authorized. Please allow while using the app." = "Использование служб определения местоположения не разрешено. Пожалуйста, разрешите использование приложения."; //Machine translated
 "Lock/Unlock" = "Блокировка/разблокировка"; //Machine translated
@@ -702,7 +709,7 @@
 "Flash the headlights on the vehicle" = "Мигать фарами автомобиля"; //Machine translated
 "Honk the vehicle horn" = "Подайте звуковой сигнал автомобиля"; //Machine translated
 "Start/Stop Charging" = "Начать/остановить зарядку"; //Machine translated
-"Start or stop charging the vehicle" = "Начать и прекратить зарядку автомобиля"; //Machine translated
+"Start or stop charging the vehicle" = "Начать или прекратить зарядку автомобиля"; //Machine translated
 "Remotely test vehicle emissions" = "Дистанционно проверять выбросы транспортных средств"; //Machine translated
 "Emissions Test" = "Тест на выбросы"; //Machine translated
 "Open/Close Doors" = "Открыть/закрыть двери"; //Machine translated
