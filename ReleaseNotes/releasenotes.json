@@ -682,6 +682,7 @@
             { "build": 1468, "change": "Now using Tesla Fleet API and related authentication methods. You will need to login again using that. It is quite an involved process - I hope i captured the steps so they are easy to complete. Please leave TestFlight feedback for any issues or things that are not clear." },
             { "build": 1468, "change": "KNOWN ISSUE: vehicle image loading is broken in this build - you will see a generic white image of the ballpark model you have. This will be fixed server-side - go to Settings, Debug, Clear cache to reload image from server." },
             { "build": 1468, "change": "KNOWN ISSUE: this build will not work in China, as the Fleet API has not been made available in China by Tesla. I will allow the old login method before release to the app store as a temporary solution." },
+            { "build": 1468, "change": "KNOWN ISSUE: Charge stats are currently not available from the Tesla Fleet API - existing data will still show, but new data will not be fetched and shown." },
             { "build": 1471, "change": "Fixed missing translations." },
             { "build": 1468, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
