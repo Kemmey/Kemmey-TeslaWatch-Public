@@ -743,3 +743,7 @@
 "You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access." = "You are using an outdated login method. Tesla discontinued this in November 2023. Please log in again for updated access.";
 "I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept." = "I agree to share a short-lived access token with a secure system when executing car commands. This ensures your control while maintaining privacy, as no logs or analytics are kept.";
 "Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen." = "Virtual Key not enrolled in vehicle - please open this app on your phone, and enroll Virtual Key from the Settings screen.";
+"I just want to look around!" = "I just want to look around!";
+"If you're not ready to log in yet, you can see how the app functions in demo mode." = "If you're not ready to log in yet, you can see how the app functions in demo mode.";
+"Demo mode" = "Demo mode";
+"Turn off demo mode" = "Turn off demo mode";
