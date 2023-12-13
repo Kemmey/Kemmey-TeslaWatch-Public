@@ -711,3 +711,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "如果您尚未準備好登錄，您可以在演示模式下查看應用程式的功能。"; //Machine translated
 "Demo mode" = "演示模式"; //Machine translated
 "Turn off demo mode" = "關閉演示模式"; //Machine translated
+"Tesla API limit reached, resuming in:" = "Tesla API 達到限制，恢復時間："; //Machine translated

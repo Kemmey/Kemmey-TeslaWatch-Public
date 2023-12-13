@@ -711,3 +711,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "Os nad ydych chi'n barod i fewngofnodi eto, gallwch weld sut mae'r app yn gweithredu yn y modd demo."; //Machine translated
 "Demo mode" = "Modd demo"; //Machine translated
 "Turn off demo mode" = "Diffoddwch y modd demo"; //Machine translated
+"Tesla API limit reached, resuming in:" = "Cyrhaeddwyd terfyn API Tesla, gan ailddechrau yn:"; //Machine translated

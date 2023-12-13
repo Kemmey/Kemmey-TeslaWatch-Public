@@ -747,3 +747,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "If you're not ready to log in yet, you can see how the app functions in demo mode.";
 "Demo mode" = "Demo mode";
 "Turn off demo mode" = "Turn off demo mode";
+"Tesla API limit reached, resuming in:" = "Tesla API limit reached, resuming in:";

@@ -728,3 +728,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "아직 로그인할 준비가 되지 않은 경우 데모 모드에서 앱이 어떻게 작동하는지 확인할 수 있습니다."; //Machine translated
 "Demo mode" = "데모 모드"; //Machine translated
 "Turn off demo mode" = "데모 모드 끄기"; //Machine translated
+"Tesla API limit reached, resuming in:" = "Tesla API 한도에 도달했습니다. 다음 날짜에 재개됩니다."; //Machine translated

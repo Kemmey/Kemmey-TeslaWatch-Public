@@ -728,3 +728,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "Si aún no está listo para iniciar sesión, puede ver cómo funciona la aplicación en modo de demostración."; //Machine translated
 "Demo mode" = "Modo de demostración"; //Machine translated
 "Turn off demo mode" = "Desactivar el modo de demostración"; //Machine translated
+"Tesla API limit reached, resuming in:" = "Se alcanzó el límite de API de Tesla y se reanudará en:"; //Machine translated

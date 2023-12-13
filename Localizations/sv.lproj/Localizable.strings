@@ -728,3 +728,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "Om du inte är redo att logga in ännu kan du se hur appen fungerar i demoläge."; //Machine translated
 "Demo mode" = "Demoläge"; //Machine translated
 "Turn off demo mode" = "Stäng av demoläget"; //Machine translated
+"Tesla API limit reached, resuming in:" = "Tesla API-gräns nådd, återupptas om:"; //Machine translated

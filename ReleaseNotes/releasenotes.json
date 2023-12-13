@@ -683,7 +683,9 @@
             { "build": 1471, "change": "Fixed missing translations." },
             { "build": 1488, "change": "Fixed China login - will only work for a few days or weeks, as China is now migrating to Fleet API as well." },
             { "build": 1488, "change": "Fixed vehicle image loading - go to the vehicle-chooser by tapping your vehicle name on the main screen, then tap vehicle image to re-load/refresh the image. Please file feedback if image is not as expected - this has reverted back to old image heuristics, unfortunately." },
-            { "build": 1488, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+            { "build": 1491, "change": "Added rate limit panel, indicating if the Tesla Fleet API requests the app to apply rate limiting." },
+            { "build": 1491, "change": "The apps auto-refresh is now set to 30 seconds instead of 5, in order to conserve API requests. This quality-of-life reduction is brought to you by Tesla... With current rate limits, unless they change, there's about 3.3 requests allowed per vehicle per 24 hours..." },
+            { "build": 1491, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
     {

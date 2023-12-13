@@ -728,3 +728,4 @@
 "If you're not ready to log in yet, you can see how the app functions in demo mode." = "Εάν δεν είστε ακόμη έτοιμοι να συνδεθείτε, μπορείτε να δείτε πώς λειτουργεί η εφαρμογή σε λειτουργία επίδειξης."; //Machine translated
 "Demo mode" = "Δοκιμαστική λειτουργία"; //Machine translated
 "Turn off demo mode" = "Απενεργοποιήστε τη λειτουργία επίδειξης"; //Machine translated
+"Tesla API limit reached, resuming in:" = "Συμπληρώθηκε το όριο API της Tesla, επαναφορά σε:"; //Machine translated
