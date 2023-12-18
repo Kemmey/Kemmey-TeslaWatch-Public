@@ -679,13 +679,14 @@
     {
         "version": "1.4.0",
         "changes": [
-            { "build": 1468, "change": "Now using Tesla Fleet API and related authentication methods. You will need to login again using that. It is quite an involved process - I hope i captured the steps so they are easy to complete. Please leave TestFlight feedback for any issues or things that are not clear." },
-            { "build": 1471, "change": "Fixed missing translations." },
-            { "build": 1488, "change": "Fixed China login - will only work for a few days or weeks, as China is now migrating to Fleet API as well." },
-            { "build": 1488, "change": "Fixed vehicle image loading - go to the vehicle-chooser by tapping your vehicle name on the main screen, then tap vehicle image to re-load/refresh the image. Please file feedback if image is not as expected - this has reverted back to old image heuristics, unfortunately." },
-            { "build": 1491, "change": "Added rate limit panel, indicating if the Tesla Fleet API requests the app to apply rate limiting." },
-            { "build": 1491, "change": "The apps auto-refresh is now set to 30 seconds instead of 5, in order to conserve API requests. This quality-of-life reduction is brought to you by Tesla... With current rate limits, unless they change, there's about 3.3 requests allowed per vehicle per 24 hours..." },
-            { "build": 1491, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+            { "build": 1500, "change": "*Enhancements*" },
+            { "build": 1500, "change": "ADVISORY: Tesla is currently (December 2023) rolling out breaking changes to the vehicle API. All vehicles will require this new API, which results in vehicle commands not working using the existing API. You will need to login again and re-authenticate to use this new API." },
+            { "build": 1500, "change": "ADVISORY: Due to technical changes in the new Tesla Fleet API, parts of the logic of this app now HAS to execute on cloud infrastructure, impacting the privacy aspects of this app. Up until now, no data ever left your devices, except to go straight to Tesla - this is no longer the case, due to changes enforced by Tesla, the app is now inherently less privacy secure. By continuing to use this app, you will now have to accept that temporary access permissions will be sent to cloud infrastructure, not controlled by Tesla. No logging, analytics or inspection is performed as part of this, to keep your privacy intact." },
+            { "build": 1500, "change": "ADVISORY: The Tesla Fleet API was not available in China at the time of publication of this build - which means command execution will soon stop working entirely in China. I will have a release as soon as possible, restoring remote command functionality. In the meantime, Bluetooth direct commands will continue to work." },
+            { "build": 1500, "change": "Vehicle image can now be refreshed, by tapping the vehicle image from the vehicle chooser. Due to the Tesla Fleet API not exposing vehicle image data, the vehicle image will be calculated using the old heuristics, and will not always match. In that case, please open a support ticket and I will do my best to update the logic to calculate the proper image." },
+            { "build": 1500, "change": "The Tesla Fleet API is severely rate limited - when this happens, you will see a banner in the app. For now, there is nothing I can do about that unfortunately. Feel free to file feedback with Tesla that you appreciate and find utility in 3rd party software solutions, and ask them to allow higher rate limits." },
+            { "build": 1500, "change": "Auto-refresh is now set to 30 seconds instead of 5 seconds, in order to conserve API requests in the Tesla Fleet API." },
+            { "build": 1500, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
     {
