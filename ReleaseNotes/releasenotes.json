@@ -690,6 +690,13 @@
         ]
     },
     {
+        "version": "1.4.1",
+        "changes": [
+            { "build": 1502, "change": "Initial 1.4.1 build." },
+            { "build": 1502, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error" }
