@@ -692,10 +692,9 @@
     {
         "version": "1.4.1",
         "changes": [
-            { "build": 1502, "change": "Initial 1.4.1 build." },
-            { "build": 1503, "change": "Removed support for using the app in China. Unfortunately there are too many restrictions for a single developer outside China, to make it feasible to keep running." },
-            { "build": 1507, "change": "Added OU Code logging at informational level to help identify out-of-region errors." },
-            { "build": 1507, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+            { "build": 1509, "change": "Removed support for using the app in China. Unfortunately there are too many restrictions for a single developer outside China, to make it feasible to keep running. Functionality inside China will be re-instated once it is possible to deploy the app without third party infrastructure, relying only on Tesla infrastructure, as in the past." },
+            { "build": 1509, "change": "Added a workaround for misconfigured regions on Tesla-provided authentication tokens. This should fix login-issues in the middle-east region." },
+            { "build": 1509, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
     {
