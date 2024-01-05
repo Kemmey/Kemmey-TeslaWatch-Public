@@ -700,8 +700,15 @@
     {
         "version": "1.4.2",
         "changes": [
-            { "build": 1511, "change": "Initial 1.4.2 release." },
-            { "build": 1511, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+            { "build": 1516, "change": "Fixed a regression related to working around misconfiguration of the Middle East region on Tesla infrastructure." },
+            { "build": 1516, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
+        "version": "1.4.3",
+        "changes": [
+            { "build": 1517, "change": "Initial 1.4.3 build." },
+            { "build": 1517, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
     {
