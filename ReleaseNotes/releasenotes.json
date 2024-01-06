@@ -708,6 +708,7 @@
         "version": "1.4.3",
         "changes": [
             { "build": 1517, "change": "Initial 1.4.3 build." },
+            { "build": 1520, "change": "Fix regression in out-of-region on vehicle wake." },
             { "build": 1517, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
