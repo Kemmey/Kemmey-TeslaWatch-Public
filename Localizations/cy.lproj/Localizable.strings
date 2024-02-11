@@ -712,3 +712,6 @@
 "Demo mode" = "Modd demo"; //Machine translated
 "Turn off demo mode" = "Diffoddwch y modd demo"; //Machine translated
 "Tesla API limit reached, resuming in:" = "Cyrhaeddwyd terfyn API Tesla, gan ailddechrau yn:"; //Machine translated
+"Alternatively, enable Bluetooth direct vehicle control and pair this device as a key directly in your vehicle. This require you to physically be in your car, and have your Tesla keycard present with you." = "Fel arall, galluogwch reolaeth cerbyd uniongyrchol Bluetooth a pharwch y ddyfais hon fel allwedd yn uniongyrchol yn eich cerbyd. Mae hyn yn ei gwneud yn ofynnol i chi fod yn gorfforol yn eich car, a chael eich cerdyn allwedd Tesla yn bresennol gyda chi."; //Machine translated
+"One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "Mae angen un cam olaf - ychwanegwch yr ap hwn fel allwedd rithwir yn eich cerbyd er mwyn gallu cyflawni gorchmynion."; //Machine translated
+"Validate key was successfully added" = "Llwyddwyd i ychwanegu allwedd Validate"; //Machine translated

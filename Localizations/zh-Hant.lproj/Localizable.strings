@@ -712,3 +712,6 @@
 "Demo mode" = "演示模式"; //Machine translated
 "Turn off demo mode" = "關閉演示模式"; //Machine translated
 "Tesla API limit reached, resuming in:" = "Tesla API 達到限制，恢復時間："; //Machine translated
+"Alternatively, enable Bluetooth direct vehicle control and pair this device as a key directly in your vehicle. This require you to physically be in your car, and have your Tesla keycard present with you." = "或者，啟用藍牙直接車輛控制並將該設備作為鑰匙直接在車輛中配對。這需要您親自在車內，並隨身攜帶 Tesla 鑰匙卡。"; //Machine translated
+"One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "需要最後一步 - 請將此應用程式新增為車輛中的虛擬鑰匙，以便能夠執行命令。"; //Machine translated
+"Validate key was successfully added" = "驗證金鑰已成功新增"; //Machine translated

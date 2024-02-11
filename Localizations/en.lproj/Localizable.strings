@@ -748,3 +748,6 @@
 "Demo mode" = "Demo mode";
 "Turn off demo mode" = "Turn off demo mode";
 "Tesla API limit reached, resuming in:" = "Tesla API limit reached, resuming in:";
+"Alternatively, enable Bluetooth direct vehicle control and pair this device as a key directly in your vehicle. This require you to physically be in your car, and have your Tesla keycard present with you." = "Alternatively, enable Bluetooth direct vehicle control and pair this device as a key directly in your vehicle. This require you to physically be in your car, and have your Tesla keycard present with you.";
+"One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands.";
+"Validate key was successfully added" = "Validate key was successfully added";

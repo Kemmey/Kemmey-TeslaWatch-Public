@@ -730,3 +730,6 @@
 "Demo mode" = "Wersja demo"; //Machine translated
 "Turn off demo mode" = "Wyłącz tryb demonstracyjny"; //Machine translated
 "Tesla API limit reached, resuming in:" = "Osiągnięto limit API Tesli, wznowienie za:"; //Machine translated
+"Alternatively, enable Bluetooth direct vehicle control and pair this device as a key directly in your vehicle. This require you to physically be in your car, and have your Tesla keycard present with you." = "Alternatywnie włącz bezpośrednie sterowanie pojazdem przez Bluetooth i sparuj to urządzenie jako kluczyk bezpośrednio w pojeździe. Wymaga to fizycznej obecności w samochodzie i posiadania przy sobie karty Tesli."; //Machine translated
+"One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "Wymagany jest jeszcze jeden ostatni krok — dodaj tę aplikację jako wirtualny kluczyk w swoim pojeździe, aby móc wykonywać polecenia."; //Machine translated
+"Validate key was successfully added" = "Klucz weryfikacji został pomyślnie dodany"; //Machine translated
