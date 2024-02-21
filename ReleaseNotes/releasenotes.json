@@ -394,18 +394,328 @@
     {
         "version": "1.2.3",
         "changes": [
-            { "build": 934, "change": "Initial 1.2.3 build" },
-            { "build": 934, "change": "Allow setting amperage while charging." },
-            { "build": 936, "change": "Minimum deployment targets updated to iOS 14.2, watchOS 7.2 and macOS 11.3." },
-            { "build": 938, "change": "Preview support for getting background data from TeslaScope. Add your TeslaScope API key from Settings, Advanced, Background Updates." },
-            { "build": 941, "change": "Optimized controls ordering layout on iOS" },
-            { "build": 949, "change": "Updated HUD layout" },
-            { "build": 949, "change": "LazyVStack to improve scrolling performance" },
-            { "build": 949, "change": "Layout of what's new screen" },
-            { "build": 950, "change": "Added iCloud KVS for iOS / iPadOS / macOS" },
-            { "build": 954, "change": "Work-in-progress UI refresh" },
-            { "build": 955, "change": "Only send remote start and chargeport unlock after successful vehicle unlock" },
-            { "build": 955, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+            { "build": 963, "change": "*Enhancements*" },
+            { "build": 963, "change": "Allow setting amperage while charging." },
+            { "build": 963, "change": "Updated HUD layout." },
+            { "build": 963, "change": "Optimized controls ordering layout on iOS." },
+            { "build": 963, "change": "Completely rewrote network stack." },
+            { "build": 963, "change": "Removed need for Tesla Account Password for Remote Start." },
+            { "build": 963, "change": "*Bugfixes*" },
+            { "build": 963, "change": "Minimum deployment targets updated to iOS 14.2, watchOS 7.2 and macOS 11.3." },
+            { "build": 963, "change": "Only send remote start and chargeport unlock after successful vehicle unlock." },
+            { "build": 963, "change": "Updated all Siri intents localization keys." },
+            { "build": 963, "change": "Fixed not being able to toggle background image on watchOS." },
+            { "build": 963, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.2.4",
+        "changes": [
+            { "build": 1014, "change": "PLEASE NOTE: After release of this version, it has come to my attention that some users are not familiar with the system-standard pull-down-to-dismiss gesture, leading them to believe this app forces you to leave a review on the App Store. This is absolutely not the case! Please pull down on this pop-over window to dismiss the wath's new modal dialog." },
+            { "build": 1014, "change": "*New features*" },
+            { "build": 1014, "change": "Support for 4 controls per row on iOS, iPadOS, macOS" },
+            { "build": 1014, "change": "Added TPMS data collection. Data will ONLY be collected if a data update happens while driving, and vehicle has initialized TPMS sensors." },
+            { "build": 1014, "change": "Added initial TPMS view panel. Panel only visible once TPMS data has been collected during a driving session." },
+            { "build": 1014, "change": "Added TPMS data and raw JSON to Get Vehicle State Siri Shortcuts intent." },
+            { "build": 1014, "change": "Added set climate keeper, camp and dog modes - accessible from the set temp panel by tapping either the internal or external temperature views on the main screen." },
+            { "build": 1014, "change": "Added Siri action for setting climate keeper mode. Find it directly in the Shortcuts app and use for custom workflows." },
+            { "build": 1014, "change": "Added support for cached data from the Tesla API servers. If available, app will grab last known data from Teslas servers first, then continue to wake vehicle for actual up to date data." },
+            { "build": 1014, "change": "Use Tesla API cached data when doing background updates if not allowed to wake vehicle." },
+            { "build": 1014, "change": "Added preliminary long-term data persistence. All captured api data will now be stored in a local database as well as synced across all iCloud connected devices. This will enable additional features in the future, as well as further reduce vehicle wakes." },
+            { "build": 1014, "change": "Added support for capturing charge stats. Currently this only shows as a unit-less chart, but further features are planned - including configuring currencies and energy plans." },
+            { "build": 1014, "change": "Added charge stats complication for graphic large recangular slot" },
+            { "build": 1014, "change": "Added charge stats widgets" },
+            { "build": 1014, "change": "*Enhancements*" },
+            { "build": 1014, "change": "Add advanced setting to override pressure unit from BAR to PSI." },
+            { "build": 1014, "change": "Added vehicle chooser to Settings - even for accounts with only one vehicle." },
+            { "build": 1014, "change": "Added activate button to vehicle chooser vehicle item." },
+            { "build": 1014, "change": "Open features panel now also shows if remote start is active or charge port is unlocked." },
+            { "build": 1014, "change": "Added help text and hint about needing to manually sync shortcuts to Apple Watch." },
+            { "build": 1014, "change": "*Bugfixes*" },
+            { "build": 1014, "change": "Fixed issues with executing some commands - so sorry about the interruption in functionality!" },
+            { "build": 1014, "change": "Fixed an API issue by adding a missing header value." },
+            { "build": 1014, "change": "Fixed navigation button text no longer overflowing" },
+            { "build": 1014, "change": "Allow setting amperage at max 48 instead of only 32 when using the set charging current siri action." },
+            { "build": 1014, "change": "Fixed showing charge port open when cable disconnected." },
+            { "build": 1014, "change": "Use vehicle vin as cache key instead of vehicle id, as  vehicle id changes inexplicably." },
+            { "build": 1014, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." },
+            { "build": 1014, "change": "PLEASE NOTE: After release of this version, it has come to my attention that some users are not familiar with the system-standard pull-down-to-dismiss gesture, leading them to believe this app forces you to leave a review on the App Store. This is absolutely not the case! Please pull down on this pop-over window to dismiss the wath's new modal dialog." }
+        ]
+    },
+    {
+        "version": "1.2.5",
+        "changes": [
+            { "build": 1040, "change": "*New features*" },
+            { "build": 1040, "change": "Added iOS 16 Lock Screen Widgets for Status and Controls." },
+            { "build": 1040, "change": "In driving view full screen, tap power to toggle between power and speed in center slot." },
+            { "build": 1040, "change": "Added 'Work' to charge stats - using heuristics for now." },
+            { "build": 1040, "change": "*Enhancements*" },
+            { "build": 1040, "change": "Added explicit Dismiss button to what's new modal popover, to make it more obvious how to dismiss this modal panel, as the system native feature was confusing to some users." },
+            { "build": 1040, "change": "*Bugfixes*" },
+            { "build": 1040, "change": "Fixed some localization issues." },
+            { "build": 1040, "change": "No longer dim widgets when vehicle was sleeping at time of refresh." },
+            { "build": 1040, "change": "Performance improvements - should have improved launch speed, navigation speed etc." },
+            { "build": 1040, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.2.6",
+        "changes": [
+            { "build": 1110, "change": "*New features*" },
+            { "build": 1110, "change": "Added Live Activities for driving and charging sessions. These will show up when the app is opened on devices running iOS 16.1 or newer and the app has received data from the vehicle while charging or driving. Live Activities will update in the background every 15 minutes only. See note about Cloud Processing for how to improve this." },
+            { "build": 1110, "change": "Added OPTIONAL opt-in support for Cloud Processing of Live Activities. Enable this from advanced settings, to have active Live Activities for driving and charging update much more reliably every time the state of charge changes, with the caveat that your Tesla ACCESS TOKEN is sent to the cloud. Your access token gives FULL CONTROL of your vehicle for up to 8 hours. Only enable this feature if you are comfortable with that. Almost all other 3rd party Tesla clients require this - I have made a strong point in NOT compromising your security by never letting your token leave your devices. This changes that - optionally. Reason being Live Activities really not being functional with the tools provided by Apple without cloud processing." },
+            { "build": 1110, "change": "Now syncing allow wake and travel mode through iCloud - so toggling on one device, should toggle on all devices." },
+            { "build": 1110, "change": "Added recommended TPMS cold temperature pressure settings to TPMS view in vehicle chooser." },
+            { "build": 1110, "change": "Added detailed charge stats - tap the charge stats chart on main screen to see larger and summary." },
+            { "build": 1110, "change": "Added charge stats lock screen widget." },
+            { "build": 1110, "change": "Added navigation data to driving view." },
+            { "build": 1110, "change": "Changed defaults for allow wake and big battery. Both are now off by default. For existing users, consider disabling allow wake, as this is no longer needed since Tesla rolled out server-side caching in their API, so they will always return the last data reported from the vehicle. This should remove all trace of vampire drain caused by this app." },
+            { "build": 1110, "change": "*Enhancements*" },
+            { "build": 1110, "change": "Now using Swift Charts from Apple for 2022 OS releases for charge stats rendering." },
+            { "build": 1110, "change": "Added debug output to show size of local database." },
+            { "build": 1110, "change": "Changed Sentry Mode icon to always use filled-in version as it was more readable." },
+            { "build": 1110, "change": "Added new log-level setting - defaults to only log errors, which will keep the log size down." },
+            { "build": 1110, "change": "Added clear logs button to get rid of old large logs." },
+            { "build": 1110, "change": "Added sample data when configuring widgets to make them show up faster." },
+            { "build": 1110, "change": "When data is old, only some elements of main UI will now be dimmed, as not all features are unavailable or untrustworthy data." },
+            { "build": 1110, "change": "Updated extra large widget design for charge stats." },
+            { "build": 1110, "change": "Significantly improved speed of widgets." },
+            { "build": 1110, "change": "Added delete all data button in the debug menu." },
+            { "build": 1110, "change": "*Bugfixes*" },
+            { "build": 1110, "change": "Fixed sharing navigation destination Siri intent." },
+            { "build": 1110, "change": "Fixed widget settings localizations for Danish." },
+            { "build": 1110, "change": "Fixed charge stats not updating UI immediately upon receiving new stats." },
+            { "build": 1110, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.2.7",
+        "changes": [
+            { "build": 1148, "change": "*New features*" },
+            { "build": 1148, "change": "Holiday update! Bluetooth direct to vehicle is now supported! You can now go to Settings and enable Bluetooth direct vehicle control and pair your device as a proper key to your car. This will work even while completely offline, meaning in a parking lot or in the middle of a desert. This is a game changer. A new symbol will show up in the title bar area when the vehicle is connected directly. Please note, that Bluetooth requires the app to be open to work - but that is all that is needed. Open the app, then grab a door handle, get in, push the brake pedal and put into drive and drive off. Happy holidays to everyone - I really hope you will appreciate this!" },
+            { "build": 1148, "change": "Supported Bluetooth direct vehicle controls, when the link icon is showing in the title area: Lock/Unlock, Open Trunk/Frunk, Lock/Unlock Charge Port and Unlatch Doors. Use the normal control buttons to activate - if Bluetooth is available, command will automatically go direct to car." },
+            { "build": 1148, "change": "With Bluetooth support also comes a highly requested feature - Unlatch Doors! This only works via Bluetooth in close proximity to the vehicle. Watch complication and widget control is available as well." },
+            { "build": 1148, "change": "When cloud processing is enabled, command executions will now be performed in the cloud if local data is older than 7 seconds. Command will time out after 1 minute and 15 seconds, if unable to wake in that time. This applies to Siri and Shortcuts as well." },
+            { "build": 1148, "change": "*Enhancements*" },
+            { "build": 1148, "change": "Updated opacity to only dim header-view when data is old. All commands should execute just fine in this state, especially with cloud processing enabled." },
+            { "build": 1148, "change": "Open features - doors and trunks - are now illustrated with icons and no longer written." },
+            { "build": 1148, "change": "Compass control now only visible, when valid vehicle location is available." },
+            { "build": 1148, "change": "*Bugfixes*" },
+            { "build": 1148, "change": "Fixed compass showing wrong distance to vehicle." },
+            { "build": 1148, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.2.8",
+        "changes": [
+            { "build": 1160, "change": "*New features*" },
+            { "build": 1160, "change": "Bluetooth control can now open and close doors on Model X Plaid." },
+            { "build": 1160, "change": "Added close all action to center vehicle image in Unlatch doors control - which is also now just Doors on Model X Plaid." },
+            { "build": 1160, "change": "*Enhancements*" },
+            { "build": 1160, "change": "Updated Unlatch Doors UI." },
+            { "build": 1160, "change": "Persist cached drive state, when receiving empty drive state from Tesla API cache. Should make Compass more reliable." },
+            { "build": 1160, "change": "Always query vehicle state immediately after whitelisting new key." },
+            { "build": 1160, "change": "Always call wake vehicle immediately after connecting with Bluetooth." },
+            { "build": 1160, "change": "Call auto-lock after sending close-all Bluetooth request by tapping center image in Unlatch Doors control." },
+            { "build": 1160, "change": "Model X Plaid vehicles now use different icon for Doors control." },
+            { "build": 1160, "change": "*Bugfixes*" },
+            { "build": 1160, "change": "Fixed Model S/X Plaid image rendering." },
+            { "build": 1160, "change": "Always generate a clean keypair when removing paired BLE key after a comms error." },
+            { "build": 1160, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.2.9",
+        "changes": [
+            { "build": 1171, "change": "*New features*" },
+            { "build": 1171, "change": "Added fart control, Siri intent and widget (add controls widget, then configure to select Fart!). Requires vehicle with 2022.44.25+ firmware and Boombox external speaker." },
+            { "build": 1171, "change": "*Enhancements*" },
+            { "build": 1171, "change": "Updated the logs views." },
+            { "build": 1171, "change": "Sending logs via e-mail now includes up to 10k entries, not only last 30 of each type of event." },
+            { "build": 1171, "change": "*Bugfixes*" },
+            { "build": 1171, "change": "Do not send REST API request for lock as well as Bluetooth API request for lock, when tapping open features panel on main screen." },
+            { "build": 1171, "change": "Close all button available even if only trunk is open." },
+            { "build": 1171, "change": "Reduce amount of events that would be considered an unpair key event. Try to increase IV instead and allow retry." },
+            { "build": 1171, "change": "Trimmed amount of shown debug menu data." },
+            { "build": 1171, "change": "Localization updates." },
+            { "build": 1171, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.0",
+        "changes": [
+            { "build": 1180, "change": "*New features*" },
+            { "build": 1180, "change": "Added open/close all doors control for Model X Plaid." },
+            { "build": 1180, "change": "*Enhancements*" },
+            { "build": 1180, "change": "Will now always try to use Bluetooth to wake the car, if within proximity." },
+            { "build": 1180, "change": "Now shows a cloud emoji in title bar area when control commands will be processed in the cloud." },
+            { "build": 1180, "change": "Siri will try to use Bluetooth if within range, for commands that are supported." },
+            { "build": 1180, "change": "Migrated device local keychain to access group shared across application extensions (to allow Siri to access BLE keys)." },
+            { "build": 1180, "change": "Add logs counts to logs overview." },
+            { "build": 1180, "change": "*Bugfixes*" },
+            { "build": 1180, "change": "Fixed login, which was broken due to an infrastructure change at Tesla." },
+            { "build": 1180, "change": "Fixed Unlatch doors control not opening trunks." },
+            { "build": 1180, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.1",
+        "changes": [
+            { "build": 1270, "change": "*New features*" },
+            { "build": 1270, "change": "Passive entry support for Apple Watch series 6 and newer running watchOS 9. When Bluetooth direct control is enabled and paired as key in vehicle, on supported watches, it is no longer neccessary to bring the app to the foreground to unlock and drive the car. There are strict limits on background Bluetooth activity on watchOS in order to conserve battery, which might restrict this functionality in some circumstances. Keep in mind that it is always possible to use Siri to open the app - which will be sufficient for Bluetooth to work in the foreground - keep this in mind in hands-free scenarios as a backup." },
+            { "build": 1270, "change": "UI alignment overhaul - polished almost all the pixels, for a sharper, tighter look and feel." },
+            { "build": 1270, "change": "*Enhancements*" },
+            { "build": 1270, "change": "Added button to open instructions from Apple Support for how to run shortcuts natively on the Apple Watch." },
+            { "build": 1270, "change": "Updated german localizations." },
+            { "build": 1270, "change": "Added Mastodon contact info." },
+            { "build": 1270, "change": "Added Bluetooth debug info." },
+            { "build": 1270, "change": "*Bugfixes*" },
+            { "build": 1270, "change": "Fixed issue where sample data would be shown in very rare circumstances." },
+            { "build": 1270, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.2",
+        "changes": [
+            { "build": 1274, "change": "*Bugfixes*" },
+            { "build": 1274, "change": "Removed notification when passive entry becomes unavailable, as it was continously triggering on older watch generations." },
+            { "build": 1274, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.3",
+        "changes": [
+            { "build": 1300, "change": "*New features*" },
+            { "build": 1300, "change": "Controls triggered from complications, widgets or in-app no longer require confirmation, if within Bluetooth proximity of vehicle, whether paired as key or not." },
+            { "build": 1300, "change": "Added Open All Doors watch complication - will open all doors on Model X with a single tap from the watch face, if within Bluetooth range and paired as Bluetooth key. Only relevant for Model X 2021+ refresh." },
+            { "build": 1300, "change": "Added control strip option - switch on from settings, controls order, use control strip. Now the main actions will show all actions in a horizontal scroll view." },
+            { "build": 1300, "change": "Added setting to disable Bluetooth wake on approach. Commands requiring internet connectivity will take slightly longer when close to vehicle, but vehicle will no longer be woken up when just passing by vehicle without interacting." },
+            { "build": 1300, "change": "*Enhancements*" },
+            { "build": 1300, "change": "Set Bluetooth key name in vehicle, identifying it as coming from this app and device." },
+            { "build": 1300, "change": "Use graphql to get proper vehicle image url, as shown on the Tesla account page." },
+            { "build": 1300, "change": "Adjusted the open/unlatch doors view - will now require scrolling to actuate trunk from this view, due to the fact the watch was really poor at capturing user input at the lower part of the screen - now forcing user to scroll up to access the trunk button to overcome this watchOS issue." },
+            { "build": 1300, "change": "*Bugfixes*" },
+            { "build": 1300, "change": "Fixed the blinking text on Live Activities." },
+            { "build": 1300, "change": "Fixed loading image assets within China." },
+            { "build": 1300, "change": "Will no longer disable main controls, when vehicle is offline, but Bluetooth key is connected." },
+            { "build": 1300, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.4",
+        "changes": [
+            { "build": 1306, "change": "*Enhancements*" },
+            { "build": 1306, "change": "Added in-app support mechanism on iOS. Will allow for a much needed improved support experience." },
+            { "build": 1306, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.5",
+        "changes": [
+            { "build": 1313, "change": "*Enhancements*" },
+            { "build": 1313, "change": "Added Welsh language support." },
+            { "build": 1313, "change": "*Bugfixes*" },
+            { "build": 1313, "change": "Fixed vehicle image loading." },
+            { "build": 1313, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.6",
+        "changes": [
+            { "build": 1317, "change": "*Enhancements*" },
+            { "build": 1317, "change": "Updated Simplified Chinese translations." },
+            { "build": 1317, "change": "*Bugfixes*" },
+            { "build": 1317, "change": "Fixed vehicle image loading in China (again)." },
+            { "build": 1317, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.7",
+        "changes": [
+            { "build": 1321, "change": "*Bugfixes*" },
+            { "build": 1321, "change": "Fixes Bluetooth connectivity issues related to vehicle firmware 2023.20.4 and newer." },
+            { "build": 1321, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.8",
+        "changes": [
+            { "build": 1324, "change": "*Bugfixes*" },
+            { "build": 1324, "change": "Fixes Bluetooth connectivity issues related to vehicle firmware 2023.20.4 and newer." },
+            { "build": 1324, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.9",
+        "changes": [
+            { "build": 1335, "change": "Improvements to Bluetooth command handling." },
+            { "build": 1335, "change": "Improved widget performance slightly." },
+            { "build": 1335, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.10",
+        "changes": [
+            { "build": 1337, "change": "Fixed issues with Bluetooth direct vehicle connectivity and Tesla vehicle firmware 2023.26.7" },
+            { "build": 1337, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.11",
+        "changes": [
+            { "build": 1349, "change": "Fixed issues with loading background image in certain conditions." },
+            { "build": 1349, "change": "A HUGE shoutout and THANK YOU to all my translators! You guys ROCK! - and as always, if you want the app translated to your language, get in touch! All localizations are public in the support github repository." }
+        ]
+    },
+    {
+        "version": "1.3.12",
+        "changes": [
+            { "build": 1441, "change": "ADVISORY: Tesla is currently (November 2023) rolling out breaking changes to the vehicle API. All newly-delivered vehicles will require this new API, which results in vehicle commands not working. All other vehicles will adopt this API throughout the rest of the year. As that happens, this app will stop working. This is intentional by Tesla. I am working on converting the app to the new API, but Tesla has not released pricing information - but most likely this API will be expensive - which means this app will have to resort to a subscription model to continue working. Stay tuned - the next weeks are going to be a rough ride." },
+            { "build": 1441, "change": "Fixed issues with pairing Bluetooth key on 2023.38+ vehicle firmwares." },
+            { "build": 1441, "change": "Fixed issues with location data missing on 2023.38+ vehicle firmwares." },
+            { "build": 1441, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
+        "version": "1.4.0",
+        "changes": [
+            { "build": 1500, "change": "*Enhancements*" },
+            { "build": 1500, "change": "ADVISORY: Tesla is currently (December 2023) rolling out breaking changes to the vehicle API. All vehicles will require this new API, which results in vehicle commands not working using the existing API. You will need to login again and re-authenticate to use this new API." },
+            { "build": 1500, "change": "ADVISORY: Due to technical changes in the new Tesla Fleet API, parts of the logic of this app now HAS to execute on cloud infrastructure, impacting the privacy aspects of this app. Up until now, no data ever left your devices, except to go straight to Tesla - this is no longer the case, due to changes enforced by Tesla, the app is now inherently less privacy secure. By continuing to use this app, you will now have to accept that temporary access permissions will be sent to cloud infrastructure, not controlled by Tesla. No logging, analytics or inspection is performed as part of this, to keep your privacy intact." },
+            { "build": 1500, "change": "ADVISORY: The Tesla Fleet API was not available in China at the time of publication of this build - which means command execution will soon stop working entirely in China. I will have a release as soon as possible, restoring remote command functionality. In the meantime, Bluetooth direct commands will continue to work." },
+            { "build": 1500, "change": "Vehicle image can now be refreshed, by tapping the vehicle image from the vehicle chooser. Due to the Tesla Fleet API not exposing vehicle image data, the vehicle image will be calculated using the old heuristics, and will not always match. In that case, please open a support ticket and I will do my best to update the logic to calculate the proper image." },
+            { "build": 1500, "change": "The Tesla Fleet API is severely rate limited - when this happens, you will see a banner in the app. For now, there is nothing I can do about that unfortunately. Feel free to file feedback with Tesla that you appreciate and find utility in 3rd party software solutions, and ask them to allow higher rate limits." },
+            { "build": 1500, "change": "Auto-refresh is now set to 30 seconds instead of 5 seconds, in order to conserve API requests in the Tesla Fleet API." },
+            { "build": 1500, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
+        "version": "1.4.1",
+        "changes": [
+            { "build": 1509, "change": "Removed support for using the app in China. Unfortunately there are too many restrictions for a single developer outside China, to make it feasible to keep running. Functionality inside China will be re-instated once it is possible to deploy the app without third party infrastructure, relying only on Tesla infrastructure, as in the past." },
+            { "build": 1509, "change": "Added a workaround for misconfigured regions on Tesla-provided authentication tokens. This should fix login-issues in the middle-east region." },
+            { "build": 1509, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
+        "version": "1.4.2",
+        "changes": [
+            { "build": 1516, "change": "Fixed a regression related to working around misconfiguration of the Middle East region on Tesla infrastructure." },
+            { "build": 1516, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
+        "version": "1.4.3",
+        "changes": [
+            { "build": 1522, "change": "Fix regression in out-of-region on vehicle wake." },
+            { "build": 1522, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
+        "version": "1.4.4",
+        "changes": [
+            { "build": 1524, "change": "Initial 1.4.4 build." },
+            { "build": 1524, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
     {

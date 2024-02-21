@@ -20,11 +20,13 @@
             },
             "refresh": {
                 "refreshTempest": "WS90",
+                "Tempest19": "WS90",
                 "Arachnid21": "WS10",
                 "default": "WS90"
             },
             "refreshPerformance": {
                 "refreshTempest": "WS90",
+                "Tempest19": "WS90",
                 "Arachnid21": "WS10",
                 "default": "WS10"
             }
@@ -70,12 +72,16 @@
             },
             "refresh": {
                 "refreshCyberstream": "WX00",
+                "Cyberstream20": "WX00",
                 "refreshTurbine": "WX20",
+                "Turbine22": "WX20",
                 "default": "WX00"
             },
             "refreshPerformance": {
                 "refreshCyberstream": "WX00",
+                "Cyberstream20": "WX00",
                 "refreshTurbine": "WX20",
+                "Turbine22": "WX20",
                 "default": "WX20"
             }
         },
@@ -93,10 +99,15 @@
             "refresh": {
                 "refreshGemini": "WY19B",
                 "refreshInduction": "WY20P",
+                "Gemini19": "WY19B",
+                "Apollo19": "WY19B",
+                "Induction20": "WY20P",
                 "default": "WY19B"
             },
             "refreshPerformance": {
                 "refreshUberTurbine": "WY21P",
+                "Apollo19": "WY21P",
+                "Gemini19": "WY21P",
                 "default": "WY21P"
             }
         }
@@ -136,6 +147,8 @@
         "model3": "m3",
         "modelx": "mx",
         "modely": "my",
+        "tamarind": "mx",
+        "lychee": "ms",
         "default": "m3"
     },
     "options": {
