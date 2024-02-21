@@ -417,7 +417,7 @@
 "Hides the vehicle name headline from the main screen. Navigate to settings to change vehicle when this is enabled." = "Verbergt de voertuignaam titel op het hoofdscherm. Navigeer naar instellingen om van voertuig te veranderen wanneer dit is ingeschakeld.";
 "Enabling background updates allows the app to show up-to-date information on widgets and complications and allows for sending notifications when vehicle is not plugged in or is left open or unlocked. If neither of these features are enabled or in use or vehicle has less than 20% charge remaining, background updates will never happen. It is highly recommended to leave these settings at the defaults if you plug-in your car at night." = "Door achtergrondupdates in te schakelen, kan de app actuele informatie over widgets en complicaties tonen en kunnen meldingen worden verzonden wanneer het voertuig niet is aangesloten, geopend of ontgrendeld blijft. Als geen van deze functies is ingeschakeld of in gebruik is of als het voertuig minder dan 20% opgeladen is, zullen er nooit updates op de achtergrond plaatsvinden. Het wordt ten zeerste aanbevolen om deze instellingen op de standaardwaarden te laten staan als u uw auto 's nachts aansluit.";
 "Setting charging current" = "Laadstroom instellen";
-"Set charging current:" = "Stel laadstroom in:"
+"Set charging current:" = "Stel laadstroom in:";
 "Amperes" = "Ampère"; //Machine translated
 "Set Charging Current" = "Stel laadstroom in";
 "Sets the charging current in Ampere" = "Stelt de laadstroom in Ampère in";
@@ -432,7 +432,7 @@
 "Get Vehicles" = "Voertuigen ophalen";
 "Get all vehicles on account" = "Overzicht alle voertuigen van het account";
 "Trim" = "Trimmen";
-"Just to confirm, you wanted ‘${vehicle}’?" = "Ter bevestiging: u wilde '${vehicle}'?"
+"Just to confirm, you wanted ‘${vehicle}’?" = "Ter bevestiging: u wilde '${vehicle}'?";
 "Get Active Vehicle" = "Overzicht actieve voertuig";
 "Vin" = "VIN";
 "Model" = "Model"; //No Machine Translation
