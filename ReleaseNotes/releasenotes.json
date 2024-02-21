@@ -714,8 +714,13 @@
     {
         "version": "1.4.4",
         "changes": [
-            { "build": 1524, "change": "Initial 1.4.4 build." },
-            { "build": 1524, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+            { "build": 1608, "change": "When device is paired as Bluetooth key in vehicle using Tesla keycard, commands are sent directly to vehicle, even when not in Bluetooth range. This is highly recommended as commands execute much faster this way." },
+            { "build": 1608, "change": "Owners with leased vehicles who do not have owner permissions and are unable to add Virtual Key using the official Tesla app, can now pair each of their devices as Bluetooth key directly in vehicle, and still access all commands." },
+            { "build": 1608, "change": "Legacy vehicles - Model S and X pre-refresh will no longer require Virtual Key, as that is not supported." },
+            { "build": 1608, "change": "Fart control and share navigation destination controls / intents temporarily removed as they are not yet supported in the Tesla Fleet API." },
+            { "build": 1608, "change": "Updated Dutch localizations - thanks to Paul V!" },
+            { "build": 1608, "change": "Added rate limits on token refresh due to change in Tesla token expiration handling. If you experience continuously being logged out on your devices, please know that this is actively being worked on, and is due to Tesla immediately invalidating existing tokens when they are refreshed, which introduces a race between watch and phone - whichever gets to renew token first, will log the other out, until the new token is shared to the other device. Normally this syncs up within seconds." },
+            { "build": 1608, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
         ]
     },
     {
