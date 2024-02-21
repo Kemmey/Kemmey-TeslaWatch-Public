@@ -805,3 +805,4 @@
 "Alternatively, enable Bluetooth direct vehicle control and pair this device as a key directly in your vehicle. This require you to physically be in your car, and have your Tesla keycard present with you." = "또는 Bluetooth 직접 차량 제어를 활성화하고 이 장치를 차량의 키로 직접 페어링하세요. 이를 위해서는 실제로 차 안에 있어야 하며 Tesla 키카드를 소지해야 합니다."; //Machine translated
 "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "마지막 단계가 필요합니다. 명령을 수행하려면 이 앱을 차량에 가상 키로 추가하세요."; //Machine translated
 "Validate key was successfully added" = "유효성 검사 키가 성공적으로 추가되었습니다."; //Machine translated
+"If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "소유자 권한이 없어 가상 키를 추가할 수 없는 경우 이 장치를 차량과 Bluetooth 키로 페어링하는 것도 똑같이 효과적인 솔루션입니다."; //Machine translated

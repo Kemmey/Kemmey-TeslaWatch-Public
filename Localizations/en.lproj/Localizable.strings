@@ -827,3 +827,4 @@
 "Medium" = "Medium";
 "High" = "High";
 "Set the level of the seat heater" = "Set the level of the seat heater";
+"If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution.";
