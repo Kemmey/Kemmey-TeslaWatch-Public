@@ -806,3 +806,6 @@
 "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "Se requiere un último paso: agregue esta aplicación como llave virtual en su vehículo para poder ejecutar comandos."; //Machine translated
 "Validate key was successfully added" = "La clave de validación se agregó correctamente"; //Machine translated
 "If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "Si no es posible agregar una llave virtual debido a que faltan los permisos del propietario, emparejar este dispositivo como una llave Bluetooth con su vehículo es una solución igualmente efectiva."; //Machine translated
+"Login for Watch" = "Iniciar sesión para ver"; //Machine translated
+"Watch is logged in and token should transfer automatically." = "El reloj ha iniciado sesión y el token debería transferirse automáticamente."; //Machine translated
+"Login is device-specific - please separately login with Tesla for your Watch." = "El inicio de sesión es específico del dispositivo: inicie sesión por separado con Tesla para su reloj."; //Machine translated

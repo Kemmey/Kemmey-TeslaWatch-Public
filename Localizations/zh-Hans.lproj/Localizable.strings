@@ -808,3 +808,6 @@
 "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "需要最后一步 - 请将此应用程序添加为车辆中的虚拟钥匙，以便能够执行命令。"; //Machine translated
 "Validate key was successfully added" = "验证密钥已成功添加"; //Machine translated
 "If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "如果由于缺少车主权限而无法添加虚拟钥匙，则将此设备作为蓝牙钥匙与您的车辆配对是一个同样有效的解决方案。"; //Machine translated
+"Login for Watch" = "登录观看"; //Machine translated
+"Watch is logged in and token should transfer automatically." = "观察是否已登录并且令牌应自动转移。"; //Machine translated
+"Login is device-specific - please separately login with Tesla for your Watch." = "登录是特定于设备的 - 请单独使用 Tesla 登录您的手表。"; //Machine translated

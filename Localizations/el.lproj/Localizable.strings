@@ -806,3 +806,6 @@
 "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "Απαιτείται ένα τελευταίο βήμα - προσθέστε αυτήν την εφαρμογή ως εικονικό κλειδί στο όχημά σας για να μπορείτε να εκτελείτε εντολές."; //Machine translated
 "Validate key was successfully added" = "Το κλειδί επικύρωσης προστέθηκε με επιτυχία"; //Machine translated
 "If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "Εάν η προσθήκη ενός εικονικού κλειδιού δεν είναι δυνατή λόγω έλλειψης αδειών κατόχου, η σύζευξη αυτής της συσκευής ως κλειδιού Bluetooth με το όχημά σας είναι μια εξίσου αποτελεσματική λύση."; //Machine translated
+"Login for Watch" = "Είσοδος για το Watch"; //Machine translated
+"Watch is logged in and token should transfer automatically." = "Το ρολόι είναι συνδεδεμένο και το διακριτικό πρέπει να μεταφερθεί αυτόματα."; //Machine translated
+"Login is device-specific - please separately login with Tesla for your Watch." = "Η σύνδεση είναι συγκεκριμένη για τη συσκευή - συνδεθείτε ξεχωριστά με την Tesla για το ρολόι σας."; //Machine translated

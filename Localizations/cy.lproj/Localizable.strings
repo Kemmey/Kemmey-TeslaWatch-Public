@@ -789,3 +789,6 @@
 "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "Mae angen un cam olaf - ychwanegwch yr ap hwn fel allwedd rithwir yn eich cerbyd er mwyn gallu cyflawni gorchmynion."; //Machine translated
 "Validate key was successfully added" = "Llwyddwyd i ychwanegu allwedd Validate"; //Machine translated
 "If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "Os nad yw'n bosibl ychwanegu Allwedd Rhithwir oherwydd bod caniatâd perchennog ar goll, mae paru'r ddyfais hon fel allwedd Bluetooth â'ch cerbyd yr un mor effeithiol."; //Machine translated
+"Login for Watch" = "Mewngofnodi ar gyfer Gwylio"; //Machine translated
+"Watch is logged in and token should transfer automatically." = "Mae oriawr wedi mewngofnodi a dylai tocyn gael ei drosglwyddo'n awtomatig."; //Machine translated
+"Login is device-specific - please separately login with Tesla for your Watch." = "Mae mewngofnodi yn ddyfais-benodol - mewngofnodwch ar wahân gyda Tesla ar gyfer eich Gwyliad."; //Machine translated

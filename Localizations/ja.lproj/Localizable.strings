@@ -806,3 +806,6 @@
 "One last step required - please add this app as a virtual key in your vehicle in order to be able to perform commands." = "最後のステップが必要です - コマンドを実行できるように、このアプリを車両の仮想キーとして追加してください。"; //Machine translated
 "Validate key was successfully added" = "キーが正常に追加されたことを検証する"; //Machine translated
 "If adding a Virtual Key isn't possible due to missing owner permissions, pairing this device as a Bluetooth key with your vehicle is an equally effective solution." = "所有者の権限がないために仮想キーを追加できない場合は、このデバイスを Bluetooth キーとして車両とペアリングすることも同様に効果的な解決策です。"; //Machine translated
+"Login for Watch" = "ウォッチにログイン"; //Machine translated
+"Watch is logged in and token should transfer automatically." = "ウォッチがログインされ、トークンは自動的に転送されるはずです。"; //Machine translated
+"Login is device-specific - please separately login with Tesla for your Watch." = "ログインはデバイス固有です。ウォッチの場合は Tesla で別途ログインしてください。"; //Machine translated
