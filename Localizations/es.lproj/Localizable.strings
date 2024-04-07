@@ -809,3 +809,8 @@
 "Login for Watch" = "Iniciar sesión para ver"; //Machine translated
 "Watch is logged in and token should transfer automatically." = "El reloj ha iniciado sesión y el token debería transferirse automáticamente."; //Machine translated
 "Login is device-specific - please separately login with Tesla for your Watch." = "El inicio de sesión es específico del dispositivo: inicie sesión por separado con Tesla para su reloj."; //Machine translated
+"Send token to Watch" = "Enviar token para mirar"; //Machine translated
+"Token sent successfully" = "Token enviado exitosamente"; //Machine translated
+"Token could not be sent" = "No se pudo enviar el token"; //Machine translated
+"Please open Watch for Tesla on your Apple Watch, then try again." = "Abre Watch for Tesla en tu Apple Watch y vuelve a intentarlo."; //Machine translated
+"Error sending token: Watch connectivity not supported" = "Error al enviar el token: la conectividad del reloj no es compatible"; //Machine translated

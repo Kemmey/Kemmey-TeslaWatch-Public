@@ -792,3 +792,8 @@
 "Login for Watch" = "Mewngofnodi ar gyfer Gwylio"; //Machine translated
 "Watch is logged in and token should transfer automatically." = "Mae oriawr wedi mewngofnodi a dylai tocyn gael ei drosglwyddo'n awtomatig."; //Machine translated
 "Login is device-specific - please separately login with Tesla for your Watch." = "Mae mewngofnodi yn ddyfais-benodol - mewngofnodwch ar wahân gyda Tesla ar gyfer eich Gwyliad."; //Machine translated
+"Send token to Watch" = "Anfon tocyn i Watch"; //Machine translated
+"Token sent successfully" = "Anfonwyd y tocyn yn llwyddiannus"; //Machine translated
+"Token could not be sent" = "Ni fu modd anfon y tocyn"; //Machine translated
+"Please open Watch for Tesla on your Apple Watch, then try again." = "Agorwch Watch for Tesla ar eich Apple Watch, yna ceisiwch eto."; //Machine translated
+"Error sending token: Watch connectivity not supported" = "Gwall wrth anfon tocyn: Ni chefnogir cysylltedd gwylio"; //Machine translated

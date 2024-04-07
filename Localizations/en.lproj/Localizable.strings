@@ -831,3 +831,8 @@
 "Login for Watch" = "Login for Watch";
 "Watch is logged in and token should transfer automatically." = "Watch is logged in and token should transfer automatically.";
 "Login is device-specific - please separately login with Tesla for your Watch." = "Login is device-specific - please separately login with Tesla for your Watch.";
+"Send token to Watch" = "Send token to Watch";
+"Token sent successfully" = "Token sent successfully";
+"Token could not be sent" = "Token could not be sent";
+"Please open Watch for Tesla on your Apple Watch, then try again." = "Please open Watch for Tesla on your Apple Watch, then try again.";
+"Error sending token: Watch connectivity not supported" = "Error sending token: Watch connectivity not supported";

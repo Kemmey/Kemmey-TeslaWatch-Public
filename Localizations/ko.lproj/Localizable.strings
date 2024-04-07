@@ -809,3 +809,8 @@
 "Login for Watch" = "시계에 로그인"; //Machine translated
 "Watch is logged in and token should transfer automatically." = "시계가 로그인되었으며 토큰이 자동으로 전송됩니다."; //Machine translated
 "Login is device-specific - please separately login with Tesla for your Watch." = "로그인은 장치별로 이루어집니다. 시계의 경우 Tesla에 별도로 로그인하십시오."; //Machine translated
+"Send token to Watch" = "Watch에 토큰 보내기"; //Machine translated
+"Token sent successfully" = "토큰이 성공적으로 전송되었습니다."; //Machine translated
+"Token could not be sent" = "토큰을 보낼 수 없습니다"; //Machine translated
+"Please open Watch for Tesla on your Apple Watch, then try again." = "Apple Watch에서 Watch for Tesla를 연 후 다시 시도하십시오."; //Machine translated
+"Error sending token: Watch connectivity not supported" = "토큰 전송 오류: 시계 연결이 지원되지 않습니다."; //Machine translated

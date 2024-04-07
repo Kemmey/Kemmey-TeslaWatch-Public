@@ -809,3 +809,8 @@
 "Login for Watch" = "Είσοδος για το Watch"; //Machine translated
 "Watch is logged in and token should transfer automatically." = "Το ρολόι είναι συνδεδεμένο και το διακριτικό πρέπει να μεταφερθεί αυτόματα."; //Machine translated
 "Login is device-specific - please separately login with Tesla for your Watch." = "Η σύνδεση είναι συγκεκριμένη για τη συσκευή - συνδεθείτε ξεχωριστά με την Tesla για το ρολόι σας."; //Machine translated
+"Send token to Watch" = "Αποστολή διακριτικού στο ρολόι"; //Machine translated
+"Token sent successfully" = "Το διακριτικό στάλθηκε με επιτυχία"; //Machine translated
+"Token could not be sent" = "Δεν ήταν δυνατή η αποστολή του διακριτικού"; //Machine translated
+"Please open Watch for Tesla on your Apple Watch, then try again." = "Ανοίξτε το Watch for Tesla στο Apple Watch και δοκιμάστε ξανά."; //Machine translated
+"Error sending token: Watch connectivity not supported" = "Σφάλμα κατά την αποστολή διακριτικού: Η σύνδεση ρολογιού δεν υποστηρίζεται"; //Machine translated

@@ -811,3 +811,8 @@
 "Login for Watch" = "登录观看"; //Machine translated
 "Watch is logged in and token should transfer automatically." = "观察是否已登录并且令牌应自动转移。"; //Machine translated
 "Login is device-specific - please separately login with Tesla for your Watch." = "登录是特定于设备的 - 请单独使用 Tesla 登录您的手表。"; //Machine translated
+"Send token to Watch" = "发送代币到 Watch"; //Machine translated
+"Token sent successfully" = "令牌发送成功"; //Machine translated
+"Token could not be sent" = "无法发送令牌"; //Machine translated
+"Please open Watch for Tesla on your Apple Watch, then try again." = "请在 Apple Watch 上打开“Watch for Tesla”，然后重试。"; //Machine translated
+"Error sending token: Watch connectivity not supported" = "发送令牌时出错：不支持手表连接"; //Machine translated
