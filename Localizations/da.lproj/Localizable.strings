@@ -814,3 +814,4 @@
 "Token could not be sent" = "Token kunne ikke sendes"; //Machine translated
 "Please open Watch for Tesla on your Apple Watch, then try again." = "Åbn Watch for Tesla på dit Apple Watch, og prøv derefter igen."; //Machine translated
 "Error sending token: Watch connectivity not supported" = "Fejl ved afsendelse af token: Urforbindelse understøttes ikke"; //Machine translated
+"To keep your account secure, each device needs its own separate login as mandated by Tesla. Please sign in again on this device." = "For at holde din konto sikker, skal hver enhed have sit eget separate login som påbudt af Tesla. Log venligst ind igen på denne enhed."; //Machine translated

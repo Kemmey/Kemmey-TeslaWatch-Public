@@ -836,3 +836,4 @@
 "Token could not be sent" = "Token could not be sent";
 "Please open Watch for Tesla on your Apple Watch, then try again." = "Please open Watch for Tesla on your Apple Watch, then try again.";
 "Error sending token: Watch connectivity not supported" = "Error sending token: Watch connectivity not supported";
+"To keep your account secure, each device needs its own separate login as mandated by Tesla. Please sign in again on this device." = "To keep your account secure, each device needs its own separate login as mandated by Tesla. Please sign in again on this device.";

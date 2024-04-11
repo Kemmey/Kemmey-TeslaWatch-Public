@@ -724,6 +724,13 @@
         ]
     },
     {
+        "version": "1.4.5",
+        "changes": [
+            { "build": 1626, "change": "A new security measure has been added as mandated by Tesla. Each device will now need to be individually logged in. This change will require logging in again on each of your devices. Thank you for your understanding." },
+            { "build": 1626, "change": "And rest assured that I am very deep into the development of v.2.0 - it will still be a while, but it is shaping up nicely. Sorry for the drought of new features lately - everything is going into v.2.0 right now." }
+        ]
+    },
+    {
         "version": "9.9.9",
         "changes": [                  
             { "build": 999999, "change": "Seeing this is an error" }

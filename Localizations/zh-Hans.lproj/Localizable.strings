@@ -816,3 +816,4 @@
 "Token could not be sent" = "无法发送令牌"; //Machine translated
 "Please open Watch for Tesla on your Apple Watch, then try again." = "请在 Apple Watch 上打开“Watch for Tesla”，然后重试。"; //Machine translated
 "Error sending token: Watch connectivity not supported" = "发送令牌时出错：不支持手表连接"; //Machine translated
+"To keep your account secure, each device needs its own separate login as mandated by Tesla. Please sign in again on this device." = "为了保证您的账户安全，每台设备都需要有自己的单独登录名，这是特斯拉的规定。请在此设备上重新登录。"; //Machine translated
