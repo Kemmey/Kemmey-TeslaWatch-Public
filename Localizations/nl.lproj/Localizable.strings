@@ -844,3 +844,5 @@
 "Vehicle Control" = "Voertuigcontrole"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Gebruik de widgetconfiguratie om te kiezen welk besturingselement u wilt weergeven."; //Machine translated
 "Control Configuration" = "Controle configuratie"; //Machine translated
+"Fetch Vehicle State" = "Voertuigstatus ophalen"; //Machine translated
+"Fetch Vehicles" = "Voertuigen ophalen"; //Machine translated

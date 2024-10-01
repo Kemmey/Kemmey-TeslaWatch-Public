@@ -821,3 +821,5 @@
 "Vehicle Control" = "Управление транспортным средством"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Используйте конфигурацию виджета, чтобы выбрать, какой элемент управления отображать."; //Machine translated
 "Control Configuration" = "Конфигурация управления"; //Machine translated
+"Fetch Vehicle State" = "Получить состояние транспортного средства"; //Machine translated
+"Fetch Vehicles" = "Принести транспортные средства"; //Machine translated

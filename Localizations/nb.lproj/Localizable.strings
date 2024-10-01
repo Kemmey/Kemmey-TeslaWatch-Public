@@ -821,3 +821,5 @@
 "Vehicle Control" = "Kjøretøykontroll"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Bruk widget-konfigurasjonen for å velge hvilken kontroll som skal vises."; //Machine translated
 "Control Configuration" = "Kontrollkonfigurasjon"; //Machine translated
+"Fetch Vehicle State" = "Hent kjøretøystatus"; //Machine translated
+"Fetch Vehicles" = "Hent kjøretøy"; //Machine translated

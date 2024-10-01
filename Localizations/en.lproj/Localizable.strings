@@ -841,3 +841,5 @@
 "Vehicle Control" = "Vehicle Control";
 "Please use the widget configuration to choose which control to show." = "Please use the widget configuration to choose which control to show.";
 "Control Configuration" = "Control Configuration";
+"Fetch Vehicle State" = "Fetch Vehicle State";
+"Fetch Vehicles" = "Fetch Vehicles";

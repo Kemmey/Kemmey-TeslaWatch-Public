@@ -804,3 +804,5 @@
 "Vehicle Control" = "Rheoli Cerbydau"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Defnyddiwch ffurfweddiad y teclyn i ddewis pa reolydd i'w ddangos."; //Machine translated
 "Control Configuration" = "Ffurfweddiad Rheoli"; //Machine translated
+"Fetch Vehicle State" = "Nôl Cyflwr Cerbydau"; //Machine translated
+"Fetch Vehicles" = "Nôl Cerbydau"; //Machine translated

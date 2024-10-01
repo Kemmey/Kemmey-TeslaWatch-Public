@@ -821,3 +821,5 @@
 "Vehicle Control" = "차량 제어"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "어떤 컨트롤을 표시할지 선택하려면 위젯 구성을 사용하세요."; //Machine translated
 "Control Configuration" = "제어 구성"; //Machine translated
+"Fetch Vehicle State" = "차량 상태 가져오기"; //Machine translated
+"Fetch Vehicles" = "차량 가져오기"; //Machine translated

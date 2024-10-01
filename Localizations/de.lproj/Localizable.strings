@@ -821,3 +821,5 @@
 "Vehicle Control" = "Fahrzeugsteuerung"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Bitte verwenden Sie die Widget-Konfiguration, um auszuwählen, welches Steuerelement angezeigt werden soll."; //Machine translated
 "Control Configuration" = "Steuerungskonfiguration"; //Machine translated
+"Fetch Vehicle State" = "Fahrzeugstatus abrufen"; //Machine translated
+"Fetch Vehicles" = "Fahrzeuge holen"; //Machine translated

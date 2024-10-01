@@ -804,3 +804,5 @@
 "Vehicle Control" = "車輛控制"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "請使用小工具配置來選擇要顯示的控制項。"; //Machine translated
 "Control Configuration" = "控製配置"; //Machine translated
+"Fetch Vehicle State" = "取得車輛狀態"; //Machine translated
+"Fetch Vehicles" = "取車"; //Machine translated

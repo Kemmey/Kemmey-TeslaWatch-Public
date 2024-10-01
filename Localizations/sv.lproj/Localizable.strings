@@ -821,3 +821,5 @@
 "Vehicle Control" = "Fordonskontroll"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Använd widgetkonfigurationen för att välja vilken kontroll som ska visas."; //Machine translated
 "Control Configuration" = "Kontrollkonfiguration"; //Machine translated
+"Fetch Vehicle State" = "Hämta fordonsstatus"; //Machine translated
+"Fetch Vehicles" = "Hämta fordon"; //Machine translated

@@ -822,3 +822,5 @@
 "Vehicle Control" = "Ovládání vozidla"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "Pomocí konfigurace widgetu vyberte, který ovládací prvek se má zobrazit."; //Machine translated
 "Control Configuration" = "Konfigurace ovládání"; //Machine translated
+"Fetch Vehicle State" = "Načíst stav vozidla"; //Machine translated
+"Fetch Vehicles" = "Vyzvedávání vozidel"; //Machine translated

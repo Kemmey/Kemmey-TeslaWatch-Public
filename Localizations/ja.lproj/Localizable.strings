@@ -821,3 +821,5 @@
 "Vehicle Control" = "車両制御"; //Machine translated
 "Please use the widget configuration to choose which control to show." = "ウィジェット設定を使用して、表示するコントロールを選択してください。"; //Machine translated
 "Control Configuration" = "コントロール構成"; //Machine translated
+"Fetch Vehicle State" = "車両の状態を取得"; //Machine translated
+"Fetch Vehicles" = "車両を取得する"; //Machine translated
