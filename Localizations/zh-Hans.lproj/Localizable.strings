@@ -817,3 +817,9 @@
 "Please open Watch for Tesla on your Apple Watch, then try again." = "请在 Apple Watch 上打开“Watch for Tesla”，然后重试。"; //Machine translated
 "Error sending token: Watch connectivity not supported" = "发送令牌时出错：不支持手表连接"; //Machine translated
 "To keep your account secure, each device needs its own separate login as mandated by Tesla. Please sign in again on this device." = "为了保证您的账户安全，每台设备都需要有自己的单独登录名，这是特斯拉的规定。请在此设备上重新登录。"; //Machine translated
+"Control app intent" = "控制应用意图"; //Machine translated
+"Require Bluetooth" = "需要蓝牙"; //Machine translated
+"Is Active" = "处于活动状态"; //Machine translated
+"Vehicle Control" = "车辆控制"; //Machine translated
+"Please use the widget configuration to choose which control to show." = "请使用小部件配置来选择要显示的控件。"; //Machine translated
+"Control Configuration" = "控制配置"; //Machine translated

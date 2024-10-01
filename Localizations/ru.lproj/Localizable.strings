@@ -815,3 +815,9 @@
 "Please open Watch for Tesla on your Apple Watch, then try again." = "Откройте Watch for Tesla на Apple Watch и повторите попытку."; //Machine translated
 "Error sending token: Watch connectivity not supported" = "Ошибка отправки токена: подключение к часам не поддерживается."; //Machine translated
 "To keep your account secure, each device needs its own separate login as mandated by Tesla. Please sign in again on this device." = "Чтобы обеспечить безопасность вашей учетной записи, каждому устройству требуется отдельный вход в систему, как того требует Tesla. Пожалуйста, войдите еще раз на этом устройстве."; //Machine translated
+"Control app intent" = "Управление намерением приложения"; //Machine translated
+"Require Bluetooth" = "Требуется Bluetooth"; //Machine translated
+"Is Active" = "Активен"; //Machine translated
+"Vehicle Control" = "Управление транспортным средством"; //Machine translated
+"Please use the widget configuration to choose which control to show." = "Используйте конфигурацию виджета, чтобы выбрать, какой элемент управления отображать."; //Machine translated
+"Control Configuration" = "Конфигурация управления"; //Machine translated
